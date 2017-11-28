@@ -245,6 +245,12 @@
         <mark key="." line="25" column="85" />
         <mark key="^" line="50" column="45" />
       </file>
+      <file name="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" timestamp="1511840832938">
+        <mark key="'" line="480" column="0" />
+        <mark key="[" line="1882" column="4" />
+        <mark key="]" line="1882" column="4" />
+        <mark key="." line="1882" column="4" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/androidTest/java/com/test/project/ExampleInstrumentedTest.java" timestamp="1511515404231">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -275,13 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1605" column="52" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1607" column="50" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="101" column="44" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1427" column="41" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1435" column="41" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1441" column="42" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1443" column="36" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1453" column="38" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1455" column="35" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1460" column="34" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
@@ -375,19 +374,26 @@
       <jump line="8" column="3" filename="E:/AndroidStudioProjects/Project/app/src/main/res/layout/activity_main.xml" />
       <jump line="45" column="42" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" />
       <jump line="62" column="31" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" />
+      <jump line="2631" column="26" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
+      <jump line="4" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
+      <jump line="10" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
+      <jump line="19" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
+      <jump line="25" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
+      <jump line="53" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
+      <jump line="480" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9MZWZ0T2Y9IkAraWQvaG9tZV9oZWxwX3R1dG8iCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>app_v</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
@@ -436,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>.</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>.</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-replace>exportJar</last-replace>
       <last-substitute>proguardMyLib</last-substitute>
       <last-dir>1</last-dir>
@@ -446,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setBlock</entry>
         <entry>mWevView</entry>
         <entry>mWebView</entry>
         <entry>\vcom.a.h.a.a</entry>
@@ -466,6 +471,7 @@
         <entry>relace</entry>
         <entry>replaceVersion</entry>
         <entry>.</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2131099707/R\.string\.cpu.min/g</entry>
