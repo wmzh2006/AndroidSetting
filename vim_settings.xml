@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/CrashManager.java" timestamp="1511870672341" />
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/CrashManager.java" timestamp="1511870212393">
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="31" />
@@ -65,10 +64,11 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1511944018958">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1511955063791">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="19" column="2" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/build.gradle" timestamp="1511398008076">
         <mark key="[" line="10" column="50" />
@@ -134,7 +134,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/gradle/wrapper/gradle-wrapper.properties" timestamp="1511863372799" />
       <file name="E:/AndroidStudioProjects/airplan/app/src/main/java/com/test/airplan/MainActivity.java" timestamp="1511751371430">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -146,7 +145,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="13" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/str_def.c" timestamp="1511943437903" />
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/XApplication.java" timestamp="1511874689072">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -175,7 +173,6 @@
         <mark key="." line="90" column="64" />
         <mark key="^" line="90" column="64" />
       </file>
-      <file name="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/AlarmClock/app/build.gradle" timestamp="1511863242023" />
       <file name="E:/AndroidStudioProjects/Project/glass/src/main/AndroidManifest.xml" timestamp="1511182846026">
         <mark key="[" line="40" column="30" />
         <mark key="]" line="40" column="30" />
@@ -198,11 +195,10 @@
         <mark key="^" line="27" column="66" />
         <mark key="." line="28" column="80" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1511945702802">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="4" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1511955048837">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Loader.java" timestamp="1511945003417">
         <mark key="[" line="15" column="7" />
@@ -240,7 +236,6 @@
         <mark key="^" line="105" column="30" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/AlarmClock/gradle/wrapper/gradle-wrapper.properties" timestamp="1511863382631" />
       <file name="E:/AndroidStudioProjects/Attemp/app/build.gradle" timestamp="1511947029103">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -399,14 +394,14 @@
       <jump line="62" column="36" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU2VydmljZWhlbHBzZXJ2ZXIuYSgpOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">IHZvaWQgYSgpIA==</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
@@ -418,40 +413,49 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICBwdWJsaWMgdm9pZCBhKCkgewo=</text>
+        <text encoding="base64">ICAgICAgU2VydmljZWhlbHBzZXJ2ZXIuYSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhKCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkgd2hpbGUgKGZhbHNlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
+      <register name="5" type="4">
+        <text>do {
+			try {
+				throw new NullPointerException(&quot;null&quot;);
+			} catch (Exception e) {
+				try {
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
+			}
+		}</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlMb2FkZXIuZ2V0SW5zdGFuY2UoKS5saWJhcnkobnVsbCk7Cg==</text>
+        <text encoding="base64">CQkJCQlTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9IHdoaWxlIChmYWxzZSk7Cg==</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5sb2FkTGlicmFyeSgiY29tLmFuZHJvaWQucHJvdmlkZXJzLmhlbHBzZXJ2ZXIiKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlkbyB7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBkbyB7CiAgICAgICAgICAgIGlmICh0cnVlKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIH0KICAgICAgICB9IHdoaWxlIChmYWxzZSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
