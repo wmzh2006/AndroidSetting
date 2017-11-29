@@ -95,6 +95,7 @@
         <mark key="^" line="427" column="75" />
         <mark key="." line="427" column="75" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/net/URLClassLoader.class" timestamp="1511960535699" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/utils.java" timestamp="1511750603356">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="22" />
@@ -162,6 +163,7 @@
         <mark key="." line="0" column="264" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/build_ade_diy_name/src/main/java/com/build/ade_name/run.java" timestamp="1511960893285" />
       <file name="E:/AndroidStudioProjects/Project/.gitignore" timestamp="1511523958362">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -184,6 +186,12 @@
         <mark key="]" line="40" column="30" />
         <mark key="." line="40" column="30" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/settings.gradle" timestamp="1511960769746">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="49" />
+      </file>
       <file name="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/AlarmClock/build.gradle" timestamp="1511863280490">
         <mark key="[" line="12" column="17" />
       </file>
@@ -194,6 +202,11 @@
       </file>
       <file name="E:/AndroidStudioProjects/Attemp/app/src/main/AndroidManifest.xml" timestamp="1511936982028">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/build_ade_diy_name/build.gradle" timestamp="1511960512324">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/build.gradle" timestamp="1511493538650">
         <mark key="[" line="28" column="79" />
@@ -243,6 +256,7 @@
         <mark key="^" line="105" column="30" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1511959748586" />
       <file name="E:/AndroidStudioProjects/Attemp/app/build.gradle" timestamp="1511947029103">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="27" />
@@ -402,16 +416,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>Action</text>
       </register>
       <register name="0" type="4">
         <text>&quot;com.android.providers.helpserver&quot;</text>
@@ -461,9 +475,9 @@
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>Action</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>Action</last-pattern>
       <last-replace>exportJar</last-replace>
       <last-substitute>proguardMyLib</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mWevView</entry>
         <entry>mWebView</entry>
         <entry>\vcom.a.h.a.a</entry>
         <entry>\vcom.e.bx.c</entry>
@@ -491,6 +504,7 @@
         <entry>replaceVersion</entry>
         <entry>.</entry>
         <entry>#</entry>
+        <entry>Action</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2131099707/R\.string\.cpu.min/g</entry>
