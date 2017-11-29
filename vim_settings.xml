@@ -64,11 +64,12 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1511955063791">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="19" column="2" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1511957217354">
+        <mark key="'" line="18" column="27" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="18" column="30" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/build.gradle" timestamp="1511398008076">
         <mark key="[" line="10" column="50" />
@@ -195,10 +196,11 @@
         <mark key="^" line="27" column="66" />
         <mark key="." line="28" column="80" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1511955048837">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1511957494875">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Loader.java" timestamp="1511945003417">
         <mark key="[" line="15" column="7" />
@@ -292,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1453" column="38" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1455" column="35" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1460" column="34" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1465" column="43" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
@@ -392,70 +393,62 @@
       <jump line="53" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="480" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="62" column="36" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" />
+      <jump line="20" column="27" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU2VydmljZWhlbHBzZXJ2ZXIuYSgpOwo=</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZvaWQgYSgpIA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>#</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;com.android.providers.helpserver&quot;</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU2VydmljZWhlbHBzZXJ2ZXIuYSgpOwo=</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhKCk7Cg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CVN0cmluZyBsaWIgOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgd2hpbGUgKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgbmFtZSA9ICJjb20uYW5kcm9pZC5wcm92aWRlcnMuaGVscHNlcnZlciI7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>do {
-			try {
-				throw new NullPointerException(&quot;null&quot;);
-			} catch (Exception e) {
-				try {
-				} catch (Exception e1) {
-					e1.printStackTrace();
-				}
-			}
-		}</text>
+      <register name="5" type="2">
+        <text encoding="base64">CSAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgU2VydmljZWhlbHBzZXJ2ZXIuYSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">CQlhKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5sb2FkTGlicmFyeSgiY29tLmFuZHJvaWQucHJvdmlkZXJzLmhlbHBzZXJ2ZXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBkbyB7CiAgICAgICAgICAgIGlmICh0cnVlKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIH0KICAgICAgICB9IHdoaWxlIChmYWxzZSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkgd2hpbGUgKGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
