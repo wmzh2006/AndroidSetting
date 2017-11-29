@@ -65,10 +65,10 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1511942185314">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1511944018958">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/build.gradle" timestamp="1511398008076">
         <mark key="[" line="10" column="50" />
@@ -146,6 +146,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="13" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/str_def.c" timestamp="1511943437903" />
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/XApplication.java" timestamp="1511874689072">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -196,6 +197,18 @@
         <mark key="]" line="28" column="80" />
         <mark key="^" line="27" column="66" />
         <mark key="." line="28" column="80" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1511944072783">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Loader.java" timestamp="1511943998503">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1510652158887">
         <mark key="[" line="0" column="0" />
@@ -266,18 +279,12 @@
         <mark key="." line="25" column="85" />
         <mark key="^" line="50" column="45" />
       </file>
-      <file name="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" timestamp="1511840832938">
-        <mark key="'" line="480" column="0" />
-        <mark key="[" line="1882" column="4" />
-        <mark key="]" line="1882" column="4" />
-        <mark key="." line="1882" column="4" />
-      </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerReceiver.java" timestamp="1511524650521">
         <mark key="[" line="54" column="8" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1511870253557">
+      <file name="/fragment.java" timestamp="1511943915099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -388,7 +395,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBtZXRob2ROYW1lID0gbmV3IFN0cmluZyhuZXcgYnl0ZVtdezEwOCwxMTEsOTcsMTAwLDc2LDEwNSw5OCwxMTQsOTcsMTE0LDEyMX0pOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -406,40 +413,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBtZXRob2ROYW1lID0gbmV3IFN0cmluZyhuZXcgYnl0ZVtdezEwOCwxMTEsOTcsMTAwLDc2LDEwNSw5OCwxMTQsOTcsMTE0LDEyMX0pOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0Lk1ldGhvZDsK</text>
+        <text encoding="base64">CQl9IHdoaWxlIChmYWxzZSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQlkbyB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CQkJU3lzdGVtLmxvYWRMaWJyYXJ5KCJjb20uYW5kcm9pZC5wcm92aWRlcnMuaGVscHNlcnZlciIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjbGF6ek5hbWUgPSBuZXcgU3RyaW5nKG5ldyBieXRlW117MTA2LDk3LDExOCw5Nyw0NiwxMDgsOTcsMTEwLDEwMyw0Niw4MywxMjEsMTE1LDExNiwxMDEsMTA5fSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kLmludm9rZShudWxsLCAiY29tLmFuZHJvaWQucHJvdmlkZXJzLmhlbHBzZXJ2ZXIiKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBtZXRob2ROYW1lID0gbmV3IFN0cmluZyhuZXcgYnl0ZVtdezEwOCwxMTEsOTcsMTAwLDc2LDEwNSw5OCwxMTQsOTcsMTE0LDEyMX0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0Lk1ldGhvZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWV0aG9kIG1ldGhvZCA9IGNsYXp6LmdldE1ldGhvZChtZXRob2ROYW1lLCBTdHJpbmcuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3M8Pz4gY2xhenogPSBDbGFzcy5mb3JOYW1lKGNsYXp6TmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
