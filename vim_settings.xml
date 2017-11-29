@@ -241,6 +241,11 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/AlarmClock/gradle/wrapper/gradle-wrapper.properties" timestamp="1511863382631" />
+      <file name="E:/AndroidStudioProjects/Attemp/app/build.gradle" timestamp="1511947029103">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" timestamp="1511876781572">
         <mark key="'" line="62" column="36" />
         <mark key="[" line="26" column="20" />
@@ -394,14 +399,14 @@
       <jump line="62" column="36" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICBwdWJsaWMgdm9pZCBhKCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;loadLibrary&quot;</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
