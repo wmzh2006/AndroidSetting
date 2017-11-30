@@ -305,11 +305,11 @@
         <mark key="." line="25" column="85" />
         <mark key="^" line="50" column="45" />
       </file>
-      <file name="E:/AndroidStudioProjects/Attemp/app/src/main/java/com/pack/attrack/MainActivity.java" timestamp="1512039504996">
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+      <file name="E:/AndroidStudioProjects/Attemp/app/src/main/java/com/pack/attrack/MainActivity.java" timestamp="1512040609067">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerReceiver.java" timestamp="1511524650521">
         <mark key="[" line="54" column="8" />
@@ -427,13 +427,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getBaseContext()</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getBaseContext()</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="/" type="4">
         <text>Action</text>
