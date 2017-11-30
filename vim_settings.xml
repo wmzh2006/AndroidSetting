@@ -305,11 +305,11 @@
         <mark key="." line="25" column="85" />
         <mark key="^" line="50" column="45" />
       </file>
-      <file name="E:/AndroidStudioProjects/Attemp/app/src/main/java/com/pack/attrack/MainActivity.java" timestamp="1512035888357">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="35" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="35" />
+      <file name="E:/AndroidStudioProjects/Attemp/app/src/main/java/com/pack/attrack/MainActivity.java" timestamp="1512039504996">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerReceiver.java" timestamp="1511524650521">
         <mark key="[" line="54" column="8" />
@@ -427,13 +427,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>getBaseContext()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>getBaseContext()</text>
       </register>
       <register name="/" type="4">
         <text>Action</text>
@@ -445,38 +445,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQluZXcgQWN0aXZpdHloZWxwc2VydmVyKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50YXNrLmF0dGVtcC5NeVNlcnZpY2U7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbmV3IEFjdGl2aXR5aGVscHNlcnZlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW5ldyBBY3Rpdml0eWhlbHBzZXJ2ZXIoKTsK</text>
+        <text encoding="base64">CQluZXcgQWN0aXZpdHloZWxwc2VydmVyKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
+        <text encoding="base64">CQkJbmV3IEFjdGl2aXR5aGVscHNlcnZlcigpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQWN0aXZpdHloZWxwc2VydmVyKCk7Cg==</text>
+        <text encoding="base64">CW5ldyBBY3Rpdml0eWhlbHBzZXJ2ZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>private void onCreate(Context context) {
-	}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgQWN0aXZpdHloZWxwc2VydmVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQo=</text>
