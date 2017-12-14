@@ -179,6 +179,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="22" column="13" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/str_def.c" timestamp="1513219272263" />
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/XApplication.java" timestamp="1512526037497">
         <mark key="[" line="33" column="33" />
         <mark key="]" line="33" column="34" />
@@ -217,6 +218,7 @@
       <file name="E:/AndroidStudioProjects/Project/js_webview/src/main/java/com/ecfudl3/widget/PopWindowManager.java" timestamp="1512381410163">
         <mark key="[" line="36" column="49" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/build_ade_diy_name/src/main/java/com/build/ade_name/run.java" timestamp="1513218830591" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Activityhelpserver.java" timestamp="1512438821537">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="67" />
@@ -285,6 +287,9 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" timestamp="1513219402128">
+        <mark key="'" line="889" column="4" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" timestamp="1512546918983">
         <mark key="'" line="62" column="36" />
         <mark key="[" line="27" column="25" />
@@ -343,9 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1460" column="34" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1465" column="43" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1468" column="42" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1471" column="41" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1474" column="41" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="1477" column="40" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
@@ -443,6 +445,9 @@
       <jump line="62" column="36" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" />
       <jump line="20" column="27" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" />
       <jump line="7" column="37" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/res/layout/activity_offer.xml" />
+      <jump line="173" column="34" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
+      <jump line="760" column="4" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
+      <jump line="889" column="4" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -455,7 +460,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Action</text>
+        <text>ENABLE_BroadcastReceiver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmxzLmFkZChuZXcgSXRlbSgiaHR0cDovL3d3dy5iYWlkdS5jb20iLCBmYWxzZSkpOwo=</text>
@@ -504,9 +509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Action</last-search>
+      <last-search>ENABLE_BroadcastReceiver</last-search>
       <last-offset />
-      <last-pattern>Action</last-pattern>
+      <last-pattern>ENABLE_BroadcastReceiver</last-pattern>
       <last-replace>exportJar</last-replace>
       <last-substitute>proguardMyLib</last-substitute>
       <last-dir>1</last-dir>
@@ -514,7 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mWebView</entry>
         <entry>\vcom.a.h.a.a</entry>
         <entry>\vcom.e.bx.c</entry>
         <entry>\vcom.e.bx.dg.a</entry>
@@ -534,6 +538,7 @@
         <entry>.</entry>
         <entry>#</entry>
         <entry>Action</entry>
+        <entry>ENABLE_BroadcastReceiver</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2131099707/R\.string\.cpu.min/g</entry>
