@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/XxApplication.java" timestamp="1513322909086">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="50" />
+        <mark key="^" line="33" column="62" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/CrashManager.java" timestamp="1511870212393">
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="31" />
@@ -20,11 +26,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1513319128250">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="61" column="90" />
-        <mark key="^" line="61" column="90" />
-        <mark key="." line="61" column="90" />
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1513323528305">
+        <mark key="[" line="24" column="58" />
+        <mark key="]" line="24" column="58" />
+        <mark key="^" line="48" column="51" />
+        <mark key="." line="24" column="58" />
       </file>
       <file name="/LLDB" timestamp="1512379665008">
         <mark key="[" line="0" column="0" />
@@ -187,7 +193,7 @@
         <mark key="^" line="22" column="13" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/str_def.c" timestamp="1513219272263" />
-      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/XApplication.java" timestamp="1512526037497">
+      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/XApplication.java" timestamp="1513322861629">
         <mark key="[" line="33" column="33" />
         <mark key="]" line="33" column="34" />
         <mark key="." line="33" column="34" />
@@ -197,6 +203,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/TrackingReceiver.java" timestamp="1513323451684">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/js_webview/src/main/java/com/ecfudl3/atest/OfferActivity.java" timestamp="1512380660906">
         <mark key="[" line="58" column="61" />
@@ -306,12 +317,6 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/TrackingReceiver.java" timestamp="1512522398454">
-        <mark key="'" line="56" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/panshi/android/gamesnake/XxApplication.java" timestamp="1513318720923">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="13" column="1" />
@@ -355,7 +360,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1513318669578">
+      <file name="/fragment.java" timestamp="1513322925370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -465,14 +470,14 @@
       <jump line="889" column="4" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgo=</text>
+      <register name="&quot;" type="4">
+        <text>com.funny.game.snake.GameSnake</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>com.funny.game.snake.GameSnake</text>
       </register>
       <register name="/" type="4">
         <text>ENABLE_BroadcastReceiver</text>
@@ -484,13 +489,13 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uZnVubmlzaC5nYW1lc25ha2UiCg==</text>
+        <text encoding="base64">ICAgICAgICA8c2VydmljZSBhbmRyb2lkOm5hbWU9ImNvbS5nb29nbGUuYW5kcm9pZC5nbXMuYW5hbHl0aWNzLkNhbXBhaWduVHJhY2tpbmdTZXJ2aWNlIiAvPgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -498,30 +503,26 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIE1hcDxTdHJpbmcsIFN0cmluZz4gcGFyc2VSZWZlcnJlcihTdHJpbmcgcmVmZXJyZXIpIHsKICAgICAgICBpZiAocmVmZXJyZXIgPT0gbnVsbCB8fCByZWZlcnJlci5lcXVhbHMoIiIpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOdWxsUG9pbnRlckV4Y2VwdGlvbigicmVmZXJyZXIgaXMgbnVsbCIpOwogICAgICAgIH0KICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiByZWZNYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICBTdHJpbmdbXSBwYXJhbXMgPSByZWZlcnJlci5zcGxpdCgiJiIpOwogICAgICAgIGZvciAoU3RyaW5nIHMgOiBwYXJhbXMpIHsKICAgICAgICAgICAgU3RyaW5nW10gYXJyRXF1YWwgPSBzLnNwbGl0KCI9Iik7CiAgICAgICAgICAgIGlmIChhcnJFcXVhbC5sZW5ndGggPiAxKSB7CiAgICAgICAgICAgICAgICByZWZNYXAucHV0KGFyckVxdWFsWzBdLnRvTG93ZXJDYXNlKCksIGFyckVxdWFsWzFdKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChhcnJFcXVhbFswXSAhPSAiIikgewogICAgICAgICAgICAgICAgICAgIHJlZk1hcC5wdXQoYXJyRXF1YWxbMF0udG9Mb3dlckNhc2UoKSwgIiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiByZWZNYXA7CiAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBsaW50T3B0aW9ucyB7CiAgICAgICAgLy8gVE9ETyBmaXggYW5kIHJlbW92ZSAhCiAgICAgICAgZGlzYWJsZSAnTWlzc2luZ1RyYW5zbGF0aW9uJywgJ0R1cGxpY2F0ZUlkcycsICdFeHRyYVRyYW5zbGF0aW9uJwogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZCAnY29tLmdhbWVzLmVsdmVuaHVudGVyJwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uZnVubmlzaC5nYW1lc25ha2UiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="4">
-        <text>//    externalNativeBuild {
-//        ndkBuild {
-//            path '../AD_SO_SDK_PACKAGE/src/main/jni/Android.mk'
-//        }
-//    }</text>
+        <text encoding="base64">ICBsaW50T3B0aW9ucyB7CiAgICAgICAgLy8gVE9ETyBmaXggYW5kIHJlbW92ZSAhCiAgICAgICAgZGlzYWJsZSAnTWlzc2luZ1RyYW5zbGF0aW9uJywgJ0R1cGxpY2F0ZUlkcycsICdFeHRyYVRyYW5zbGF0aW9uJwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
