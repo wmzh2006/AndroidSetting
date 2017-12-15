@@ -20,6 +20,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1513319128250">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="61" column="90" />
+        <mark key="^" line="61" column="90" />
+        <mark key="." line="61" column="90" />
+      </file>
       <file name="/LLDB" timestamp="1512379665008">
         <mark key="[" line="0" column="0" />
       </file>
@@ -280,7 +286,7 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/AndroidManifest.xml" timestamp="1513254418077">
         <mark key="[" line="71" column="26" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/AndroidManifest.xml" timestamp="1512548580518">
+      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/AndroidManifest.xml" timestamp="1513319102125">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
@@ -288,11 +294,11 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" timestamp="1513219402128">
         <mark key="'" line="889" column="4" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" timestamp="1512546918983">
-        <mark key="'" line="62" column="36" />
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
+      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" timestamp="1513319027626">
+        <mark key="'" line="56" column="36" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/test/java/com/test/project/ExampleUnitTest.java" timestamp="1511941290424">
         <mark key="[" line="83" column="0" />
@@ -306,6 +312,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/panshi/android/gamesnake/XxApplication.java" timestamp="1513318720923">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+      </file>
       <file name="D:/SspProject/SDKLoader/app/src/main/java/hyjt/sdkloader/MainActivity.java" timestamp="1510631211128">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="64" column="35" />
@@ -314,6 +326,11 @@
       </file>
       <file name="E:/AndroidStudioProjects/Attemp/Battery-Indicator-Free-master/src/com/darshancomputing/BatteryIndicator/CurrentInfoFragment.java" timestamp="1512116835979">
         <mark key="[" line="82" column="62" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/build.gradle" timestamp="1513319053635">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/main/java/com/test/project/TrackingReceiver.java" timestamp="1511494459835">
         <mark key="[" line="17" column="66" />
@@ -338,7 +355,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1513217684111">
+      <file name="/fragment.java" timestamp="1513318669578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -448,59 +465,63 @@
       <jump line="889" column="4" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>ENABLE_BroadcastReceiver</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YWN0aXZpdHloZWxwc2VydmVyIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZsYXZvckRpbWVuc2lvbnMgImRlZmF1bHQiCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0SW5zdHJ1bWVudGF0aW9uUnVubmVyICJhbmRyb2lkLnN1cHBvcnQudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbklkICJjb20uZnVubmlzaC5nYW1lc25ha2UiCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTZXJ2aWNlaGVscHNlcnZlcl9hKHRoaXMuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIGludGVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAJCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXByaXZhdGUgaW50IGNvbW1hbmQoSW50ZW50IGludGVudCwgaW50IGZsYWdzLCBpbnQgc3RhcnRJZCkge30K</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBsaW50T3B0aW9ucyB7CiAgICAgICAgLy8gVE9ETyBmaXggYW5kIHJlbW92ZSAhCiAgICAgICAgZGlzYWJsZSAnTWlzc2luZ1RyYW5zbGF0aW9uJywgJ0R1cGxpY2F0ZUlkcycsICdFeHRyYVRyYW5zbGF0aW9uJwogICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JZCAnY29tLmdhbWVzLmVsdmVuaHVudGVyJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTZXJ2aWNlaGVscHNlcnZlcl9hKHRoaXMuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIGludGVudCk7CgkJcmV0dXJuIFNUQVJUX1NUSUNLWTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0VmlldyA9IG5ldyBUZXh0VmlldyhnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+      <register name="9" type="4">
+        <text>//    externalNativeBuild {
+//        ndkBuild {
+//            path '../AD_SO_SDK_PACKAGE/src/main/jni/Android.mk'
+//        }
+//    }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
