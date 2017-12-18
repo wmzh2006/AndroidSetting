@@ -26,10 +26,10 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1513586760240">
-        <mark key="[" line="38" column="93" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1513589003561">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1513332209377">
         <mark key="[" line="67" column="110" />
@@ -80,6 +80,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/res/values/attrs.xml" timestamp="1513588979583" />
       <file name="E:/AndroidStudioProjects/Project/app/src/main/AndroidManifest.xml" timestamp="1511404779919">
         <mark key="[" line="79" column="26" />
         <mark key="]" line="79" column="26" />
@@ -470,13 +471,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>PanshiGame</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>PanshiGame</text>
       </register>
       <register name="/" type="4">
         <text>ENABLE_BroadcastReceiver</text>
