@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/XxApplication.java" timestamp="1513648751518">
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/XxApplication.java" timestamp="1513675210319">
         <mark key="[" line="45" column="53" />
         <mark key="]" line="31" column="33" />
         <mark key="." line="31" column="33" />
@@ -26,10 +26,10 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1513589003561">
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="32" />
-        <mark key="." line="38" column="32" />
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1513675199263">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/HomeActivity.java" timestamp="1513648978055">
         <mark key="[" line="18" column="0" />
@@ -223,7 +223,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="26" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/TrackingReceiver.java" timestamp="1513587801022">
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/TrackingReceiver.java" timestamp="1513675247161">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -244,6 +244,12 @@
         <mark key="]" line="0" column="264" />
         <mark key="." line="0" column="264" />
         <mark key="^" line="0" column="5" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/res/values/strings.xml" timestamp="1513675364752">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Activityhelpserver.java" timestamp="1513664640400">
         <mark key="[" line="15" column="49" />
@@ -319,12 +325,6 @@
         <mark key="]" line="16" column="36" />
         <mark key="^" line="17" column="32" />
         <mark key="." line="16" column="36" />
-      </file>
-      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" timestamp="1513344169602">
-        <mark key="'" line="56" column="36" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/test/java/com/test/project/ExampleUnitTest.java" timestamp="1511941290424">
         <mark key="[" line="83" column="0" />
@@ -483,13 +483,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getApplicationContext()</text>
+        <text>关于</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getApplicationContext()</text>
+        <text>关于</text>
       </register>
       <register name="/" type="4">
         <text>ENABLE_BroadcastReceiver</text>
@@ -501,22 +501,22 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0VmlldyA9IG5ldyBUZXh0Vmlldyhjb250ZXh0KTsK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0VGV4dCA9IG5ldyBFZGl0VGV4dChjb250ZXh0KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgPGFjdGl2aXR5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLmZ1bmlzaC5mdW5ueS5BY3Rpdml0eWZ1bm55IgogICAgICAgICAgICBhbmRyb2lkOmV4Y2x1ZGVGcm9tUmVjZW50cz0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6ZnVubnkiCiAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBhbmRyb2lkOnN0eWxlL1RoZW1lLlRyYW5zbHVjZW50IgogICAgICAgICAgICBhbmRyb2lkOmNvbmZpZ0NoYW5nZXM9Im9yaWVudGF0aW9ufGtleWJvYXJkSGlkZGVufHNjcmVlblNpemUiID4KICAgICAgICA8L2FjdGl2aXR5Pg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0VmlldyA9IG5ldyBUZXh0Vmlldyhjb250ZXh0KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uU3RhcnQoKSB7CiAgICAgICAgc3VwZXIub25TdGFydCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN0YXJ0KCkgewogICAgICAgIHN1cGVyLm9uUmVzdGFydCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uUGF1c2UoKSB7CiAgICAgICAgc3VwZXIub25QYXVzZSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TdG9wKCkgewogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EZXN0cm95KCkgewogICAgICAgIHN1cGVyLm9uRGVzdHJveSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb3dNZW1vcnkoKSB7CiAgICAgICAgc3VwZXIub25Mb3dNZW1vcnkoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVHJpbU1lbW9yeShpbnQgbGV2ZWwpIHsKICAgICAgICBzdXBlci5vblRyaW1NZW1vcnkobGV2ZWwpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICBpbml0KGNvbnRleHQpOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlZGl0VGV4dCA9IG5ldyBFZGl0VGV4dChjb250ZXh0KTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -524,14 +524,14 @@
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uU3RhcnQoKSB7CiAgICAgICAgc3VwZXIub25TdGFydCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN0YXJ0KCkgewogICAgICAgIHN1cGVyLm9uUmVzdGFydCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uUGF1c2UoKSB7CiAgICAgICAgc3VwZXIub25QYXVzZSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TdG9wKCkgewogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EZXN0cm95KCkgewogICAgICAgIHN1cGVyLm9uRGVzdHJveSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb3dNZW1vcnkoKSB7CiAgICAgICAgc3VwZXIub25Mb3dNZW1vcnkoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVHJpbU1lbW9yeShpbnQgbGV2ZWwpIHsKICAgICAgICBzdXBlci5vblRyaW1NZW1vcnkobGV2ZWwpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICBpbml0KGNvbnRleHQpOwogICAgfQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">z8jTw2FkYiBzaGVsbL34yOtzaGVsbLrzyuTI6wo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
