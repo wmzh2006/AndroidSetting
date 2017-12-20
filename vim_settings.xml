@@ -92,12 +92,11 @@
         <mark key="." line="79" column="26" />
         <mark key="^" line="79" column="26" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1513664683301">
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1513738768797">
         <mark key="'" line="22" column="27" />
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="37" />
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/build.gradle" timestamp="1511398008076">
         <mark key="[" line="10" column="50" />
@@ -251,10 +250,11 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="9" column="34" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Activityhelpserver.java" timestamp="1513664640400">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Activityhelpserver.java" timestamp="1513739363173">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play/app/receiver/UserPersentReceiverImpl.java" timestamp="1512521808043">
         <mark key="[" line="20" column="0" />
@@ -290,11 +290,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1513664690270">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="^" line="21" column="8" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1513738760165">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Loader.java" timestamp="1511945003417">
         <mark key="[" line="15" column="7" />
@@ -325,6 +325,12 @@
         <mark key="]" line="16" column="36" />
         <mark key="^" line="17" column="32" />
         <mark key="." line="16" column="36" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" timestamp="1513344169602">
+        <mark key="'" line="56" column="36" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/test/java/com/test/project/ExampleUnitTest.java" timestamp="1511941290424">
         <mark key="[" line="83" column="0" />
@@ -482,56 +488,56 @@
       <jump line="17" column="34" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>关于</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>关于</text>
+        <text encoding="base64">IGltcGxlbWVudHMgRGlhbG9nSW50ZXJmYWNl</text>
       </register>
       <register name="/" type="4">
         <text>ENABLE_BroadcastReceiver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YW0gYnJvYWRjYXN0IC1hIGNvbS5hbmRyb2lkLnZlbmRpbmcuSU5TVEFMTF9SRUZFUlJFUiAtbiAiY29tLmZ1bm5pc2guZ2FtZXNuYWtlL2NvbS5mdW5ueS5nYW1lLnNuYWtlLlRyYWNraW5nUmVjZWl2ZXIiIC0tZXMgInJlZmVycmVyIiAidXRtX3NvdXJjZT10ZXN0X3NvdXJjZSZ1dG1fbWVkaXVtPXRlc3RfbWVkaXVtJnV0bV90ZXJtPXRlc3RfdGVybSZ1dG1fY29udGVudD10ZXN0X2NvbnRlbnQmdXRtX2NhbXBhaWduPXRlc3RfbmFtZSIKdXRtX3NvdXJjZbLOyv3Oqsf+tcBpZKOsxuTL+7XEsrvTw8Dtu+GjrL/J0tTU2nV0bV9zb3VyY2U9eHh4eHjF5NbDz+DTprXEx/61wLrFCg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ubG9hZExpYnJhcnkoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5oZWxwc2VydmVyIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgPGFjdGl2aXR5CiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLmZ1bmlzaC5mdW5ueS5BY3Rpdml0eWZ1bm55IgogICAgICAgICAgICBhbmRyb2lkOmV4Y2x1ZGVGcm9tUmVjZW50cz0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6ZnVubnkiCiAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBhbmRyb2lkOnN0eWxlL1RoZW1lLlRyYW5zbHVjZW50IgogICAgICAgICAgICBhbmRyb2lkOmNvbmZpZ0NoYW5nZXM9Im9yaWVudGF0aW9ufGtleWJvYXJkSGlkZGVufHNjcmVlblNpemUiID4KICAgICAgICA8L2FjdGl2aXR5Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBIZXggewo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0VmlldyA9IG5ldyBUZXh0Vmlldyhjb250ZXh0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0VGV4dCA9IG5ldyBFZGl0VGV4dChjb250ZXh0KTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaW5pdChDb250ZXh0IGNvbnRleHQpIHsKLy8gICAgICAgIFN5c3RlbS5sb2FkTGlicmFyeSgiY29tLmFuZHJvaWQucHJvdmlkZXJzLmhlbHBzZXJ2ZXIiKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGNhbmNlbCgpIHsKICAgICAgICBpbml0KG51bGwpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZGlzbWlzcygpIHsKCiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVkaXRUZXh0IGVkaXRUZXh0Owo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uU3RhcnQoKSB7CiAgICAgICAgc3VwZXIub25TdGFydCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN0YXJ0KCkgewogICAgICAgIHN1cGVyLm9uUmVzdGFydCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uUGF1c2UoKSB7CiAgICAgICAgc3VwZXIub25QYXVzZSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25TdG9wKCkgewogICAgICAgIHN1cGVyLm9uU3RvcCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EZXN0cm95KCkgewogICAgICAgIHN1cGVyLm9uRGVzdHJveSgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb3dNZW1vcnkoKSB7CiAgICAgICAgc3VwZXIub25Mb3dNZW1vcnkoKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uVHJpbU1lbW9yeShpbnQgbGV2ZWwpIHsKICAgICAgICBzdXBlci5vblRyaW1NZW1vcnkobGV2ZWwpOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICBpbml0KGNvbnRleHQpOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFRleHRWaWV3IHRleHRWaWV3Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFjdGl2aXR5aGVscHNlcnZlciBhY3Rpdml0eWhlbHBzZXJ2ZXIgPSBuZXcgQWN0aXZpdHloZWxwc2VydmVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgICAgYWN0aXZpdHloZWxwc2VydmVyLmNhbmNlbCgpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
