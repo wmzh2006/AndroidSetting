@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1513843124558">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/XxApplication.java" timestamp="1513777983430">
         <mark key="[" line="45" column="53" />
         <mark key="]" line="31" column="33" />
@@ -148,6 +151,7 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/GPConfig.java" timestamp="1513843136800" />
       <file name="E:/AndroidStudioProjects/Project/ade_diy_name/build.gradle" timestamp="1511233708237">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -324,12 +328,12 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1513576452008">
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1513843191229">
         <mark key="'" line="17" column="34" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="16" column="36" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/test/java/com/test/project/ExampleUnitTest.java" timestamp="1511941290424">
         <mark key="[" line="83" column="0" />
@@ -360,6 +364,12 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/GPconfig.java" timestamp="1513843106518">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/main/java/com/test/project/MainActivity.java" timestamp="1511519682079">
         <mark key="[" line="25" column="85" />
         <mark key="]" line="25" column="85" />
@@ -377,7 +387,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1513322925370">
+      <file name="/fragment.java" timestamp="1513843035238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -487,14 +497,14 @@
       <jump line="17" column="34" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUsIHBlcnNpc3RlbnRTdGF0ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;104493&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>showDialog</text>
+        <text>&quot;104493&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ENABLE_BroadcastReceiver</text>
