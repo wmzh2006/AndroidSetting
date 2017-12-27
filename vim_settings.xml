@@ -107,7 +107,9 @@
         <mark key="." line="10" column="51" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" timestamp="1514340760453" />
+      <file name="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" timestamp="1514364162471">
+        <mark key="'" line="194" column="11" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/js_webview/src/main/java/com/ecfudl3/atest/MainActivity.java" timestamp="1512381858634">
         <mark key="[" line="133" column="33" />
         <mark key="]" line="135" column="0" />
@@ -394,18 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1474" column="41" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1477" column="40" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1480" column="41" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1485" column="37" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1489" column="39" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1496" column="39" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1502" column="39" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1508" column="50" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1521" column="11" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
-      <jump line="1555" column="4" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/hyjt/main/WapManager.java" />
-      <jump line="7" column="0" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/hyjt/main/WapManager.java" />
-      <jump line="1129" column="30" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/mapping.txt" />
       <jump line="458" column="31" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/dao/DownloaderDatabase.java" />
       <jump line="225" column="41" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/dao/DownloaderDatabase.java" />
       <jump line="211" column="12" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/dao/DownloaderDatabase.java" />
@@ -494,6 +484,18 @@
       <jump line="760" column="4" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
       <jump line="889" column="4" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
       <jump line="17" column="34" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" />
+      <jump line="38" column="36" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="114" column="20" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="306" column="9" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="39" column="18" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="57" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="82" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="97" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="115" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="130" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="145" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="177" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="194" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -506,7 +508,7 @@
         <text>&quot;104493&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>getDataByTagNameWIthAlt</text>
+        <text>doResult</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJbmV3IEFjdGl2aXR5aGVscHNlcnZlcigpLm9uQ3JlYXRlKG51bGwsIG51bGwpOwo=</text>
@@ -555,9 +557,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getDataByTagNameWIthAlt</last-search>
+      <last-search>doResult</last-search>
       <last-offset />
-      <last-pattern>getDataByTagNameWIthAlt</last-pattern>
+      <last-pattern>doResult</last-pattern>
       <last-replace>exportJar</last-replace>
       <last-substitute>proguardMyLib</last-substitute>
       <last-dir>1</last-dir>
@@ -565,9 +567,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\vcom.e.bx.c</entry>
-        <entry>\vcom.e.bx.dg.a</entry>
-        <entry>\vcom.play.app.hyjt.main.WapManager.a</entry>
         <entry>\vcom.e.bx.dg</entry>
         <entry>cursor</entry>
         <entry>build</entry>
@@ -585,6 +584,9 @@
         <entry>Action</entry>
         <entry>ENABLE_BroadcastReceiver</entry>
         <entry>getDataByTagNameWIthAlt</entry>
+        <entry>getDataByTagNameWithValue</entry>
+        <entry encoding="base64">XDxkb1Jlc3VsdFw+</entry>
+        <entry>doResult</entry>
       </history-search>
       <history-cmd>
         <entry>%s/2131099707/R\.string\.cpu.min/g</entry>
