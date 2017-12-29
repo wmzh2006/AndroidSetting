@@ -6,11 +6,11 @@
       <file name="/a.dummy" timestamp="1513843124558">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/build.gradle" timestamp="1514511440234">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/build.gradle" timestamp="1514512440017">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="29" />
         <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="17" column="29" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/XxApplication.java" timestamp="1513777983430">
         <mark key="[" line="45" column="53" />
@@ -166,6 +166,9 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
+      <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-large/main.xml" timestamp="1514512331615">
+        <mark key="'" line="4" column="21" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/ade_diy_name/build.gradle" timestamp="1511233708237">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -223,6 +226,9 @@
         <mark key="]" line="18" column="42" />
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
+      </file>
+      <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-v11/settings.xml" timestamp="1514512360381">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/proguard-rules.pro" timestamp="1511411608319">
         <mark key="[" line="24" column="0" />
@@ -285,6 +291,11 @@
         <mark key="]" line="0" column="49" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="49" />
+      </file>
+      <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-v11/main.xml" timestamp="1514512291915">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/js_webview/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1512382218227">
         <mark key="[" line="68" column="61" />
@@ -409,11 +420,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-land-v11/main.xml" timestamp="1514512341879">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="15" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/dao/DownloaderDatabase.java" />
-      <jump line="117" column="21" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
-      <jump line="13" column="29" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/201710172150L/mapping.txt" />
       <jump line="175" column="29" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
       <jump line="107" column="5" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
       <jump line="165" column="56" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
@@ -511,19 +522,22 @@
       <jump line="150" column="8" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="163" column="8" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="183" column="8" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
+      <jump line="4" column="21" filename="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-large/main.xml" />
+      <jump line="0" column="0" filename="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-land-v11/main.xml" />
+      <jump line="9" column="0" filename="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-v11/settings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgYSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>findButtonByTime</text>
+        <text>@+android</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJbmV3IEFjdGl2aXR5aGVscHNlcnZlcigpLm9uQ3JlYXRlKG51bGwsIG51bGwpOwo=</text>
@@ -568,21 +582,20 @@
         <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBhIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/@+android/@android/g</text>
       </register>
     </registers>
     <search>
-      <last-search>findButtonByTime</last-search>
+      <last-search>@+android</last-search>
       <last-offset />
-      <last-pattern>findButtonByTime</last-pattern>
-      <last-replace>exportJar</last-replace>
-      <last-substitute>proguardMyLib</last-substitute>
+      <last-pattern>@+android</last-pattern>
+      <last-replace>@android</last-replace>
+      <last-substitute>@+android</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cursor</entry>
         <entry>build</entry>
         <entry>proguardMyLib</entry>
         <entry>version</entry>
@@ -602,10 +615,9 @@
         <entry encoding="base64">XDxkb1Jlc3VsdFw+</entry>
         <entry>doResult</entry>
         <entry>findButtonByTime</entry>
+        <entry>@+android</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/2131099707/R\.string\.cpu.min/g</entry>
-        <entry>imagebattery</entry>
         <entry>%s/@id/@+id/g</entry>
         <entry>set hlsearch</entry>
         <entry>reg</entry>
@@ -624,6 +636,8 @@
         <entry>.,$d</entry>
         <entry>0,$d</entry>
         <entry>w</entry>
+        <entry>%s/@+android/@android/gn</entry>
+        <entry>%s/@+android/@android/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
