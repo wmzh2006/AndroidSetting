@@ -16,6 +16,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/ads/BaseAdView.class" timestamp="1514631991083" />
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-large/main.xml" timestamp="1514513601407">
         <mark key="'" line="0" column="0" />
       </file>
@@ -120,10 +121,10 @@
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-land-v11/logs.xml" timestamp="1514513616880">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/build.gradle" timestamp="1514624158009">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/build.gradle" timestamp="1514631500901">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/AndroidManifest.xml" timestamp="1514533174941">
         <mark key="[" line="16" column="11" />
@@ -152,12 +153,12 @@
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-v11/logs.xml" timestamp="1514513558846">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1514628818297">
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1514631552206">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="34" column="53" />
-        <mark key="]" line="37" column="15" />
-        <mark key="." line="37" column="15" />
-        <mark key="^" line="37" column="15" />
+        <mark key="]" line="35" column="59" />
+        <mark key="." line="35" column="59" />
+        <mark key="^" line="35" column="59" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerReceiver.java" timestamp="1513587537754">
         <mark key="[" line="52" column="0" />
@@ -279,8 +280,8 @@
       <jump line="19" column="4" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMS44LjAnCg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -298,40 +299,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aXUK</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMS44LjAnCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSB0cnVlCg==</text>
+        <text encoding="base64">aXUK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSB0cnVlCg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CnJlcG9zaXRvcmllcyB7CiAgICBmbGF0RGlyIHsKICAgICAgICBkaXJzICdsaWJzJwogICAgfQp9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbjsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbjsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51SXRlbTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51Owo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51SXRlbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5MYXlvdXRJbmZsYXRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5MYXlvdXRJbmZsYXRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
