@@ -124,7 +124,6 @@
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
-        <mark key="^" line="33" column="25" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/AndroidManifest.xml" timestamp="1514533174941">
         <mark key="[" line="16" column="11" />
@@ -153,12 +152,12 @@
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-v11/logs.xml" timestamp="1514513558846">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1514628207490">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1514628818297">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerReceiver.java" timestamp="1513587537754">
         <mark key="[" line="52" column="0" />
@@ -170,7 +169,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1514628188209">
+      <file name="/fragment.java" timestamp="1514628433160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-land-v11/main.xml" timestamp="1514512341879">
@@ -178,8 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="4" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/popwindow/FullWindow.java" />
-      <jump line="344" column="7" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/popwindow/FullWindow.java" />
       <jump line="42" column="4" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/util/PreferencesUtil.java" />
       <jump line="245" column="72" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/util/PreferencesUtil.java" />
       <jump line="0" column="0" filename="D:/StudioProjects/Battery-Indicator/test/src/test/java/com/eletest/atafter/toda/FlyNoWay.java" />
@@ -278,16 +275,18 @@
       <jump line="61" column="0" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
       <jump line="44" column="13" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
       <jump line="21" column="0" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
+      <jump line="34" column="44" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
+      <jump line="19" column="4" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aXUK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>@+android</text>
