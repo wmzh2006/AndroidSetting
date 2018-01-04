@@ -98,6 +98,12 @@
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/ProBowl/src/com/cn/mono/FailSurfaceView.java" timestamp="1515037145323">
+        <mark key="[" line="91" column="45" />
+        <mark key="]" line="92" column="32" />
+        <mark key="." line="92" column="32" />
+        <mark key="^" line="92" column="32" />
+      </file>
       <file name="E:/AndroidStudioProjects/Attemp/Battery-Indicator-Free-master/res/menu-v11/settings.xml" timestamp="1512117065682">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -304,13 +310,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>404</text>
+        <text>new Display();</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>404</text>
+        <text>new Display();</text>
       </register>
       <register name="/" type="4">
         <text>onGetSource</text>
@@ -322,40 +328,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMS44LjAnCg==</text>
+        <text encoding="base64">CQl0aGlzLmdldERpc3BsYXkoKS5nZXQK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aXUK</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMS44LjAnCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aXUK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSB0cnVlCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CnJlcG9zaXRvcmllcyB7CiAgICBmbGF0RGlyIHsKICAgICAgICBkaXJzICdsaWJzJwogICAgfQp9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbjsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkJ1dHRvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51SXRlbTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3R3JvdXA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51Owo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51SXRlbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5MYXlvdXRJbmZsYXRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5NZW51Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
