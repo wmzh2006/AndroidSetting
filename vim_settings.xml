@@ -196,16 +196,16 @@
         <mark key="." line="3" column="49" />
         <mark key="^" line="3" column="49" />
       </file>
+      <file name="D:/StudioProjects/Corde/app/src/main/res/values/strings.xml" timestamp="1515059529024" />
       <file name="E:/AndroidStudioProjects/Project/GameSnake/build.gradle" timestamp="1513587394710">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/StudioProjects/Corde/app/src/main/AndroidManifest.xml" timestamp="1515057717961">
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="38" column="65" />
-        <mark key="." line="38" column="65" />
-        <mark key="^" line="38" column="65" />
+      <file name="D:/StudioProjects/Corde/app/src/main/AndroidManifest.xml" timestamp="1515059430548">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-v11/logs.xml" timestamp="1514513558846">
         <mark key="'" line="0" column="0" />
@@ -218,6 +218,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/MainActivity.java" timestamp="1515058866078">
+        <mark key="'" line="15" column="6" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+      </file>
       <file name="/fragment.java" timestamp="1515055540008">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="15" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/service/CoreServiceImpl.java" />
-      <jump line="111" column="12" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/service/CoreServiceImpl.java" />
-      <jump line="6" column="8" filename="D:/StudioProjects/Battery-Indicator/test/src/test/java/com/eletest/atafter/toda/factory/Pepperoni.java" />
       <jump line="19" column="26" filename="D:/StudioProjects/Battery-Indicator/test/src/test/java/com/eletest/atafter/toda/factory/Pizza.java" />
       <jump line="0" column="0" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/201710271731L/mapping.txt" />
       <jump line="0" column="0" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/201710271734L/mapping.txt" />
@@ -326,16 +329,19 @@
       <jump line="65" column="8" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="478" column="20" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="480" column="26" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="0" column="0" filename="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/MainActivity.java" />
+      <jump line="18" column="0" filename="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/MainActivity.java" />
+      <jump line="16" column="6" filename="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LAUNCHER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LAUNCHER</text>
+        <text>DEFAULT</text>
       </register>
       <register name="/" type="4">
         <text>onGetSource</text>
@@ -347,42 +353,42 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text>float density = dm.density;
-		float xdpi = dm.xdpi;
-		float ydpi = dm.ydpi;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlmbG9hdCB4ID0K</text>
+      <register name="3" type="4">
+        <text>float density = dm.density;
+		float xdpi = dm.xdpi;
+		float ydpi = dm.ydpi;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlEaXNwbGF5TWV0cmljcyBtZXRyaWNzID0K</text>
+        <text encoding="base64">CQlmbG9hdCB4ID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlEaXNwbGF5IGRpc3BsYXkgPSB0aGlzLmdldERpc3BsYXkoKTsK</text>
+        <text encoding="base64">CQlEaXNwbGF5TWV0cmljcyBtZXRyaWNzID0K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0aGlzLmdldERpc3BsYXkoKS5nZXQK</text>
+        <text encoding="base64">CQlEaXNwbGF5IGRpc3BsYXkgPSB0aGlzLmdldERpc3BsYXkoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMS44LjAnCg==</text>
+        <text encoding="base64">CQl0aGlzLmdldERpc3BsYXkoKS5nZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aXUK</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMS44LjAnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZSB0cnVlCg==</text>
+        <text encoding="base64">aXUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
