@@ -76,7 +76,11 @@
         <mark key="]" line="45" column="33" />
         <mark key="." line="45" column="33" />
       </file>
-      <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/AndroidManifest.xml" timestamp="1515121947276" />
+      <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/AndroidManifest.xml" timestamp="1515135068867">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-large/main.xml" timestamp="1514512331615">
         <mark key="'" line="4" column="21" />
       </file>
@@ -165,6 +169,12 @@
       </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-land-v11/main.xml" timestamp="1514513623943">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/StudioProjects/Corde/Alarm Clock/build.gradle" timestamp="1515135795816">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-v11/settings.xml" timestamp="1514513581815">
         <mark key="'" line="0" column="0" />
@@ -351,13 +361,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MainActivity</text>
+        <text>4</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MainActivity</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>onGetSource</text>
@@ -369,40 +379,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGJ1aWxkVHlwZXMgewogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBtaW5pZnlFbmFibGVkIGZhbHNlCiAgICAgICAgICAgIHByb2d1YXJkRmlsZXMgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC50eHQnKSwgJ3Byb2d1YXJkLXJ1bGVzLnBybycKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhCiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iQm5fc2VyIgogICAgICAgICAgICBhbmRyb2lkOnZhbHVlPSJjb20uYWR3by5jendhLlNlcnZpY2VjendhVGlsIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmV4Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiIC8+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGFuZHJvaWQ6ZXhjbHVkZUZyb21SZWNlbnRzPSJ0cnVlIg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmNvbXBpbGVPcHRpb25zIHsKICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgSmF2YVZlcnNpb24uVkVSU0lPTl8xXzYKICAgIHRhcmdldENvbXBhdGliaWxpdHkgSmF2YVZlcnNpb24uVkVSU0lPTl8xXzYKfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
