@@ -76,6 +76,7 @@
         <mark key="]" line="45" column="33" />
         <mark key="." line="45" column="33" />
       </file>
+      <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/AndroidManifest.xml" timestamp="1515121947276" />
       <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-large/main.xml" timestamp="1514512331615">
         <mark key="'" line="4" column="21" />
       </file>
@@ -117,9 +118,16 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515122583359">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="66" />
+        <mark key="^" line="18" column="76" />
+        <mark key="." line="18" column="66" />
+      </file>
       <file name="E:/AndroidStudioProjects/airplan/Battery-Indicator-Free-master/res/menu-v11/settings.xml" timestamp="1514512360381">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/java/com/adwo/czwa/MainActivity.java" timestamp="1515122440771" />
       <file name="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/XApplication.java" timestamp="1513648997261">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -140,11 +148,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/StudioProjects/Corde/app/build.gradle" timestamp="1515120319238">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="25" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="7" column="25" />
+      <file name="D:/StudioProjects/Corde/app/build.gradle" timestamp="1515121231977">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/res/values/strings.xml" timestamp="1514527757881">
         <mark key="[" line="10" column="38" />
@@ -167,11 +174,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515055597785">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="68" />
-        <mark key="^" line="14" column="68" />
-        <mark key="." line="14" column="68" />
+      <file name="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515121609426">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="60" />
+        <mark key="^" line="14" column="60" />
+        <mark key="." line="14" column="60" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-large/logs.xml" timestamp="1514513594926">
         <mark key="'" line="0" column="0" />
@@ -202,10 +209,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/StudioProjects/Corde/app/src/main/AndroidManifest.xml" timestamp="1515059430548">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/StudioProjects/Corde/app/src/main/AndroidManifest.xml" timestamp="1515121539965">
+        <mark key="[" line="114" column="74" />
+        <mark key="]" line="114" column="74" />
+        <mark key="." line="114" column="74" />
+        <mark key="^" line="114" column="74" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-v11/logs.xml" timestamp="1514513558846">
         <mark key="'" line="0" column="0" />
@@ -217,6 +225,11 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/MyService.java" timestamp="1515121599314">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/MainActivity.java" timestamp="1515058866078">
         <mark key="'" line="15" column="6" />
@@ -335,60 +348,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>MainActivity</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>MainActivity</text>
       </register>
       <register name="/" type="4">
         <text>onGetSource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLndpZHRoID0gd2lkdGggPiBoZWlnaHQgPyB3aWR0aCA6IGhlaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZpY2UobmV3IEludGVudCh0aGlzLCBjb20uYWR3by5jendhLlNlcnZpY2VjendhLmNsYXNzKSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text>float density = dm.density;
-		float xdpi = dm.xdpi;
-		float ydpi = dm.ydpi;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbG9hdCB4ID0K</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlEaXNwbGF5TWV0cmljcyBtZXRyaWNzID0K</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhCiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iQm5fc2VyIgogICAgICAgICAgICBhbmRyb2lkOnZhbHVlPSJjb20uYWR3by5jendhLlNlcnZpY2VjendhVGlsIiAvPgo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlEaXNwbGF5IGRpc3BsYXkgPSB0aGlzLmdldERpc3BsYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLmdldERpc3BsYXkoKS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5nb29nbGUuYW5kcm9pZC5nbXM6cGxheS1zZXJ2aWNlczoxMS44LjAnCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmNvbXBpbGVPcHRpb25zIHsKICAgIHNvdXJjZUNvbXBhdGliaWxpdHkgSmF2YVZlcnNpb24uVkVSU0lPTl8xXzYKICAgIHRhcmdldENvbXBhdGliaWxpdHkgSmF2YVZlcnNpb24uVkVSU0lPTl8xXzYKfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aXUK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
