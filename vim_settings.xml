@@ -9,7 +9,7 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/ads/BaseAdView.class" timestamp="1515485675832" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/ads/BaseAdView.class" timestamp="1515497504037" />
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-large/main.xml" timestamp="1515483999677">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
@@ -26,6 +26,11 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
         <mark key="^" line="4" column="21" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/res/values/strings.xml" timestamp="1515497769142">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/layout/alarm_edit_help.xml" timestamp="1515483585488" />
       <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1515495467333">
@@ -121,11 +126,11 @@
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515485908195">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="47" />
-        <mark key="." line="31" column="47" />
-        <mark key="^" line="31" column="47" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515497586945">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="91" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -231,14 +236,14 @@
       <jump line="160" column="8" filename="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/src/com/darshancomputing/BatteryIndicatorPro/BatteryInfoService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Resources.NotFoundException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Resources.NotFoundException</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text>pref_cat_notification_settings_help</text>
@@ -256,36 +261,36 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE5vdGlmaWNhdGlvbkNvbXBhdC5CdWlsZGVyKHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBTdHJpbmcga2V5ID0gImNvbS5nb29nbGUuYW5kcm9pZC5nbXMuYWRzLkFkVmlldy5zZXRBZFVuaXRJZChqYXZhLmxhbmcuU3RyaW5nKSI7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluTm90aWZpY2F0aW9uQiA9IG5ldyBOb3RpZmljYXRpb24uQnVpbGRlcih0aGlzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9mdWxsX3dpZGdldCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE5vdGlmaWNhdGlvbkNvbXBhdC5CdWlsZGVyKHRoaXMpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgICBleGxjdQogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtYWluTm90aWZpY2F0aW9uQiA9IG5ldyBOb3RpZmljYXRpb24uQnVpbGRlcih0aGlzKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9mdWxsX3dpZGdldCIK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICBleGxjdQogICAgfQ==</text>
+      </register>
+      <register name="8" type="4">
         <text>{
         
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBrZXkgPSAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
