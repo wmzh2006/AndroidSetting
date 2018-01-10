@@ -104,11 +104,11 @@
         <mark key="^" line="95" column="27" />
         <mark key="." line="95" column="27" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515575317833">
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="38" column="42" />
-        <mark key="^" line="38" column="42" />
-        <mark key="." line="38" column="42" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515577743760">
+        <mark key="[" line="81" column="26" />
+        <mark key="]" line="81" column="26" />
+        <mark key="^" line="80" column="64" />
+        <mark key="." line="81" column="26" />
       </file>
       <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515122583359">
         <mark key="[" line="18" column="66" />
@@ -121,7 +121,6 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1515566484818" />
       <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/res/values/strings.xml" timestamp="1515565448867">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -351,14 +350,14 @@
       <jump line="160" column="8" filename="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/src/com/darshancomputing/BatteryIndicatorPro/BatteryInfoService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUFBfSURfQiA9ICJjYS1hcHAtcHViLTQzOTIzNTk3MDg0MTk2ODZ+MTExNTk5Mjk3MiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;已经 hook&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>&quot;已经 hook&quot;</text>
       </register>
       <register name="/" type="4">
         <text>pref_cat_notification_settings_help</text>
