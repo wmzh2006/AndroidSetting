@@ -104,11 +104,11 @@
         <mark key="^" line="95" column="27" />
         <mark key="." line="95" column="27" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515652111043">
-        <mark key="[" line="102" column="72" />
-        <mark key="]" line="103" column="58" />
-        <mark key="^" line="103" column="58" />
-        <mark key="." line="103" column="58" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515654309942">
+        <mark key="[" line="109" column="39" />
+        <mark key="]" line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="49" column="24" />
       </file>
       <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515122583359">
         <mark key="[" line="18" column="66" />
@@ -342,13 +342,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>Manager.getDefault()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Manager.getDefault()</text>
       </register>
       <register name="/" type="4">
         <text>pref_cat_notification_settings_help</text>
