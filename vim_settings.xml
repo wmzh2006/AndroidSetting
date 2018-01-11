@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="E:/AndroidStudioProjects/Project/ProBowl/build.gradle" timestamp="1515382466497">
@@ -114,10 +114,10 @@
         <mark key="^" line="95" column="27" />
         <mark key="." line="95" column="27" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515664375201">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515665430469">
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="36" column="10" />
       </file>
       <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515122583359">
         <mark key="[" line="18" column="66" />
@@ -260,7 +260,7 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/ads/MobileAds.class" timestamp="1515664219605" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/ads/MobileAds.class" timestamp="1515665085133" />
       <file name="/fragment.java" timestamp="1515656177088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -371,14 +371,14 @@
       <jump line="49" column="30" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>pref_cat_notification_settings_help</text>
