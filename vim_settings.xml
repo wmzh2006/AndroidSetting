@@ -9,6 +9,9 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="23" />
       </file>
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" timestamp="1515663926462">
+        <mark key="'" line="49" column="30" />
+      </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-large/main.xml" timestamp="1515483999677">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
@@ -31,7 +34,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/injectLibrary/src/main/java/com/hook/HookBridge.java" timestamp="1515662709199" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/injectLibrary/src/main/java/com/hook/HookBridge.java" timestamp="1515663595901" />
       <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1515571983821">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -111,11 +114,10 @@
         <mark key="^" line="95" column="27" />
         <mark key="." line="95" column="27" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515658693574">
-        <mark key="[" line="109" column="39" />
-        <mark key="]" line="49" column="24" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="49" column="24" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515664375201">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515122583359">
         <mark key="[" line="18" column="66" />
@@ -258,6 +260,7 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/ads/MobileAds.class" timestamp="1515664219605" />
       <file name="/fragment.java" timestamp="1515656177088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -266,10 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/release/201710271734L/mapping.txt" />
-      <jump line="21" column="27" filename="D:/StudioProjects/Battery-Indicator/test/src/test/java/com/eletest/atafter/toda/Coffee.java" />
-      <jump line="14" column="61" filename="D:/StudioProjects/Battery-Indicator/test/src/test/java/com/eletest/atafter/toda/iterator/DinnerMenu.java" />
-      <jump line="38" column="8" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/release/SDKConfig.java" />
       <jump line="112" column="5" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
       <jump line="179" column="16" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
       <jump line="261" column="15" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/util/AppUtil2.java" />
@@ -366,61 +365,65 @@
       <jump line="16" column="6" filename="D:/StudioProjects/Corde/app/src/main/java/com/adwo/czwa/MainActivity.java" />
       <jump line="172" column="44" filename="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/src/com/darshancomputing/BatteryIndicatorPro/BatteryInfoService.java" />
       <jump line="160" column="8" filename="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/src/com/darshancomputing/BatteryIndicatorPro/BatteryInfoService.java" />
+      <jump line="81" column="12" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
+      <jump line="252" column="1" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
+      <jump line="119" column="3" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
+      <jump line="49" column="30" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1ZXN0QWdlbnQoIjE1M0Q4RTMwQzQ2NzM3RDQxRDlBNTJCM0EyRTJFRjFEIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SMART_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>pref_cat_notification_settings_help</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYmFubmVyX2FkX3VuaXRfaWQiPmNhLWFwcC1wdWItMzk0MDI1NjA5OTk0MjU0NC82MzAwOTc4MTExPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvYmpbMF0gPSBwYXJhbVNyY09iajsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1ZXN0QWdlbnQoIjE1M0Q4RTMwQzQ2NzM3RDQxRDlBNTJCM0EyRTJFRjFEIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRTaXplKEFkU2l6ZS5TTUFSVF9CQU5ORVIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAxOyBqIDwgc3JjUGFyYW1zT2JqLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgICAgICAgICAgb2Jqc1tqXSA9IHNyY1BhcmFtc09ialtqXTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNb2JpbGVBZHMuaW5pdGlhbGl6ZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgQVBQX0lEX0EpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIgPSAiMTIzNDUg0tG+rSBob29ro6GjoaOhIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUFBfSURfQiA9ICJjYS1hcHAtcHViLTQzOTIzNTk3MDg0MTk2ODZ+MTExNTk5Mjk3MiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgoKFN0cmluZykgc3JjUGFyYW1zT2JqWzBdKS5lcXVhbHMoIjEyMzQ1w7vT0Ghvb2siKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUFBfSURfQiA9ICJjYS1hcHAtcHViLTQzOTIzNTk3MDg0MTk2ODZ+MTExNTk5Mjk3MiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1ZXN0QWdlbnQoIjE1M0Q4RTMwQzQ2NzM3RDQxRDlBNTJCM0EyRTJFRjFEIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRTaXplKEFkU2l6ZS5TTUFSVF9CQU5ORVIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmxvYWRMaWJyYXJ5KFJlY2VpdmVyaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBNb2JpbGVBZHMuaW5pdGlhbGl6ZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgQVBQX0lEX0EpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUFBfSURfQiA9ICJjYS1hcHAtcHViLTQzOTIzNTk3MDg0MTk2ODZ+MTExNTk5Mjk3MiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
