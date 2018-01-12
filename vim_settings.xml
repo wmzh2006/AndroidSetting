@@ -54,11 +54,12 @@
         <mark key="." line="26" column="46" />
         <mark key="^" line="26" column="46" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" timestamp="1515747794938">
-        <mark key="[" line="6" column="132" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" timestamp="1515748655217">
+        <mark key="'" line="39" column="44" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/AndroidManifest.xml" timestamp="1515746367993">
         <mark key="[" line="13" column="34" />
@@ -111,10 +112,11 @@
         <mark key="." line="35" column="44" />
         <mark key="^" line="35" column="44" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/andfix.cpp" timestamp="1515747781619">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="45" column="67" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/andfix.cpp" timestamp="1515748612569">
+        <mark key="[" line="62" column="27" />
+        <mark key="]" line="62" column="26" />
+        <mark key="." line="62" column="26" />
+        <mark key="^" line="62" column="26" />
       </file>
       <file name="D:/StudioProjects/AnalyticsDemo/app/src/main/AndroidManifest.xml" timestamp="1515545300060">
         <mark key="[" line="4" column="16" />
@@ -218,12 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="5" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
-      <jump line="179" column="16" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/build.gradle" />
-      <jump line="261" column="15" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/util/AppUtil2.java" />
-      <jump line="42" column="102" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/e/AudienceMain.java" />
-      <jump line="70" column="18" filename="D:/StudioProjects/Battery-Indicator/helloworld/src/main/java/com/mime/woo/WriteHelloManTask.java" />
-      <jump line="10" column="16" filename="D:/StudioProjects/Battery-Indicator/test/src/test/java/com/eletest/atafter/toda/component/MenuItem.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.groovy" />
       <jump line="147" column="144" filename="D:/StudioProjects/Battery-Indicator/adsdk_nowap/src/main/java/com/play/app/hyjt/main/AdManager.java" />
       <jump line="1" column="0" filename="D:/SspProject/SDKLoader/app/src/main/res/layout/activity_main.xml" />
@@ -318,19 +314,25 @@
       <jump line="252" column="1" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
       <jump line="119" column="3" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
       <jump line="49" column="30" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
+      <jump line="18" column="20" filename="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" />
+      <jump line="21" column="32" filename="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" />
+      <jump line="22" column="36" filename="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" />
+      <jump line="23" column="36" filename="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" />
+      <jump line="32" column="39" filename="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" />
+      <jump line="39" column="44" filename="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/method-hook-lib.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImRhbHZpay9kYWx2aWsuaCIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>pref_cat_notification_settings_help</text>
+        <text>methodHook</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9leHRlcm4gdm9pZCByZXBsYWNlTWV0aG9kKEpOSUVudiogZW52LCBqY2xhc3MgY2xhenosIGpvYmplY3Qgc3JjLCBqb2JqZWN0IGRlc3QpOwo=</text>
@@ -387,9 +389,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pref_cat_notification_settings_help</last-search>
+      <last-search>methodHook</last-search>
       <last-offset />
-      <last-pattern>pref_cat_notification_settings_help</last-pattern>
+      <last-pattern>methodHook</last-pattern>
       <last-replace>@android</last-replace>
       <last-substitute>@+android</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>boolean test = true;</entry>
         <entry>relace</entry>
         <entry>replaceVersion</entry>
         <entry>.</entry>
@@ -417,6 +418,7 @@
         <entry>andrlidLog</entry>
         <entry>onGetSource</entry>
         <entry>pref_cat_notification_settings_help</entry>
+        <entry>methodHook</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@id/@+id/g</entry>
