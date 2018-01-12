@@ -74,10 +74,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/java/com/eamo/qsac/admobone/MainActivity.java" timestamp="1515726666900">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/java/com/eamo/qsac/admobone/MainActivity.java" timestamp="1515728813740">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+        <mark key="^" line="30" column="37" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/java/com/funny/game/snake/GameSnake.java" timestamp="1515550254016">
         <mark key="[" line="30" column="36" />
@@ -118,11 +119,11 @@
         <mark key="^" line="95" column="27" />
         <mark key="." line="95" column="27" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515726942620">
-        <mark key="[" line="45" column="38" />
-        <mark key="]" line="84" column="38" />
-        <mark key="." line="84" column="38" />
-        <mark key="^" line="84" column="38" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515728594355">
+        <mark key="[" line="25" column="85" />
+        <mark key="]" line="46" column="38" />
+        <mark key="." line="46" column="38" />
+        <mark key="^" line="42" column="61" />
       </file>
       <file name="D:/StudioProjects/Corde/Alarm Clock/src/main/java/com/adwo/czwa/XApplication.java" timestamp="1515122583359">
         <mark key="[" line="18" column="66" />
@@ -219,8 +220,8 @@
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/res/layout/activity_main.xml" timestamp="1515726040011">
-        <mark key="[" line="19" column="27" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/res/layout/activity_main.xml" timestamp="1515728827068">
+        <mark key="[" line="18" column="46" />
         <mark key="]" line="19" column="26" />
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="26" />
@@ -390,13 +391,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ca-app-pub-9699332610823570/5385484436</text>
+        <text>A</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ca-app-pub-9699332610823570/5385484436</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>pref_cat_notification_settings_help</text>
@@ -407,41 +408,41 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgYWRzOmFkVW5pdElkPSJAc3RyaW5nL2Jhbm5lcl9hZF91bml0X2lkIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZyAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRVbml0SWQoQURVTklUX0lEX0EpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uQWRGYWlsZWRUb0xvYWQoaSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZHM6YWRVbml0SWQ9IkBzdHJpbmcvYmFubmVyX2FkX3VuaXRfaWQiIC8+Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgYWRzOmFkVW5pdElkPSJAc3RyaW5nL2Jhbm5lcl9hZF91bml0X2lkIg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRMaXN0ZW5lcihuZXcgQWRMaXN0ZW5lcigpewogICAgICAgICAgICAKICAgICAgICB9KTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRVbml0SWQoQURVTklUX0lEX0EpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LWtlCg==</text>
+        <text encoding="base64">ICAgICAgICBhZHM6YWRVbml0SWQ9IkBzdHJpbmcvYmFubmVyX2FkX3VuaXRfaWQiIC8+Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LWtlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRMaXN0ZW5lcihuZXcgQWRMaXN0ZW5lcigpewogICAgICAgICAgICAKICAgICAgICB9KTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LWxpYnJhcnlqYXJzICAgbGlicy9ob29rLmphcgo=</text>
+        <text encoding="base64">LWtlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JVN5c3RlbVJvb3QlXHN5c3RlbTMyOyVTeXN0ZW1Sb290JTslU3lzdGVtUm9vdCVcU3lzdGVtMzJcV2JlbTslU1lTVEVNUk9PVCVcU3lzdGVtMzJcV2luZG93c1Bvd2VyU2hlbGxcdjEuMFw7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxTa3lwZVxQaG9uZVw7QzpcUHJvZ3JhbSBGaWxlc1xHaXRcY21kO0M6XFByb2dyYW0gRmlsZXNcR2l0XG1pbmd3NjRcYmluO0M6XFByb2dyYW0gRmlsZXNcR2l0XHVzclxiaW47QzpcUHJvZ3JhbSBGaWxlc1xDTWFrZVxiaW47QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxXaW5kb3dzIEtpdHNcOC4xXFdpbmRvd3MgUGVyZm9ybWFuY2UgVG9vbGtpdFw7QzpcVXNlcnNcQWRtaW5pc3RyYXRvclxBcHBEYXRhXExvY2FsXFByb2dyYW1zXFB5dGhvblxQeXRob24zNi0zMlwK</text>
+        <text encoding="base64">LWtlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">LWxpYnJhcnlqYXJzICAgbGlicy9ob29rLmphcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
