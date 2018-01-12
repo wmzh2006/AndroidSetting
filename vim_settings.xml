@@ -12,6 +12,12 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" timestamp="1515663926462">
         <mark key="'" line="49" column="30" />
       </file>
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/proguard-rules.pro" timestamp="1515723546389">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/res/menu-large/main.xml" timestamp="1515483999677">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
@@ -85,10 +91,10 @@
         <mark key="]" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/build.gradle" timestamp="1515485827638">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="58" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/build.gradle" timestamp="1515723989876">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
         <mark key="^" line="28" column="58" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/Battery-Indicator-Pro/AndroidManifest.xml" timestamp="1515483491230">
@@ -223,7 +229,7 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/build.gradle" timestamp="1515671461083">
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/build.gradle" timestamp="1515723119417">
         <mark key="[" line="34" column="85" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/androidTest/java/com/play/app/util/ExampleInstrumentedTest.java" timestamp="1515571931217">
@@ -265,6 +271,12 @@
         <mark key="]" line="11" column="74" />
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
+      </file>
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/proguard-rules.pro" timestamp="1515723959085">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="30" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1515656177088">
         <mark key="[" line="0" column="0" />
@@ -376,14 +388,14 @@
       <jump line="49" column="30" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/libs/hook.jar!/com/hook/HookBridge.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RTpcdG9vbHNcYW5kcm9pZFxhbmRyb2lkLW5kay1yMTBlO0M6XFByb2dyYW0gRmlsZXNcSmF2YVxqZGsxLjguMF8xNTFcYmluO0M6XFByb2dyYW0gRmlsZXNcSmF2YVxqZGsxLjguMF8xNTFcbGliOyVBTkRST0lEX1RPT0wlXGJpbjtFOlx0b29sc1xhbmRyb2lkXEU6XGFuZHJvaWRccGxhdGZvcm0tdG9vbHM7QzpcUHJvZ3JhbSBGaWxlc1xTdWJsaW1lIFRleHQgMzslQU5UJTtFOlx0b29sc1xhbmRyb2lkXGFuZHJvaWQtbmRrLXIxMGVcbmRrLWJ1aWxkLmNtZDtDOlxQcm9ncmFtIEZpbGVzXEphdmFcamRrMS44LjBfMTUxXGxpYjtFOlx0b29sc1xhZHRidW5kbGVcc2RrXHRvb2xzXGxpYjtFOlx0b29sc1xhcGFjaGUtYW50LTEuOS45XGJpbjtFOlx0b29sc1xhbmRyb2lkXHBsYXRmb3JtLXRvb2xzXGFkYi5leGU7JUFORFJPSURfU0RLX1JPT1QlXHBsYXRmb3JtLXRvb2xzO0U6XHRvb2xzXGFuZHJvaWRcdG9vbHM7QzpcVXNlcnNcQWRtaW5pc3RyYXRvclxBcHBEYXRhXExvY2FsXFByb2dyYW1zXEZpZGRsZXI7RTpcdG9vbHNcYW5kcm9pZFxwbGF0Zm9ybS10b29scztDOlxQcm9ncmFtIEZpbGVzXFRvcnRvaXNlU1ZOXGJpbjslTVlTUUxfSE9NRSVcYmluXG15c3FsLmV4ZTslTVlTUUxfSE9NRSVcYmluXG15c3FsZC5leGU7JU1pbkd3JVxiaW47JU1pbkd3JVxpbmNsdWRlOyVNaW5HdyVcbGliO0M6XFByb2dyYW0gRmlsZXNcR2l0XHVzclxiaW5cc2guZXhlO0M6XFVzZXJzXEFkbWluaXN0cmF0b3JcQXBwRGF0YVxMb2NhbFxQcm9ncmFtc1xQeXRob25cUHl0aG9uMzYtMzJccHl0aG9uLmV4ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>C:\ProgramData\Anaconda2\Scripts;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>pref_cat_notification_settings_help</text>
@@ -395,40 +407,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JVN5c3RlbVJvb3QlXHN5c3RlbTMyOyVTeXN0ZW1Sb290JTslU3lzdGVtUm9vdCVcU3lzdGVtMzJcV2JlbTslU1lTVEVNUk9PVCVcU3lzdGVtMzJcV2luZG93c1Bvd2VyU2hlbGxcdjEuMFw7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxTa3lwZVxQaG9uZVw7QzpcUHJvZ3JhbSBGaWxlc1xHaXRcY21kO0M6XFByb2dyYW0gRmlsZXNcR2l0XG1pbmd3NjRcYmluO0M6XFByb2dyYW0gRmlsZXNcR2l0XHVzclxiaW47QzpcUHJvZ3JhbSBGaWxlc1xDTWFrZVxiaW47QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxXaW5kb3dzIEtpdHNcOC4xXFdpbmRvd3MgUGVyZm9ybWFuY2UgVG9vbGtpdFw7QzpcVXNlcnNcQWRtaW5pc3RyYXRvclxBcHBEYXRhXExvY2FsXFByb2dyYW1zXFB5dGhvblxQeXRob24zNi0zMlwK</text>
+        <text encoding="base64">LWtlCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">LWtlCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAxOyBqIDwgc3JjUGFyYW1zT2JqLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgICAgICAgICAgb2Jqc1tqXSA9IHNyY1BhcmFtc09ialtqXTsK</text>
+        <text encoding="base64">LWxpYnJhcnlqYXJzICAgbGlicy9ob29rLmphcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIgPSAiMTIzNDUg0tG+rSBob29ro6GjoaOhIjsK</text>
+        <text encoding="base64">JVN5c3RlbVJvb3QlXHN5c3RlbTMyOyVTeXN0ZW1Sb290JTslU3lzdGVtUm9vdCVcU3lzdGVtMzJcV2JlbTslU1lTVEVNUk9PVCVcU3lzdGVtMzJcV2luZG93c1Bvd2VyU2hlbGxcdjEuMFw7QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxTa3lwZVxQaG9uZVw7QzpcUHJvZ3JhbSBGaWxlc1xHaXRcY21kO0M6XFByb2dyYW0gRmlsZXNcR2l0XG1pbmd3NjRcYmluO0M6XFByb2dyYW0gRmlsZXNcR2l0XHVzclxiaW47QzpcUHJvZ3JhbSBGaWxlc1xDTWFrZVxiaW47QzpcUHJvZ3JhbSBGaWxlcyAoeDg2KVxXaW5kb3dzIEtpdHNcOC4xXFdpbmRvd3MgUGVyZm9ybWFuY2UgVG9vbGtpdFw7QzpcVXNlcnNcQWRtaW5pc3RyYXRvclxBcHBEYXRhXExvY2FsXFByb2dyYW1zXFB5dGhvblxQeXRob24zNi0zMlwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgoKFN0cmluZykgc3JjUGFyYW1zT2JqWzBdKS5lcXVhbHMoIjEyMzQ1w7vT0Ghvb2siKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAxOyBqIDwgc3JjUGFyYW1zT2JqLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgICAgICAgICAgb2Jqc1tqXSA9IHNyY1BhcmFtc09ialtqXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1ZXN0QWdlbnQoIjE1M0Q4RTMwQzQ2NzM3RDQxRDlBNTJCM0EyRTJFRjFEIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIgPSAiMTIzNDUg0tG+rSBob29ro6GjoaOhIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRTaXplKEFkU2l6ZS5TTUFSVF9CQU5ORVIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgoKFN0cmluZykgc3JjUGFyYW1zT2JqWzBdKS5lcXVhbHMoIjEyMzQ1w7vT0Ghvb2siKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNb2JpbGVBZHMuaW5pdGlhbGl6ZShnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgQVBQX0lEX0EpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
