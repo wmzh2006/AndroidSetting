@@ -47,6 +47,12 @@
         <mark key="^" line="33" column="33" />
         <mark key="." line="33" column="4" />
       </file>
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/AdMethodHook.java" timestamp="1516009020434">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+      </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/res/values/colors.xml" timestamp="1515984266314">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -61,9 +67,10 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1515757690682">
+      <file name="/LLDB" timestamp="1516008179005">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.weishu/epic/0.3.6/c88262c1047a0344ff88c66b36e7a2e7e8110268/epic-0.3.6-sources.jar!/com/taobao/android/dexposed/DexposedBridge.java" timestamp="1516006811271" />
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/internal/zzly.class" timestamp="1515758376074">
         <mark key="'" line="17" column="17" />
       </file>
@@ -85,13 +92,13 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/internal/zzjq.class" timestamp="1515756471377">
         <mark key="'" line="130" column="34" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1515986753610">
-        <mark key="[" line="113" column="33" />
-        <mark key="]" line="113" column="34" />
-        <mark key="^" line="31" column="44" />
-        <mark key="." line="113" column="34" />
+      <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" timestamp="1516008938543">
+        <mark key="[" line="103" column="68" />
+        <mark key="]" line="103" column="68" />
+        <mark key="^" line="103" column="96" />
+        <mark key="." line="103" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1515738609668">
+      <file name="/fragment.java" timestamp="1516006182916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/AnalyticsDemo/build.gradle" timestamp="1515544829170">
@@ -105,7 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/src/main/java/fr/tvbarthel/games/chasewhisply/TrackingReceiver.java" />
       <jump line="8" column="3" filename="E:/AndroidStudioProjects/Project/app/src/main/res/layout/activity_main.xml" />
       <jump line="45" column="42" filename="E:/AndroidStudioProjects/Project/ChaseWhisply/build.gradle" />
       <jump line="2631" column="26" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
@@ -205,61 +211,62 @@
       <jump line="21" column="17" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/internal/zzjr.class" />
       <jump line="61" column="20" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/internal/zzjr.class" />
       <jump line="17" column="17" filename="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/67813d46fe975013ef9336112987fbe6/jars/classes.jar!/com/google/android/gms/internal/zzly.class" />
+      <jump line="176" column="4" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29tcGlsZSA=</text>
+        <text>Context.class, String.class</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcGlsZSA=</text>
+        <text>Context.class, String.class</text>
       </register>
       <register name="/" type="4">
         <text>zzbgo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBRFVOSVRfSURfQiA9ICJjYS1hcHAtcHViLTQzOTIzNTk3MDg0MTk2ODYvODQzMTQ5OTkyNiI7Ly8iY2EtYXBwLXB1Yi0zOTQwMjU2MDk5OTQyNTQ0LzYzMDA5NzgxMTEiOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgibGl1a20iLCAiaWQ6ICIgKyBhLmdldEFkVW5pdElkKCkpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBhbmRyb2lkLmNvbnRlbnQuQ29udGVudFZhbHVlcy5UQUc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob29rLmJlYW4uSG9va01ldGhvZEluZm87Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd05vVGl0bGUiPjwvaXRlbT4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob29rLkhvb2tlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob29rLkhvb2tCcmlkZ2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob29rLkhvb2tDYWxsYmFjazsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRVbml0SWQoQURVTklUX0lEX0EpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IERleHBvc2VkQnJpZGdlLmhvb2tBbGxDb25zdHJ1Y3RvcnMoVGhyZWFkLmNsYXNzLCBuZXcgWENfTWV0aG9kSG9vaygpIHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwcm90ZWN0ZWQgdm9pZCBhZnRlckhvb2tlZE1ldGhvZChNZXRob2RIb29rUGFyYW0gcGFyYW0pIHRocm93cyBUaHJvd2FibGUgewogICAgICAgICAgICBzdXBlci5hZnRlckhvb2tlZE1ldGhvZChwYXJhbSk7CiAgICAgICAgICAgIFRocmVhZCB0aHJlYWQgPSAoVGhyZWFkKSBwYXJhbS50aGlzT2JqZWN0OwogICAgICAgICAgICBDbGFzczw/PiBjbGF6eiA9IHRocmVhZC5nZXRDbGFzcygpOwogICAgICAgICAgICBpZiAoY2xhenogIT0gVGhyZWFkLmNsYXNzKSB7CiAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJmb3VuZCBjbGFzcyBleHRlbmQgVGhyZWFkOiIgKyBjbGF6eik7CiAgICAgICAgICAgICAgICBEZXhwb3NlZEJyaWRnZS5maW5kQW5kSG9va01ldGhvZChjbGF6eiwgInJ1biIsIG5ldyBUaHJlYWRNZXRob2RIb29rKCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIExvZy5kKFRBRywgIlRocmVhZDogIiArIHRocmVhZC5nZXROYW1lKCkgKyAiIGNsYXNzOiIgKyB0aHJlYWQuZ2V0Q2xhc3MoKSArICAiIGlzIGNyZWF0ZWQuIik7CiAgICAgICAgfQogICAgfSk7CiAgICAKICAgIERleHBvc2VkQnJpZGdlLmZpbmRBbmRIb29rTWV0aG9kKFRocmVhZC5jbGFzcywgInJ1biIsIG5ldyBUaHJlYWRNZXRob2RIb29rKCkpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZFZpZXcuc2V0QWRTaXplKEFkU2l6ZS5CQU5ORVIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50YW9iYW8uYW5kcm9pZC5kZXhwb3NlZC5EZXhwb3NlZEJyaWRnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuZmlyZWJhc2U6ZmlyZWJhc2UtYWRzOjExLjguMCcK</text>
+        <text encoding="base64">ICAgIERleHBvc2VkQnJpZGdlLmhvb2tBbGxDb25zdHJ1Y3RvcnMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBob29rX2luaXQoTWFpbkFjdGl2aXR5LmNsYXNzLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgIERleHBvc2VkQnJpZGdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@+android/@android/g</text>
