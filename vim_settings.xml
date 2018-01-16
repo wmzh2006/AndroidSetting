@@ -12,7 +12,6 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/res/values/strings.xml" timestamp="1515755304242">
         <mark key="[" line="10" column="75" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/GameSnake/src/main/AndroidManifest.xml" timestamp="1516020294335" />
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/AdMethodHook.java" timestamp="1516010687886">
         <mark key="[" line="15" column="79" />
         <mark key="]" line="16" column="38" />
@@ -34,14 +33,12 @@
       <file name="D:/StudioProjects/Corde/app/proguard-rules.pro" timestamp="1515055511726">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/tasks/bundling/AbstractArchiveTask.java" timestamp="1516067328941" />
       <file name="D:/StudioProjects/AlarmClock/2048/app/src/main/java/com/happy/young/game2048/ReceiverTest.java" timestamp="1516023754182">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="25" />
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/2048/app/src/main/java/com/happy/young/game2048/TrackingReceiver.java" timestamp="1516021927109" />
       <file name="/Dummy.txt" timestamp="1516023645764">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,13 +59,17 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="E:/hook/MyApplication/MyApplication/app/build.gradle" timestamp="1516084265234">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/AndroidManifest.xml" timestamp="1515984184711">
         <mark key="[" line="13" column="30" />
         <mark key="]" line="13" column="52" />
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
-      <file name="D:/StudioProjects/AlarmClock/epic/library/build.gradle" timestamp="1516014328161" />
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/java/com/eamo/qsac/admobone/MainActivity.java" timestamp="1515984910714">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="23" />
@@ -104,23 +105,22 @@
         <mark key="]" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1516063316621">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="118" />
+        <mark key="^" line="0" column="118" />
+        <mark key="." line="0" column="118" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/library/build.gradle" timestamp="1516072576485">
         <mark key="[" line="46" column="53" />
         <mark key="]" line="46" column="52" />
         <mark key="." line="46" column="52" />
         <mark key="^" line="46" column="52" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/GameSnake/build.gradle" timestamp="1516020228064" />
       <file name="D:/StudioProjects/AlarmClock/2048/app/src/main/java/me/veryyoung/game2048/XxApplication.java" timestamp="1516021683639">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1516063316621">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="118" />
-        <mark key="^" line="0" column="118" />
-        <mark key="." line="0" column="118" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/res/values/styles.xml" timestamp="1515984346913">
         <mark key="[" line="3" column="57" />
@@ -278,8 +278,8 @@
       <jump line="6" column="0" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/TestHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdtZS53ZWlzaHU6ZXBpYzowLjMuNicK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -297,41 +297,41 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUoImNsYXNzZXMuamFyIilkZGsK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdtZS53ZWlzaHU6ZXBpYzowLjMuNicK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4dGUK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoImNsYXNzZXMuamFyIilkZGsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGV4dGUK</text>
+      </register>
+      <register name="4" type="4">
         <text>.toString();
 }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSAnYnVpbGQvbGlicy9ob29rLmphcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSAnYnVpbGQvbGlicy9ob29rLmphcicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFzayBjbGVhckphcih0eXBlOiBEZWxldGUpIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFzayBjbGVhckphcih0eXBlOiBEZWxldGUpIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBkb0xhc3QgewogICAgICAgIGNvcHlMaWIKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
