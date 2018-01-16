@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/andfix.cpp" timestamp="1515748612569">
@@ -59,10 +59,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="E:/hook/MyApplication/MyApplication/app/build.gradle" timestamp="1516084265234">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="41" />
-        <mark key="." line="54" column="0" />
+      <file name="E:/hook/MyApplication/MyApplication/app/build.gradle" timestamp="1516085613267">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/AndroidManifest.xml" timestamp="1515984184711">
         <mark key="[" line="13" column="30" />
@@ -278,14 +279,14 @@
       <jump line="6" column="0" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/TestHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdtZS53ZWlzaHU6ZXBpYzowLjMuNicK</text>
+      <register name="&quot;" type="4">
+        <text>liillllll</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>liillllll</text>
       </register>
       <register name="/" type="4">
         <text>zzbgo</text>
