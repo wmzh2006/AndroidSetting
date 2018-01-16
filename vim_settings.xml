@@ -34,6 +34,7 @@
       <file name="D:/StudioProjects/Corde/app/proguard-rules.pro" timestamp="1515055511726">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/tasks/bundling/AbstractArchiveTask.java" timestamp="1516067328941" />
       <file name="D:/StudioProjects/AlarmClock/2048/app/src/main/java/com/happy/young/game2048/ReceiverTest.java" timestamp="1516023754182">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="25" />
@@ -103,14 +104,23 @@
         <mark key="]" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/library/build.gradle" timestamp="1516024539056">
-        <mark key="[" line="36" column="5" />
+      <file name="E:/AndroidStudioProjects/Project/library/build.gradle" timestamp="1516068602401">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/GameSnake/build.gradle" timestamp="1516020228064" />
       <file name="D:/StudioProjects/AlarmClock/2048/app/src/main/java/me/veryyoung/game2048/XxApplication.java" timestamp="1516021683639">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1516063316621">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="118" />
+        <mark key="^" line="0" column="118" />
+        <mark key="." line="0" column="118" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/res/values/styles.xml" timestamp="1515984346913">
         <mark key="[" line="3" column="57" />
@@ -269,58 +279,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSIiZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>targetCompatibility</text>
       </register>
       <register name="/" type="4">
         <text>zzbgo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgibGl1a20iLCAiaWQ6ICIgKyBhLmdldEFkVW5pdElkKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>buildDir.getParentFile().absolutePath + java.io.File.separator + &quot;libs&quot;</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSIiZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlbGVhc2UuUmVhbHNlQ29uZmlnOwo=</text>
+        <text encoding="base64">ICAgIG1hbmlmCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wbGF5X2ltcGwubGliLmNpZC5DaGFubmVsVXRpbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbmRyb2lkLnByb3ZpZGVycy5jZXJ0aW5zdGFsbGVyLlNES1V0aWw7Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VOYW1lIGZpbGVOYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhbiBJbnRlbnQgYnJvYWRjYXN0Lgo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSByZWxlYXNlRGlyICsgRmlsZS5zZXBhcmF0b3IgKyBmaWxlTmFtZSAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgIGludG8oJ2xpYnMnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBUaGlzIG1ldGhvZCBpcyBjYWxsZWQgd2hlbiB0aGUgQnJvYWRjYXN0UmVjZWl2ZXIgaXMgcmVjZWl2aW5nCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5hcHBldmVudHMuQXBwRXZlbnRzTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkRGlyLmdldFBhcmVudEZpbGUoKS5nZXRBYnNvbHV0ZUZpbGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
