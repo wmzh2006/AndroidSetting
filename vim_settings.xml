@@ -164,6 +164,9 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="7" column="43" />
       </file>
+      <file name="E:/tools/AndroidKiller/projects/-facebook/Project/smali/com/facebook/lite/MainActivity.smali" timestamp="1526651182112">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1516021827507">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2631" column="26" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="4" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="10" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="19" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
@@ -283,6 +285,7 @@
       <jump line="176" column="4" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/MainActivity.java" />
       <jump line="9" column="29" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/TestHook.java" />
       <jump line="6" column="0" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/TestHook.java" />
+      <jump line="13" column="0" filename="E:/tools/AndroidKiller/projects/-facebook/Project/smali/com/facebook/lite/MainActivity.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,7 +298,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>zzbgo</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgRGF0ZSgiIikK</text>
@@ -347,9 +350,9 @@
       </register>
     </registers>
     <search>
-      <last-search>zzbgo</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern>zzbgo</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>@android</last-replace>
       <last-substitute>@+android</last-substitute>
       <last-dir>1</last-dir>
@@ -357,8 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#</entry>
-        <entry>Action</entry>
         <entry>ENABLE_BroadcastReceiver</entry>
         <entry>getDataByTagNameWIthAlt</entry>
         <entry>getDataByTagNameWithValue</entry>
@@ -377,6 +378,8 @@
         <entry>zzapq</entry>
         <entry>zzber</entry>
         <entry>zzbgo</entry>
+        <entry>oncreate</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@id/@+id/g</entry>
