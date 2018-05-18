@@ -128,8 +128,11 @@
         <mark key="^" line="7" column="42" />
         <mark key="." line="7" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1526646614513">
-        <mark key="[" line="28" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1526649295165">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/res/values/strings.xml" timestamp="1515726716980">
         <mark key="[" line="12" column="37" />
@@ -283,13 +286,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">CnwgYWEgfCBhYSB8IGEgfCBhIHwgYQp8LS0tfDotLS06fCAtLS0gfCA6LS0tOiB8IDotLS06IHwKfCBhIHwgYSB8IGF8Cgo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>zzbgo</text>
@@ -300,45 +303,47 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdtZS53ZWlzaHU6ZXBpYzowLjMuNicK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnwgYWEgfCBhYSB8IGEgfCBhIHwgYQp8LS0tfDotLS06fCAtLS0gfCA6LS0tOiB8IDotLS06IHwKfCBhIHwgYSB8IGF8Cgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUoImNsYXNzZXMuamFyIilkZGsK</text>
+      <register name="2" type="4">
+        <text>| aa |aa |
+|-------|
+|aaa | aa|</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4dGUK</text>
+        <text encoding="base64">KiAgIGFhYQoqICAgYmJiCmFhIGFhYWFhYQoxLiAgYWFhYWFhYQoyLiAgYWFhYWFhYWFhYWFhYQoKICAgIEhlcmUgaXMgYW4gZXhhbXBsZSBvZiBBcHBsZVNjcmlwdAogICAgYHRlbGwgYXBwbGljYXRpb24gIkZvbyIKICAgICAgICAgYmVlcAogICAgICAgIGVuZCB0ZWxsYAoKLS0tLS0tLS0tLS0tLS0KVGhpcyBpcyBbYW4gZXhhbXBsZV0oaHR0cDovL2V4YW1wbGUuY29tLyAiVGl0bGUiKSBpbmxpbmUgbGluay4KW1RoaXMgbGlua10oaHR0cDovL2V4YW1wbGUubmV0LykgaGFzIG5vIHRpdGxlIGF0dHJpYnV0ZS4KU2VlIG15IFtBYm91dF0oL2Fib3V0LykgcGFnZSBmb3IgZGV0YWlscy4KVGhpcyBpcyBbYW4gZXhhbXBsZV1baWRdIHJlZmVyZW5jZS1zdHlsZSBsaW5rLgpbaWRdOiBodHRwOi8vZXhhbXBsZS5jb20vICAiT3B0aW9uYWwgVGl0bGUgSGVyZSIKW2lkXTogaHR0cDovL3d3dy5iYWlkdS5jb20vICJhYWEiCgpJIGdldCAxMCB0aW1lcyBtb3JlIHRyYWZmaWMgZnJvbSBbR29vZ2xlXSBbMV0gdGhhbiBmcm9tCltZYWhvb10gWzJdIG9yIFtNU05dIFszXS4KCiAgWzFdOiBodHRwOi8vZ29vZ2xlLmNvbS8gICAgICAgICJHb29nbGUiCiAgWzJdOiBodHRwOi8vc2VhcmNoLnlhaG9vLmNvbS8gICJZYWhvbyBTZWFyY2giCiAgWzNdOiBodHRwOi8vc2VhcmNoLm1zbi5jb20vICAgICJNU04gU2VhcmNoIgoKKmFhYWEqCl9hYV8KKiphYWEqKgo8aHR0cDovL2V4YW1wbGUuY29tLz4KCmFhYSBbYV0gWzFdIGFhYQoKIFsxXTogaHR0cDovL3d3dy5iYWl1ZC5jb20gICAiYSIKCi0tLS0tLS0tLS0tLS0tLS0KYWFhCgotLS0tLS0tLS0tLS0tCgoKKioqKioqKioqKioqKioqCgo9PT09PT09PT09PT09PT09PT09PT09PQoKIVtBbHQgdGV4dF0oaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS50dy9pbWFnZXMvYnJhbmRpbmcvZ29vZ2xlbG9nby8yeC9nb29nbGVsb2dvX2NvbG9yXzI3Mng5MmRwLnBuZyAiT3B0aW9uYWwgdGl0bGUiKQpgYGAKYWFhYWFhYWFhYWFhYQpgYGBgYGBgYGBgYGBgYGAK</text>
       </register>
       <register name="4" type="4">
-        <text>.toString();
-}</text>
+        <text encoding="base64">YWFhIFtHb29nbGVdIFsxXQoKICBbMV06IGh0dHA6Ly93d3cuYmFpZHUuY29tLyAgICAgIkdhb29nbGUiCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CkkgZ2V0IDEwIHRpbWVzIG1vcmUgdHJhZmZpYyBmcm9tIFtHb29nbGVdIFsxXSB0aGFuIGZyb20KW1lhaG9vXSBbMl0gb3IgW01TTl0gWzNdLg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSAnYnVpbGQvbGlicy9ob29rLmphcicK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdtZS53ZWlzaHU6ZXBpYzowLjMuNicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoImNsYXNzZXMuamFyIilkZGsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGFzayBjbGVhckphcih0eXBlOiBEZWxldGUpIHsK</text>
+        <text encoding="base64">ICAgIGV4dGUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.toString();
+}</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>0,$d</text>
       </register>
     </registers>
     <search>
@@ -390,10 +395,10 @@
         <entry>.,-1$</entry>
         <entry>.,$-1 d</entry>
         <entry>.,$d</entry>
-        <entry>0,$d</entry>
         <entry>%s/@+android/@android/gn</entry>
         <entry>%s/@+android/@android/g</entry>
         <entry>w</entry>
+        <entry>0,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
