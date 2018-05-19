@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/adba/weba/acaw/DaemonService.java" timestamp="1526718364641">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="13" />
+        <mark key="." line="82" column="13" />
+        <mark key="^" line="82" column="27" />
+      </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/andfix.cpp" timestamp="1515748612569">
         <mark key="[" line="62" column="27" />
         <mark key="]" line="62" column="26" />
@@ -38,6 +44,11 @@
       </file>
       <file name="D:/StudioProjects/Corde/app/proguard-rules.pro" timestamp="1515055511726">
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Coin/app/build.gradle" timestamp="1526718175439">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/2048/app/src/main/java/com/happy/young/game2048/ReceiverTest.java" timestamp="1516023754182">
         <mark key="[" line="12" column="22" />
@@ -101,6 +112,7 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1526718255770" />
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/build.gradle" timestamp="1516005955116">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
@@ -301,13 +313,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>.....................&quot;);</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>.....................&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
@@ -319,42 +331,42 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YSAgICAgICB8IGIK</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tICAgICB8IC0tLQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MSAgICAgICB8ICAyCg==</text>
+        <text encoding="base64">YSAgICAgICB8IGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09Cg==</text>
+        <text encoding="base64">LS0tICAgICB8IC0tLQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnwgYWEgfCBhYSB8IGEgfCBhIHwgYQp8LS0tfDotLS06fCAtLS0gfCA6LS0tOiB8IDotLS06IHwKfCBhIHwgYSB8IGF8Cgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">MSAgICAgICB8ICAyCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">PT09Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CnwgYWEgfCBhYSB8IGEgfCBhIHwgYQp8LS0tfDotLS06fCAtLS0gfCA6LS0tOiB8IDotLS06IHwKfCBhIHwgYSB8IGF8Cgo=</text>
+      </register>
+      <register name="8" type="4">
         <text>| aa |aa |
 |-------|
 |aaa | aa|</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">KiAgIGFhYQoqICAgYmJiCmFhIGFhYWFhYQoxLiAgYWFhYWFhYQoyLiAgYWFhYWFhYWFhYWFhYQoKICAgIEhlcmUgaXMgYW4gZXhhbXBsZSBvZiBBcHBsZVNjcmlwdAogICAgYHRlbGwgYXBwbGljYXRpb24gIkZvbyIKICAgICAgICAgYmVlcAogICAgICAgIGVuZCB0ZWxsYAoKLS0tLS0tLS0tLS0tLS0KVGhpcyBpcyBbYW4gZXhhbXBsZV0oaHR0cDovL2V4YW1wbGUuY29tLyAiVGl0bGUiKSBpbmxpbmUgbGluay4KW1RoaXMgbGlua10oaHR0cDovL2V4YW1wbGUubmV0LykgaGFzIG5vIHRpdGxlIGF0dHJpYnV0ZS4KU2VlIG15IFtBYm91dF0oL2Fib3V0LykgcGFnZSBmb3IgZGV0YWlscy4KVGhpcyBpcyBbYW4gZXhhbXBsZV1baWRdIHJlZmVyZW5jZS1zdHlsZSBsaW5rLgpbaWRdOiBodHRwOi8vZXhhbXBsZS5jb20vICAiT3B0aW9uYWwgVGl0bGUgSGVyZSIKW2lkXTogaHR0cDovL3d3dy5iYWlkdS5jb20vICJhYWEiCgpJIGdldCAxMCB0aW1lcyBtb3JlIHRyYWZmaWMgZnJvbSBbR29vZ2xlXSBbMV0gdGhhbiBmcm9tCltZYWhvb10gWzJdIG9yIFtNU05dIFszXS4KCiAgWzFdOiBodHRwOi8vZ29vZ2xlLmNvbS8gICAgICAgICJHb29nbGUiCiAgWzJdOiBodHRwOi8vc2VhcmNoLnlhaG9vLmNvbS8gICJZYWhvbyBTZWFyY2giCiAgWzNdOiBodHRwOi8vc2VhcmNoLm1zbi5jb20vICAgICJNU04gU2VhcmNoIgoKKmFhYWEqCl9hYV8KKiphYWEqKgo8aHR0cDovL2V4YW1wbGUuY29tLz4KCmFhYSBbYV0gWzFdIGFhYQoKIFsxXTogaHR0cDovL3d3dy5iYWl1ZC5jb20gICAiYSIKCi0tLS0tLS0tLS0tLS0tLS0KYWFhCgotLS0tLS0tLS0tLS0tCgoKKioqKioqKioqKioqKioqCgo9PT09PT09PT09PT09PT09PT09PT09PQoKIVtBbHQgdGV4dF0oaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS50dy9pbWFnZXMvYnJhbmRpbmcvZ29vZ2xlbG9nby8yeC9nb29nbGVsb2dvX2NvbG9yXzI3Mng5MmRwLnBuZyAiT3B0aW9uYWwgdGl0bGUiKQpgYGAKYWFhYWFhYWFhYWFhYQpgYGBgYGBgYGBgYGBgYGAK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">YWFhIFtHb29nbGVdIFsxXQoKICBbMV06IGh0dHA6Ly93d3cuYmFpZHUuY29tLyAgICAgIkdhb29nbGUiCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CkkgZ2V0IDEwIHRpbWVzIG1vcmUgdHJhZmZpYyBmcm9tIFtHb29nbGVdIFsxXSB0aGFuIGZyb20KW1lhaG9vXSBbMl0gb3IgW01TTl0gWzNdLg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
