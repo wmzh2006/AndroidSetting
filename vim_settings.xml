@@ -38,6 +38,12 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526726186723">
+        <mark key="[" line="137" column="85" />
+        <mark key="]" line="137" column="53" />
+        <mark key="^" line="137" column="51" />
+        <mark key="." line="137" column="53" />
+      </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,6 +124,7 @@
         <mark key="^" line="33" column="33" />
         <mark key="." line="33" column="4" />
       </file>
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/MainActivity.java" timestamp="1526723624639" />
       <file name="E:/AndroidStudioProjects/Project/library/build.gradle" timestamp="1516072576485">
         <mark key="[" line="46" column="53" />
         <mark key="]" line="46" column="52" />
@@ -291,20 +298,20 @@
       <jump line="13" column="0" filename="E:/tools/AndroidKiller/projects/-facebook/Project/smali/com/facebook/lite/MainActivity.smali" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6bGNvaW4iCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV1c2x0IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>acaw</text>
+        <text encoding="base64">cmV1c2x0IA==</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W2FhYV0oI2FhYSkK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBqc1N0cmluZyA9ICJqYXZhc2NyaXB0OihzZXRJbnRlcnZhbChmdW5jdGlvbigpe3dpbmRvdy5vYmoubG9jYWwoJycpO30sIDEwKSkiOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
