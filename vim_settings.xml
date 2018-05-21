@@ -23,11 +23,10 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526887142402">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="86" />
-        <mark key="." line="24" column="70" />
-        <mark key="^" line="24" column="70" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526904288100">
+        <mark key="[" line="23" column="76" />
+        <mark key="]" line="23" column="76" />
+        <mark key="." line="23" column="76" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/KeepAliveReceiver.java" timestamp="1526882842195">
         <mark key="[" line="18" column="30" />
@@ -38,11 +37,11 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526901879298">
-        <mark key="[" line="154" column="59" />
-        <mark key="]" line="154" column="59" />
-        <mark key="^" line="154" column="38" />
-        <mark key="." line="154" column="59" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526904300126">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="80" />
+        <mark key="^" line="44" column="65" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -93,11 +92,11 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1526886479418">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="34" column="84" />
-        <mark key="." line="34" column="84" />
-        <mark key="^" line="34" column="84" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1526904326445">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="33" column="84" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/app/build.gradle" timestamp="1516005955116">
         <mark key="[" line="33" column="4" />
@@ -129,6 +128,9 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="35" />
       </file>
+      <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1526904612863" />
+      <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/android/providers/certinstaller/com/HttpRunner.class" timestamp="1526904513662" />
+      <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/eve/tra/util/HttpDataUtil.class" timestamp="1526904558333" />
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/andfix.cpp" timestamp="1515748612569">
         <mark key="[" line="62" column="27" />
         <mark key="]" line="62" column="26" />
@@ -363,61 +365,59 @@
       <jump line="24" column="19" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+appProcessInfo.processName</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgInN0b3BTZXJ2aWNlIiwgIiIsICIiLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uY29uZmlnKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMjAxODAzMjExNDUwIixudWxsLCJDQ0MiKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uU1lTVEVNX0FMRVJUX1dJTkRPVyIvPmRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text>else {
-                    Log.i(tag, &quot;init error&quot;);
-                }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLmNvbmZpZyhnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIjIwMTgwMzIxMTQ1MCIsbnVsbCwiQ0MiKTsKICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJzdGFydCIsICIiLCAiIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24uY29uZmlnKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMjAxODAzMjExNDUwIixudWxsLCJDQ0MiKTsKICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9wZW4iLCAiIiwgIiIrYXBwUHJvY2Vzc0luZm8ucHJvY2Vzc05hbWUsICIiKTsKICAgICAgICAgICAgICAgICAgICBMb2cuaSh0YWcsICJpbml0Iik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBBY3Rpdml0eU1hbmFnZXIgYW0gPSAoQWN0aXZpdHlNYW5hZ2VyKSBnZXRTeXN0ZW1TZXJ2aWNlKEFDVElWSVRZX1NFUlZJQ0UpOwogICAgICAgICAgICBMaXN0PEFjdGl2aXR5TWFuYWdlci5SdW5uaW5nQXBwUHJvY2Vzc0luZm8+IGluZm9MaXN0ID0gYW0uZ2V0UnVubmluZ0FwcFByb2Nlc3NlcygpOwogICAgICAgICAgICBmb3IgKEFjdGl2aXR5TWFuYWdlci5SdW5uaW5nQXBwUHJvY2Vzc0luZm8gYXBwUHJvY2Vzc0luZm8gOiBpbmZvTGlzdCkgewogICAgICAgICAgICAgICAgaWYgKGFwcFByb2Nlc3NJbmZvLnByb2Nlc3NOYW1lLmVxdWFscyhnZXRQYWNrYWdlTmFtZSgpKSkgew==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLndhbW8uYW1vLmNvaW4uQnVpbGRDb25maWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
