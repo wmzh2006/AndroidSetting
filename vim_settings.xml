@@ -32,11 +32,11 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526887182164">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="74" />
-        <mark key="^" line="42" column="74" />
-        <mark key="." line="42" column="74" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526890675428">
+        <mark key="[" line="120" column="62" />
+        <mark key="]" line="120" column="62" />
+        <mark key="^" line="120" column="62" />
+        <mark key="." line="120" column="62" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -349,20 +349,20 @@
       <jump line="24" column="19" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9wZW4iLCAiIiwgIiIsICIiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9wZW4iLCAiIiwgIiIsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgInN0b3BTZXJ2aWNlIiwgIiIsICIiLCAiIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
