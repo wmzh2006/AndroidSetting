@@ -17,11 +17,11 @@
         <mark key="^" line="11" column="66" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526885725876">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526887142402">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="86" />
+        <mark key="." line="24" column="70" />
+        <mark key="^" line="24" column="70" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/KeepAliveReceiver.java" timestamp="1526882842195">
         <mark key="[" line="18" column="30" />
@@ -32,11 +32,11 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526884954626">
-        <mark key="[" line="143" column="26" />
-        <mark key="]" line="142" column="27" />
-        <mark key="^" line="142" column="27" />
-        <mark key="." line="142" column="27" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526887182164">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="74" />
+        <mark key="^" line="42" column="74" />
+        <mark key="." line="42" column="74" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -86,7 +86,7 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1526885603732">
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1526886479418">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="34" column="84" />
         <mark key="." line="34" column="84" />
@@ -115,9 +115,6 @@
         <mark key="]" line="103" column="41" />
         <mark key="^" line="86" column="50" />
         <mark key="." line="103" column="41" />
-      </file>
-      <file name="E:/tools/AndroidKiller/projects/-facebook/Project/smali/com/facebook/lite/MainActivity.smali" timestamp="1526651182112">
-        <mark key="'" line="13" column="0" />
       </file>
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/andfix.cpp" timestamp="1515748612569">
         <mark key="[" line="62" column="27" />
@@ -205,6 +202,7 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1526885777011" />
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/admobone/src/main/res/values/strings.xml" timestamp="1515726716980">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="74" />
@@ -249,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="10" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="19" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
       <jump line="25" column="0" filename="E:/tools/AndroidKiller/projects/com.macropinch.axe/Project/smali/com/macropinch/axe/MainActivity.smali" />
@@ -349,61 +346,64 @@
       <jump line="9" column="29" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/TestHook.java" />
       <jump line="6" column="0" filename="D:/StudioProjects/AlarmClock/AdmobTest/app/src/main/java/com/eadw/admobtest/TestHook.java" />
       <jump line="13" column="0" filename="E:/tools/AndroidKiller/projects/-facebook/Project/smali/com/facebook/lite/MainActivity.smali" />
+      <jump line="24" column="19" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MainService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9wZW4iLCAiIiwgIiIsICIiKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MainService</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBqc1N0cmluZyA9ICJqYXZhc2NyaXB0OihzZXRJbnRlcnZhbChmdW5jdGlvbigpe3dpbmRvdy5vYmoubG9jYWwoJycpO30sIDEwKSkiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9wZW4iLCAiIiwgIiIsICIiKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJCg==</text>
+      <register name="1" type="4">
+        <text>else {
+                    Log.i(tag, &quot;init error&quot;);
+                }</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLndhbW8uYW1vLmNvaW4uQnVpbGRDb25maWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLmNvbmZpZyhnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIjIwMTgwMzIxMTQ1MCIsbnVsbCwiQ0MiKTsKICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJzdGFydCIsICIiLCAiIiwgIiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLndhbW8uYW1vLmNvaW4uUjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBpZiAobnVsbCAhPSBwSW50ZW50KXsKICAgICAgICAgICAgc3dpdGNoIChwSW50ZW50LmdldEFjdGlvbigpKXsKICAgICAgICAgICAgICAgIGNhc2UgQUNUSU9OX1NUQVJUOgoKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQUNUSU9OX0FMQVJNOgoKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQUNUSU9OX0VORF9TVEFSVDoKCiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgKCFtSXNBZGRBbGl2ZUFsYXJtKXsKICAgICAgICAgICAgYWRkQWxpdmVBbGFybSgpOwogICAgICAgICAgICBtSXNBZGRBbGl2ZUFsYXJtID0gdHJ1ZTsKICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBlbmRpbmdJbnRlbnQuRkxBR19VUERBVEVfQ1VSUkVOVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwZW5kaW5nSW50ZW50ID0gUGVuZGluZ0ludGVudC5nZXRCcm9hZGNhc3QoY29udGV4dCwgOTk5LCBsb2NhbCwK</text>
+        <text encoding="base64">aW1wb3J0IGpwLndhbW8uYW1vLmNvaW4uQnVpbGRDb25maWc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kQnJvYWRjYXN0KG5ldyBJbnRlbnQodGhpcywgS2VlcEFsaXZlUmVjZWl2ZXIuY2xhc3MpKTsKICAgICAgICBwZW5kaW5nSW50ZW50ID0gUGVuZGluZ0ludGVudC5nZXRCcm9hZGNhc3QoY29udGV4dCwgOTk5LCBsb2NhbCwK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlbnQgbG9jYWwgPSBuZXcgSW50ZW50KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLndhbW8uYW1vLmNvaW4uUjsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
