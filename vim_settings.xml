@@ -25,10 +25,10 @@
       <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/android/providers/certinstaller/com/DebugLog.class" timestamp="1526907758353">
         <mark key="'" line="21" column="19" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526907718243">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526908399145">
+        <mark key="[" line="32" column="82" />
+        <mark key="]" line="32" column="82" />
+        <mark key="." line="32" column="82" />
         <mark key="^" line="23" column="35" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/KeepAliveReceiver.java" timestamp="1526882842195">
@@ -40,10 +40,11 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526906654075">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="82" />
-        <mark key="." line="56" column="0" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526908663906">
+        <mark key="[" line="154" column="54" />
+        <mark key="]" line="154" column="59" />
+        <mark key="." line="154" column="59" />
+        <mark key="^" line="154" column="59" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -105,11 +106,11 @@
         <mark key="^" line="33" column="33" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/MainService.java" timestamp="1526875334134">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/MainService.java" timestamp="1526908601354">
+        <mark key="[" line="19" column="87" />
+        <mark key="]" line="19" column="87" />
         <mark key="^" line="57" column="5" />
-        <mark key="." line="13" column="0" />
+        <mark key="." line="19" column="87" />
       </file>
       <file name="$USER_HOME$/Desktop/test.md" timestamp="1526701605207">
         <mark key="[" line="109" column="4" />
@@ -129,8 +130,6 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="35" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1526907494900" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1526907521652" />
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/KK/src/main/cpp/andfix.cpp" timestamp="1515748612569">
         <mark key="[" line="62" column="27" />
         <mark key="]" line="62" column="26" />
@@ -186,6 +185,12 @@
       </file>
       <file name="E:/AndroidStudioProjects/Shower/app/src/main/AndroidManifest.xml" timestamp="1526867064408">
         <mark key="[" line="4" column="16" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/Sp.java" timestamp="1526909020619">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="28" column="53" />
+        <mark key="^" line="28" column="53" />
+        <mark key="." line="28" column="53" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/MainActivity.java" timestamp="1526882572866">
         <mark key="[" line="38" column="34" />
@@ -247,7 +252,7 @@
         <mark key="^" line="27" column="59" />
         <mark key="." line="27" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1526885448432">
+      <file name="/fragment.java" timestamp="1526908720186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/AnalyticsDemo/build.gradle" timestamp="1515544829170">
@@ -364,13 +369,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ClassNotFound</text>
+        <text encoding="base64">ID0gbmV3IFNwKCk=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ClassNotFound</text>
+        <text encoding="base64">ID0gbmV3IFNwKCk=</text>
       </register>
       <register name="/" type="4">
         <text>bIsDebuggable</text>
@@ -382,40 +387,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9uQ3JlYXRlIiwgIiIsICIiLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLk5vdGlmaWNhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uY29uZmlnKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMjAxODA1MjExNDUwIixudWxsLCJDQ0NDIik7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIlN0YXJ0IiwgIiIsICIiLCAiIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uY29uZmlnKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMjAxODAzMjExNDUwIixudWxsLCJDQ0MiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9uQ3JlYXRlIiwgIiIsICIiLCAiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLk5vdGlmaWNhdGlvbjsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uY29uZmlnKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMjAxODAzMjExNDUwIixudWxsLCJDQ0MiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24uY29uZmlnKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMjAxODAzMjExNDUwIixudWxsLCJDQ0MiKTsKICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIm9wZW4iLCAiIiwgIiIrYXBwUHJvY2Vzc0luZm8ucHJvY2Vzc05hbWUsICIiKTsKICAgICAgICAgICAgICAgICAgICBMb2cuaSh0YWcsICJpbml0Iik7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
