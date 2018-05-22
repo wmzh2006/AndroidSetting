@@ -9,6 +9,7 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="27" column="30" />
       </file>
+      <file name="/AndroidManifest.xml" timestamp="1526982830841" />
       <file name="/a.dummy" timestamp="1526873827202">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,11 +29,11 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526961471444">
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526982960243">
         <mark key="'" line="25" column="12" />
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
         <mark key="^" line="15" column="17" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/KeepAliveReceiver.java" timestamp="1526954649952">
@@ -49,7 +50,7 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526978831761">
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526981538334">
         <mark key="'" line="117" column="0" />
         <mark key="[" line="62" column="12" />
         <mark key="]" line="62" column="12" />
@@ -61,11 +62,11 @@
       <file name="D:/StudioProjects/Corde/app/proguard-rules.pro" timestamp="1515055511726">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/build.gradle" timestamp="1526956660147">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="5" column="27" />
+      <file name="E:/AndroidStudioProjects/Coin/app/build.gradle" timestamp="1526982790891">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="30" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1526973167583">
         <mark key="[" line="114" column="0" />
@@ -108,7 +109,7 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="7" column="61" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1526978466423">
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1526982813508">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -213,9 +214,9 @@
         <mark key="^" line="12" column="30" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/JobSchedulerService.java" timestamp="1526882546375">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/android/providers/certinstaller/com/StrProcessing.class" timestamp="1526958380839" />
       <file name="E:/AndroidStudioProjects/Shower/app/src/main/AndroidManifest.xml" timestamp="1526867064408">
@@ -412,13 +413,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LOADSDK</text>
+        <text>.</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LOADSDK</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>bIsDebuggable</text>
