@@ -53,11 +53,12 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526992629077">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="124" column="32" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526994245011">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -418,14 +419,14 @@
       <jump line="29" column="13" filename="E:/tools/android/sources/android-27/android/webkit/WebViewClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuZ2V0UHJvZ3Jlc3MoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>onRec</text>
@@ -437,40 +438,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuZ2V0UHJvZ3Jlc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNSdW5uaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvblJlZGRjCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25SZWNlaXZlZEh0dHBFcnJvcihXZWJWaWV3IHZpZXcsIFdlYlJlc291cmNlUmVxdWVzdCByZXF1ZXN0LCBXZWJSZXNvdXJjZVJlc3BvbnNlIGVycm9yUmVzcG9uc2UpIHsKICAgICAgICAgICAgc3VwZXIub25SZWNlaXZlZEh0dHBFcnJvcih2aWV3LCByZXF1ZXN0LCBlcnJvclJlc3BvbnNlKTsKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBpZiAoYWxhcm1NYW5hZ2VyICE9IG51bGwpIHsKICAgICAgICAgICAgYWxhcm1NYW5hZ2VyLmNhbmNlbChwZW5kaW5nSW50ZW50KTsKICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2EuYmF3LmJhby5zZGs7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGlmIChhbGFybU1hbmFnZXIgIT0gbnVsbCkgewogICAgICAgICAgICBhbGFybU1hbmFnZXIuY2FuY2VsKHBlbmRpbmdJbnRlbnQpOwogICAgICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDW+Nf3yKi56df31d/L+dPQoaPJzNK116rU2MfrwarPtdf31d+78bXDytrIqKOst8fJzNK116rU2Mfr16LD97P2tKahowo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBzdW0gPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICCB7dS0o7q88srpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBhbGVydF9rZWVwX2FjdGlvbiA9ICJBTEVSVF9LRUVQX0FDVElPTiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICDBtL3To7podHRwczovL3d3dy5qaWFuc2h1LmNvbS9wL2FmOTlhMzc2YjUwMwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBkYWVtb24gPSAiRGFlbW9uIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICDX99Xfo7pUcmFnZWR5R28K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEFsYXJtTWFuYWdlciBhbGFybU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
