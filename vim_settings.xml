@@ -29,6 +29,9 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/android/providers/certinstaller/com/DebugLog.class" timestamp="1526907758353">
+        <mark key="'" line="21" column="19" />
+      </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526986598100">
         <mark key="'" line="25" column="12" />
         <mark key="[" line="16" column="38" />
@@ -50,12 +53,11 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526988212795">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="133" column="32" />
-        <mark key="]" line="133" column="31" />
-        <mark key="." line="133" column="31" />
-        <mark key="^" line="133" column="31" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526991830836">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -279,6 +281,9 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="30" />
       </file>
+      <file name="E:/tools/android/sources/android-27/android/webkit/WebViewClient.java" timestamp="1526991776981">
+        <mark key="'" line="29" column="13" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1516063316621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="118" />
@@ -311,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="889" column="4" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/jni/jni-action.c" />
       <jump line="17" column="34" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" />
       <jump line="38" column="36" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="114" column="20" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
@@ -411,19 +415,20 @@
       <jump line="119" column="296" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
       <jump line="111" column="0" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
       <jump line="28" column="37" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" />
+      <jump line="29" column="13" filename="E:/tools/android/sources/android-27/android/webkit/WebViewClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>O</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuZ2V0UHJvZ3Jlc3MoKQo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>Error</text>
       </register>
       <register name="/" type="4">
-        <text>bIsDebuggable</text>
+        <text>onRec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19MT0FEU0RLID0gMTAwOwo=</text>
@@ -432,49 +437,49 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuZ2V0UHJvZ3Jlc3MoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2EuYmF3LmJhby5zZGs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvblJlZGRjCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDW+Nf3yKi56df31d/L+dPQoaPJzNK116rU2MfrwarPtdf31d+78bXDytrIqKOst8fJzNK116rU2Mfr16LD97P2tKahowo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25SZWNlaXZlZEh0dHBFcnJvcihXZWJWaWV3IHZpZXcsIFdlYlJlc291cmNlUmVxdWVzdCByZXF1ZXN0LCBXZWJSZXNvdXJjZVJlc3BvbnNlIGVycm9yUmVzcG9uc2UpIHsKICAgICAgICAgICAgc3VwZXIub25SZWNlaXZlZEh0dHBFcnJvcih2aWV3LCByZXF1ZXN0LCBlcnJvclJlc3BvbnNlKTsKICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICCB7dS0o7q88srpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDBtL3To7podHRwczovL3d3dy5qaWFuc2h1LmNvbS9wL2FmOTlhMzc2YjUwMwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2EuYmF3LmJhby5zZGs7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDX99Xfo7pUcmFnZWR5R28K</text>
+        <text encoding="base64">ICAgICAgICDW+Nf3yKi56df31d/L+dPQoaPJzNK116rU2MfrwarPtdf31d+78bXDytrIqKOst8fJzNK116rU2Mfr16LD97P2tKahowo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YmFsbCIK</text>
+        <text encoding="base64">ICAgICAgICCB7dS0o7q88srpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcGFja2FnZWNsYXNzZXMgImNvbS5hZGEuYmFhLmFiYWEiCg==</text>
+        <text encoding="base64">ICAgICAgICDBtL3To7podHRwczovL3d3dy5qaWFuc2h1LmNvbS9wL2FmOTlhMzc2YjUwMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIkRlc3Ryb3kiLCAiIiwgIiIsICIiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICDX99Xfo7pUcmFnZWR5R28K</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>bIsDebuggable</last-search>
+      <last-search>onRec</last-search>
       <last-offset />
-      <last-pattern>bIsDebuggable</last-pattern>
+      <last-pattern>onRec</last-pattern>
       <last-replace>@android</last-replace>
       <last-substitute>@+android</last-substitute>
       <last-dir>1</last-dir>
@@ -482,8 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getDataByTagNameWithValue</entry>
-        <entry encoding="base64">XDxkb1Jlc3VsdFw+</entry>
         <entry>doResult</entry>
         <entry>findButtonByTime</entry>
         <entry>@+android</entry>
@@ -502,6 +505,8 @@
         <entry>onCreate</entry>
         <entry>bIs</entry>
         <entry>bIsDebuggable</entry>
+        <entry>onrec</entry>
+        <entry>onRec</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@id/@+id/g</entry>
