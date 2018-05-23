@@ -67,12 +67,12 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1527060677766">
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1527062294963">
         <mark key="'" line="88" column="8" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="77" column="77" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="90" column="49" />
+        <mark key="]" line="143" column="57" />
+        <mark key="^" line="143" column="57" />
+        <mark key="." line="143" column="57" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -475,14 +475,14 @@
       <jump line="88" column="8" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpc0NyZWF0ZSA9IGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3AuZ2V0SGFzaGVkQ291bnQoKSA+PSAxMA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">c3AuZ2V0SGFzaGVkQ291bnQoKSA+PSAxMA==</text>
       </register>
       <register name="/" type="4">
         <text>onRec</text>
