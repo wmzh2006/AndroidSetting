@@ -67,11 +67,12 @@
       <file name="D:/StudioProjects/AlarmClock/AdmobTest/gradle.properties" timestamp="1515480089256">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1526995547791">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="135" column="74" />
-        <mark key="]" line="135" column="74" />
-        <mark key="." line="135" column="74" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" timestamp="1527058098964">
+        <mark key="'" line="88" column="8" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="77" column="77" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/LLDB" timestamp="1516011012659">
         <mark key="[" line="0" column="0" />
@@ -155,7 +156,7 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/MainService.java" timestamp="1526908601354">
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/MainService.java" timestamp="1527057764562">
         <mark key="[" line="19" column="87" />
         <mark key="]" line="19" column="87" />
         <mark key="^" line="57" column="5" />
@@ -371,10 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="34" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" />
-      <jump line="38" column="36" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
-      <jump line="114" column="20" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
-      <jump line="306" column="9" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="20" column="4" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="39" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="57" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
@@ -471,16 +468,20 @@
       <jump line="111" column="0" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
       <jump line="28" column="37" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" />
       <jump line="29" column="13" filename="E:/tools/android/sources/android-27/android/webkit/WebViewClient.java" />
+      <jump line="82" column="15" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
+      <jump line="89" column="8" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
+      <jump line="81" column="8" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
+      <jump line="88" column="8" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/DaemonService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Lock</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpc0NyZWF0ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Lock</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>onRec</text>
@@ -492,40 +493,42 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSItLT4K</text>
+        <text encoding="base64">ICAgICAgICBpc0NyZWF0ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ3JlYXRlKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0LkdlbmVyaWNBcnJheVR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzUnVubmluZyA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDcmVhdGUgPSBmYWxzZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJlcnJvciIsICIiLCAiIitlcnJvci50b1N0cmluZygpLCAiIik7Cg==</text>
+      <register name="7" type="4">
+        <text>else {
+            isCreate = false;
+        }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuY2xlYXJWaWV3KCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KHVybCkgJiYgIWpzUnVubmluZykgewogICAgICAgICAgICBqc1J1bm5pbmcgPSB0cnVlOwovLyAgICAgICAgICAgIG1XZWJWaWV3LmxvYWRVcmwodXJsKTsKICAgICAgICAgICAgbVdlYlZpZXcucmVsb2FkKCk7CiAgICAgICAgICAgIExvZy5kKGRhZW1vbiwgInJlbG9hZCIpOwogICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgInJlbG9hZCIsICIiLCAiIiwgIiIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGpzUnVubmluZyA9IGZhbHNlOwogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNSdW5uaW5nID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
