@@ -37,9 +37,6 @@
       <file name="D:/StudioProjects/Tools/waywau/proguard-rules.pro" timestamp="1527045375778">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/android/providers/certinstaller/com/DebugLog.class" timestamp="1526907758353">
-        <mark key="'" line="21" column="19" />
-      </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/XApplication.java" timestamp="1526986598100">
         <mark key="'" line="25" column="12" />
         <mark key="[" line="16" column="38" />
@@ -261,6 +258,17 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
+      <file name="D:/StudioProjects/Tools/avazu/build.gradle" timestamp="1527125800148">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+      </file>
+      <file name="D:/StudioProjects/Tools/avazu/src/main/java/com/couz/omze/mzoe/XApplication.java" timestamp="1527125687003">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="20" column="30" />
+      </file>
       <file name="D:/StudioProjects/AlarmClock/2048/app/src/main/java/me/veryyoung/game2048/ReceiverTest.java" timestamp="1516020981469">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="30" />
@@ -271,6 +279,11 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="D:/StudioProjects/Tools/avazu/src/main/java/com/couz/omze/mzoe/XService.java" timestamp="1527125825596">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Coin/app/libs/eve_trace.jar!/com/android/providers/certinstaller/com/StrProcessing.class" timestamp="1526958380839" />
       <file name="E:/AndroidStudioProjects/Shower/app/src/main/AndroidManifest.xml" timestamp="1526867064408">
@@ -324,9 +337,6 @@
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="30" />
-      </file>
-      <file name="E:/tools/android/sources/android-27/android/webkit/WebViewClient.java" timestamp="1526991776981">
-        <mark key="'" line="29" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1516063316621">
         <mark key="[" line="0" column="0" />
@@ -476,13 +486,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3AuZ2V0SGFzaGVkQ291bnQoKSA+PSAxMA==</text>
+        <text encoding="base64">b25Jbml0RmFpbGVkIA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3AuZ2V0SGFzaGVkQ291bnQoKSA+PSAxMA==</text>
+        <text encoding="base64">b25Jbml0RmFpbGVkIA==</text>
       </register>
       <register name="/" type="4">
         <text>onRec</text>
@@ -494,42 +504,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpc0NyZWF0ZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgV2ViVmlldyBtV2ViVmlldzsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ3JlYXRlKSB7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIG1XZWJWaWV3ID0gbmV3IFdlYlZpZXcoZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpOwogICAgICAgIFdlYlNldHRpbmdzIHdlYlNldHRpbmdzID0gbVdlYlZpZXcuZ2V0U2V0dGluZ3MoKTsKICAgICAgICB3ZWJTZXR0aW5ncy5zZXRQbHVnaW5TdGF0ZShXZWJTZXR0aW5ncy5QbHVnaW5TdGF0ZS5PTik7CiAgICAgICAgd2ViU2V0dGluZ3Muc2V0TG9hZFdpdGhPdmVydmlld01vZGUodHJ1ZSk7CiAgICAgICAgd2ViU2V0dGluZ3Muc2V0SmF2YVNjcmlwdEVuYWJsZWQodHJ1ZSk7CiAgICAgICAgd2ViU2V0dGluZ3Muc2V0RG9tU3RvcmFnZUVuYWJsZWQodHJ1ZSk7CiAgICAgICAgd2ViU2V0dGluZ3Muc2V0QWxsb3dGaWxlQWNjZXNzKHRydWUpOwogICAgICAgIG1XZWJWaWV3LmxvYWRVcmwoImh0dHA6Ly93d3cudHViZW1hdGUudmlkZW8vd2thZC9pbml0Lmh0bWwiKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzUnVubmluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0NyZWF0ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDcmVhdGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ3JlYXRlKSB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>else {
-            isCreate = false;
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzUnVubmluZyA9IHRydWU7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KHVybCkgJiYgIWpzUnVubmluZykgewogICAgICAgICAgICBqc1J1bm5pbmcgPSB0cnVlOwovLyAgICAgICAgICAgIG1XZWJWaWV3LmxvYWRVcmwodXJsKTsKICAgICAgICAgICAgbVdlYlZpZXcucmVsb2FkKCk7CiAgICAgICAgICAgIExvZy5kKGRhZW1vbiwgInJlbG9hZCIpOwogICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgInJlbG9hZCIsICIiLCAiIiwgIiIpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGpzUnVubmluZyA9IGZhbHNlOwogICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDcmVhdGUgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
