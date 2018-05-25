@@ -244,11 +244,10 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="D:/StudioProjects/Tools/magic/src/main/java/com/axis/sphere/round/MainActivity.java" timestamp="1527245467043">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="13" column="74" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="13" column="74" />
+      <file name="D:/StudioProjects/Tools/magic/src/main/java/com/axis/sphere/round/MainActivity.java" timestamp="1527246727739">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
       </file>
       <file name="D:/StudioProjects/Tools/waywau/src/main/java/com/duck/poor/Lock/AocApplication.java" timestamp="1527044995355">
         <mark key="[" line="9" column="25" />
@@ -280,7 +279,7 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
-      <file name="D:/StudioProjects/Tools/app/src/main/java/com/trespass/ancient/defeat/Main2Activity.java" timestamp="1527245405594" />
+      <file name="D:/StudioProjects/Tools/app/src/main/java/com/trespass/ancient/defeat/Main2Activity.java" timestamp="1527246562077" />
       <file name="D:/StudioProjects/Tools/avazu/src/main/java/com/couz/omze/mzoe/XApplication.java" timestamp="1527125687003">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="28" />
@@ -294,6 +293,7 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
+      <file name="D:/StudioProjects/Tools/app/src/main/AndroidManifest.xml" timestamp="1527246436747" />
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/tomzo/xaiz/ppaz/Sp.java" timestamp="1526910837196">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="63" column="3" />
@@ -493,13 +493,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>else {</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text>onRec</text>
@@ -511,40 +511,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd1RvYXN0KCJoaWRlIiwgMCk7ZGQK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtQWdlbnRXZWIuYmFjaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtQWdlbnRXZWIuYmFjaygpOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJIZWxsbyBXb3JsZCEiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IG1BZ2VudFdlYjsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuTm90aWZpY2F0aW9uQ29tcGF0Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IG1BZ2VudFdlYjsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuTm90aWZpY2F0aW9uQ29tcGF0Owo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
