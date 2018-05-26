@@ -61,11 +61,12 @@
         <mark key="]" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1527316494176">
-        <mark key="[" line="176" column="53" />
-        <mark key="]" line="176" column="53" />
-        <mark key="." line="176" column="53" />
-        <mark key="^" line="176" column="53" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1527317819179">
+        <mark key="'" line="174" column="25" />
+        <mark key="[" line="177" column="59" />
+        <mark key="]" line="177" column="56" />
+        <mark key="^" line="177" column="56" />
+        <mark key="." line="177" column="56" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" timestamp="1527256755253">
         <mark key="'" line="0" column="0" />
@@ -80,6 +81,7 @@
         <mark key="^" line="419" column="49" />
         <mark key="." line="419" column="41" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/AESUtil.java" timestamp="1527316963999" />
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1527219432022">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -114,7 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="97" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="115" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="130" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
@@ -214,61 +215,62 @@
       <jump line="38" column="20" filename="D:/StudioProjects/ShortcutHelper/app/src/main/java/com/xys/shortcuthelper/MainActivity.java" />
       <jump line="8" column="20" filename="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" />
       <jump line="0" column="0" filename="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" />
+      <jump line="175" column="25" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>/com\.aca\.baw\.bao/</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>/com\.aca\.baw\.bao/</text>
       </register>
       <register name="/" type="4">
         <text>onRec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtTGluZWFyTGF5b3V0ID0gKFZpZXdHcm91cCkgZmluZFZpZXdCeUlkKFIuaWQubGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgaXQucmVwbGFjZUFsbCgiY29tXFwuYWNhXFwuYmF3XFwuYmFvfGpwXFwud2Ftb1xcLmFtb1xcLnRzZGsiLCBuZXdQYWNrYWdlKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gb2xkUGFja2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgaXQucmVwbGFjZUFsbCgiY29tXFwuYWNhXFwuYmF3XFwuYmFvfGpwXFwud2Ftb1xcLmFtb1xcLnRzZGsiLCBuZXdQYWNrYWdlKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IEZpbGUgc3JjRGlyID0gZmlsZSgic3JjL21haW4vamF2YSIpCiAgICBmb3IgKEZpbGUgZiA6IHNyY0Rpci5saXN0RmlsZXMoKSkgewogICAgICAgIGlmIChmLmlzRGlyZWN0b3J5KCkpIHsKICAgICAgICAgICBjb250aW51ZQogICAgICAgIH0KICAgICAgICBwcmlubG50IGYubmFtZQogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4gb2xkUGFja2FnZQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">IEZpbGUgc3JjRGlyID0gZmlsZSgic3JjL21haW4vamF2YSIpCiAgICBmb3IgKEZpbGUgZiA6IHNyY0Rpci5saXN0RmlsZXMoKSkgewogICAgICAgIGlmIChmLmlzRGlyZWN0b3J5KCkpIHsKICAgICAgICAgICBjb250aW51ZQogICAgICAgIH0KICAgICAgICBwcmlubG50IGYubmFtZQogICAgfQ==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAga2wgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGYubGlzdHN7CiAgICAgICAgcHJpbnRsbiBpdAogICAgfQ==</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIGYuZWFjaHsKICAgICAgICBwcmludGxuIGl0CiAgICB9</text>
+        <text encoding="base64">IGYubGlzdHN7CiAgICAgICAgcHJpbnRsbiBpdAogICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGdyYWRsZS4qCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGYuZWFjaHsKICAgICAgICBwcmludGxuIGl0CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSAK</text>
+        <text encoding="base64">aW1wb3J0IGdyYWRsZS4qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBjdXJQYXRoID0gbmV3IEZpbGUoIiIpCg==</text>
+        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBzcmNEaXIgPSBuZXcgRmlsZShjdXJQYXRoLmdldEFic29sdXRlUGF0aCgpKyIvc3JjL21haW4vamF2YSIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjdXJQYXRoID0gbmV3IEZpbGUoIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
