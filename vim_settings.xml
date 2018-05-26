@@ -62,12 +62,12 @@
         <mark key="]" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1527323257940">
-        <mark key="'" line="209" column="25" />
-        <mark key="[" line="179" column="58" />
-        <mark key="]" line="170" column="22" />
-        <mark key="^" line="170" column="22" />
-        <mark key="." line="170" column="22" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1527324018282">
+        <mark key="'" line="206" column="25" />
+        <mark key="[" line="210" column="56" />
+        <mark key="]" line="211" column="21" />
+        <mark key="." line="211" column="21" />
+        <mark key="^" line="211" column="21" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" timestamp="1527256755253">
         <mark key="'" line="0" column="0" />
@@ -220,58 +220,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>packages</text>
+        <text>it.replaceAll(regexPackags, newPackage)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>packages</text>
+        <text>(com\\.aca\\.baw\\.bao|jp\\.wamo\\.amo\\.tsdk)&quot;</text>
       </register>
       <register name="/" type="4">
         <text>onRec</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVnZXhQYWNrYWdzIA==</text>
+        <text>it.replaceAll(regexPackags, newPackage)</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHByb2Nlc3NQYWNrLmZvckVhY2ggewogICAgICAgIHByaW50bG4gInNldCAiICsgaXQKICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVnZXhQYWNrYWdzIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNldCBwcm9jZXNzUGFjayA9IHBhY2thZ2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFNldCBwcm9jZXNzUGFjayA9IHBhY2thZ2VzCg==</text>
+      <register name="4" type="4">
+        <text>//    for (String s : packages) {
+//        regexPackags += s.replaceAll(&quot;\\.&quot;, &quot;\\\\.&quot;)
+//        regexPackags += &quot;|&quot;
+//    }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICBwcm9jZXNzUGFjay5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIHByaW50bG4gInNldCAiICsgaXQKICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgIGRlZiBuZXdQYWNrYWdlID0gImNvbS5ub3cuYW8iCiAgICBkZWYgcGFja2FnZXMgPSBbImNvbS5hY2EuYmF3LmJhbyIsICJqcC53YW1vLmFtby50c2RrIl0udG9TZXQoKQogICAgU2V0IHByb2Nlc3NQYWNrID0gcGFja2FnZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGRlZiBwYXJlbnRQYXRoID0gZi5nZXRBYnNvbHV0ZVBhdGgoKQo=</text>
+        <text encoding="base64">cmVnZXhQYWNrYWdzIAo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
