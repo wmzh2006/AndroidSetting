@@ -62,12 +62,12 @@
         <mark key="]" line="22" column="10" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1527324018282">
-        <mark key="'" line="206" column="25" />
-        <mark key="[" line="210" column="56" />
-        <mark key="]" line="211" column="21" />
-        <mark key="." line="211" column="21" />
-        <mark key="^" line="211" column="21" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1527325759533">
+        <mark key="'" line="213" column="12" />
+        <mark key="[" line="233" column="1" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+        <mark key="^" line="233" column="0" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" timestamp="1527256755253">
         <mark key="'" line="0" column="0" />
@@ -117,8 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
-      <jump line="115" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="130" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="145" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
       <jump line="177" column="11" filename="E:/AndroidStudioProjects/Project/js_webview/src/main/assets/ZGVmYXVsdC5qcw==2.js" />
@@ -217,10 +215,12 @@
       <jump line="8" column="20" filename="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" />
       <jump line="0" column="0" filename="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" />
       <jump line="175" column="25" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="231" column="17" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="213" column="12" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>it.replaceAll(regexPackags, newPackage)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -237,44 +237,44 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHByb2Nlc3NQYWNrLmZvckVhY2ggewogICAgICAgIHByaW50bG4gInNldCAiICsgaXQKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHNvdXJjZVNldHMgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">IHByb2Nlc3NQYWNrLmZvckVhY2ggewogICAgICAgIHByaW50bG4gInNldCAiICsgaXQKICAgIH0=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="4">
         <text>//    for (String s : packages) {
 //        regexPackags += s.replaceAll(&quot;\\.&quot;, &quot;\\\\.&quot;)
 //        regexPackags += &quot;|&quot;
 //    }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBuZXdQYWNrYWdlID0gImNvbS5ub3cuYW8iCiAgICBkZWYgcGFja2FnZXMgPSBbImNvbS5hY2EuYmF3LmJhbyIsICJqcC53YW1vLmFtby50c2RrIl0udG9TZXQoKQogICAgU2V0IHByb2Nlc3NQYWNrID0gcGFja2FnZXMK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVnZXhQYWNrYWdzIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBuZXdQYWNrYWdlID0gImNvbS5ub3cuYW8iCiAgICBkZWYgcGFja2FnZXMgPSBbImNvbS5hY2EuYmF3LmJhbyIsICJqcC53YW1vLmFtby50c2RrIl0udG9TZXQoKQogICAgU2V0IHByb2Nlc3NQYWNrID0gcGFja2FnZXMK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
