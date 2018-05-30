@@ -80,6 +80,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/StudioProjects/Tools/webSub/src/main/java/com/init/env/SubSdk.java" timestamp="1527662070781">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+      </file>
       <file name="E:/tools/android/sources/android-26/android/webkit/JavascriptInterface.java" timestamp="1527660163539" />
       <file name="D:/StudioProjects/H5/app/src/main/res/drawable/splash.xml" timestamp="1527490165016">
         <mark key="[" line="7" column="29" />
@@ -155,6 +161,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/StudioProjects/Tools/geography/src/main/AndroidManifest.xml" timestamp="1527662593070">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="D:/StudioProjects/H5/app/build.gradle" timestamp="1527493118065">
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="4" />
@@ -177,11 +189,11 @@
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="D:/StudioProjects/Tools/geography/src/main/java/com/ocean/mountain/river/geography/GeoService.java" timestamp="1527661179338">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
+      <file name="D:/StudioProjects/Tools/geography/src/main/java/com/ocean/mountain/river/geography/GeoService.java" timestamp="1527662516540">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="7" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
       </file>
       <file name="D:/StudioProjects/ShortcutHelper/app/build.gradle" timestamp="1527235839302">
         <mark key="[" line="23" column="8" />
@@ -201,7 +213,7 @@
         <mark key="]" line="3" column="49" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="D:/StudioProjects/Tools/webSub/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1527652439076" />
+      <file name="D:/StudioProjects/Tools/webSub/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1527662382557" />
       <file name="D:/StudioProjects/ShortcutHelper/shortcut_lib/src/main/java/com/xys/badge_lib/BadgeUtil.java" timestamp="1527236025418">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -314,14 +326,14 @@
       <jump line="213" column="14" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>super.onStartCommand(intent, flags, startId);</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>super.onStartCommand(intent, flags, startId);</text>
       </register>
       <register name="/" type="4">
         <text>println</text>
@@ -333,40 +345,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYW0gIT0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENJRCA9IHByb2plY3QuaGFzUHJvcGVydHkoImNpZCIpID8gcHJvamVjdC5wcm9wZXJ0eSgiY2lkIikgOiAiMTAwMDAwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNES19BUEtfRElSID0gInJlbGVhc2UiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFpJUF9ERVNUX0RJUiA9ICIke0FQS19ERVNUX0RJUn0vemlwIgo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFQS19OQU1FID0gIm0uYXBrIgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFQS19ERVNUX0RJUiA9ICJyZWxlYXNlLyR7SkFSX1ZFUlNJT059Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
