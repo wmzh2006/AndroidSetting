@@ -18,10 +18,14 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="D:/StudioProjects/Tools/magic/src/main/AndroidManifest.xml" timestamp="1527249397860">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/StartActivity.java" timestamp="1527760444453">
+        <mark key="[" line="12" column="48" />
+      </file>
+      <file name="D:/StudioProjects/Tools/magic/src/main/AndroidManifest.xml" timestamp="1527761804549">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="32" column="74" />
       </file>
       <file name="E:/tools/android/sources/android-26/java/lang/Runnable.java" timestamp="1527669045334" />
       <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/CoolIndicatorLayout.java" timestamp="1527493298127">
@@ -34,6 +38,11 @@
         <mark key="]" line="27" column="71" />
         <mark key="." line="27" column="71" />
         <mark key="^" line="27" column="69" />
+      </file>
+      <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/MainActivity.java" timestamp="1527761828399">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/res/drawable/splash.xml" timestamp="1527490165016">
         <mark key="[" line="7" column="29" />
@@ -56,13 +65,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="27" column="45" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1527667311123">
-        <mark key="'" line="216" column="14" />
-        <mark key="[" line="260" column="22" />
-        <mark key="]" line="260" column="22" />
-        <mark key="." line="260" column="22" />
-        <mark key="^" line="252" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.groovy" timestamp="1527643894420">
         <mark key="[" line="5" column="1" />
@@ -114,6 +116,11 @@
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
+      </file>
+      <file name="D:/StudioProjects/Tools/magic/build.gradle" timestamp="1527761749501">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/res/values/strings.xml" timestamp="1527491859076">
         <mark key="[" line="1" column="28" />
@@ -224,6 +231,12 @@
         <mark key="^" line="27" column="52" />
         <mark key="." line="28" column="4" />
       </file>
+      <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/XApplication.java" timestamp="1527761546928">
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
       <file name="D:/StudioProjects/Tools/geography/src/main/java/com/ocean/mountain/river/geography/GeoService.java" timestamp="1527665746973">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -250,7 +263,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527665162280">
+      <file name="/fragment.java" timestamp="1527760274780">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -358,16 +371,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app:layout_constraintBottom_toBottomOf=&quot;parent&quot;
-        app:layout_constraintLeft_toLeftOf=&quot;parent&quot;
-        app:layout_constraintRight_toRightOf=&quot;parent&quot;
-        app:layout_constraintTop_toTopOf=&quot;parent&quot;</text>
+        <text>7</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>android.support.constraint.ConstraintLayout</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>GetCValue</text>
@@ -378,44 +388,44 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>app:layout_constraintBottom_toBottomOf=&quot;parent&quot;
-        app:layout_constraintLeft_toLeftOf=&quot;parent&quot;
-        app:layout_constraintRight_toRightOf=&quot;parent&quot;
-        app:layout_constraintTop_toTopOf=&quot;parent&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9Ii5YQXBwbGljYXRpb24iCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiU3ViIiwgImluaXQiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5heGlzLnNwaGVyZS5yb3VuZC5SZGQ7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgaWYgKCFuZWVhZEluaXQoY29udGV4dCkpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAvL7fA1rnU2kFwcGxpY2F0aW9uIG9uQ3JlYXRlCiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIG5lZWFkSW5pdChDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBpbnQgcGlkID0gYW5kcm9pZC5vcy5Qcm9jZXNzLm15UGlkKCk7CiAgICAgICAgQWN0aXZpdHlNYW5hZ2VyIGFtID0gKEFjdGl2aXR5TWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuQUNUSVZJVFlfU0VSVklDRSk7CiAgICAgICAgaWYgKGFtID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIExpc3Q8QWN0aXZpdHlNYW5hZ2VyLlJ1bm5pbmdBcHBQcm9jZXNzSW5mbz4gcHJvY2Vzc0luZm9MaXN0ID0gYW0uZ2V0UnVubmluZ0FwcFByb2Nlc3NlcygpOwogICAgICAgIGZvciAoQWN0aXZpdHlNYW5hZ2VyLlJ1bm5pbmdBcHBQcm9jZXNzSW5mbyBhcHBQcm9jZXNzSW5mbyA6IHByb2Nlc3NJbmZvTGlzdCkgewogICAgICAgICAgICBpZiAoYXBwUHJvY2Vzc0luZm8ucGlkID09IHBpZCAmJiBhcHBQcm9jZXNzSW5mby5wcm9jZXNzTmFtZS5lcXVhbHMoY29udGV4dC5nZXRQYWNrYWdlTmFtZSgpKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgZnJvbSBmaWxlKHByb2plY3QucHJvamVjdERpci5hYnNvbHV0ZVBhdGggKyAiXFxzcmNcXG1haW5cXGFzc2V0cyIgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIiAvPgo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaW5qYXJzIChwcm9qZWN0LnByb2plY3REaXIuYWJzb2x1dGVQYXRoICsgIlxcbGlic1xccm9vdHNka19wbHVnaW5fbGliLmphciIgKQo=</text>
+      <register name="6" type="4">
+        <text>app:layout_constraintBottom_toBottomOf=&quot;parent&quot;
+        app:layout_constraintLeft_toLeftOf=&quot;parent&quot;
+        app:layout_constraintRight_toRightOf=&quot;parent&quot;
+        app:layout_constraintTop_toTopOf=&quot;parent&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgaW5qYXJzIChwcm9qZWN0LnByb2plY3REaXIuYWJzb2x1dGVQYXRoICsgIlxcbGlic1xccm9vdHNka19pbXBsX3BsdWdpbl9saWIuamFyIiApCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiU3ViIiwgImluaXQiKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgaW5qYXJzIChwcm9qZWN0LnByb2plY3REaXIuYWJzb2x1dGVQYXRoICsgIlxcbGlic1xcZXZlX3RyYWNlLmphciIgKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgaWYgKCFuZWVhZEluaXQoY29udGV4dCkpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgcHVibGljICo7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAvL7fA1rnU2kFwcGxpY2F0aW9uIG9uQ3JlYXRlCiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIG5lZWFkSW5pdChDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBpbnQgcGlkID0gYW5kcm9pZC5vcy5Qcm9jZXNzLm15UGlkKCk7CiAgICAgICAgQWN0aXZpdHlNYW5hZ2VyIGFtID0gKEFjdGl2aXR5TWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuQUNUSVZJVFlfU0VSVklDRSk7CiAgICAgICAgaWYgKGFtID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIExpc3Q8QWN0aXZpdHlNYW5hZ2VyLlJ1bm5pbmdBcHBQcm9jZXNzSW5mbz4gcHJvY2Vzc0luZm9MaXN0ID0gYW0uZ2V0UnVubmluZ0FwcFByb2Nlc3NlcygpOwogICAgICAgIGZvciAoQWN0aXZpdHlNYW5hZ2VyLlJ1bm5pbmdBcHBQcm9jZXNzSW5mbyBhcHBQcm9jZXNzSW5mbyA6IHByb2Nlc3NJbmZvTGlzdCkgewogICAgICAgICAgICBpZiAoYXBwUHJvY2Vzc0luZm8ucGlkID09IHBpZCAmJiBhcHBQcm9jZXNzSW5mby5wcm9jZXNzTmFtZS5lcXVhbHMoY29udGV4dC5nZXRQYWNrYWdlTmFtZSgpKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
