@@ -80,11 +80,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" timestamp="1527838740308">
-        <mark key="[" line="60" column="55" />
-        <mark key="]" line="60" column="55" />
-        <mark key="^" line="60" column="69" />
-        <mark key="." line="60" column="55" />
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" timestamp="1527841129836">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="38" />
+        <mark key="^" line="82" column="38" />
+        <mark key="." line="82" column="38" />
       </file>
       <file name="D:/StudioProjects/Tools/webSub/build.gradle" timestamp="1527668745197">
         <mark key="[" line="58" column="0" />
@@ -196,7 +196,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/Utils.java" timestamp="1527836478526">
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/Utils.java" timestamp="1527840493252">
         <mark key="[" line="99" column="4" />
         <mark key="]" line="99" column="4" />
         <mark key="." line="99" column="4" />
@@ -232,11 +232,11 @@
         <mark key="." line="7" column="5" />
       </file>
       <file name="D:/StudioProjects/Tools/webSub/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1527671591706" />
-      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainService.java" timestamp="1527840043578">
-        <mark key="[" line="110" column="48" />
-        <mark key="]" line="110" column="49" />
-        <mark key="^" line="46" column="27" />
-        <mark key="." line="110" column="49" />
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainService.java" timestamp="1527841291998">
+        <mark key="[" line="113" column="48" />
+        <mark key="]" line="113" column="49" />
+        <mark key="." line="113" column="49" />
+        <mark key="^" line="113" column="47" />
       </file>
       <file name="D:/StudioProjects/Tools/geography/build.gradle" timestamp="1527734738452">
         <mark key="[" line="20" column="26" />
@@ -409,13 +409,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true;//</text>
+        <text>url</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true;//</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>GetCValue</text>
@@ -427,13 +427,13 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7Ci8vICAgICAgICAgICAgICAgIENsYXNzPD8+IGxvZyA9IENsYXNzLmZvck5hbWUoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5jZXJ0aW5zdGFsbGVyLmNvbS5EZWJ1Z0xvZyIpOwovLyAgICAgICAgICAgICAgICBGaWVsZCBkZWJ1ZyA9IGxvZy5nZXREZWNsYXJlZEZpZWxkKCJiSXNEZWJ1Z2dhYmxlIik7Ci8vICAgICAgICAgICAgICAgIGRlYnVnLnNldEFjY2Vzc2libGUodHJ1ZSk7Ci8vICAgICAgICAgICAgICAgIGRlYnVnLnNldChudWxsLCB0cnVlKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewovLyAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBMb2cuZCh0YWcsICJTdGFydC4uLi4uLi4uLi4iKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJodHRwczovL3JvY2t5LnF1aWNrZ2FtZS50b3AvMDEiOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -441,26 +441,26 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIG5vdGlmaXR5ID0gaXNOb3RpZml0eSgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgaWYgKEJ1aWxkQ29uZmlnLkRFQlVHKSB7Ci8vICAgICAgICAgICAgICAgIENsYXNzPD8+IGxvZyA9IENsYXNzLmZvck5hbWUoImNvbS5hbmRyb2lkLnByb3ZpZGVycy5jZXJ0aW5zdGFsbGVyLmNvbS5EZWJ1Z0xvZyIpOwovLyAgICAgICAgICAgICAgICBGaWVsZCBkZWJ1ZyA9IGxvZy5nZXREZWNsYXJlZEZpZWxkKCJiSXNEZWJ1Z2dhYmxlIik7Ci8vICAgICAgICAgICAgICAgIGRlYnVnLnNldEFjY2Vzc2libGUodHJ1ZSk7Ci8vICAgICAgICAgICAgICAgIGRlYnVnLnNldChudWxsLCB0cnVlKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewovLyAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBMb2cuZCh0YWcsICJTdGFydC4uLi4uLi4uLi4iKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIG5vdGlmaXR5ID0gaXNOb3RpZml0eSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25JdGVtIGl0ZW0gPSBub3RpZmljYXRpb25JdGVtcy5nZXQoKGludCkoTWF0aC5yYW5kb20oKSAqIDMpKTsKICAgICAgICBVdGlscy5zaG93Tm90aWZpY2F0aW9uKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCBpdGVtLmdldEljb24oKSwgaXRlbS5nZXRNc2coKSwgaXRlbS5nZXRVcmwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
