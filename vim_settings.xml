@@ -71,7 +71,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" timestamp="1527823388349" />
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainActivity.java" timestamp="1527824491132">
+        <mark key="[" line="110" column="34" />
+        <mark key="]" line="110" column="7" />
+        <mark key="." line="110" column="7" />
+        <mark key="^" line="110" column="7" />
+      </file>
       <file name="D:/StudioProjects/Tools/webSub/build.gradle" timestamp="1527668745197">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -182,11 +187,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/Utils.java" timestamp="1527823679908">
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="50" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="50" />
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/Utils.java" timestamp="1527825323861">
+        <mark key="[" line="11" column="75" />
+        <mark key="]" line="11" column="76" />
+        <mark key="." line="11" column="76" />
+        <mark key="^" line="11" column="76" />
       </file>
       <file name="D:/StudioProjects/Tools/magic/src/main/java/com/axis/sphere/round/MainActivity.java" timestamp="1527246727739">
         <mark key="[" line="22" column="10" />
@@ -211,11 +216,18 @@
         <mark key="^" line="419" column="49" />
         <mark key="." line="419" column="41" />
       </file>
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/NotificationItem.java" timestamp="1527824886084">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+      </file>
       <file name="D:/StudioProjects/Tools/webSub/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1527671591706" />
-      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainService.java" timestamp="1527823299791">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/MainService.java" timestamp="1527825459596">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="D:/StudioProjects/Tools/geography/build.gradle" timestamp="1527734738452">
         <mark key="[" line="20" column="26" />
@@ -240,6 +252,12 @@
         <mark key="]" line="17" column="18" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
+      </file>
+      <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/GameDao.java" timestamp="1527824820396">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="D:/StudioProjects/Tools/geography/src/main/java/com/ocean/mountain/river/geography/GeoService.java" timestamp="1527665746973">
         <mark key="[" line="31" column="0" />
@@ -267,7 +285,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1527823413654">
+      <file name="/fragment.java" timestamp="1527824754610">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -375,82 +393,70 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;this is normal notification style&quot;</text>
+        <text>1</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;this is normal notification style&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>GetCValue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LWxpYnJhcnlqYXJzIHJvb3RzZGtfaW1wbF9wbHVnaW5fbGliLmphcgo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25JdGVtcy5hZGQobmV3IE5vdGlmaWNhdGlvbkl0ZW0oUi5kcmF3YWJsZS50d296ZXJvLCBTdHJpbmcuZm9ybWF0KFV0aWxzLkJBU0VfVVJMLCAiMSIpLCJDaGFsbGVuZ2UgdGhlIGdsb2JhbGx5IHBvcHVsYXIgcHV6emxlIGdhbWUhTk8gRE9XTkxPQUQhIFBMQVkgTk9XISIgKSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVdGlscy5zaG93Tm90aWZpY2F0aW9uKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCApOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text>//        if (null != pIntent){
-//            switch (pIntent.getAction()){
-//                case ACTION_START:
-//
-//                    break;
-//                case ACTION_ALARM:
-//
-//                    break;
-//                case ACTION_END_START:
-//
-//                    break;
-//            }
-//        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text>//        if (null != pIntent){
-//            switch (pIntent.getAction()){
-//                case ACTION_START:
-//
-//                    break;
-//                case ACTION_ALARM:
-//
-//                    break;
-//                case ACTION_END_START:
-//
-//                    break;
-//            }
-//        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZpY2UobmV3IEludGVudCh0aGlzLCBEYWVtb25TZXJ2aWNlLmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25JbnRlbnQuZ2V0RGF0YSgpLmdldAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>//        if (null != pIntent){
+//            switch (pIntent.getAction()){
+//                case ACTION_START:
+//
+//                    break;
+//                case ACTION_ALARM:
+//
+//                    break;
+//                case ACTION_END_START:
+//
+//                    break;
+//            }
+//        }</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
