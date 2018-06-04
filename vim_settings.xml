@@ -19,11 +19,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="D:/StudioProjects/WorkManagerDemo/app/src/main/java/com/hunt/pilot/cao/workmanagerdemo/MainActivity.kt" timestamp="1528111712205">
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="15" />
+      <file name="D:/StudioProjects/WorkManagerDemo/app/src/main/java/com/hunt/pilot/cao/workmanagerdemo/MainActivity.kt" timestamp="1528113950766">
+        <mark key="[" line="18" column="73" />
+        <mark key="]" line="18" column="82" />
+        <mark key="." line="18" column="82" />
+        <mark key="^" line="18" column="82" />
       </file>
       <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/StartActivity.java" timestamp="1527760444453">
         <mark key="[" line="12" column="48" />
@@ -122,8 +122,8 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="D:/StudioProjects/WorkManagerDemo/app/src/main/java/com/hunt/pilot/cao/workmanagerdemo/CompressWorker.kt" timestamp="1528110920687">
-        <mark key="[" line="11" column="29" />
+      <file name="D:/StudioProjects/WorkManagerDemo/app/src/main/java/com/hunt/pilot/cao/workmanagerdemo/CompressWorker.kt" timestamp="1528113032062">
+        <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="24" />
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
@@ -427,13 +427,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>javaClass</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>javaClass</text>
       </register>
       <register name="/" type="4">
         <text>GetCValue</text>
@@ -445,40 +445,42 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcHJlc3NXb3JrZXIuIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29tcHJlc3NXb3JrZXIgPSBQZXJpb2RpY1dvcmtSZXF1ZXN0QnVpbGRlcjxDb21wcmVzc1dvcmtlcj4oMTUsIFRpbWVVbml0LkhPVVJTKS5idWlsZCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIHByaW50bG4oImNvbXByZXNzISIpCg==</text>
+        <text encoding="base64">ICAgICAgICBXb3JrTWFuYWdlci5nZXRJbnN0YW5jZSgpLmJlZ2luV2l0aChjb21wcmVzc1dvcmtlcikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbGlmZWN5Y2xlT3duZXIgPSAK</text>
+      <register name="3" type="4">
+        <text>PeriodicWorkRequestBuilder(
+               Con 
+        )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQ29tcHJlc3NXb3JrZXIuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIHByaW50bG4oImNvbXByZXNzISIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbGlmZWN5Y2xlT3duZXIgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6bWFpbiIK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
