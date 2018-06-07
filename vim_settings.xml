@@ -40,11 +40,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/DaemonService.java" timestamp="1528354476474">
-        <mark key="[" line="28" column="70" />
-        <mark key="]" line="28" column="71" />
-        <mark key="." line="28" column="71" />
-        <mark key="^" line="28" column="69" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/DaemonService.java" timestamp="1528364794924">
+        <mark key="[" line="134" column="114" />
+        <mark key="]" line="123" column="24" />
+        <mark key="." line="123" column="24" />
+        <mark key="^" line="123" column="24" />
       </file>
       <file name="D:/StudioProjects/Tools/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1528354531442">
         <mark key="[" line="98" column="60" />
@@ -383,19 +383,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>&quot;&quot; + arg + &quot;  sum &quot; + sum + &quot; del &quot; + del + &quot;  &quot; + jsRunning</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>&quot;&quot; + arg + &quot;  sum &quot; + sum + &quot; del &quot; + del + &quot;  &quot; + jsRunning</text>
       </register>
       <register name="/" type="4">
         <text>GetCValue</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgIExvZy5kKGRhZW1vbiwgIiIgKyBhcmcgKyAiICBzdW0gIiArIHN1bSArICIgZGVsICIgKyBkZWwgKyAiICAiICsganNSdW5uaW5nKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
