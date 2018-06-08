@@ -45,6 +45,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/LLDB" timestamp="1528460095732">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/Coin/app/build.gradle" timestamp="1527649105674">
         <mark key="[" line="5" column="42" />
         <mark key="]" line="5" column="42" />
@@ -131,17 +134,17 @@
       <file name="D:/StudioProjects/Tools/autojs/src/main/java/com/wv/auto/fuction/CRJSRunOffer.java" timestamp="1528353264740">
         <mark key="[" line="46" column="43" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/app/src/androidTest/java/com/test/project/ExampleInstrumentedTest.java" timestamp="1528459058018">
-        <mark key="[" line="52" column="47" />
-        <mark key="]" line="52" column="49" />
-        <mark key="." line="52" column="49" />
-        <mark key="^" line="52" column="49" />
+      <file name="E:/AndroidStudioProjects/Project/app/src/androidTest/java/com/test/project/ExampleInstrumentedTest.java" timestamp="1528460192751">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+        <mark key="^" line="55" column="44" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1528459174077">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="35" column="69" />
-        <mark key="." line="35" column="69" />
-        <mark key="^" line="35" column="69" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1528461394139">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="D:/StudioProjects/Tools/autojs/proguard-rules.pro" timestamp="1528445432538">
         <mark key="[" line="151" column="0" />
@@ -414,14 +417,14 @@
       <jump line="40" column="50" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/BottomWebView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Y29tLmFhcC5hYmEud2Fh</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Y29tLmFhcC5hYmEud2Fh</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
@@ -433,40 +436,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJTZXR0aW5ncy5zZXRMb2FkV2l0aE92ZXJ2aWV3TW9kZSh0cnVlKTsgLy8gy/W3xdbBxsHEu7XEtPPQoQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2ViVmlldy5zY3JvbGxUbygxMDAsIDEwMGRkKTsK</text>
+        <text encoding="base64">ICAgICAgICB3ZWJTZXR0aW5ncy5zZXRMb2FkV2l0aE92ZXJ2aWV3TW9kZSh0cnVlKTsgLy8gy/W3xdbBxsHEu7XEtPPQoQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuc2Nyb2xsVG8oSW50ZWdlci5NQVhfVkFMVUUsIEludGVnZXIuTUFYX1ZBTFVFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2ViVmlldy5zY3JvbGxUbygxMDAsIDEwMGRkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtTm90aWZ5TWFuYWdlci5jYW5jZWxBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuc2Nyb2xsVG8oSW50ZWdlci5NQVhfVkFMVUUsIEludGVnZXIuTUFYX1ZBTFVFKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyIG1Ob3RpZnlNYW5hZ2VyID0gKE5vdGlmaWNhdGlvbk1hbmFnZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKTsK</text>
+        <text encoding="base64">ICAgICAgICBtTm90aWZ5TWFuYWdlci5jYW5jZWxBbGwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJTZXR0aW5ncy5zZXRVc2VXaWRlVmlld1BvcnQodHJ1ZSk7ICAvL72rzbzGrLX31fu1vcrKus93ZWJ2aWV3tcQK</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyIG1Ob3RpZnlNYW5hZ2VyID0gKE5vdGlmaWNhdGlvbk1hbmFnZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJYnl0ZVtdIHRtcCA9ICBCYXNlNjQuZGVjb2RlKGpzVmFsdWVCYXNlNjQsIEJhc2U2NC5ERUZBVUxUKTsK</text>
+        <text encoding="base64">ICAgICAgICBXZWJTZXR0aW5ncy5zZXRVc2VXaWRlVmlld1BvcnQodHJ1ZSk7ICAvL72rzbzGrLX31fu1vcrKus93ZWJ2aWV3tcQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJUGx1Z2luTG9nLnJlbGVhc2VMb2coIioqKiIgKyBqc1ZhbHVlKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJYnl0ZVtdIHRtcCA9ICBCYXNlNjQuZGVjb2RlKGpzVmFsdWVCYXNlNjQsIEJhc2U2NC5ERUZBVUxUKTsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
