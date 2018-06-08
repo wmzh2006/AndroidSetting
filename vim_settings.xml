@@ -40,6 +40,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/demo/src/test/java/com/hunt/pilot/cao/demo/ExampleUnitTest.java" timestamp="1528465577329">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="21" column="31" />
+      </file>
       <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/MainActivity.java" timestamp="1527764979058">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -100,9 +106,6 @@
         <mark key="]" line="74" column="38" />
         <mark key="." line="74" column="38" />
       </file>
-      <file name="D:/StudioProjects/Tools/geography/proguard-rules.pro" timestamp="1528445452331">
-        <mark key="[" line="175" column="1" />
-      </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/AndroidManifest.xml" timestamp="1528425242894">
         <mark key="[" line="6" column="73" />
         <mark key="]" line="7" column="61" />
@@ -145,9 +148,6 @@
         <mark key="]" line="33" column="37" />
         <mark key="." line="33" column="37" />
         <mark key="^" line="33" column="37" />
-      </file>
-      <file name="D:/StudioProjects/Tools/autojs/proguard-rules.pro" timestamp="1528445432538">
-        <mark key="[" line="151" column="0" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/res/values/strings.xml" timestamp="1527491859076">
         <mark key="[" line="1" column="28" />
@@ -242,6 +242,7 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1528465909307" />
       <file name="D:/StudioProjects/Tools/geography/src/main/java/com/ocean/mountain/river/geography/Sp.java" timestamp="1527665474003">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="29" column="18" />
@@ -418,13 +419,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHNiLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
@@ -436,40 +437,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHNiLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBzYi5yZXBsYWNlKHNiLmxlbmd0aCgpIC0gMSwgKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJTZXR0aW5ncy5zZXRMb2FkV2l0aE92ZXJ2aWV3TW9kZSh0cnVlKTsgLy8gy/W3xdbBxsHEu7XEtPPQoQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2ViVmlldy5zY3JvbGxUbygxMDAsIDEwMGRkKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuc2Nyb2xsVG8oSW50ZWdlci5NQVhfVkFMVUUsIEludGVnZXIuTUFYX1ZBTFVFKTsK</text>
+        <text encoding="base64">ICAgICAgICB3ZWJTZXR0aW5ncy5zZXRMb2FkV2l0aE92ZXJ2aWV3TW9kZSh0cnVlKTsgLy8gy/W3xdbBxsHEu7XEtPPQoQo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtTm90aWZ5TWFuYWdlci5jYW5jZWxBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2ViVmlldy5zY3JvbGxUbygxMDAsIDEwMGRkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyIG1Ob3RpZnlNYW5hZ2VyID0gKE5vdGlmaWNhdGlvbk1hbmFnZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuc2Nyb2xsVG8oSW50ZWdlci5NQVhfVkFMVUUsIEludGVnZXIuTUFYX1ZBTFVFKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBXZWJTZXR0aW5ncy5zZXRVc2VXaWRlVmlld1BvcnQodHJ1ZSk7ICAvL72rzbzGrLX31fu1vcrKus93ZWJ2aWV3tcQK</text>
+        <text encoding="base64">ICAgICAgICBtTm90aWZ5TWFuYWdlci5jYW5jZWxBbGwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJYnl0ZVtdIHRtcCA9ICBCYXNlNjQuZGVjb2RlKGpzVmFsdWVCYXNlNjQsIEJhc2U2NC5ERUZBVUxUKTsK</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyIG1Ob3RpZnlNYW5hZ2VyID0gKE5vdGlmaWNhdGlvbk1hbmFnZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKTsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
