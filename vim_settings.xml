@@ -211,6 +211,13 @@
         <mark key="]" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
+      <file name="D:/StudioProjects/Battery-Indicator-Pro/src/com/darshancomputing/BatteryIndicatorPro/BatteryInfoService.java" timestamp="1528708933468">
+        <mark key="'" line="114" column="23" />
+        <mark key="[" line="114" column="24" />
+        <mark key="]" line="129" column="45" />
+        <mark key="." line="129" column="45" />
+        <mark key="^" line="129" column="45" />
+      </file>
       <file name="D:/StudioProjects/Tools/demo21/src/main/AndroidManifest.xml" timestamp="1528689148563">
         <mark key="[" line="17" column="19" />
       </file>
@@ -334,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="549" column="21" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="550" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="554" column="21" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="555" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
@@ -434,16 +440,17 @@
       <jump line="102" column="28" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/CWebView.java" />
       <jump line="113" column="12" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/CWebView.java" />
       <jump line="40" column="50" filename="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/BottomWebView.java" />
+      <jump line="113" column="23" filename="D:/StudioProjects/Battery-Indicator-Pro/src/com/darshancomputing/BatteryIndicatorPro/BatteryInfoService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>starting</text>
+        <text>.Builder</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>starting</text>
+        <text>.Builder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
@@ -455,40 +462,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC5hcHAuTm90aWZpY2F0aW9uIG4gPSBtYWluTm90aWZpY2F0aW9uQgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHNiLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC5hcHAuTm90aWZpY2F0aW9uIG4gPSBtYWluTm90aWZpY2F0aW9uQi47Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5yZXBsYWNlKHNiLmxlbmd0aCgpIC0gMSwgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KHNiLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBzYi5yZXBsYWNlKHNiLmxlbmd0aCgpIC0gMSwgKQo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJTZXR0aW5ncy5zZXRMb2FkV2l0aE92ZXJ2aWV3TW9kZSh0cnVlKTsgLy8gy/W3xdbBxsHEu7XEtPPQoQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2ViVmlldy5zY3JvbGxUbygxMDAsIDEwMGRkKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVdlYlZpZXcuc2Nyb2xsVG8oSW50ZWdlci5NQVhfVkFMVUUsIEludGVnZXIuTUFYX1ZBTFVFKTsK</text>
+        <text encoding="base64">ICAgICAgICB3ZWJTZXR0aW5ncy5zZXRMb2FkV2l0aE92ZXJ2aWV3TW9kZSh0cnVlKTsgLy8gy/W3xdbBxsHEu7XEtPPQoQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtTm90aWZ5TWFuYWdlci5jYW5jZWxBbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2ViVmlldy5zY3JvbGxUbygxMDAsIDEwMGRkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
