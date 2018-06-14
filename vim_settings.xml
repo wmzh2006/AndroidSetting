@@ -13,9 +13,6 @@
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1528714231662">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/StudioProjects/Tools/magic/src/main/AndroidManifest.xml" timestamp="1527765008895">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -99,11 +96,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" timestamp="1528969199605">
-        <mark key="[" line="512" column="18" />
-        <mark key="]" line="613" column="6" />
-        <mark key="." line="613" column="6" />
-        <mark key="^" line="613" column="38" />
+      <file name="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" timestamp="1528970214539">
+        <mark key="[" line="473" column="22" />
+        <mark key="]" line="473" column="22" />
+        <mark key="." line="473" column="22" />
+        <mark key="^" line="482" column="38" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/settings.gradle" timestamp="1528458616546">
         <mark key="[" line="17" column="10" />
@@ -129,6 +126,11 @@
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTest/settings.gradle" timestamp="1528970732701">
+        <mark key="[" line="0" column="79" />
+        <mark key="]" line="0" column="79" />
+        <mark key="." line="0" column="79" />
       </file>
       <file name="D:/StudioProjects/Battery-Indicator-Pro/AndroidManifest.xml" timestamp="1528772278708" />
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/res/layout/activity_main.xml" timestamp="1528379195165">
@@ -361,14 +363,14 @@
       <jump line="105" column="20" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="&quot;" type="4">
+        <text>, ':testfacebook'</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, ':testfacebook'</text>
       </register>
       <register name="/" type="4">
         <text>mChannel</text>
