@@ -101,11 +101,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" timestamp="1528974874134">
-        <mark key="'" line="470" column="5" />
-        <mark key="[" line="481" column="26" />
-        <mark key="]" line="481" column="29" />
-        <mark key="." line="481" column="29" />
+      <file name="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" timestamp="1528975566551">
+        <mark key="'" line="419" column="55" />
+        <mark key="[" line="510" column="7" />
+        <mark key="]" line="510" column="8" />
+        <mark key="." line="510" column="8" />
         <mark key="^" line="481" column="29" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/settings.gradle" timestamp="1528458616546">
@@ -281,11 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="728" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
-      <jump line="733" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
-      <jump line="738" column="25" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
-      <jump line="742" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
-      <jump line="747" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="752" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="70" column="21" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="94" column="20" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
@@ -381,6 +376,11 @@
       <jump line="322" column="111" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
       <jump line="327" column="95" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
       <jump line="470" column="5" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="474" column="39" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="421" column="99" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="342" column="131" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="344" column="99" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="419" column="55" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -452,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zzbgo</entry>
         <entry>oncreate</entry>
         <entry>onCreate</entry>
         <entry>bIs</entry>
@@ -471,6 +470,7 @@
         <entry>main</entry>
         <entry>mChannel</entry>
         <entry>init</entry>
+        <entry>handle</entry>
         <entry>ok</entry>
       </history-search>
       <history-cmd>
