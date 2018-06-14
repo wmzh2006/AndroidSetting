@@ -101,12 +101,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" timestamp="1528975566551">
-        <mark key="'" line="419" column="55" />
-        <mark key="[" line="510" column="7" />
-        <mark key="]" line="510" column="8" />
-        <mark key="." line="510" column="8" />
-        <mark key="^" line="481" column="29" />
+      <file name="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" timestamp="1528976265128">
+        <mark key="'" line="510" column="30" />
+        <mark key="[" line="510" column="10" />
+        <mark key="]" line="510" column="29" />
+        <mark key="." line="510" column="29" />
+        <mark key="^" line="510" column="29" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/settings.gradle" timestamp="1528458616546">
         <mark key="[" line="17" column="10" />
@@ -281,9 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="752" column="18" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
-      <jump line="70" column="21" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
-      <jump line="94" column="20" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="391" column="16" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="471" column="95" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
       <jump line="181" column="26" filename="D:/Android/cache/.gradle/caches/modules-2/files-2.1/com.just.agentweb/agentweb/1.1.0/f48e570997770c831d50a470ea8fe5e4bd53d227/agentweb-1.1.0-sources.jar!/com/just/library/AgentWeb.java" />
@@ -381,6 +378,9 @@
       <jump line="342" column="131" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
       <jump line="344" column="99" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
       <jump line="419" column="55" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="506" column="22" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="512" column="0" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
+      <jump line="510" column="30" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -393,7 +393,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ok</text>
+        <text>jl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dFKCJDQUxMIG9uQWZ0ZXIhIik7Cg==</text>
@@ -442,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ok</last-search>
+      <last-search>jl</last-search>
       <last-offset />
-      <last-pattern>ok</last-pattern>
+      <last-pattern>jl</last-pattern>
       <last-replace>@android</last-replace>
       <last-substitute>@+android</last-substitute>
       <last-dir>1</last-dir>
@@ -452,8 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oncreate</entry>
-        <entry>onCreate</entry>
         <entry>bIs</entry>
         <entry>bIsDebuggable</entry>
         <entry>onrec</entry>
@@ -472,6 +470,8 @@
         <entry>init</entry>
         <entry>handle</entry>
         <entry>ok</entry>
+        <entry>j1</entry>
+        <entry>jl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@id/@+id/g</entry>
