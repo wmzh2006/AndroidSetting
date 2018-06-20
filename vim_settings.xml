@@ -45,10 +45,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/DaemonService.java" timestamp="1529476679007">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/DaemonService.java" timestamp="1529482758409">
+        <mark key="[" line="31" column="65" />
+        <mark key="]" line="31" column="65" />
+        <mark key="." line="31" column="65" />
+        <mark key="^" line="31" column="69" />
       </file>
       <file name="D:/StudioProjects/Battery-Indicator-Pro/src/com/sarclmcompution/battery/PreviewPreference.java" timestamp="1528772449928">
         <mark key="[" line="24" column="0" />
@@ -241,11 +242,10 @@
         <mark key="^" line="36" column="14" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Coin/workmanagerdemo/src/main/java/com/hunt/pilot/cao/workmanagerdemo/MainActivity.java" timestamp="1529481961823">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="56" />
-        <mark key="." line="18" column="0" />
+      <file name="E:/AndroidStudioProjects/Coin/workmanagerdemo/src/main/java/com/hunt/pilot/cao/workmanagerdemo/MainActivity.java" timestamp="1529482621410">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1528978139836">
         <mark key="[" line="0" column="0" />
@@ -417,14 +417,14 @@
       <jump line="604" column="10" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_Admob/src/main/jni/apkdexclassloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>jl</text>
@@ -436,7 +436,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Lgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -453,23 +453,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IG5ldyBXaW5kb3dNYW5hZ2VyLkxheW91dFBhcmFtcygpOwogICAgICAgIHBhcmFtcy50eXBlID0gV2luZG93TWFuYWdlci5MYXlvdXRQYXJhbXMuVFlQRV9TWVNURU1fQUxFUlQ7CiAgICAgICAgcGFyYW1zLmZsYWdzID0gV2luZG93TWFuYWdlci5MYXlvdXRQYXJhbXMuRkxBR19OT1RfVE9VQ0hBQkxFOwogICAgICAgIHBhcmFtcy53aWR0aCA9IDA7CiAgICAgICAgcGFyYW1zLmhlaWdodCA9IDA7</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHNpbXVsYXRlVG91Y2hFdmVudCh2aWV3LCB2aWV3LmdldFdpZHRoKCkvMmYsIHZpZXcuZ2V0SGVpZ2h0KCkvMmYpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IG5ldyBXaW5kb3dNYW5hZ2VyLkxheW91dFBhcmFtcygpOwogICAgICAgIHBhcmFtcy50eXBlID0gV2luZG93TWFuYWdlci5MYXlvdXRQYXJhbXMuVFlQRV9TWVNURU1fQUxFUlQ7CiAgICAgICAgcGFyYW1zLmZsYWdzID0gV2luZG93TWFuYWdlci5MYXlvdXRQYXJhbXMuRkxBR19OT1RfVE9VQ0hBQkxFOwogICAgICAgIHBhcmFtcy53aWR0aCA9IDA7CiAgICAgICAgcGFyYW1zLmhlaWdodCA9IDA7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHNpbXVsYXRlVG91Y2hFdmVudCh2aWV3LHBvc2l0aW9uWzBdK21XZWJWaWV3LmdldFdpZHRoKCkvMiwgcG9zaXRpb25bMV0rbVdlYlZpZXcuZ2V0SGVpZ2h0KCkvMik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHNpbXVsYXRlVG91Y2hFdmVudCh2aWV3LCB2aWV3LmdldFdpZHRoKCkvMmYsIHZpZXcuZ2V0SGVpZ2h0KCkvMmYpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHNpbXVsYXRlVG91Y2hFdmVudCh2aWV3LHBvc2l0aW9uWzBdK21XZWJWaWV3LmdldFdpZHRoKCkvMiwgcG9zaXRpb25bMV0rbVdlYlZpZXcuZ2V0SGVpZ2h0KCkvMik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgZGF0YSA9IG51bGw7Ci8vICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgaWUgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHAuZ2V0RXJyb3JTdHJlYW0oKSkpOwovLyAgICAgICAgICAgIEJ1ZmZlcmVkUmVhZGVyIGluID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihwLmdldElucHV0U3RyZWFtKCkpKTsKLy8gICAgICAgICAgICBTdHJpbmcgZXJyb3IgPSBudWxsOwovLyAgICAgICAgICAgIHdoaWxlICgoZXJyb3IgPSBpZS5yZWFkTGluZSgpKSAhPSBudWxsCi8vICAgICAgICAgICAgICAgICAgICAmJiAhZXJyb3IuZXF1YWxzKCJudWxsIikpIHsKLy8gICAgICAgICAgICAgICAgZGF0YSArPSBlcnJvciArICJcbiI7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIFN0cmluZyBsaW5lID0gbnVsbDsKLy8gICAgICAgICAgICB3aGlsZSAoKGxpbmUgPSBpbi5yZWFkTGluZSgpKSAhPSBudWxsCi8vICAgICAgICAgICAgICAgICAgICAmJiAhbGluZS5lcXVhbHMoIm51bGwiKSkgewovLyAgICAgICAgICAgICAgICBkYXRhICs9IGxpbmUgKyAiXG4iOwovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBMb2cuaShUQUcsICIiK2RhdGEpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
