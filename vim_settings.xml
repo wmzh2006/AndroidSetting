@@ -168,6 +168,12 @@
       <file name="/Clipboard.txt" timestamp="1528978910560">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/Tools/leaf/src/main/java/com/green/fur/leaf/LFApplication.java" timestamp="1529571395460">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="10" column="36" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/BaseApp.java" timestamp="1528981710941">
         <mark key="[" line="52" column="21" />
         <mark key="]" line="53" column="20" />
@@ -221,10 +227,11 @@
         <mark key="]" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="D:/StudioProjects/Tools/leaf/src/main/AndroidManifest.xml" timestamp="1529568588686">
-        <mark key="[" line="8" column="80" />
-        <mark key="]" line="8" column="80" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/StudioProjects/Tools/leaf/src/main/AndroidManifest.xml" timestamp="1529571373287">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/Utils.java" timestamp="1528454953841">
         <mark key="[" line="22" column="0" />
@@ -328,7 +335,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1529481534797">
+      <file name="/fragment.java" timestamp="1529571338227">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -435,14 +442,14 @@
       <jump line="604" column="10" filename="E:/Project/ZHooKDemo_AdmobTest/zHooKDemoOK_Admob/src/main/jni/apkdexclassloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tUEVSTUlTU0lPTi0tPgogICAgICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+CiAgICAgICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5BQ0NFU1NfV0lGSV9TVEFURSIgLz4KICAgICAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLkFDQ0VTU19ORVRXT1JLX1NUQVRFIiAvPgogICAgICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVDRUlWRV9CT09UX0NPTVBMRVRFRCIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>your publisherId</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>your publisherId</text>
       </register>
       <register name="/" type="4">
         <text>jl</text>
