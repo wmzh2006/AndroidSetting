@@ -24,11 +24,11 @@
       </file>
       <file name="/AndroidManifest.xml" timestamp="1529652476459" />
       <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1529575683734" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/build.gradle" timestamp="1529906561431">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="41" column="45" />
-        <mark key="." line="45" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/build.gradle" timestamp="1529909190279">
+        <mark key="[" line="58" column="50" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="58" column="47" />
+        <mark key="^" line="58" column="47" />
       </file>
       <file name="E:/Project/DynamicLoader/zHookDemoOK_Z/build.gradle" timestamp="1529575582870" />
       <file name="D:/StudioProjects/Tools/magic/src/main/AndroidManifest.xml" timestamp="1527765008895">
@@ -355,6 +355,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/src/main/java/com/hunt/pilot/cao/filescaner/MainActivity.java" timestamp="1529910624853">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
+      </file>
       <file name="D:/StudioProjects/Tools/settings.gradle" timestamp="1528267898324">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -483,65 +489,59 @@
       <jump line="1056" column="23" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">SW5wdXRTdHJlYW0g</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'../facebooklibrary/src/main/java'</text>
+        <text encoding="base64">SW5wdXRTdHJlYW0g</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpmYWNlYm9va2xpYnJhcnknKQo=</text>
+      <register name="0" type="4">
+        <text>InputStream is</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">TGlzdDxTdHJpbmc+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBieXRlW10gYnVmZmVyID0gbmV3IGJ5dGVbMTAyNF07CiAgICAgICAgICAgIGludCBsZW4gPSAtMTsKICAgICAgICAgICAgd2hpbGUgKChsZW4gPSBpcy5yZWFkKGJ1ZmZlcikpICE9IC0xKSB7CiAgICAgICAgICAgICAgICByZXN1bHQuCiAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gICAgZGVmIG15VHJlZSA9IGZpbGVUcmVlKCcuLi9mYWNlYm9va2xpYnJhcnkvc3JjL21haW4vamF2YScpCi8vICAgIG15VHJlZS5lYWNoIHsKLy8gICAgICAgIHByaW50bG4gaXQuZ2V0UGFyZW50KCkKLy8gICAgfQog</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dFN0cmVhbS53cml0ZSgpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>sourceSets.each {
-        println it
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIG91dFN0cmVhbSA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text>('main').java {
-        println it
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZVJlYWRlciBmciA9IG5ldyBGaWxlUmVhZGVyKGlzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>.each {
-        println it
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZVJlYWRlciBmaWxlUmVhZGVyID0gbmV3IEZpbGVSZWFkZXIoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBybwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIHByaW50V3JpdGVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2plY3QoJzpmYWNlYm9va2xpYnJhcnknCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIGl0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
