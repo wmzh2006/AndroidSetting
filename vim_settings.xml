@@ -24,11 +24,11 @@
       </file>
       <file name="/AndroidManifest.xml" timestamp="1529652476459" />
       <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1529575683734" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/build.gradle" timestamp="1529899150429">
-        <mark key="[" line="43" column="48" />
-        <mark key="]" line="43" column="48" />
-        <mark key="." line="43" column="48" />
-        <mark key="^" line="43" column="75" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/build.gradle" timestamp="1529906561431">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="41" column="45" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/zHookDemoOK_Z/build.gradle" timestamp="1529575582870" />
       <file name="D:/StudioProjects/Tools/magic/src/main/AndroidManifest.xml" timestamp="1527765008895">
@@ -86,7 +86,7 @@
         <mark key="]" line="143" column="47" />
         <mark key="." line="143" column="47" />
       </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/internal/AbstractTask.java" timestamp="1529897833015" />
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/internal/AbstractTask.java" timestamp="1529899218798" />
       <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/MainActivity.java" timestamp="1527764979058">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -331,7 +331,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" timestamp="1529898981430">
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" timestamp="1529899380990">
         <mark key="'" line="1056" column="23" />
       </file>
       <file name="D:/StudioProjects/Tools/geography/src/main/java/com/ocean/mountain/river/geography/GeoService.java" timestamp="1528278432676">
@@ -483,14 +483,14 @@
       <jump line="1056" column="23" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>project.projectDir.toSrint()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>project.projectDir.toSrint()</text>
+        <text>'../facebooklibrary/src/main/java'</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -501,50 +501,47 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>sourceSets.each {
-        println it
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text>('main').java {
-        println it
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text>.each {
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gICAgZGVmIG15VHJlZSA9IGZpbGVUcmVlKCcuLi9mYWNlYm9va2xpYnJhcnkvc3JjL21haW4vamF2YScpCi8vICAgIG15VHJlZS5lYWNoIHsKLy8gICAgICAgIHByaW50bG4gaXQuZ2V0UGFyZW50KCkKLy8gICAgfQog</text>
+      </register>
+      <register name="5" type="4">
+        <text>sourceSets.each {
         println it
     }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBybwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2plY3QoJzpmYWNlYm9va2xpYnJhcnknCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="4">
-        <text>subprojects {
+        <text>('main').java {
         println it
-        println 'aaaaa'
     }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGYK</text>
+      <register name="7" type="4">
+        <text>.each {
+        println it
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgIHBybwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByb2plY3QoJzpmYWNlYm9va2xpYnJhcnknCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
