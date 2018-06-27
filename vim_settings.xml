@@ -161,6 +161,12 @@
         <mark key="^" line="26" column="49" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/facebooklibrary/src/main/java/com/facebook/browser/lite/BrowserLiteActivity.java" timestamp="1530093779366">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+      </file>
       <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/Utils.java" timestamp="1528454953841">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="35" />
@@ -399,11 +405,11 @@
         <mark key="]" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/HttpHookInit.java" timestamp="1530092200420">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="90" column="28" />
-        <mark key="." line="90" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/HttpHookInit.java" timestamp="1530093553618">
+        <mark key="[" line="82" column="45" />
+        <mark key="]" line="82" column="45" />
+        <mark key="^" line="82" column="52" />
+        <mark key="." line="82" column="45" />
       </file>
       <file name="D:/AndroidStudioProjects/TestGroovy/app/build.gradle" timestamp="1530002958007">
         <mark key="[" line="16" column="39" />
@@ -463,7 +469,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1530088508610">
+      <file name="/fragment.java" timestamp="1530093527898">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -570,14 +576,14 @@
       <jump line="0" column="0" filename="E:/tools/AndroidKiller/projects/com.facebook.lite-1/Project/smali/com/facebook/browser/lite/BrowserLiteActivity.smali" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnNldEZsYWdzKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
@@ -589,40 +595,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnNldEZsYWdzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlci5iZWZvcmVIb29rZWRNZXRob2QocGFyYW0pOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQocGFyYW1Db250ZXh0LCBDbGFzcy5mb3JOYW1lKCJjb20uZmFjZWJvb2suYnJvd3Nlci5saXRlLkJyb3dzZXJMaXRlQWN0aXZpdHkiKSk7CiAgICAgICAgICAgIHBhcmFtQ29udGV4dC5zdGFydEFjdGl2aXR5KGludGVudCk7</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFDVElPTl9JTkpFQ1RfQ09PS0lFUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnNldEZsYWdzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFDVElPTl9JTkpFQ1RfQ09PS0lFUyAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlci5iZWZvcmVIb29rZWRNZXRob2QocGFyYW0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFDVElPTl9JTkpFQ1RfQ09PS0lFUwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKHBhcmFtLnRoaXNPYmplY3QuZ2V0Q2xhc3MoKS5nZXROYW1lKCkuZW5kc1dpdGgoIkZiV2ViVmlldyIpKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFDVElPTl9JTkpFQ1RfQ09PS0lFUyAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgTG9nLmUoTG9nUHJpbnRmLlRBRywgInRoaXMgaXMgRkJXZWJWaWV3Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFdlYlZpZXcuc2V0V2ViQ29udGVudHNEZWJ1Z2dpbmdFbmFibGVkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKHBhcmFtLnRoaXNPYmplY3QuZ2V0Q2xhc3MoKS5nZXROYW1lKCkuZW5kc1dpdGgoIkZiV2ViVmlldyIpKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgWHBvc2VkSGVscGVycy5jYWxsU3RhdGljTWV0aG9kKFdlYlZpZXcuOykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgTG9nLmUoTG9nUHJpbnRmLlRBRywgInRoaXMgaXMgRkJXZWJWaWV3Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
