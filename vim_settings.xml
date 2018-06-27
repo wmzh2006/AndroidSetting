@@ -258,11 +258,11 @@
         <mark key="." line="5" column="20" />
       </file>
       <file name="E:/Project/DynamicLoader/zHookDemoOK_Z/build.gradle" timestamp="1529575582870" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/HkAb.java" timestamp="1530066861990">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="7" />
-        <mark key="^" line="35" column="7" />
-        <mark key="." line="35" column="7" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/HkAb.java" timestamp="1530105501545">
+        <mark key="[" line="83" column="61" />
+        <mark key="]" line="83" column="61" />
+        <mark key="." line="83" column="61" />
+        <mark key="^" line="84" column="54" />
       </file>
       <file name="D:/StudioProjects/H5/app/src/main/java/com/hunt/pilot/cao/h5/CoolIndicatorLayout.java" timestamp="1527493298127">
         <mark key="[" line="38" column="0" />
@@ -432,11 +432,11 @@
         <mark key="]" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/HttpHookInit.java" timestamp="1530104399045">
-        <mark key="[" line="86" column="89" />
-        <mark key="]" line="86" column="40" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/HttpHookInit.java" timestamp="1530104752895">
+        <mark key="[" line="82" column="45" />
+        <mark key="]" line="82" column="45" />
         <mark key="^" line="86" column="40" />
-        <mark key="." line="86" column="40" />
+        <mark key="." line="82" column="45" />
       </file>
       <file name="D:/AndroidStudioProjects/TestGroovy/app/build.gradle" timestamp="1530002958007">
         <mark key="[" line="16" column="39" />
@@ -604,58 +604,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>Objects.requireNonNull(intent.getExtras()).toString()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>Objects.requireNonNull(intent.getExtras()).toString()</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgTG9nLmUoTG9nUHJpbnRmLlRBRywgInRoaXMgaXMgRkJXZWJWaWV3Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZShMb2dQcmludGYuVEFHLCAiaW50ZW50ICIgKyBpbnRlbnQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlCdW5kbGUgYnVuZGxlID0gaW50ZW50LmdldEV4dHJhcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQuZ2V0RXh0cmFzKCkuCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlJbnRlbnQgaW50ZW50ID0gc2V0SW50ZW50KCk7Cg==</text>
+        <text encoding="base64">CQlCdW5kbGUgYnVuZGxlID0gaW50ZW50LmdldEV4dHJhcygpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpbnRlbnQuZ2V0RXh0cmFzKCkudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">CQlJbnRlbnQgaW50ZW50ID0gc2V0SW50ZW50KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUGVyc2lzdGFibGVCdW5kbGU7Cg==</text>
+        <text encoding="base64">CQlpbnRlbnQuZ2V0RXh0cmFzKCkudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUGVyc2lzdGFibGVCdW5kbGU7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5icm93c2VyLmxpdGUuQnJvd3NlckxpdGVBY3Rpdml0eTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5icm93c2VyLmxpdGUuQnJvd3NlckxpdGVBY3Rpdml0eTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQocGFyYW1Db250ZXh0LCBDbGFzcy5mb3JOYW1lKCJjb20uZmFjZWJvb2suYnJvd3Nlci5saXRlLkJyb3dzZXJMaXRlQWN0aXZpdHkiKSk7CiAgICAgICAgICAgIHBhcmFtQ29udGV4dC5zdGFydEFjdGl2aXR5KGludGVudCk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZW50LnNldEZsYWdzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
