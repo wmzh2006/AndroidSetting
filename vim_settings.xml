@@ -67,6 +67,9 @@
         <mark key="^" line="349" column="50" />
         <mark key="." line="349" column="50" />
       </file>
+      <file name="E:/tools/android/sources/android-27/java/lang/Class.java" timestamp="1529926215701">
+        <mark key="'" line="5" column="62" />
+      </file>
       <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/internal/project/ProjectInternal.java" timestamp="1529898731454" />
       <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1529637718779">
         <mark key="[" line="6" column="0" />
@@ -260,6 +263,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" timestamp="1529899380990">
+        <mark key="'" line="1056" column="23" />
+      </file>
       <file name="E:/AndroidStudioProjects/Coin/app/src/main/java/com/liquid/flowing/water/Utils.java" timestamp="1529486089893">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="12" column="26" />
@@ -452,6 +458,9 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
+      <file name="E:/tools/AndroidKiller/projects/com.facebook.lite-1/Project/smali/com/facebook/lite/MainActivity.smali" timestamp="1530087624315">
+        <mark key="'" line="27" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/Coin/workmanagerdemo/build.gradle" timestamp="1529481439477">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -558,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="299" column="58" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="392" column="62" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="1246" column="61" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
@@ -658,6 +666,7 @@
       <jump line="11" column="26" filename="D:/AndroidStudioProjects/TestGroovy/app/build.gradle" />
       <jump line="525" column="15" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/FB_ReplaceMethod.java" />
       <jump line="527" column="25" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/FB_ReplaceMethod.java" />
+      <jump line="27" column="0" filename="E:/tools/AndroidKiller/projects/com.facebook.lite-1/Project/smali/com/facebook/lite/MainActivity.smali" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -670,7 +679,7 @@
         <text>Activity.class</text>
       </register>
       <register name="/" type="4">
-        <text>osdk</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgTG9nLmUoTG9nUHJpbnRmLlRBRywgInRoaXMgaXMgRkJXZWJWaWV3Iik7Cg==</text>
@@ -719,9 +728,9 @@
       </register>
     </registers>
     <search>
-      <last-search>osdk</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern>osdk</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>@android</last-replace>
       <last-substitute>finalize</last-substitute>
       <last-dir>1</last-dir>
@@ -729,7 +738,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AgentBuilder</entry>
         <entry>webview</entry>
         <entry>mWebView</entry>
         <entry encoding="base64">XDxtV2ViVmlld1w+</entry>
@@ -749,6 +757,7 @@
         <entry>modify</entry>
         <entry>finalize</entry>
         <entry>osdk</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@id/@+id/g</entry>
