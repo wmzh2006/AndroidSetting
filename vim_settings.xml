@@ -45,6 +45,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/internal/AbstractTask.java" timestamp="1529899218798" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/facebooklibrary/src/main/java/com/facebook/lite/r_.java" timestamp="1530067388255" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1530091852749">
+        <mark key="[" line="14" column="37" />
+      </file>
       <file name="D:/AndroidStudioProjects/TestGroovy/javassistdemo/build.gradle" timestamp="1530003851408">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="7" column="46" />
@@ -147,10 +150,10 @@
         <mark key="^" line="1" column="54" />
         <mark key="." line="1" column="54" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" timestamp="1530259143861">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" timestamp="1530261531965">
+        <mark key="[" line="241" column="82" />
+        <mark key="]" line="241" column="83" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/src/main/java/com/hunt/pilot/cao/filescaner/IJson.java" timestamp="1529925059751">
         <mark key="[" line="5" column="11" />
@@ -165,11 +168,11 @@
         <mark key="." line="31" column="65" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1528981549850">
-        <mark key="[" line="101" column="64" />
-        <mark key="]" line="102" column="54" />
-        <mark key="." line="102" column="54" />
-        <mark key="^" line="102" column="54" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530261278576">
+        <mark key="[" line="200" column="12" />
+        <mark key="]" line="200" column="12" />
+        <mark key="^" line="200" column="14" />
+        <mark key="." line="200" column="12" />
       </file>
       <file name="E:/tools/AndroidKiller/projects/com.facebook.lite-1/Project/smali/com/facebook/lite/browser/BrowserLiteCallbackService.smali" timestamp="1530088227954" />
       <file name="E:/AndroidStudioProjects/Coin/app/build.gradle" timestamp="1529486815117">
@@ -283,10 +286,11 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Init.java" timestamp="1530259451357">
-        <mark key="[" line="129" column="57" />
-        <mark key="]" line="129" column="57" />
-        <mark key="." line="129" column="57" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Init.java" timestamp="1530261340495">
+        <mark key="[" line="126" column="25" />
+        <mark key="]" line="126" column="21" />
+        <mark key="." line="126" column="21" />
+        <mark key="^" line="126" column="21" />
       </file>
       <file name="D:/AndroidStudioProjects/TestGroovy/app/src/main/resources/META-INF/gradle-plugins/com.app.myplugin.properties" timestamp="1529996059327">
         <mark key="[" line="0" column="0" />
@@ -444,13 +448,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWVNYW5hZ2VyIGNvb2tpZU1hbmFnZXIgPSBDb29raWVNYW5hZ2VyLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAiQVBLVmVyc2lvbk5hbWUiLCAiIiwgQVBLVmVyc2lvbk5hbWUsICIiKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>+&quot;_&quot; + BuildConfig.releaseTime</text>
       </register>
       <register name="/" type="4">
         <text>addJava</text>
@@ -462,19 +466,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWVNYW5hZ2VyIGNvb2tpZU1hbmFnZXIgPSBDb29raWVNYW5hZ2VyLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAiQVBLVmVyc2lvbk5hbWUiLCAiIiwgQVBLVmVyc2lvbk5hbWUsICIiKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb29raWVNYW5hZ2VyLmdldENvb2tpZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBDb29raWVNYW5hZ2VyIGNvb2tpZU1hbmFnZXIgPSBDb29raWVNYW5hZ2VyLmdldEluc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb29raWVNYW5hZ2VyLmdldENvb2tpZSgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -486,16 +490,16 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJSlNEZWJ1Z0xvZy5kKCIjIyIgKyB1cmwwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJSlNEZWJ1Z0xvZy5kKCIjIyIgKyB1cmwwKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJSlNEZWJ1Z0xvZy5kKCIjIyIgKyByZXF1ZXN0LmdldFVybCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgkJQE92ZXJyaWRlCgkJcHVibGljIFdlYlJlc291cmNlUmVzcG9uc2Ugc2hvdWxkSW50ZXJjZXB0UmVxdWVzdCAoV2ViVmlldyB2aWV3LCBTdHJpbmcgdXJsKSB7CgkJCXJldHVybiBzdXBlci5zaG91bGRJbnRlcmNlcHRSZXF1ZXN0KHZpZXcsIHVybCk7CgkJfQoJCQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRlbnQuZ2V0RXh0cmFzKCkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
