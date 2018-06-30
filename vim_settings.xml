@@ -31,11 +31,10 @@
         <mark key="." line="31" column="65" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530325609095">
-        <mark key="[" line="200" column="79" />
-        <mark key="]" line="200" column="79" />
-        <mark key="^" line="200" column="78" />
-        <mark key="." line="200" column="79" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530347089636">
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="E:/tools/android/sources/android-27/java/lang/Class.java" timestamp="1529926215701">
         <mark key="'" line="5" column="62" />
@@ -83,7 +82,7 @@
         <mark key="^" line="4" column="77" />
         <mark key="." line="4" column="77" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1529648154303">
+      <file name="/Clipboard.txt" timestamp="1530346513237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/f/c0.java" timestamp="1530103351213">
@@ -91,6 +90,13 @@
         <mark key="]" line="44" column="38" />
         <mark key="." line="44" column="38" />
         <mark key="^" line="44" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" timestamp="1530347267039">
+        <mark key="'" line="26" column="14" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530274276005">
         <mark key="[" line="640" column="87" />
@@ -256,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="606" column="27" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="635" column="116" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="643" column="104" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="646" column="45" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
@@ -356,19 +361,20 @@
       <jump line="652" column="8" filename="E:/Project/js_webview/ZGVmYXVsdC5qcw==2 - 副本" />
       <jump line="222" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="9" column="27" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Utils.java" />
+      <jump line="26" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>addJava</text>
+        <text>],</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgImluaXRQcm9ndWFyZE5hbWUiLCAiIiwgQVBLVmVyc2lvbk5hbWUsICJub3Qgc3VwcG9ydCIpOwo=</text>
@@ -377,57 +383,56 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJwYWdlU3RhcnRlZCIsICIiK3VybCwgIiIrIFV0aWxzLmdldFVzZXJJZCgpLCIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQlzd2l0Y2ggKGEpIHsKCgkJfQ==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLmNsaWtMaWtlKGxpa2VzMCk7IgkJCQkJCQkJCQkJCQkJCQkJCSsJIlxyXG4iICsK</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJwYWdlU3RhcnRlZCIsICIiK3VybCwgIiIrIFV0aWxzLmdldFVzZXJJZCgpLCIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLmNsaWtMaWtlKGxpa2VzMCk7IgkJCQkJCQkJCQkJCQkJCQkJCSsJIlxyXG4iICsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLmNsaWtMaWtlKGxpa2VzMCk7IgkJCQkJCQkJCQkJCQkJCQkJCSsJIlxyXG4iICsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLmNsaWtMaWtlKGxpa2VzMCk7IgkJCQkJCQkJCQkJCQkJCQkJCSsJIlxyXG4iICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10ga3YgPSB2LnNwbGl0KCI9Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10ga3YgPSB2LnNwbGl0KCI9Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10ga3YgPSB2LnNwbGl0KCI9Iik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>0,$d</text>
+        <text>%s/],/]/g</text>
       </register>
     </registers>
     <search>
-      <last-search>addJava</last-search>
+      <last-search>],</last-search>
       <last-offset />
-      <last-pattern>addJava</last-pattern>
-      <last-replace>@android</last-replace>
-      <last-substitute>finalize</last-substitute>
+      <last-pattern>],</last-pattern>
+      <last-replace>]</last-replace>
+      <last-substitute>],</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GetCValue</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry>main</entry>
         <entry>mChannel</entry>
@@ -447,9 +452,9 @@
         <entry>androidLog</entry>
         <entry>obj</entry>
         <entry>addJava</entry>
+        <entry>],</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@id/@+id/g</entry>
         <entry>set hlsearch</entry>
         <entry>reg</entry>
         <entry>d reg</entry>
@@ -469,6 +474,7 @@
         <entry>%s/@+android/@android/g</entry>
         <entry>w</entry>
         <entry>0,$d</entry>
+        <entry>%s/],/]/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
