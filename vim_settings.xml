@@ -70,6 +70,12 @@
         <mark key="]" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1530502196814">
+        <mark key="[" line="134" column="37" />
+        <mark key="]" line="134" column="40" />
+        <mark key="." line="134" column="40" />
+        <mark key="^" line="134" column="40" />
+      </file>
       <file name="/FB_ClassData_Find.java" timestamp="1530498145767" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/settings.gradle" timestamp="1530067103333">
         <mark key="[" line="1" column="8" />
@@ -77,6 +83,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/build.gradle" timestamp="1530502120568" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/src/main/AndroidManifest.xml" timestamp="1529926576239">
         <mark key="[" line="3" column="79" />
         <mark key="]" line="4" column="77" />
@@ -123,13 +130,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/src/main/java/com/hunt/pilot/cao/filescaner/ClassBase.java" timestamp="1529978917383">
-        <mark key="'" line="9" column="63" />
-        <mark key="[" line="50" column="24" />
-        <mark key="]" line="50" column="44" />
-        <mark key="^" line="50" column="44" />
-        <mark key="." line="50" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.txt" timestamp="1530359338451" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/build.gradle" timestamp="1530264716166">
@@ -215,18 +215,11 @@
         <mark key="." line="47" column="43" />
         <mark key="^" line="47" column="43" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1530501259941">
-        <mark key="[" line="65" column="81" />
-        <mark key="]" line="66" column="63" />
-        <mark key="^" line="66" column="63" />
-        <mark key="." line="66" column="63" />
-      </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/filescaner/src/main/java/com/hunt/pilot/cao/filescaner/MainActivity.java" timestamp="1529978804287">
-        <mark key="'" line="60" column="15" />
-        <mark key="[" line="67" column="21" />
-        <mark key="]" line="67" column="30" />
-        <mark key="." line="67" column="30" />
-        <mark key="^" line="67" column="30" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1530502496992">
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="65" column="16" />
+        <mark key="^" line="65" column="16" />
+        <mark key="." line="65" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1529648448858">
         <mark key="[" line="1" column="220" />
@@ -247,13 +240,6 @@
       </file>
       <file name="/fragment.java" timestamp="1530258884567">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Utils.java" timestamp="1530266141735">
-        <mark key="'" line="9" column="27" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -360,13 +346,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>TAG</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>TAG</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
