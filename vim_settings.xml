@@ -233,7 +233,8 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" timestamp="1530501097574">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" timestamp="1530513303431">
+        <mark key="'" line="630" column="0" />
         <mark key="[" line="623" column="0" />
         <mark key="]" line="623" column="0" />
         <mark key="." line="623" column="0" />
@@ -243,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="649" column="101" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="661" column="14" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="664" column="21" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="667" column="26" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
@@ -343,6 +343,7 @@
       <jump line="25" column="13" filename="E:/Project/ZHooKDemo_AdmobTestA/zHookDemoOK_Z2/src/main/java/com/jiechi/HappyTask2.java" />
       <jump line="76" column="85" filename="E:/Project/ZHooKDemo_AdmobTestA/zHookDemoOK_Z2/src/main/java/com/jiechi/HappyTask2.java" />
       <jump line="629" column="87" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" />
+      <jump line="630" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -355,7 +356,7 @@
         <text encoding="base64">Y2hvd24g</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>else</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAic3RhcnRBcHAiLEFfUEFDS0FHRV9OQU1FLCB2ZXJzaW9uTmFtZSwgcnMpOwkvLyDU9rzTxvS2r2FwcM34wufK/b7dzbO8xgo=</text>
@@ -404,9 +405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>else</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>else</last-pattern>
       <last-replace>]</last-replace>
       <last-substitute>],</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry>mChannel</entry>
         <entry>init</entry>
         <entry>handle</entry>
@@ -434,12 +434,9 @@
         <entry>addJava</entry>
         <entry>],</entry>
         <entry>start</entry>
+        <entry>else</entry>
       </history-search>
       <history-cmd>
-        <entry>set hlsearch</entry>
-        <entry>reg</entry>
-        <entry>d reg</entry>
-        <entry>reg d</entry>
         <entry>ls</entry>
         <entry>!ls</entry>
         <entry>path</entry>
@@ -456,6 +453,10 @@
         <entry>w</entry>
         <entry>0,$d</entry>
         <entry>%s/],/]/g</entry>
+        <entry>%s/else//gn</entry>
+        <entry>%s/false//gn</entry>
+        <entry>%s/return//gn</entry>
+        <entry>%s/return//ng</entry>
       </history-cmd>
       <history-expr />
       <history-input />
