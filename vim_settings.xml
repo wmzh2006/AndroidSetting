@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530585361631">
-        <mark key="'" line="420" column="18" />
-        <mark key="[" line="409" column="0" />
-        <mark key="]" line="409" column="0" />
-        <mark key="^" line="403" column="31" />
-        <mark key="." line="409" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530602609458">
+        <mark key="'" line="654" column="41" />
+        <mark key="[" line="655" column="48" />
+        <mark key="]" line="655" column="49" />
+        <mark key="^" line="655" column="49" />
+        <mark key="." line="655" column="49" />
       </file>
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
@@ -51,8 +51,8 @@
         <mark key="." line="86" column="112" />
         <mark key="^" line="86" column="112" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530601526972">
-        <mark key="'" line="403" column="224" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530601857884">
+        <mark key="'" line="537" column="32" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/settings.gradle" timestamp="1530600777282">
         <mark key="[" line="10" column="25" />
@@ -97,9 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="667" column="26" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
-      <jump line="670" column="86" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
-      <jump line="675" column="21" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="678" column="115" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="682" column="14" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="685" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
@@ -197,22 +194,25 @@
       <jump line="630" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" />
       <jump line="422" column="18" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="403" column="224" filename="E:/Project/ZHooKDemo_AdmobTestA/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="537" column="32" filename="E:/Project/ZHooKDemo_AdmobTestA/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="421" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="653" column="41" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXN1bHQgPSBTaGVsbEV4ZS5ydW4oInBtIGNsZWFyIGNvbS5BQlouQiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>su -c 'busybox cp -R /data/data/com.facebook.lite/app_webview /data/data/com.ABZ.B/'</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>ssSo</text>
+        <text>unlickLike</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXN1bHQgPSBTaGVsbEV4ZS5ydW4oInN1IC1jICdidXN5Ym94IGNwIC1SIC9kYXRhL2RhdGEvY29tLmZhY2Vib29rLmxpdGUvYXBwX3dlYnZpZXcgL2RhdGEvZGF0YS9jb20uQUJaLkIvJyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLnVubGlja0xpa2Uod2luZG93LmxvY2F0aW9uLmhyZWYsZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2h0bWwnKVswXS5pbm5lckhUTUwpOyIJKwkiXHJcbiIgKwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -258,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ssSo</last-search>
+      <last-search>unlickLike</last-search>
       <last-offset />
-      <last-pattern>ssSo</last-pattern>
+      <last-pattern>unlickLike</last-pattern>
       <last-replace>hadLiked</last-replace>
       <last-substitute>hadliked</last-substitute>
       <last-dir>1</last-dir>
@@ -268,8 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handle</entry>
-        <entry>ok</entry>
         <entry>j1</entry>
         <entry>jl</entry>
         <entry encoding="base64">XDwnXD4=</entry>
@@ -287,7 +285,9 @@
         <entry>start</entry>
         <entry>else</entry>
         <entry>hadliked</entry>
+        <entry>ssos</entry>
         <entry>ssSo</entry>
+        <entry>unlickLike</entry>
       </history-search>
       <history-cmd>
         <entry>!ls</entry>
