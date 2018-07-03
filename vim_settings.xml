@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530602609458">
-        <mark key="'" line="654" column="41" />
-        <mark key="[" line="655" column="48" />
-        <mark key="]" line="655" column="49" />
-        <mark key="^" line="655" column="49" />
-        <mark key="." line="655" column="49" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530603968617">
+        <mark key="'" line="654" column="31" />
+        <mark key="[" line="656" column="86" />
+        <mark key="]" line="656" column="86" />
+        <mark key="^" line="656" column="58" />
+        <mark key="." line="656" column="86" />
       </file>
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
@@ -17,6 +17,9 @@
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530603991299">
+        <mark key="[" line="251" column="79" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530515718757">
         <mark key="[" line="34" column="0" />
@@ -97,7 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="678" column="115" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="682" column="14" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="685" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="688" column="92" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
@@ -197,22 +199,23 @@
       <jump line="537" column="32" filename="E:/Project/ZHooKDemo_AdmobTestA/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="421" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="653" column="41" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="654" column="31" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>key</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>unlickLike</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLnVubGlja0xpa2Uod2luZG93LmxvY2F0aW9uLmhyZWYsZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2h0bWwnKVswXS5pbm5lckhUTUwpOyIJKwkiXHJcbiIgKwo=</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjbGlrTGlrZSIsICIiLCAiIisgVXRpbHMuZ2V0VXNlcklkKCksIiIra2V5KTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
