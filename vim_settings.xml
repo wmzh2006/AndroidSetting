@@ -18,14 +18,24 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530607259747">
-        <mark key="[" line="251" column="79" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530608158651">
+        <mark key="[" line="59" column="67" />
+        <mark key="]" line="59" column="67" />
+        <mark key="^" line="59" column="59" />
+        <mark key="." line="59" column="67" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530515718757">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="102" />
         <mark key="^" line="34" column="98" />
         <mark key="." line="34" column="98" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" timestamp="1530608137562">
+        <mark key="'" line="283" column="45" />
+        <mark key="[" line="283" column="25" />
+        <mark key="]" line="283" column="41" />
+        <mark key="^" line="283" column="41" />
+        <mark key="." line="283" column="45" />
       </file>
       <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1530521053785">
         <mark key="[" line="16" column="46" />
@@ -101,7 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="682" column="14" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="685" column="19" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="688" column="92" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="689" column="78" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
@@ -201,22 +210,23 @@
       <jump line="421" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="653" column="41" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="654" column="31" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="283" column="45" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>html</text>
+        <text>so的标记</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text>so的标记</text>
       </register>
       <register name="/" type="4">
         <text>hadliked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjbGlrTGlrZSIsICIiLCAiIisgVXRpbHMuZ2V0VXNlcklkKCksIiIra2V5KTsK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIGRhdGFTb05hbWUgPSBuZXcgU3RyaW5nKCJTT04iKTsvLyAgc2+1xLHqvMcK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
