@@ -19,18 +19,18 @@
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530676233916">
-        <mark key="[" line="141" column="43" />
-        <mark key="]" line="141" column="42" />
-        <mark key="." line="141" column="42" />
-        <mark key="^" line="141" column="42" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530676589244">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="34" />
+        <mark key="." line="166" column="34" />
+        <mark key="^" line="168" column="29" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2018070214/readme.txt" timestamp="1530521227699">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530676045351">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530676526759">
         <mark key="[" line="63" column="72" />
         <mark key="]" line="63" column="71" />
         <mark key="." line="63" column="71" />
@@ -213,13 +213,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AbtainContext</text>
+        <text>AppHooker.callForHookFromDexLoad(context, classLoader);</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>AbtainContext</text>
+        <text>AppHooker.callForHookFromDexLoad(context, classLoader);</text>
       </register>
       <register name="/" type="4">
         <text>hadliked</text>
@@ -231,40 +231,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBoYW5kbGVyID0gCXB1YmxpYyBzdGF0aWMgYW5kcm9pZC5vcy5IYW5kbGVyIGhhbmRsZXIgPSBuZXcgYW5kcm9pZC5vcy5IYW5kbGVyKExvb3Blci5nZXRNYWluTG9vcGVyKCkpOyAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoUGFja2FnZU5hbWUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc1N0cm9lLm9mZmVyKF9fY2xhc3NMb2FkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoUGFja2FnZU5hbWUgPSB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxGb3JIb29rRnJvbURleExvYWQoZGV4Q2xhc3NMb2FkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc1N0cm9lLm9mZmVyKF9fY2xhc3NMb2FkZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxGb3JIb29rRnJvbURleExvYWQoZGV4Q2xhc3NMb2FkZXIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBmb3IgKENsYXNzTG9hZGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgQ29udGV4dCBjb250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBmb3IgKENsYXNzTG9hZGVyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgQ29udGV4dCBjb250ZXh0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
