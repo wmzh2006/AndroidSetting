@@ -18,11 +18,11 @@
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530687497246">
-        <mark key="[" line="363" column="8" />
-        <mark key="]" line="363" column="51" />
-        <mark key="." line="363" column="0" />
-        <mark key="^" line="363" column="4" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530691878732">
+        <mark key="[" line="156" column="41" />
+        <mark key="]" line="170" column="35" />
+        <mark key="." line="170" column="35" />
+        <mark key="^" line="170" column="35" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2018070214/readme.txt" timestamp="1530521227699">
         <mark key="[" line="0" column="41" />
@@ -200,14 +200,14 @@
       <jump line="283" column="45" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIG1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>poll</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>poll</text>
       </register>
       <register name="/" type="4">
         <text>hadliked</text>
@@ -219,40 +219,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIG1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlEeW5hbWljSG9va2VyLm1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgIG1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VBcHAuY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsRm9ySG9vaygpOwo=</text>
+        <text encoding="base64">CQlEeW5hbWljSG9va2VyLm1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VBcHAuY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7IAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIHZvaWQgY2FsbEZvckhvb2soKSB7CiAgICAgICBjYWxsRm9ySG9va0FsbENsYXNzTG9hZGVyKCk7CiAgICAgICBjYWxsRm9yTW9uaXRvckNsYXNzTG9hZGVyKCk7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsRm9ySG9vaygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYXNlQXBwLm9uQWZ0ZXJMb2FkZWRMaWJyYXJ5KGNvbnRleHQpKXsgICAgIC8vIMb0tq+zybmmo6y+zcilaG9vayBjbGFzc2xvYWRlctXiuPbA4Ao=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIHZvaWQgY2FsbEZvckhvb2soKSB7CiAgICAgICBjYWxsRm9ySG9va0FsbENsYXNzTG9hZGVyKCk7CiAgICAgICBjYWxsRm9yTW9uaXRvckNsYXNzTG9hZGVyKCk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
