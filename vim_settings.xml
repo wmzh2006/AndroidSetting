@@ -18,20 +18,21 @@
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530685152227">
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530687497246">
+        <mark key="[" line="363" column="8" />
+        <mark key="]" line="363" column="51" />
+        <mark key="." line="363" column="0" />
+        <mark key="^" line="363" column="4" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2018070214/readme.txt" timestamp="1530521227699">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530685058396">
-        <mark key="[" line="217" column="50" />
-        <mark key="]" line="217" column="49" />
-        <mark key="." line="217" column="49" />
-        <mark key="^" line="217" column="49" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530687364003">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530672607267">
         <mark key="[" line="34" column="0" />
@@ -46,28 +47,18 @@
         <mark key="^" line="283" column="41" />
         <mark key="." line="283" column="45" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1530521053785">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="16" column="52" />
-      </file>
       <file name="/LLDB" timestamp="1530364022772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1530091852749">
         <mark key="[" line="14" column="37" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FBLiteApp.java" timestamp="1530686829373" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/libs/rootsdk_plugin_lib.jar!/com/lib/util/StrProcessing.class" timestamp="1530605770417" />
       <file name="/Dummy.txt" timestamp="1530365970815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Init.java" timestamp="1530519402780">
-        <mark key="[" line="129" column="107" />
-        <mark key="]" line="130" column="66" />
-        <mark key="." line="130" column="66" />
-        <mark key="^" line="130" column="66" />
-      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/ChromeApp.java" timestamp="1530686423042" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1530601179442">
         <mark key="[" line="86" column="87" />
         <mark key="]" line="86" column="112" />
@@ -101,7 +92,7 @@
         <mark key="." line="641" column="106" />
         <mark key="^" line="641" column="68" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/BaseApp.java" timestamp="1530685207447" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/BaseApp.java" timestamp="1530686325450" />
       <file name="/fragment.java" timestamp="1530258884567">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,13 +201,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VBcHAuY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7IAo=</text>
+        <text encoding="base64">ICAgICAgIG1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>// 成功，就去触发classloader遍历</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hadliked</text>
@@ -228,40 +219,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VBcHAuY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7IAo=</text>
+        <text encoding="base64">ICAgICAgIG1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsRm9ySG9vaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlEeW5hbWljSG9va2VyLm1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIHZvaWQgY2FsbEZvckhvb2soKSB7CiAgICAgICBjYWxsRm9ySG9va0FsbENsYXNzTG9hZGVyKCk7CiAgICAgICBjYWxsRm9yTW9uaXRvckNsYXNzTG9hZGVyKCk7CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VBcHAuY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjYWxsRm9ySG9vaygpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYXNlQXBwLm9uQWZ0ZXJMb2FkZWRMaWJyYXJ5KGNvbnRleHQpKXsgICAgIC8vIMb0tq+zybmmo6y+zcilaG9vayBjbGFzc2xvYWRlctXiuPbA4Ao=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIHZvaWQgY2FsbEZvckhvb2soKSB7CiAgICAgICBjYWxsRm9ySG9va0FsbENsYXNzTG9hZGVyKCk7CiAgICAgICBjYWxsRm9yTW9uaXRvckNsYXNzTG9hZGVyKCk7CiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYXNlQXBwLm9uQWZ0ZXJMb2FkZWRMaWJyYXJ5KGNvbnRleHQpKXsgICAgIC8vIMb0tq+zybmmo6y+zcilaG9vayBjbGFzc2xvYWRlctXiuPbA4Ao=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBoYW5kbGVyID0gCXB1YmxpYyBzdGF0aWMgYW5kcm9pZC5vcy5IYW5kbGVyIGhhbmRsZXIgPSBuZXcgYW5kcm9pZC5vcy5IYW5kbGVyKExvb3Blci5nZXRNYWluTG9vcGVyKCkpOyAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiYXNlQXBwLm9uQWZ0ZXJMb2FkZWRMaWJyYXJ5KGNvbnRleHQpKXsgICAgIC8vIMb0tq+zybmmo6y+zcilaG9vayBjbGFzc2xvYWRlctXiuPbA4Ao=</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
