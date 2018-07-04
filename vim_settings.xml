@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/CoreBase.java" timestamp="1530694866091" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/AppHooker.java" timestamp="1530685228739">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -18,6 +19,7 @@
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FBKatanaApp.java" timestamp="1530694747803" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530691878732">
         <mark key="[" line="156" column="41" />
         <mark key="]" line="170" column="35" />
@@ -29,10 +31,11 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530687364003">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530695190449">
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="315" column="0" />
+        <mark key="." line="264" column="99" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530672607267">
         <mark key="[" line="34" column="0" />
@@ -47,6 +50,12 @@
         <mark key="^" line="283" column="41" />
         <mark key="." line="283" column="45" />
       </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1530521053785">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="16" column="52" />
+      </file>
       <file name="/LLDB" timestamp="1530364022772">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,6 +66,12 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/libs/rootsdk_plugin_lib.jar!/com/lib/util/StrProcessing.class" timestamp="1530605770417" />
       <file name="/Dummy.txt" timestamp="1530365970815">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Init.java" timestamp="1530519402780">
+        <mark key="[" line="129" column="107" />
+        <mark key="]" line="130" column="66" />
+        <mark key="." line="130" column="66" />
+        <mark key="^" line="130" column="66" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/ChromeApp.java" timestamp="1530686423042" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/function_uitl.h" timestamp="1530693235039">
@@ -90,14 +105,14 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" timestamp="1530672731466">
-        <mark key="'" line="630" column="0" />
-        <mark key="[" line="641" column="106" />
-        <mark key="]" line="641" column="106" />
-        <mark key="." line="641" column="106" />
-        <mark key="^" line="641" column="68" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" timestamp="1530694347634">
+        <mark key="'" line="553" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/BaseApp.java" timestamp="1530686325450" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/BaseApp.java" timestamp="1530694658274">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1530258884567">
         <mark key="[" line="0" column="0" />
       </file>
@@ -205,59 +220,67 @@
       <jump line="283" column="45" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>poll</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCQkJaGFuZGxlT25DcmVhdGVNc2dDb250ZXh0KCBjb250ZXh0RmluYWwsIHZlcnNpb24sICBzZWxmUGF0aCwgIGN1clNvTmFtZSwgZGV4T3V0cHV0LCBpc0RhdGFMT0dGSUxHICk7Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>poll</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>hadliked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJTG9nLmUoTG9nUHJpbnRmLlRBRywgImJmIExvZ2NhdEFjdGlvbi5pbml0ICIgKyBCdWlsZENvbmZpZy5yZWxlYXNlVGltZSsiLHZlcj0iK21WZXJzaW9uKTsK</text>
+        <text encoding="base64">CQkJCQkJCQkJaGFuZGxlT25DcmVhdGVNc2dDb250ZXh0KCBjb250ZXh0RmluYWwsIHZlcnNpb24sICBzZWxmUGF0aCwgIGN1clNvTmFtZSwgZGV4T3V0cHV0LCBpc0RhdGFMT0dGSUxHICk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJaGFuZGxlT25DcmVhdGVNc2dDb250ZXh0KCBjb250ZXh0RmluYWwsIHZlcnNpb24sICBzZWxmUGF0aCwgIGN1clNvTmFtZSwgZGV4T3V0cHV0LCBpc0RhdGFMT0dGSUxHICk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIG1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiAucjUyNjAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQkJCQkJCQkJaGFuZGxlT25DcmVhdGVNc2dDb250ZXh0KCBjb250ZXh0RmluYWwsICAgdmVyc2lvbiwgIHNlbGZQYXRoLCAgY3VyU29OYW1lLCBpc0RhdGFMT0dGSUxHICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlEeW5hbWljSG9va2VyLm1pbml0b3JBYnRhaW5Db250ZXh0VGhlblBvbGxDbGFzc0xvYWRlcnMoKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VBcHAuY2FsbEZvckhvb2tGcm9tRGV4TG9hZChjbGFzc0xvYWRlcik7IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsRm9ySG9vaygpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIHZvaWQgY2FsbEZvckhvb2soKSB7CiAgICAgICBjYWxsRm9ySG9va0FsbENsYXNzTG9hZGVyKCk7CiAgICAgICBjYWxsRm9yTW9uaXRvckNsYXNzTG9hZGVyKCk7CiAgICB9</text>
+      <register name="7" type="4">
+        <text>//初始化hook环境
+	public static void initHookEnv(String mSelfPath, String dexDir) {
+		Log.e(LogPrintf.TAG, &quot;bf initHookEnv &quot; + BuildConfig.releaseTime+&quot;,dexDir=&quot;+dexDir+&quot;,selfPath=&quot;+mSelfPath);
+		File dexOutputDir = new File(dexDir);//mContext.getDir(dataSSPath+System.currentTimeMillis()/*目录随机生成*/, 0);
+		dexOutputDir.mkdirs();
+		Log.d(LogPrintf.TAG, &quot;bf NativeLibUnpacker.unPackSOFromApk&quot;);
+		NativeLibUnpacker.unPackSOFromApk(mSelfPath, dexOutputDir.getAbsolutePath());			// 将这个apk的cpu根据情况进行解压
+		DexposedInit.initLoad(dexDir);        //hook需要用到的so库的加载
+	}</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkvL7P1yry7r0hPT0u7t76zCgkJU3RyaW5nIGRleERpciA9IFN0cmluZy5mb3JtYXQoIi9kYXRhL2RhdGEvJXMvYXBwXyVzIiwgbVBhY2thZ2VOYW1lLCBkYXRhU1NQYXRoICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwoJCWluaXRIb29rRW52KG1TZWxmUGF0aCwgZGV4RGlyKTsKCQlEeW5hbWljSG9va2VyLmNhbGxGb3JNb25pdG9yQ2xhc3NMb2FkZXIoKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJRHluYW1pY0hvb2tlci5jYWxsRm9ySG9va0FsbENsYXNzTG9hZGVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
