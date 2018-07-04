@@ -13,22 +13,21 @@
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530672364603">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="30" column="21" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="30" column="21" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/DynamicHooker.java" timestamp="1530675045198">
+        <mark key="[" line="140" column="48" />
+        <mark key="]" line="155" column="3" />
+        <mark key="^" line="155" column="3" />
+        <mark key="." line="155" column="3" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2018070214/readme.txt" timestamp="1530521227699">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530611015386">
-        <mark key="[" line="220" column="101" />
-        <mark key="]" line="220" column="101" />
-        <mark key="." line="220" column="101" />
-        <mark key="^" line="220" column="101" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530673516442">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530672607267">
         <mark key="[" line="34" column="0" />
@@ -221,13 +220,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>hadliked</text>
@@ -239,13 +238,13 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgQ29udGV4dCBjb250ZXh0Owo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -257,22 +256,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIGRleE91dHB1dFBhdGggPSBuZXcgU3RyaW5nKCIvZGF0YS9kYXRhLyVzIik7Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5NYXAuY29udGFpbnNLZXkoZGF0YVBrZ05hbWUpKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIGRleE91dHB1dFBhdGggPSBuZXcgU3RyaW5nKCIvZGF0YS9kYXRhLyVzIik7Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXN1bHQgPSBTaGVsbEV4ZS5ydW4oInBtIGNsZWFyIGNvbS5BQlouQiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5NYXAuY29udGFpbnNLZXkoZGF0YVBrZ05hbWUpKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyByZXN1bHQgPSBTaGVsbEV4ZS5ydW4oInBtIGNsZWFyIGNvbS5BQlouQiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAgU2hlbGxFeGUucnVuKCJzdSAtYyAnYnVzeWJveCBjaG1vZCA3NzcgLVIgL2RhdGEvZGF0YS9jb20uQUJaLkIvYXBwX3dlYnZpZXciKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
