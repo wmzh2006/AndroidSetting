@@ -9,12 +9,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530703004476">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530703977277">
         <mark key="'" line="660" column="31" />
-        <mark key="[" line="661" column="91" />
-        <mark key="]" line="663" column="0" />
-        <mark key="^" line="678" column="50" />
-        <mark key="." line="663" column="0" />
+        <mark key="[" line="662" column="0" />
+        <mark key="]" line="662" column="0" />
+        <mark key="^" line="677" column="50" />
+        <mark key="." line="662" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
@@ -64,6 +64,12 @@
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1530701159961" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/ChromeApp.java" timestamp="1530686423042" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/eve_trace/src/main/AndroidManifest.xml" timestamp="1530703881026">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="41" column="15" />
+        <mark key="^" line="41" column="15" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/function_uitl.h" timestamp="1530693235039">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -75,12 +81,22 @@
         <mark key="." line="86" column="112" />
         <mark key="^" line="86" column="112" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530601857884">
-        <mark key="'" line="537" column="32" />
-      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1530702573184" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/settings.gradle" timestamp="1530600777282">
-        <mark key="[" line="10" column="25" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/eve_trace/src/main/java/com/eve/tra/util/TrackUtil.java" timestamp="1530703656618">
+        <mark key="[" line="157" column="51" />
+        <mark key="]" line="157" column="51" />
+        <mark key="." line="157" column="51" />
+        <mark key="^" line="157" column="59" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/build.gradle" timestamp="1530703769306">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="22" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/settings.gradle" timestamp="1530703773347">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1530599074051">
         <mark key="[" line="71" column="16" />
@@ -212,58 +228,59 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbC53cml0ZVRvRmlsZShodG1sLCBuZXcgRmlsZShvdXQuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiL3Rlc3QuaHRtbCIpKTsK</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>webviewlibrary</text>
       </register>
       <register name="/" type="4">
         <text>LogcatAction</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJSlNEZWJ1Z0xvZy52KCJhYSIsICLRucv11q7HsLXE19a3+7SutPPQoaO6IitzdHIubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOndlYnZpZXdsaWJyYXJ5JykK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbC53cml0ZVRvRmlsZShodG1sLCBuZXcgRmlsZShvdXQuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiL3Rlc3QuaHRtbCIpKTsK</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJb3V0Lm1rZGlycygpOwo=</text>
+      <register name="2" type="4">
+        <text>android:versionCode=&quot;1&quot;
+    android:versionName=&quot;1.0&quot;</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJRmlsZSBvdXQgPSBtQ29udGV4dC5nZXRGaWxlc0RpcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXRpbC53cml0ZVRvRmlsZShodG1sLCBuZXcgRmlsZShvdXQuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiL3Rlc3QuaHRtbCIpKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJb3V0Lm1rZGlycygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJKyIvdGV4dC5odG1sIjsK</text>
+        <text encoding="base64">CQkJRmlsZSBvdXQgPSBtQ29udGV4dC5nZXRGaWxlc0RpcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLmdlCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
