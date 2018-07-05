@@ -30,12 +30,12 @@
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530702159843">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530752318565">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="267" column="79" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="315" column="0" />
-        <mark key="." line="264" column="99" />
+        <mark key="[" line="215" column="62" />
+        <mark key="]" line="215" column="62" />
+        <mark key="^" line="209" column="24" />
+        <mark key="." line="215" column="62" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530672607267">
         <mark key="[" line="34" column="0" />
@@ -104,10 +104,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1530599074051">
-        <mark key="[" line="71" column="16" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1530752869383">
+        <mark key="[" line="141" column="18" />
+        <mark key="]" line="132" column="43" />
+        <mark key="." line="132" column="43" />
+        <mark key="^" line="132" column="43" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/libs/eve_trace.jar!/com/android/providers/certinstaller/com/Util.class" timestamp="1530598596354" />
       <file name="/Clipboard.txt" timestamp="1530358906207">
@@ -247,20 +248,20 @@
       <jump line="16" column="19" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiCQkvL2FuZHJvaWQudW5saWNrTGlrZSh3aW5kb3cubG9jYXRpb24uaHJlZiwnPGh0bWw+Jytkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaHRtbCcpWzBdLmlubmVySFRNTCsnPC9odG1sPicpOyIJKwkiXHJcbiIgKwo=</text>
+      <register name="&quot;" type="4">
+        <text>SSP</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>classes</text>
+        <text>SSP</text>
       </register>
       <register name="/" type="4">
         <text>LogcatAction</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOndlYnZpZXdsaWJyYXJ5JykK</text>
+        <text encoding="base64">ICAgIAlTdHJpbmcgZGF0YVNTUGF0aCAJPSBuZXcgU3RyaW5nKCJTU1AiKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
