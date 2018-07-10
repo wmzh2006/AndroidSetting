@@ -13,9 +13,12 @@
         <mark key="." line="38" column="51" />
         <mark key="^" line="38" column="50" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1531205536828">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1531207845241">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="268" column="79" />
+        <mark key="[" line="232" column="87" />
+        <mark key="]" line="232" column="87" />
+        <mark key="^" line="232" column="87" />
+        <mark key="." line="232" column="87" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530871198296">
         <mark key="[" line="49" column="65" />
@@ -253,13 +256,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>LogcatAction</text>
@@ -271,40 +274,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgInNldFdlYlZpZXdLYXRhbmFDb29raWVfbTI3NzMzYSIsICIiLCAiIiwgIiIpOwo=</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJzZXRXZWJWaWV3S2F0YW5hQ29va2llX20yNzczM2EiLCAiIiwgIiIsICIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCBVdGlscy5nZXRFdmVudFRhZyhtUGFja2FnZU5hbWUsICJ3b3JrQWN0aW9uIiksICIiLCAiIitUb29sQXBpLmdldFZlcnNpb25OYW1lKGNvbnRleHQpLCIiKTsK</text>
+        <text encoding="base64">fHx8fHx8fCAucjUyODcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjYWxsRm9ySG9va0Zyb21EZXhMb2FkIiwgIiIsICIiLCIiKTsK</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJoYW5kbGVPbkNyZWF0ZU1zZyIsY3VyU29OYW1lLFNjcmVlbkhXLFByb2Nlc3NOYW1lICsgIl8iK0FQS1ZlcnNpb25OYW1lKyJfIiArIEJ1aWxkQ29uZmlnLnJlbGVhc2VUaW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjYWxsRm9ySG9va0Zyb21EZXhMb2FkIiwgIiIsICIiLCIiKTsK</text>
+        <text encoding="base64">CQkJTG9nLmkoTG9nUHJpbnRmLlRBRywgImJmIE1ldGhvZHNGaW5kZXIuZ2V0SW5zdGFuY2UoKS5pbml0aWFsaXplZDsiICsgU2NyZWVuSFcgKyAiXyIgKyBQcm9jZXNzTmFtZSArICJfIitBUEtWZXJzaW9uTmFtZSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCBVdGlscy5nZXRFdmVudFRhZyhiYXNlQXBwUGFja2FnZU5hbWUsICJhY3Rpb24iKSwgIiIsIiIsIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjUyODcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJoYW5kbGVPbkNyZWF0ZU1zZyIsY3VyU29OYW1lLFNjcmVlbkhXLFByb2Nlc3NOYW1lICsgIl8iK0FQS1ZlcnNpb25OYW1lKyJfIiArIEJ1aWxkQ29uZmlnLnJlbGVhc2VUaW1lKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzaG93V2ViVmlld0FzQnJvc3dlcihjb250ZXh0LGZhbHNlKTsK</text>
+        <text encoding="base64">CQkJTG9nLmkoTG9nUHJpbnRmLlRBRywgImJmIE1ldGhvZHNGaW5kZXIuZ2V0SW5zdGFuY2UoKS5pbml0aWFsaXplZDsiICsgU2NyZWVuSFcgKyAiXyIgKyBQcm9jZXNzTmFtZSArICJfIitBUEtWZXJzaW9uTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
