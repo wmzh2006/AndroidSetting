@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/CoreBase.java" timestamp="1530694866091" />
+      <file name="/CoreBase.java" timestamp="1531205455526" />
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,13 +13,9 @@
         <mark key="." line="38" column="51" />
         <mark key="^" line="38" column="50" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/release/2018070214/readme.txt" timestamp="1530521227699">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="0" column="41" />
-      </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1530859218521">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1531205536828">
         <mark key="'" line="16" column="19" />
+        <mark key="[" line="268" column="79" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/Cookie_Manage.java" timestamp="1530871198296">
         <mark key="[" line="49" column="65" />
@@ -27,7 +23,7 @@
         <mark key="^" line="49" column="86" />
         <mark key="." line="49" column="86" />
       </file>
-      <file name="/LLDB" timestamp="1530364022772">
+      <file name="/LLDB" timestamp="1531205357162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AutoWebview.java" timestamp="1531203327457" />
@@ -44,11 +40,6 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/libs/rootsdk_plugin_lib.jar!/com/lib/util/StrProcessing.class" timestamp="1530605770417" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1530701159961" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/ChromeApp.java" timestamp="1530686423042" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/function_uitl.h" timestamp="1530693235039">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1531203293289">
         <mark key="[" line="137" column="5" />
         <mark key="]" line="137" column="0" />
@@ -62,11 +53,6 @@
         <mark key="^" line="157" column="59" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/LogPrintf.java" timestamp="1530844635767" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/build.gradle" timestamp="1530706103326">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/settings.gradle" timestamp="1530703773347">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -127,6 +113,7 @@
         <mark key="." line="41" column="15" />
         <mark key="^" line="41" column="15" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/libs/eve_trace.jar!/com/ecfudl2/LogcatAction.class" timestamp="1531205753814" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1530702573184" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/eve_trace/build.gradle" timestamp="1530705867756">
         <mark key="[" line="23" column="62" />
@@ -139,11 +126,11 @@
         <mark key="]" line="161" column="42" />
         <mark key="." line="161" column="42" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1530754688429">
-        <mark key="[" line="141" column="85" />
-        <mark key="]" line="141" column="85" />
-        <mark key="." line="141" column="85" />
-        <mark key="^" line="141" column="95" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1531205698710">
+        <mark key="[" line="62" column="77" />
+        <mark key="]" line="62" column="65" />
+        <mark key="." line="62" column="65" />
+        <mark key="^" line="62" column="48" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_ClassData_Find.java" timestamp="1531202780343">
         <mark key="'" line="553" column="0" />
@@ -265,14 +252,14 @@
       <jump line="52" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Utils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJzZXRXZWJWaWV3S2F0YW5hQ29va2llX20yNzczM2EiLCAiIiwgIiIsICIiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>LogcatAction</text>
@@ -284,40 +271,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJzZXRXZWJWaWV3S2F0YW5hQ29va2llX20yNzczM2EiLCAiIiwgIiIsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgInNldFdlYlZpZXdLYXRhbmFDb29raWVfbTI3NzMzYSIsICIiLCAiIiwgIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCBVdGlscy5nZXRFdmVudFRhZyhtUGFja2FnZU5hbWUsICJ3b3JrQWN0aW9uIiksICIiLCAiIitUb29sQXBpLmdldFZlcnNpb25OYW1lKGNvbnRleHQpLCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJzZXRXZWJWaWV3S2F0YW5hQ29va2llX20yNzczM2EiLCAiIiwgIiIsICIiKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjYWxsRm9ySG9va0Zyb21EZXhMb2FkIiwgIiIsICIiLCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCBVdGlscy5nZXRFdmVudFRhZyhtUGFja2FnZU5hbWUsICJ3b3JrQWN0aW9uIiksICIiLCAiIitUb29sQXBpLmdldFZlcnNpb25OYW1lKGNvbnRleHQpLCIiKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjYWxsRm9ySG9va0Zyb21EZXhMb2FkIiwgIiIsICIiLCIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCBVdGlscy5nZXRFdmVudFRhZyhiYXNlQXBwUGFja2FnZU5hbWUsICJhY3Rpb24iKSwgIiIsIiIsIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjYWxsRm9ySG9va0Zyb21EZXhMb2FkIiwgIiIsICIiLCIiKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjUyODcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCBVdGlscy5nZXRFdmVudFRhZyhiYXNlQXBwUGFja2FnZU5hbWUsICJhY3Rpb24iKSwgIiIsIiIsIiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAucjUyODcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzaG93V2ViVmlld0FzQnJvc3dlcihjb250ZXh0LGZhbHNlKTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fHx8fHx8fCAucjUyNzIK</text>
+        <text encoding="base64">CQlzaG93V2ViVmlld0FzQnJvc3dlcihjb250ZXh0LGZhbHNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
