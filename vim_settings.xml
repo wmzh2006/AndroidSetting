@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/android/providers/certinstaller/util/ErrUitl.java" timestamp="1531289286585" />
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,6 +50,11 @@
         <mark key="]" line="46" column="68" />
         <mark key="^" line="46" column="68" />
         <mark key="." line="46" column="68" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/android/providers/certinstaller/util/RootUtil.java" timestamp="1531289390232">
+        <mark key="[" line="122" column="12" />
+        <mark key="]" line="122" column="12" />
+        <mark key="." line="122" column="12" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1531203293289">
         <mark key="[" line="137" column="5" />
@@ -125,6 +131,7 @@
         <mark key="." line="165" column="0" />
         <mark key="^" line="173" column="42" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/ProviderService.java" timestamp="1531289776120" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/eve_trace/src/main/AndroidManifest.xml" timestamp="1530703881026">
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="15" />
@@ -148,7 +155,7 @@
         <mark key="." line="62" column="65" />
         <mark key="^" line="62" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1531281914792">
+      <file name="/fragment.java" timestamp="1531289194750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Utils.java" timestamp="1530869899520">
@@ -263,13 +270,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1Jvb3RTeXN0ZW1Nc2dcPg==</text>
@@ -281,12 +288,24 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgkvKnB1YmxpYyBzdGF0aWMgU3RyaW5nIGdldFN1cGVybWFuSUQoKQoJewoJICBTdHJpbmcgYXZhaWxhYmxlVGVzdENvbW1hbmQgPSBjb20uYW5kcm9pZC5wcm92aWRlcnMuY2VydGluc3RhbGxlci51dGlsLlN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYVdRN1pXTm9ieUFrUHc9PSIpImlkO2VjaG8gJD8iIDsKCSAgU3RyaW5nIHJldFJlc3VsdCA9IFNoZWxsRXhlLnJ1bih0cnVlLCBhdmFpbGFibGVUZXN0Q29tbWFuZCwgMTApOwoJICBpZiAoKHJldFJlc3VsdCA9PSBudWxsKSB8fCAocmV0UmVzdWx0Lmxlbmd0aCgpID09IDApKQoJICB7CgkgICAgdHJ5IHtUaHJlYWQuc2xlZXAoNTAwTCk7fQoJICAgIGNhdGNoIChFeGNlcHRpb24gZSkge30KCSAgICByZXRSZXN1bHQgPSBTaGVsbEV4ZS5ydW4odHJ1ZSwgYXZhaWxhYmxlVGVzdENvbW1hbmQsIDEwKTsKCSAgfQoJICByZXR1cm4gcmV0UmVzdWx0OwoJfSAgKi8=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="5" type="4">
         <text>Util.addTask(new Runnable() {
 			@Override
 			public void run() {
@@ -294,33 +313,20 @@
 			}
 		});</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4Y2x1ZGUoJyoqL1IuY2xhc3MnLCAnKiovQnVpbGRDb25maWcuY2xhc3MnLCAnKiovZi8qKicpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZVJlbGVhc2UuZGVwZW5kc09uIHJlbW92ZURvZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9wcmVSZWxlYXNlQnVpbGQuZGVwZW5kc09uIHJlbW92ZURvZAo=</text>
-      </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2VSZWxlYXNlLmRlcGVuZHNPbiByZW1vdmVEb2QK</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUoJyoqL1IuY2xhc3MnLCAnKiovQnVpbGRDb25maWcuY2xhc3MnLCAnKiovZi8qKicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRhc2sgcGFja2FnZVJlbGVhc2UgPSB0YXNrcy5nZXRCeU5hbWUoJ3BhY2thZ2VSZWxlYXNlJykK</text>
+        <text encoding="base64">cGFja2FnZVJlbGVhc2UuZGVwZW5kc09uIHJlbW92ZURvZAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>afterEvaluate {
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG9wcmVSZWxlYXNlQnVpbGQuZGVwZW5kc09uIHJlbW92ZURvZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IGRlZiBidWlsZFJlbGVhc2UgPSB0YXNrKCIiKQo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2VSZWxlYXNlLmRlcGVuZHNPbiByZW1vdmVEb2QK</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
