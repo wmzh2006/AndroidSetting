@@ -27,12 +27,12 @@
         <mark key="]" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/hunt/pilot/cao/suna/MainActivity.java" timestamp="1531293384457">
+      <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/hunt/pilot/cao/suna/MainActivity.java" timestamp="1531294688441">
         <mark key="'" line="40" column="18" />
         <mark key="[" line="22" column="90" />
-        <mark key="]" line="22" column="90" />
-        <mark key="." line="22" column="90" />
-        <mark key="^" line="22" column="93" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/android/providers/certinstaller/util/RootUtil.java" timestamp="1531289390232">
         <mark key="[" line="122" column="12" />
@@ -70,7 +70,9 @@
         <mark key="." line="294" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_Admob/src/main/java/com/eamo/qsac/admobone/MainActivity.java" timestamp="1531222271390" />
-      <file name="E:/AndroidStudioProjects/Project/suna/libs/myname170207.jar!/com/mydata/Myname.class" timestamp="1531293526017" />
+      <file name="E:/AndroidStudioProjects/Project/suna/libs/myname170207.jar!/com/mydata/Myname.class" timestamp="1531294550145">
+        <mark key="'" line="205" column="15" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/suna/libs/adsdk_rooksdk_lib.jar!/com/sdk/impl/util/ADRTSharedPreferencesUtil.class" timestamp="1531291778328" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1531279524120">
         <mark key="'" line="208" column="19" />
@@ -85,6 +87,7 @@
         <mark key="." line="240" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/libs/shelluser-lib-release.jar!/com/ecfudl/libshelluser/ShellExe.class" timestamp="1531292585585" />
+      <file name="E:/AndroidStudioProjects/Project/suna/libs/shelluser-lib-release.jar!/com/ecfudl/libshelluser/ShellExe.class" timestamp="1531294405032" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHookDemoOK_Z2/src/main/java/f/c0.java" timestamp="1530844963135">
         <mark key="[" line="161" column="42" />
         <mark key="]" line="161" column="42" />
@@ -96,9 +99,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1048" column="23" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
-      <jump line="1049" column="28" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
-      <jump line="1051" column="38" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="1054" column="39" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="1056" column="23" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-all/bzyivzo6n839fup2jbap0tjew/gradle-4.1/src/core/org/gradle/api/Project.java" />
       <jump line="110" column="37" filename="E:/tools/android/sources/android-27/java/lang/Class.java" />
@@ -196,6 +196,9 @@
       <jump line="246" column="43" filename="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/util/Util.java" />
       <jump line="26" column="12" filename="E:/AndroidStudioProjects/Project/suna/src/main/java/com/hunt/pilot/cao/suna/MainActivity.java" />
       <jump line="40" column="18" filename="E:/AndroidStudioProjects/Project/suna/src/main/java/com/hunt/pilot/cao/suna/MainActivity.java" />
+      <jump line="14" column="18" filename="E:/AndroidStudioProjects/Project/suna/libs/myname170207.jar!/com/mydata/Myname.class" />
+      <jump line="159" column="8" filename="E:/AndroidStudioProjects/Project/suna/libs/myname170207.jar!/com/mydata/Myname.class" />
+      <jump line="205" column="15" filename="E:/AndroidStudioProjects/Project/suna/libs/myname170207.jar!/com/mydata/Myname.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -208,7 +211,7 @@
         <text>.hulu</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text encoding="base64">XDxodWx1X25hbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4Y2x1ZGUoJyoqL1IuY2xhc3MnLCAnKiovQnVpbGRDb25maWcuY2xhc3MnLCAnKiovZi8qKicpCg==</text>
@@ -262,9 +265,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search encoding="base64">XDxodWx1X25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern encoding="base64">XDxodWx1X25hbWVcPg==</last-pattern>
       <last-replace>hadLiked</last-replace>
       <last-substitute>hadliked</last-substitute>
       <last-dir>1</last-dir>
@@ -272,7 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>modify</entry>
         <entry>finalize</entry>
         <entry>osdk</entry>
         <entry>oncreate</entry>
@@ -292,6 +294,7 @@
         <entry>isRootSystemMsg</entry>
         <entry encoding="base64">XDxpc1Jvb3RTeXN0ZW1Nc2dcPg==</entry>
         <entry>get</entry>
+        <entry encoding="base64">XDxodWx1X25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>!ls</entry>
