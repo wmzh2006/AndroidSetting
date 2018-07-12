@@ -29,7 +29,7 @@
         <mark key="^" line="27" column="66" />
         <mark key="." line="27" column="66" />
       </file>
-      <file name="/LLDB" timestamp="1531398485711">
+      <file name="/LLDB" timestamp="1531401609302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/socket/Share.java" timestamp="1531281335368" />
@@ -65,8 +65,8 @@
         <mark key="." line="6" column="36" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1531292946122" />
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1531399381489">
-        <mark key="'" line="1021" column="44" />
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1531402038089">
+        <mark key="'" line="276" column="37" />
         <mark key="[" line="451" column="44" />
         <mark key="]" line="132" column="18" />
         <mark key="." line="132" column="18" />
@@ -122,6 +122,7 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/libs/shelluser-lib-release.jar!/com/ecfudl/libshelluser/ShellExe.class" timestamp="1531292585585" />
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/bean/EnvPlugin.java" timestamp="1531402044220" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/libs/eve_trace.jar!/com/ecfudl2/LogcatAction.class" timestamp="1531297711609" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/play/app/receiver/UserPersentReceiverImpl.java" timestamp="1531388724218" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/eve_trace/build.gradle" timestamp="1530705867756">
@@ -253,7 +254,7 @@
         <mark key="]" line="161" column="42" />
         <mark key="." line="161" column="42" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/util/InitDataReader.java" timestamp="1531398185746" />
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/util/InitDataReader.java" timestamp="1531402046640" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1531381821674" />
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/release/RealseConfig.java" timestamp="1531291295625" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/sdk/impl/util/AssetsHelper.java" timestamp="1531394170553" />
@@ -267,8 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="527" column="25" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/hook/app/View/FB_ReplaceMethod.java" />
-      <jump line="27" column="0" filename="E:/tools/AndroidKiller/projects/com.facebook.lite-1/Project/smali/com/facebook/lite/MainActivity.smali" />
       <jump line="0" column="0" filename="E:/tools/AndroidKiller/projects/com.facebook.lite-1/Project/smali/com/facebook/browser/lite/BrowserLiteActivity.smali" />
       <jump line="48" column="8" filename="E:/Project/js_webview/ZGVmYXVsdC5qcw==2 - 副本" />
       <jump line="65" column="8" filename="E:/Project/js_webview/ZGVmYXVsdC5qcw==2 - 副本" />
@@ -367,6 +366,8 @@
       <jump line="353" column="27" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="887" column="27" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="1021" column="44" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="552" column="77" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="276" column="37" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -379,7 +380,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNCZWVuUm9vdFw+</text>
+        <text encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlwYXJhbXMucHV0KENvcmVDb25zdGFudC51c2VyaWQsIFByZWZlcmVuY2VVdGlsNDE0LmdldFVzZXJpZChjdHgpKTsK</text>
@@ -428,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNCZWVuUm9vdFw+</last-search>
+      <last-search encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNCZWVuUm9vdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</last-pattern>
       <last-replace>hadLiked</last-replace>
       <last-substitute>hadliked</last-substitute>
       <last-dir>1</last-dir>
@@ -451,13 +452,13 @@
         <entry encoding="base64">XDxpbml0Um9vdEVudk1zZ1w+</entry>
         <entry encoding="base64">XDxpc1Jvb3RTeXN0ZW1Nc2dcPg==</entry>
         <entry encoding="base64">XDxyb290T3Zlck1zZ1w+</entry>
-        <entry encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</entry>
         <entry>getPlans</entry>
         <entry encoding="base64">XDxkb3duUm9vdFBsYW5QbHVnaW5Nc2dcPg==</entry>
         <entry encoding="base64">XDxzZW5kRG93blJvb3RQbGFuTXNnXD4=</entry>
         <entry encoding="base64">XDxvbkluaXRFbnZpcm9ubWVudE9rXD4=</entry>
         <entry encoding="base64">XDxpc1Jvb3RTeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxoYXNCZWVuUm9vdFw+</entry>
+        <entry encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>!ls</entry>
