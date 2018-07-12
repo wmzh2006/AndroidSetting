@@ -5,6 +5,9 @@
     <filemarks>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/libs/adsdk_rooksdk_lib.jar!/com/sdk/impl/util/ADRTSharedPreferencesUtil.class" timestamp="1531292784961" />
       <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/android/providers/certinstaller/util/ErrUitl.java" timestamp="1531289286585" />
+      <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/util/Util.java" timestamp="1531291428057">
+        <mark key="'" line="246" column="43" />
+      </file>
       <file name="/a.dummy" timestamp="1529924264970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,6 +123,9 @@
         <mark key="." line="40" column="29" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1531292946122" />
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1531380146497">
+        <mark key="'" line="424" column="29" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/build.gradle" timestamp="1531280723616" />
       <file name="E:/AndroidStudioProjects/Project/suna/build.gradle" timestamp="1531364902577">
         <mark key="[" line="56" column="16" />
@@ -153,6 +159,9 @@
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1531377486696" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_Admob/src/main/java/com/eamo/qsac/admobone/MainActivity.java" timestamp="1531222271390" />
+      <file name="E:/AndroidStudioProjects/Project/suna/libs/myname170207.jar!/com/mydata/Myname.class" timestamp="1531294550145">
+        <mark key="'" line="205" column="15" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1530789992729">
         <mark key="'" line="661" column="31" />
         <mark key="[" line="421" column="0" />
@@ -180,6 +189,9 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1531279524120">
+        <mark key="'" line="208" column="19" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/util/StrProcessing.java" timestamp="1531281553072" />
       <file name="/Dummy.txt" timestamp="1530777510325">
@@ -228,12 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="37" filename="E:/tools/android/sources/android-27/java/lang/Class.java" />
-      <jump line="5" column="62" filename="E:/tools/android/sources/android-27/java/lang/Class.java" />
-      <jump line="34" column="27" filename="E:/Project/ZHooKDemo_AdmobTestA/filescaner/src/main/java/com/hunt/pilot/cao/filescaner/MainActivity.java" />
-      <jump line="39" column="13" filename="E:/tools/android/sources/android-27/java/lang/Object.java" />
-      <jump line="544" column="17" filename="E:/tools/android/sources/android-27/java/lang/Object.java" />
-      <jump line="545" column="61" filename="E:/tools/android/sources/android-27/java/lang/Object.java" />
       <jump line="550" column="18" filename="E:/tools/android/sources/android-27/java/lang/Object.java" />
       <jump line="555" column="25" filename="E:/tools/android/sources/android-27/java/lang/Object.java" />
       <jump line="556" column="57" filename="E:/tools/android/sources/android-27/java/lang/Object.java" />
@@ -328,6 +334,12 @@
       <jump line="205" column="15" filename="E:/AndroidStudioProjects/Project/suna/libs/myname170207.jar!/com/mydata/Myname.class" />
       <jump line="11" column="118" filename="E:/AndroidStudioProjects/Project/suna/src/main/java/com/com/certificate/sudo/Superman.java" />
       <jump line="44" column="20" filename="E:/AndroidStudioProjects/Project/suna/proguard-rules.pro" />
+      <jump line="430" column="29" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="209" column="19" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="384" column="17" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="425" column="29" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="387" column="17" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="424" column="29" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -340,7 +352,7 @@
         <text>.hulu</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodWx1X25hbWVcPg==</text>
+        <text encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LWxpYnJhcnlqYXJzIGxpYnMvYWRzZGtfcm9va3Nka19saWIuamFyCg==</text>
@@ -389,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodWx1X25hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodWx1X25hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</last-pattern>
       <last-replace>hadLiked</last-replace>
       <last-substitute>hadliked</last-substitute>
       <last-dir>1</last-dir>
@@ -399,8 +411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finalize</entry>
-        <entry>osdk</entry>
         <entry>oncreate</entry>
         <entry>onCreate</entry>
         <entry>androidLog</entry>
@@ -416,9 +426,11 @@
         <entry>B</entry>
         <entry>LogcatAction</entry>
         <entry>isRootSystemMsg</entry>
-        <entry encoding="base64">XDxpc1Jvb3RTeXN0ZW1Nc2dcPg==</entry>
         <entry>get</entry>
         <entry encoding="base64">XDxodWx1X25hbWVcPg==</entry>
+        <entry encoding="base64">XDxpc1Jvb3RTeXN0ZW1Nc2dcPg==</entry>
+        <entry encoding="base64">XDxpbml0Um9vdEVudk1zZ1w+</entry>
+        <entry encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>!ls</entry>
