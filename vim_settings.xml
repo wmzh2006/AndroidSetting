@@ -30,13 +30,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1531214748322" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1531361481168" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHookDemoOK_Z2/src/main/java/com/jiechi/CoreConstant.java" timestamp="1531278986944">
         <mark key="[" line="46" column="53" />
         <mark key="]" line="46" column="54" />
         <mark key="." line="46" column="54" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/com/certificate/sudo/Superman.java" timestamp="1531360385369">
+      <file name="E:/AndroidStudioProjects/Project/suna/src/main/java/com/com/certificate/sudo/Superman.java" timestamp="1531360823833">
         <mark key="'" line="11" column="118" />
         <mark key="[" line="12" column="51" />
         <mark key="]" line="12" column="60" />
@@ -66,6 +66,12 @@
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1531292946122" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/build.gradle" timestamp="1531280723616" />
+      <file name="E:/AndroidStudioProjects/Project/suna/build.gradle" timestamp="1531362177489">
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="42" column="47" />
+        <mark key="." line="42" column="47" />
+        <mark key="^" line="42" column="47" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1530358906207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -233,58 +239,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>available</text>
+        <text>adsdk_rooksdk_lib.jar</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>available</text>
+        <text>adsdk_rooksdk_lib.jar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodWx1X25hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFBIiwgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrICJSdW5uaW5nLi4uLi4uLi4uLiIpOwo=</text>
+        <text encoding="base64">ICAgIGZyb20gemlwKCJsaWJzL2Fkc2RrX3Jvb2tzZGtfbGliLmphciIpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGF2YWlsYWJsZSA9IFNoZWxsRXhlLmF2YWlsYWJsZVN1cGVybWFuKHN1KTsK</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoImNvbSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL7vxyKFodWx1sOaxvgo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoImNvbSIpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3UgPSBBRFJUU2hhcmVkUHJlZmVyZW5jZXNVdGlsLmdldF9odWx1X25ld19uYW1lKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiLmt1Z3VhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGF2YWlsYWJsZSA9IFNoZWxsRXhlLmF2YWlsYWJsZVN1cGVybWFuKHN1KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL7vxyKFodWx1sOaxvgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3UgPSBBRFJUU2hhcmVkUHJlZmVyZW5jZXNVdGlsLmdldF9odWx1X25ld19uYW1lKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiLmt1Z3VhIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9IG51bGw7CiAgICAgICAgYS5sZW5ndGgoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFBIiwgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrICJSdW5uaW5nLi4uLi4uLi4uLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFBIiwgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrICJSdW5uaW5nLi4uLi4uLi4uLiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9IG51bGw7CiAgICAgICAgYS5sZW5ndGgoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhLmxlbmd0aCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFBIiwgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXROYW1lKCkrICJSdW5uaW5nLi4uLi4uLi4uLiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
