@@ -26,11 +26,20 @@
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/Allocator.java" timestamp="1531708693561" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/DataCallback.java" timestamp="1531708223951" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncNetworkSocket.java" timestamp="1531708578415" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncNetworkSocket.java" timestamp="1531711884095">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/LLDB" timestamp="1531401609302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/socket/Share.java" timestamp="1531281335368" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncDatagramSocket.java" timestamp="1531711961999">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1530091852749">
         <mark key="[" line="14" column="37" />
       </file>
@@ -214,11 +223,11 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncServer.java" timestamp="1531709922011">
-        <mark key="[" line="881" column="0" />
-        <mark key="]" line="881" column="0" />
-        <mark key="^" line="880" column="4" />
-        <mark key="." line="881" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncServer.java" timestamp="1531711625501">
+        <mark key="[" line="887" column="0" />
+        <mark key="]" line="887" column="0" />
+        <mark key="^" line="886" column="4" />
+        <mark key="." line="887" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/Charsets.java" timestamp="1531709766374" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_Admob/src/main/java/com/eamo/qsac/admobone/MainActivity.java" timestamp="1531222271390" />
@@ -233,6 +242,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/TransformFuture.java" timestamp="1531711540174" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncSocket.java" timestamp="1531707453511" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/eve_trace/src/main/java/com/ecfudl2/LogcatAction.java" timestamp="1531559928425">
         <mark key="[" line="100" column="100" />
@@ -271,7 +281,7 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/SelectorWrapper.java" timestamp="1531708323981" />
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/release/RealseConfig.java" timestamp="1531291295625" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/sdk/impl/util/AssetsHelper.java" timestamp="1531394170553" />
-      <file name="/fragment.java" timestamp="1531711106649">
+      <file name="/fragment.java" timestamp="1531711917352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/play/app/function/CoreGetter.java" timestamp="1531389259433">
@@ -385,7 +395,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -403,18 +413,33 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5Tb2NrZXRDaGFubmVsV3JhcHBlcjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5DaGFubmVsV3JhcHBlcjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+      </register>
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+      </register>
+      <register name="7" type="4">
         <text>© 2018 GitHub, Inc.
         Terms
         Privacy
@@ -444,26 +469,11 @@
         Files
         java.nio.ByteBuffer</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlNlbWFwaG9yZTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
