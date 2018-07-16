@@ -296,11 +296,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/HeadEntity.java" timestamp="1531735276582">
-        <mark key="[" line="27" column="41" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="43" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/HeadEntity.java" timestamp="1531738718725">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="25" column="43" />
+        <mark key="." line="25" column="43" />
+        <mark key="^" line="25" column="43" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/Server.java" timestamp="1531726191336">
         <mark key="[" line="30" column="20" />
@@ -324,17 +324,18 @@
         <mark key="]" line="161" column="42" />
         <mark key="." line="161" column="42" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/CookieEntity.java" timestamp="1531735384502">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/CookieEntity.java" timestamp="1531738471222">
         <mark key="'" line="50" column="40" />
-        <mark key="[" line="64" column="65" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="51" column="45" />
+        <mark key="]" line="51" column="45" />
+        <mark key="." line="51" column="45" />
+        <mark key="^" line="51" column="47" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1531734535479">
-        <mark key="[" line="85" column="61" />
-        <mark key="]" line="85" column="64" />
-        <mark key="." line="85" column="64" />
-        <mark key="^" line="85" column="64" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1531738659255">
+        <mark key="[" line="83" column="62" />
+        <mark key="]" line="83" column="62" />
+        <mark key="." line="83" column="62" />
+        <mark key="^" line="83" column="89" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/play/app/network/XHttpListener.java" timestamp="1531389707313">
         <mark key="[" line="5" column="26" />
@@ -453,14 +454,14 @@
       <jump line="43" column="40" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/CookieEntity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
+      <register name="&quot;" type="4">
+        <text>\n\n</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>KEY_CMD</text>
+        <text>\n\n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydFByZXBhcmVFbnZNZXNzYWdlXD4=</text>
@@ -472,40 +473,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQkJCUlQYWNrYWdlRW50aXR5IGVudGl0eSA9IFBhY2thZ2VFbnRpdHlGYWN0b3J5LmdldEVudGl0eShzb2NrZXRCdWZmZXIudG9TdHJpbmcoKSk7Ci8vCQkJCQlMb2cuZSgiU0siLCBlbnRpdHkudG9TdHJpbmcoKSk7Ci8vCQkJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">Ly8JCQkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuc2VuZERhdGEoInRlc3QgIyMjIyMjIyIpOwo=</text>
+        <text encoding="base64">Ly8JCQkJCUlQYWNrYWdlRW50aXR5IGVudGl0eSA9IFBhY2thZ2VFbnRpdHlGYWN0b3J5LmdldEVudGl0eShzb2NrZXRCdWZmZXIudG9TdHJpbmcoKSk7Ci8vCQkJCQlMb2cuZSgiU0siLCBlbnRpdHkudG9TdHJpbmcoKSk7Ci8vCQkJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTaGFyZVNlcnZpY2UuZ2V0SW5zdGFuY2UoKS5hY3Rpb24oIm9rIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuc2VuZERhdGEoInRlc3QgIyMjIyMjIyIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTaGFyZUNsaWVudC4K</text>
+        <text encoding="base64">ICAgICAgICBTaGFyZVNlcnZpY2UuZ2V0SW5zdGFuY2UoKS5hY3Rpb24oIm9rIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTaGFyZUNsaWVudC5jb25uZWN0V29ya1NvY2tldCgibG9jYWxob3N0IiwgcG9ydCwgbmV3IFN0cmluZyhjb29raWVFbnRpdHkuZW5jb2RlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTaGFyZUNsaWVudC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBDb29raWVFbnRpdHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICBTaGFyZUNsaWVudC5jb25uZWN0V29ya1NvY2tldCgibG9jYWxob3N0IiwgcG9ydCwgbmV3IFN0cmluZyhjb29raWVFbnRpdHkuZW5jb2RlKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBvYmplY3QgPSBuZXcgSlNPTk9iamVjdChkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBDb29raWVFbnRpdHkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
