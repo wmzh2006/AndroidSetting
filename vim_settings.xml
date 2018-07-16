@@ -144,11 +144,11 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/libs/eve_trace.jar!/com/ecfudl2/LogcatAction.class" timestamp="1531297711609" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/Cancellable.java" timestamp="1531710459430" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/FutureCallback.java" timestamp="1531710573304" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/SocketChannelWrapper.java" timestamp="1531708756041">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/SocketChannelWrapper.java" timestamp="1531712071376">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="74" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/play/app/receiver/UserPersentReceiverImpl.java" timestamp="1531388724218" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1531382587025" />
@@ -223,11 +223,11 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncServer.java" timestamp="1531711625501">
-        <mark key="[" line="887" column="0" />
-        <mark key="]" line="887" column="0" />
-        <mark key="^" line="886" column="4" />
-        <mark key="." line="887" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/AsyncServer.java" timestamp="1531713310541">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="884" column="4" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/Charsets.java" timestamp="1531709766374" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_Admob/src/main/java/com/eamo/qsac/admobone/MainActivity.java" timestamp="1531222271390" />
@@ -260,7 +260,11 @@
         <mark key="." line="240" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/DataSink.java" timestamp="1531707610584" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/DatagramChannelWrapper.java" timestamp="1531708846171" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/DatagramChannelWrapper.java" timestamp="1531712034943">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl_plugin/intf/CoreCall.java" timestamp="1531394874898" />
       <file name="E:/AndroidStudioProjects/Project/suna/libs/shelluser-lib-release.jar!/com/ecfudl/libshelluser/ShellExe.class" timestamp="1531295118760" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/socket/src/main/java/com/hunt/pilot/cao/socket/DataEmitter.java" timestamp="1531707570529" />
@@ -395,7 +399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5DaGFubmVsV3JhcHBlcjsK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -413,67 +417,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5DaGFubmVsV3JhcHBlcjsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5Tb2NrZXRDaGFubmVsV3JhcHBlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5DaGFubmVsV3JhcHBlcjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5TZXJ2ZXJTb2NrZXRDaGFubmVsV3JhcHBlcjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5DaGFubmVsV3JhcHBlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5Tb2NrZXRDaGFubmVsV3JhcHBlcjsK</text>
       </register>
-      <register name="7" type="4">
-        <text>© 2018 GitHub, Inc.
-        Terms
-        Privacy
-        Security
-        Status
-        Help
-        Contact GitHub
-        API
-        Training
-        Shop
-        Blog
-        About
-        Press h to open a hovercard with more details.
-        Files
-
-        Search
-
-        Info
-
-        Settings
-
-        Tutorial
-
-        Help
-
-        Log In
-        Files
-        java.nio.ByteBuffer</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5EYXRhZ3JhbUNoYW5uZWxXcmFwcGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlNlbWFwaG9yZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5odW50LnBpbG90LmNhby5zb2NrZXQud3JhcHBlci5DaGFubmVsV3JhcHBlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LkZ1dHVyZTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
