@@ -192,11 +192,11 @@
         <mark key="." line="51" column="45" />
         <mark key="^" line="51" column="47" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1531789323014">
-        <mark key="[" line="59" column="33" />
-        <mark key="]" line="83" column="62" />
-        <mark key="." line="83" column="62" />
-        <mark key="^" line="83" column="89" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1531791700456">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="81" column="89" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/FB_Katana_Cookie_Init.java" timestamp="1531790712222" />
       <file name="/fragment.java" timestamp="1531739474744">
@@ -306,8 +306,8 @@
       <jump line="102" column="34" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/ShareClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>iterator.next().toString())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2xpZW50IGNsaWVudDsK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -325,18 +325,24 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb29raWVFbnRpdHkgY29va2llRW50aXR5ID0gKENvb2tpZUVudGl0eSllbnRpdHk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2xpZW50IGNsaWVudDsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmVyIHNlcnZlcjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDb29raWVFbnRpdHkgY29va2llRW50aXR5ID0gKENvb2tpZUVudGl0eSllbnRpdHk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>//				String line = &quot;&quot;;
 //				try {
 //
@@ -346,26 +352,20 @@
 //					e.printStackTrace();
 //				}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJTSyIsICJSRVNQT05EIik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiU0siLCAoKENvb2tpZUVudGl0eSkgZW50aXR5KS50b1N0cmluZygpKTsK</text>
-      </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJTSyIsICJSRVNQT05EIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiU0siLCAoKENvb2tpZUVudGl0eSkgZW50aXR5KS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50V3JpdGVyKHNvY2tldCwgInd3d3d3d3d3d3d3d3d3Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3RyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyApCg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/hadliked/hadLiked/gc</text>
