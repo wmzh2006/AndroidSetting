@@ -88,12 +88,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/libs/rootsdk_plugin_lib.jar!/com/lib/util/AESUtil.class" timestamp="1531984344656" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1531998964578">
-        <mark key="'" line="233" column="32" />
-        <mark key="[" line="668" column="93" />
-        <mark key="]" line="668" column="93" />
-        <mark key="." line="668" column="93" />
-        <mark key="^" line="668" column="51" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1531999906807">
+        <mark key="'" line="245" column="12" />
+        <mark key="[" line="235" column="80" />
+        <mark key="]" line="235" column="80" />
+        <mark key="." line="235" column="80" />
+        <mark key="^" line="235" column="79" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/ShareClient.java" timestamp="1531905079396">
         <mark key="[" line="28" column="33" />
@@ -132,12 +132,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/AESUtil.java" timestamp="1531972703675" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/Wm05eVpYWmxjaTV0YWc9PQ==.js" timestamp="1531998998185">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/Wm05eVpYWmxjaTV0YWc9PQ==.js" timestamp="1531999259683">
         <mark key="'" line="36" column="8" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="20" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="17" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/autojs/build.gradle" timestamp="1531921096047" />
       <file name="E:/AndroidStudioProjects/Project/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1531987054759" />
@@ -172,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="653" column="41" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="654" column="31" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="283" column="45" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_JniTest/src/main/jni/apkdexclassloader.c" />
       <jump line="214" column="18" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="283" column="28" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
@@ -272,16 +270,18 @@
       <jump line="33" column="29" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" />
       <jump line="54" column="36" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" />
       <jump line="233" column="32" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="235" column="79" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="245" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>clikLike</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>clikLike</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyV2Vidmlld1w+</text>
@@ -293,13 +293,13 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmKGlzTG9naW4pCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkiAQAc5LDshVtNED8RIgo=</text>
+        <text encoding="base64">CQkgICAgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -310,8 +310,8 @@
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CglwdWJsaWMgdm9pZCBpbml0V2ViVmlldyhmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKCQkKCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkiAQAc5LDshVtNED8RIgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -320,16 +320,16 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Ly8JCQlmaW5hbCBMaXN0PFdlYnZpZXdCYXNlQmVhbj4gQ1JvZmZlcmxpc3QgCT0gSlNBdXRvT2ZmZXIuZ2V0Q1JPZmZlcmxpc3QoKTsKLy8JCQlpZiAoQ1JvZmZlcmxpc3QgIT0gbnVsbCAmJiBDUm9mZmVybGlzdC5zaXplKCkgPiAwKXsKLy8JCQkJUnVubmFibGUgcnVubmFibGUgPSBuZXcgUnVubmFibGUoKSB7Ci8vCQkJCQlAT3ZlcnJpZGUKLy8JCQkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKLy8JCQkJCQl0cnl7Ci8vCQkJCQkJCW5ldyBDUkpTUnVuT2ZmZXIoKS5hY3Rpb24obUNvbnRleHQsIENSb2ZmZXJsaXN0LCBudWxsKTsJCS8vIMX6wb+9tUNSCi8vCQkJCQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Ci8vCQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Ci8vCQkJCQkJfQovLwkJCQkJfQovLwkJCQl9OwovLwkJCQlVaUhhbmRsZXIucnVuT25VaVRocmVhZERlbGF5ZWQocnVubmFibGUsIDMwMDApOy8vIL/Y1sa+ocG/tcjHsMPmtcTR07PZxdzN6sHLvbVDUrXE1NnF3AovLwkJCX0=</text>
+        <text encoding="base64">CglwdWJsaWMgdm9pZCBpbml0V2ViVmlldyhmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKCQkKCX0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2ZmZXJsaXN0ID0gbmV3IEFycmF5TGlzdDxXZWJ2aWV3QmFzZUJlYW4+KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8JCQlmaW5hbCBMaXN0PFdlYnZpZXdCYXNlQmVhbj4gQ1JvZmZlcmxpc3QgCT0gSlNBdXRvT2ZmZXIuZ2V0Q1JPZmZlcmxpc3QoKTsKLy8JCQlpZiAoQ1JvZmZlcmxpc3QgIT0gbnVsbCAmJiBDUm9mZmVybGlzdC5zaXplKCkgPiAwKXsKLy8JCQkJUnVubmFibGUgcnVubmFibGUgPSBuZXcgUnVubmFibGUoKSB7Ci8vCQkJCQlAT3ZlcnJpZGUKLy8JCQkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKLy8JCQkJCQl0cnl7Ci8vCQkJCQkJCW5ldyBDUkpTUnVuT2ZmZXIoKS5hY3Rpb24obUNvbnRleHQsIENSb2ZmZXJsaXN0LCBudWxsKTsJCS8vIMX6wb+9tUNSCi8vCQkJCQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Ci8vCQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Ci8vCQkJCQkJfQovLwkJCQkJfQovLwkJCQl9OwovLwkJCQlVaUhhbmRsZXIucnVuT25VaVRocmVhZERlbGF5ZWQocnVubmFibGUsIDMwMDApOy8vIL/Y1sa+ocG/tcjHsMPmtcTR07PZxdzN6sHLvbVDUrXE1NnF3AovLwkJCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2ZmZXJsaXN0ID0gbmV3IEFycmF5TGlzdDxXZWJ2aWV3QmFzZUJlYW4+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
