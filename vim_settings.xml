@@ -21,15 +21,11 @@
       <file name="/LLDB" timestamp="1531988038451">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/AutoWebview.java" timestamp="1531989810583" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1530091852749">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1531918553229">
-        <mark key="[" line="182" column="18" />
-        <mark key="]" line="172" column="52" />
-        <mark key="." line="172" column="52" />
-        <mark key="^" line="172" column="52" />
-      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1531989888328" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/o/t/g/gh/ev/art/adm.java" timestamp="1531972594335" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHookDemoOK_Z2/src/main/java/com/jiechi/HappyManager.java" timestamp="1531902549145">
         <mark key="[" line="107" column="71" />
@@ -122,11 +118,11 @@
         <mark key="." line="10" column="93" />
         <mark key="^" line="10" column="93" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1531918816687">
-        <mark key="[" line="76" column="71" />
-        <mark key="]" line="76" column="69" />
-        <mark key="^" line="76" column="69" />
-        <mark key="." line="76" column="69" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1531990558943">
+        <mark key="[" line="76" column="11" />
+        <mark key="]" line="78" column="28" />
+        <mark key="^" line="78" column="28" />
+        <mark key="." line="78" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1531981485709">
         <mark key="[" line="0" column="0" />
@@ -236,13 +232,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IllegalArgument</text>
+        <text>this, true</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>IllegalArgument</text>
+        <text>this, true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyV2Vidmlld1w+</text>
@@ -260,22 +256,22 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ly8JCQlmaW5hbCBMaXN0PFdlYnZpZXdCYXNlQmVhbj4gQ1JvZmZlcmxpc3QgCT0gSlNBdXRvT2ZmZXIuZ2V0Q1JPZmZlcmxpc3QoKTsKLy8JCQlpZiAoQ1JvZmZlcmxpc3QgIT0gbnVsbCAmJiBDUm9mZmVybGlzdC5zaXplKCkgPiAwKXsKLy8JCQkJUnVubmFibGUgcnVubmFibGUgPSBuZXcgUnVubmFibGUoKSB7Ci8vCQkJCQlAT3ZlcnJpZGUKLy8JCQkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKLy8JCQkJCQl0cnl7Ci8vCQkJCQkJCW5ldyBDUkpTUnVuT2ZmZXIoKS5hY3Rpb24obUNvbnRleHQsIENSb2ZmZXJsaXN0LCBudWxsKTsJCS8vIMX6wb+9tUNSCi8vCQkJCQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Ci8vCQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Ci8vCQkJCQkJfQovLwkJCQkJfQovLwkJCQl9OwovLwkJCQlVaUhhbmRsZXIucnVuT25VaVRocmVhZERlbGF5ZWQocnVubmFibGUsIDMwMDApOy8vIL/Y1sa+ocG/tcjHsMPmtcTR07PZxdzN6sHLvbVDUrXE1NnF3AovLwkJCX0=</text>
+        <text encoding="base64">CglwdWJsaWMgdm9pZCBpbml0V2ViVmlldyhmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKCQkKCX0=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2ZmZXJsaXN0ID0gbmV3IEFycmF5TGlzdDxXZWJ2aWV3QmFzZUJlYW4+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8JCQlmaW5hbCBMaXN0PFdlYnZpZXdCYXNlQmVhbj4gQ1JvZmZlcmxpc3QgCT0gSlNBdXRvT2ZmZXIuZ2V0Q1JPZmZlcmxpc3QoKTsKLy8JCQlpZiAoQ1JvZmZlcmxpc3QgIT0gbnVsbCAmJiBDUm9mZmVybGlzdC5zaXplKCkgPiAwKXsKLy8JCQkJUnVubmFibGUgcnVubmFibGUgPSBuZXcgUnVubmFibGUoKSB7Ci8vCQkJCQlAT3ZlcnJpZGUKLy8JCQkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKLy8JCQkJCQl0cnl7Ci8vCQkJCQkJCW5ldyBDUkpTUnVuT2ZmZXIoKS5hY3Rpb24obUNvbnRleHQsIENSb2ZmZXJsaXN0LCBudWxsKTsJCS8vIMX6wb+9tUNSCi8vCQkJCQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Ci8vCQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Ci8vCQkJCQkJfQovLwkJCQkJfQovLwkJCQl9OwovLwkJCQlVaUhhbmRsZXIucnVuT25VaVRocmVhZERlbGF5ZWQocnVubmFibGUsIDMwMDApOy8vIL/Y1sa+ocG/tcjHsMPmtcTR07PZxdzN6sHLvbVDUrXE1NnF3AovLwkJCX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2ZmZXJsaXN0ID0gbmV3IEFycmF5TGlzdDxXZWJ2aWV3QmFzZUJlYW4+KCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -284,13 +280,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8V2Vidmlld0Jhc2VCZWFuPiBvZmZlcmxpc3QgPSBudWxsOy8vINDo0qq9tUNStcRvZmZlcsHQse0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8V2Vidmlld0Jhc2VCZWFuPiBvZmZlcmxpc3QgPSBudWxsOy8vINDo0qq9tUNStcRvZmZlcsHQse0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
