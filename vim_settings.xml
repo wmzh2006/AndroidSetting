@@ -13,7 +13,7 @@
         <mark key="^" line="368" column="16" />
         <mark key="." line="368" column="16" />
       </file>
-      <file name="/LLDB" timestamp="1531988038451">
+      <file name="/LLDB" timestamp="1531994140339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AutoWebview.java" timestamp="1531989810583" />
@@ -61,12 +61,11 @@
         <mark key="." line="28" column="56" />
         <mark key="^" line="28" column="59" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1531987399484">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1531994683049">
         <mark key="'" line="54" column="36" />
-        <mark key="[" line="58" column="112" />
-        <mark key="]" line="58" column="115" />
-        <mark key="." line="58" column="115" />
-        <mark key="^" line="58" column="115" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1531986531554">
         <mark key="[" line="88" column="17" />
@@ -210,8 +209,8 @@
       <jump line="233" column="32" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>android.view.ViewGroup.LayoutParams.WRAP_CONTENT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkiAQAc5LDshVtNED8RIgo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -229,34 +228,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiAQAc5LDshVtNED8RIgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CglwdWJsaWMgdm9pZCBpbml0V2ViVmlldyhmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKCQkKCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CglwdWJsaWMgdm9pZCBpbml0V2ViVmlldyhmaW5hbCBDb250ZXh0IGNvbnRleHQpIHsKCQkKCX0=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8JCQlmaW5hbCBMaXN0PFdlYnZpZXdCYXNlQmVhbj4gQ1JvZmZlcmxpc3QgCT0gSlNBdXRvT2ZmZXIuZ2V0Q1JPZmZlcmxpc3QoKTsKLy8JCQlpZiAoQ1JvZmZlcmxpc3QgIT0gbnVsbCAmJiBDUm9mZmVybGlzdC5zaXplKCkgPiAwKXsKLy8JCQkJUnVubmFibGUgcnVubmFibGUgPSBuZXcgUnVubmFibGUoKSB7Ci8vCQkJCQlAT3ZlcnJpZGUKLy8JCQkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKLy8JCQkJCQl0cnl7Ci8vCQkJCQkJCW5ldyBDUkpTUnVuT2ZmZXIoKS5hY3Rpb24obUNvbnRleHQsIENSb2ZmZXJsaXN0LCBudWxsKTsJCS8vIMX6wb+9tUNSCi8vCQkJCQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Ci8vCQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Ci8vCQkJCQkJfQovLwkJCQkJfQovLwkJCQl9OwovLwkJCQlVaUhhbmRsZXIucnVuT25VaVRocmVhZERlbGF5ZWQocnVubmFibGUsIDMwMDApOy8vIL/Y1sa+ocG/tcjHsMPmtcTR07PZxdzN6sHLvbVDUrXE1NnF3AovLwkJCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2ZmZXJsaXN0ID0gbmV3IEFycmF5TGlzdDxXZWJ2aWV3QmFzZUJlYW4+KCk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8JCQlmaW5hbCBMaXN0PFdlYnZpZXdCYXNlQmVhbj4gQ1JvZmZlcmxpc3QgCT0gSlNBdXRvT2ZmZXIuZ2V0Q1JPZmZlcmxpc3QoKTsKLy8JCQlpZiAoQ1JvZmZlcmxpc3QgIT0gbnVsbCAmJiBDUm9mZmVybGlzdC5zaXplKCkgPiAwKXsKLy8JCQkJUnVubmFibGUgcnVubmFibGUgPSBuZXcgUnVubmFibGUoKSB7Ci8vCQkJCQlAT3ZlcnJpZGUKLy8JCQkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKLy8JCQkJCQl0cnl7Ci8vCQkJCQkJCW5ldyBDUkpTUnVuT2ZmZXIoKS5hY3Rpb24obUNvbnRleHQsIENSb2ZmZXJsaXN0LCBudWxsKTsJCS8vIMX6wb+9tUNSCi8vCQkJCQkJfWNhdGNoIChFeGNlcHRpb24gZSl7Ci8vCQkJCQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Ci8vCQkJCQkJfQovLwkJCQkJfQovLwkJCQl9OwovLwkJCQlVaUhhbmRsZXIucnVuT25VaVRocmVhZERlbGF5ZWQocnVubmFibGUsIDMwMDApOy8vIL/Y1sa+ocG/tcjHsMPmtcTR07PZxdzN6sHLvbVDUrXE1NnF3AovLwkJCX0=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2ZmZXJsaXN0ID0gbmV3IEFycmF5TGlzdDxXZWJ2aWV3QmFzZUJlYW4+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -265,7 +264,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8V2Vidmlld0Jhc2VCZWFuPiBvZmZlcmxpc3QgPSBudWxsOy8vINDo0qq9tUNStcRvZmZlcsHQse0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
