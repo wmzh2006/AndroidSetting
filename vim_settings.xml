@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/ShareService.java" timestamp="1531904835692">
+        <mark key="[" line="160" column="43" />
+        <mark key="]" line="158" column="25" />
+        <mark key="." line="158" column="25" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/entity/ResopndEnity.java" timestamp="1531815649960">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="53" column="19" />
@@ -18,6 +23,7 @@
         <mark key="." line="490" column="41" />
         <mark key="^" line="490" column="41" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2018070214/readme.txt" timestamp="1532310785030" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/Share.java" timestamp="1531798822454">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="45" />
@@ -42,6 +48,17 @@
         <mark key="]" line="41" column="18" />
         <mark key="." line="41" column="18" />
         <mark key="^" line="39" column="55" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2018072309/readme.txt" timestamp="1532310726191">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1532310787391">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/LLDB" timestamp="1532087399028">
         <mark key="[" line="0" column="0" />
@@ -93,7 +110,14 @@
       <file name="/Clipboard.txt" timestamp="1531996755797">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/polyservice/mobile/a.java" timestamp="1532310067136">
+        <mark key="'" line="130" column="21" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="57" />
+        <mark key="." line="166" column="0" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/libs/rootsdk_plugin_lib.jar!/com/lib/util/AESUtil.class" timestamp="1531984344656" />
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1532310195058" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1532087571007">
         <mark key="'" line="241" column="12" />
         <mark key="[" line="481" column="15" />
@@ -112,6 +136,16 @@
         <mark key="]" line="106" column="8" />
         <mark key="." line="106" column="8" />
         <mark key="^" line="106" column="10" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/build.gradle" timestamp="1531921808771">
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1531913062501">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1532308358259">
         <mark key="'" line="58" column="36" />
@@ -185,9 +219,6 @@
       <file name="E:/AndroidStudioProjects/Project/autojs/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1532022436636" />
     </filemarks>
     <jumps>
-      <jump line="299" column="53" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="312" column="23" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="318" column="49" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="15" column="17" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="31" column="17" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="52" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
@@ -285,10 +316,13 @@
       <jump line="94" column="21" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" />
       <jump line="89" column="5" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" />
       <jump line="55" column="27" filename="E:/AndroidStudioProjects/Project/autojs/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="419" column="37" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/polyservice/mobile/a.java" />
+      <jump line="37" column="40" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/polyservice/mobile/a.java" />
+      <jump line="130" column="21" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/polyservice/mobile/a.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlpc0JlZ2luT2ZmZXJzLnNldChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluSGFuZGxlci5zZW5kRW1wdHlNZXNzYWdlKE1TR19JTklUU0MpOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -297,49 +331,49 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>popAutoOffer</text>
+        <text encoding="base64">XDxNU0dfSU5JVFNDXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlpc0JlZ2luT2ZmZXJzLnNldChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluSGFuZGxlci5zZW5kRW1wdHlNZXNzYWdlKE1TR19JTklUU0MpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">REVBRlVBTFRfSU5URVJWQUwvSE9VUik7CiAgICAgICAgaWYgKGludGVydmFsIDwgREVBRlVBTFRfSU5URVJWQUwvSE9VUikgewogICAgICAgICAgICBpbnRlcnZhbCA9IERFQUZVQUxUX0lOVEVSVkFML0hPVVI7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpbnRlcnZhbDsKICAgIH0K</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2EuYmF3LmJhby5zZGs7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">REVBRlVBTFRfSU5URVJWQUwvSE9VUik7CiAgICAgICAgaWYgKGludGVydmFsIDwgREVBRlVBTFRfSU5URVJWQUwvSE9VUikgewogICAgICAgICAgICBpbnRlcnZhbCA9IERFQUZVQUxUX0lOVEVSVkFML0hPVVI7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpbnRlcnZhbDsKICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2ZmZXJsaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2ZmZXJsaXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBzeW5jaHJvbml6ZWQgTGlzdDxXZWJ2aWV3QmFzZUJlYW4+IGdldENST2ZmZXJsaXN0KCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBzeW5jaHJvbml6ZWQgTGlzdDxXZWJ2aWV3QmFzZUJlYW4+IGdldENST2ZmZXJsaXN0KCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoanNvbkFycmF5Lmxlbmd0aCgpID4gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoanNvbkFycmF5Lmxlbmd0aCgpID4gMCkgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>popAutoOffer</last-search>
+      <last-search encoding="base64">XDxNU0dfSU5JVFNDXD4=</last-search>
       <last-offset />
-      <last-pattern>popAutoOffer</last-pattern>
+      <last-pattern encoding="base64">XDxNU0dfSU5JVFNDXD4=</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -359,7 +393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry encoding="base64">XDxodWx1X25hbWVcPg==</entry>
         <entry encoding="base64">XDxpbml0Um9vdEVudk1zZ1w+</entry>
         <entry encoding="base64">XDxpc1Jvb3RTeXN0ZW1Nc2dcPg==</entry>
@@ -379,6 +412,7 @@
         <entry encoding="base64">XDxmaW5pc2hBbGxXZWJ2aWV3XD4=</entry>
         <entry encoding="base64">XDxvdmVyV2Vidmlld1w+</entry>
         <entry>popAutoOffer</entry>
+        <entry encoding="base64">XDxNU0dfSU5JVFNDXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>args **/*.java</entry>
