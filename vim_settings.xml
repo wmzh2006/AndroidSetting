@@ -86,7 +86,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1531989888328" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1532314305768">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="164" column="59" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/o/t/g/gh/ev/art/adm.java" timestamp="1531972594335" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHookDemoOK_Z2/src/main/java/com/jiechi/HappyManager.java" timestamp="1531902549145">
         <mark key="[" line="107" column="71" />
@@ -94,7 +99,8 @@
         <mark key="." line="107" column="60" />
         <mark key="^" line="107" column="60" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" timestamp="1531993311923">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" timestamp="1532314182912">
+        <mark key="'" line="24" column="31" />
         <mark key="[" line="67" column="24" />
         <mark key="]" line="67" column="24" />
         <mark key="^" line="74" column="26" />
@@ -219,13 +225,6 @@
       <file name="E:/AndroidStudioProjects/Project/autojs/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1532022436636" />
     </filemarks>
     <jumps>
-      <jump line="15" column="17" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="31" column="17" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="52" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="266" column="37" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="272" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="16" column="19" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
-      <jump line="52" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Utils.java" />
       <jump line="208" column="19" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="29" column="13" filename="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/util/Util.java" />
       <jump line="30" column="48" filename="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/util/Util.java" />
@@ -319,10 +318,17 @@
       <jump line="419" column="37" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/polyservice/mobile/a.java" />
       <jump line="37" column="40" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/polyservice/mobile/a.java" />
       <jump line="130" column="21" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/polyservice/mobile/a.java" />
+      <jump line="46" column="28" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
+      <jump line="53" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
+      <jump line="87" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
+      <jump line="89" column="41" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
+      <jump line="90" column="16" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
+      <jump line="91" column="16" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
+      <jump line="24" column="31" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -331,7 +337,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNU0dfSU5JVFNDXD4=</text>
+        <text encoding="base64">XDxtQnJvc3dlclZpZXdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJvYnRhbk9mZmVyTGlzdCIsICIiLCAiIitzdGF0dWVfdmFsdWUsICIiK3N0YXR1ZV9yZXN1bHQpOwo=</text>
@@ -340,52 +346,52 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJTG9nLmkoVEFHLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTG9nLmkoVEFHLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgIm9idGFuT2ZmZXJMaXN0IiwgIiIsICIiK3N0YXR1ZV92YWx1ZSwgIiIrc3RhdHVlX3Jlc3VsdCk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2EuYmF3LmJhby5zZGs7Cg==</text>
+        <text encoding="base64">CQkJTG9nLmkoVEFHLCByZXN1bHQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">REVBRlVBTFRfSU5URVJWQUwvSE9VUik7CiAgICAgICAgaWYgKGludGVydmFsIDwgREVBRlVBTFRfSU5URVJWQUwvSE9VUikgewogICAgICAgICAgICBpbnRlcnZhbCA9IERFQUZVQUxUX0lOVEVSVkFML0hPVVI7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpbnRlcnZhbDsKICAgIH0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJTG9nLmkoVEFHLCByZXN1bHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNU0dfSU5JVFNDXD4=</last-search>
+      <last-search encoding="base64">XDxtQnJvc3dlclZpZXdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNU0dfSU5JVFNDXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtQnJvc3dlclZpZXdcPg==</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +399,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodWx1X25hbWVcPg==</entry>
         <entry encoding="base64">XDxpbml0Um9vdEVudk1zZ1w+</entry>
         <entry encoding="base64">XDxpc1Jvb3RTeXN0ZW1Nc2dcPg==</entry>
         <entry>getPlans</entry>
@@ -413,6 +418,7 @@
         <entry encoding="base64">XDxvdmVyV2Vidmlld1w+</entry>
         <entry>popAutoOffer</entry>
         <entry encoding="base64">XDxNU0dfSU5JVFNDXD4=</entry>
+        <entry encoding="base64">XDxtQnJvc3dlclZpZXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>args **/*.java</entry>
