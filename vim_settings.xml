@@ -107,11 +107,11 @@
         <mark key="^" line="74" column="26" />
         <mark key="." line="67" column="24" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1532414244602">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1532416596543">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1532080433963">
         <mark key="'" line="129" column="0" />
@@ -181,11 +181,11 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="16" column="46" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1532414295658">
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="12" />
-        <mark key="." line="62" column="12" />
-        <mark key="^" line="62" column="12" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1532417587322">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="34" />
+        <mark key="^" line="57" column="34" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1531988019990">
         <mark key="[" line="77" column="15" />
@@ -333,14 +333,14 @@
       <jump line="24" column="31" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+      <register name="&quot;" type="4">
+        <text>.getApplicationContext()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>load</text>
+        <text>.getApplicationContext()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQnJvc3dlclZpZXdcPg==</text>
@@ -352,43 +352,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkTGlicmFyeS5sb2FkKHRoaXMuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5UeXBlZFZhbHVlOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgdm9pZCB1c2VkKENvbnRleHQgY29udGV4dCkgewogICAgICAgIExvYWRMaWJyYXJ5LmxvYWQoY29udGV4dCk7CiAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVpbGQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VkKHRoaXMpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYW5kcm9pZC5wcm92aWRlcnMuaGVscHNlcnZlci5TZXJ2aWNlaGVscHNlcnZlci5sb2FkOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5UeXBlZFZhbHVlOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVpbGQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYW5kcm9pZC5wcm92aWRlcnMuaGVscHNlcnZlci5TZXJ2aWNlaGVscHNlcnZlci5sb2FkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
