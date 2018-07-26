@@ -150,8 +150,10 @@
         <mark key="." line="57" column="34" />
         <mark key="^" line="57" column="34" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1531988019990">
-        <mark key="[" line="77" column="15" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1532608811438">
+        <mark key="[" line="164" column="4" />
+        <mark key="]" line="164" column="4" />
+        <mark key="." line="164" column="4" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/res/layout/activity_main.xml" timestamp="1531885730934">
         <mark key="[" line="1" column="1" />
@@ -169,12 +171,10 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBManager.java" timestamp="1532606154570">
-        <mark key="'" line="47" column="65" />
-        <mark key="[" line="73" column="35" />
-        <mark key="]" line="74" column="62" />
-        <mark key="." line="74" column="62" />
-        <mark key="^" line="74" column="62" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBManager.java" timestamp="1532606980279">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="46" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1532414332214">
         <mark key="[" line="7" column="0" />
@@ -236,19 +236,19 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="21" column="14" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1532606472908">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1532606698355">
         <mark key="'" line="87" column="35" />
-        <mark key="[" line="111" column="76" />
-        <mark key="]" line="111" column="7" />
-        <mark key="^" line="111" column="7" />
-        <mark key="." line="111" column="7" />
+        <mark key="[" line="136" column="20" />
+        <mark key="]" line="137" column="34" />
+        <mark key="^" line="137" column="34" />
+        <mark key="." line="137" column="34" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1532080433963">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="^" line="86" column="63" />
-        <mark key="." line="236" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1532609168808">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="46" column="57" />
+        <mark key="]" line="46" column="57" />
+        <mark key="." line="46" column="57" />
+        <mark key="^" line="46" column="64" />
       </file>
       <file name="/Clipboard.txt" timestamp="1531996755797">
         <mark key="[" line="0" column="0" />
@@ -361,13 +361,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGlzdDxQYWdlPiA=</text>
+        <text>ArrayList</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxQYWdlPiA=</text>
+        <text>ArrayList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQnJvc3dlclZpZXdcPg==</text>
@@ -379,43 +379,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEQk1hbmFnZXIuZ2V0SW5zdGFuY2UoZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpLnNhdmUocGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChXZWJ2aWV3QmFzZUJlYW4gYmVhbiA6IG9mZmVybGlzdCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLnNldFBhZ2VVcmwoKTsK</text>
+        <text encoding="base64">ICAgICAgICBXZWJ2aWV3QmFzZUJlYW4gYmVhbiA9IG51bGw7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlLnNldFVwZGF0ZVRpbWUoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
+      <register name="3" type="4">
+        <text>@Override
+	public boolean equals(Object o) {
+		return o.equals(this.url_LoadPage);
+	}</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgIHB1YmxpYyBsb25nIGdldENyZWF0ZXRpbWUoKSB7CiAgICAgIHJldHVybiBjcmVhdGV0aW1lOwogICB9CgogICBwdWJsaWMgdm9pZCBzZXRDcmVhdGV0aW1lKGxvbmcgY3JlYXRldGltZSkgewogICAgICB0aGlzLmNyZWF0ZXRpbWUgPSBjcmVhdGV0aW1lOwogICB9CgogICBAT3ZlcnJpZGUKICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgcmV0dXJuICJQYWdleyIgKwogICAgICAgICAgICAgICJpZD0iICsgaWQgKwogICAgICAgICAgICAgICIsIHBhZ2VVcmw9JyIgKyBwYWdlVXJsICsgJ1wnJyArCiAgICAgICAgICAgICAgIiwgY3JlYXRldGltZT0iICsgY3JlYXRldGltZSArCiAgICAgICAgICAgICAgIiwgdXBkYXRlVGltZT0iICsgdXBkYXRlVGltZSArCiAgICAgICAgICAgICAgJ30nOwogICB9CgogICBwdWJsaWMgbG9uZyBnZXRVcGRhdGVUaW1lKCkgewogICAgICByZXR1cm4gdXBkYXRlVGltZTsKICAgfQoKICAgcHVibGljIHZvaWQgc2V0VXBkYXRlVGltZShsb25nIHVwZGF0ZVRpbWUpIHsKICAgICAgdGhpcy51cGRhdGVUaW1lID0gdXBkYXRlVGltZTsKICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBwYWdlcy5jbGVhcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBsb25nIHVwZGF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgcHJpdmF0ZSBsb25nIGNyZWF0ZXRpbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXRPZmZlcmxpc3QoY29udGV4dCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZS5zZXRDcmVhdGV0aW1lKGN1cnNvci5nZXRMb25nKGN1cnNvci5nZXRDb2x1bW5JbmRleCgiY3QiKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2ZmZXJsaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZS5zZXRVcGRhdGVUaW1lKGN1cnNvci5nZXRMb25nKGN1cnNvci5nZXRDb2x1bW5JbmRleCgidXBkYXRlVGltZSIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFnZXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjb2x1bW5zID0gbmV3IFN0cmluZ1tdeyJfaWQsIHBhZ2UsIHN0cmZ0aW1lKFwiJXNcIiwgY3JlYXRlZGF0ZSkgYXMgY3QsIHVwZGF0ZVRpbWUifTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
