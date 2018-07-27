@@ -122,12 +122,12 @@
         <mark key="." line="136" column="47" />
         <mark key="^" line="136" column="47" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1532610740167">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1532659262604">
         <mark key="'" line="105" column="5" />
-        <mark key="[" line="149" column="16" />
-        <mark key="]" line="147" column="48" />
-        <mark key="." line="147" column="48" />
-        <mark key="^" line="147" column="48" />
+        <mark key="[" line="129" column="33" />
+        <mark key="]" line="129" column="33" />
+        <mark key="." line="129" column="33" />
+        <mark key="^" line="126" column="28" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1531993034697">
         <mark key="[" line="8" column="76" />
@@ -243,13 +243,12 @@
         <mark key="^" line="136" column="34" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1532610792395">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="277" column="70" />
-        <mark key="m" line="66" column="8" />
-        <mark key="." line="277" column="70" />
-        <mark key="^" line="277" column="70" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1532659207635">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="60" column="3" />
+        <mark key="." line="60" column="3" />
+        <mark key="^" line="60" column="3" />
       </file>
       <file name="/Clipboard.txt" timestamp="1531996755797">
         <mark key="[" line="0" column="0" />
@@ -362,13 +361,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>initOfferList</text>
+        <text>final boolean update</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>initOfferList</text>
+        <text>final boolean update</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQnJvc3dlclZpZXdcPg==</text>
@@ -380,25 +379,27 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmICh1cGRhdGUpIHsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL29mZmVybGlzdCA9IEpTTWFudWFsT2ZmZXIuaW5pdE9mZmVyTGlzdChjb250ZXh0KTsK</text>
+      <register name="3" type="4">
+        <text>}else{
+					JSAutoOffer.loadOfferList(mContext, initOfferListCallback);
+				}</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRPZmZlcmxpc3QoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -407,16 +408,16 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCUpTQXV0b09mZmVyLmluaXRPZmZlckxpc3QobUNvbnRleHQsIGluaXRPZmZlckxpc3RDYWxsYmFjayk7Ly8g0rLQ6NKqd2lmabXEwb+9+MC0y6K147v3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHN0YXRpYyB2b2lkIGxvYWRPZmZlckxpc3QoQ29udGV4dCBjb250ZXh0LCBIYW5kbGVyLkNhbGxiYWNrIGNhbGxiYWNrKSB7CiAgICAgICAgbUNhbGxiYWNrID0gY2FsbGJhY2s7CiAgICAgICAgc2V0T2ZmZXJsaXN0KGNvbnRleHQuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpOwogICAgICAgIE1lc3NhZ2UgbXNnID0gbmV3IE1lc3NhZ2UoKTsKICAgICAgICBtc2cud2hhdCA9IC0xMDsKICAgICAgICBtc2cub2JqID0gY29tLmltcGxfcGx1Z2luLmludGYuU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJhVzVwZEE9PSIpLyoiaW5pdCIqLzsKICAgICAgICBtQ2FsbGJhY2suaGFuZGxlTWVzc2FnZShtc2cpOwogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoIW5lZWRVcGRhdGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
