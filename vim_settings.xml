@@ -66,11 +66,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/tools/android/sources/android-22/android/webkit/WebSettings.java" timestamp="1532681236586" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1532775065947">
-        <mark key="'" line="462" column="67" />
-        <mark key="[" line="424" column="12" />
-        <mark key="]" line="424" column="12" />
-        <mark key="." line="424" column="12" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1532919336540">
+        <mark key="'" line="626" column="51" />
+        <mark key="[" line="231" column="32" />
+        <mark key="]" line="231" column="32" />
+        <mark key="." line="231" column="32" />
         <mark key="^" line="458" column="108" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/ProviderService.java" timestamp="1532672183921">
@@ -154,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="12" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
-      <jump line="132" column="12" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="353" column="27" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="887" column="27" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="1021" column="44" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
@@ -254,19 +252,21 @@
       <jump line="477" column="72" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="462" column="52" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="472" column="67" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="243" column="62" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="626" column="51" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>n</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>_2ti7</text>
+        <text>onProgress</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiCQl9IgkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsJIlxyXG4iICsK</text>
@@ -318,9 +318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_2ti7</last-search>
+      <last-search>onProgress</last-search>
       <last-offset />
-      <last-pattern>_2ti7</last-pattern>
+      <last-pattern>onProgress</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -328,9 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onEvent</entry>
-        <entry encoding="base64">XDxhY3Rpb25XZWJ2aWV3XD4=</entry>
-        <entry>\/</entry>
         <entry>\\</entry>
         <entry encoding="base64">XDxyb290T3Zlck1zZ1w+</entry>
         <entry>getJs_content</entry>
@@ -348,6 +345,9 @@
         <entry>_9_7 _2rgt _1j-f _2rgt</entry>
         <entry>_a58 _a5o _a5t _9_7 _2rgt _1j-f _2rgt</entry>
         <entry>_2ti7</entry>
+        <entry>onProgram</entry>
+        <entry>onProsse</entry>
+        <entry>onProgress</entry>
       </history-search>
       <history-cmd>
         <entry>args **/*.java</entry>
