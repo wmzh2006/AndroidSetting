@@ -10,12 +10,12 @@
         <mark key="^" line="52" column="18" />
         <mark key="." line="53" column="19" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1532943320922">
-        <mark key="'" line="94" column="27" />
-        <mark key="[" line="96" column="28" />
-        <mark key="]" line="96" column="28" />
-        <mark key="." line="96" column="28" />
-        <mark key="^" line="94" column="89" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1532951496110">
+        <mark key="'" line="105" column="27" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="43" column="45" />
+        <mark key="." line="43" column="45" />
+        <mark key="^" line="43" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1532595662404">
         <mark key="[" line="0" column="0" />
@@ -366,61 +366,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>path</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>onProgress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBLRVlfVkFMVUUgPSAibmFtZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEQl9QQVRIID0gU3RyaW5nLmZvcm1hdCgiL2RhdGEvZGF0YS8lcy9hcHBfd2Vidmlldy8iLCBjb250ZXh0LmdldFBhY2thZ2VOYW1lKCkpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZhbHVlID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoa2V5KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaSgiZGIiLCAiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZhbHVlID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoa2V5KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjcmVhdGVfdXRjID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoS0VZX0NSRUFURV9VVEMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuaSgiZGIiLCAiXG4iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBob3N0X2tleSA9IGN1cnNvci5nZXRTdHJpbmcoY3Vyc29yLmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJkYiIsIGN1cnNvci50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBjcmVhdGVfdXRjID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoS0VZX0NSRUFURV9VVEMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBob3N0X2tleSA9IGN1cnNvci5nZXRTdHJpbmcoY3Vyc29yLmcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
