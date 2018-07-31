@@ -33,7 +33,14 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="/LLDB" timestamp="1532953460461">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Preference.java" timestamp="1533022712098">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="39" column="55" />
+      </file>
+      <file name="/LLDB" timestamp="1533021985878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1532696939677">
@@ -98,12 +105,11 @@
         <mark key="^" line="104" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" timestamp="1532696528915" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1532675878925">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1533022790707">
         <mark key="'" line="105" column="5" />
-        <mark key="[" line="111" column="8" />
-        <mark key="]" line="112" column="18" />
-        <mark key="." line="112" column="18" />
-        <mark key="^" line="112" column="18" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/adEngine_Impl/src/main/java/com/android/providers/certinstaller/util/Util.java" timestamp="1532675519992" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/MainActivity.java" timestamp="1532952434822" />
@@ -151,7 +157,7 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1532953543711">
+      <file name="/fragment.java" timestamp="1533022059479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Utils.java" timestamp="1532696344285">
@@ -161,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="552" column="77" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="276" column="37" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="77" column="19" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/Client.java" />
       <jump line="85" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/Client.java" />
@@ -261,10 +266,11 @@
       <jump line="7" column="78" filename="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" />
       <jump line="92" column="27" filename="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" />
       <jump line="543" column="28" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="48" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Preference.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>likes0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByZWZlcmVuY2UuZ2V0SW5zdGFuY2UoKS5zZXRVcGRhdGVJbnRlcnZhbCgpOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -281,7 +287,28 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByZWZlcmVuY2UuZ2V0SW5zdGFuY2UoKS5zZXRVcGRhdGVJbnRlcnZhbCgpOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>f=hdit;hditdt;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCVByZWZlcmVuY2UuZ2V0SW5zdGFuY2UoKS5zZXRMYXN0VXBkYXRlVGltZShtQ29udGV4dCwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>content</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUHJlZmVyZW5jZS5nZXRJbnN0YW5jZSgpLnNldExhc3RVcGRhdGVUaW1lKG1Db250ZXh0LCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -296,10 +323,10 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="q" type="4">
-        <text>f=hdit;hditdt;</text>
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="2" type="8">
+      <register name="6" type="8">
         <text>static
 static
 static
@@ -314,35 +341,14 @@ static
 static
 static</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="s" type="4">
-        <text>content</text>
-      </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5RGF0YUJhc2UoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\//gc</text>
