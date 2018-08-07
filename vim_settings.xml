@@ -91,6 +91,12 @@
         <mark key="." line="45" column="38" />
         <mark key="^" line="82" column="43" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1533613728465">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1533174453555">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="2" column="7" />
@@ -332,7 +338,7 @@
         <text encoding="base64">Ly8JCQl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\\//gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -377,7 +383,6 @@
         <entry>.,$d</entry>
         <entry>%s/@+android/@android/gn</entry>
         <entry>%s/@+android/@android/g</entry>
-        <entry>w</entry>
         <entry>0,$d</entry>
         <entry>%s/],/]/g</entry>
         <entry>%s/else//gn</entry>
@@ -388,6 +393,7 @@
         <entry>0,$ d</entry>
         <entry>%s/\//gc</entry>
         <entry>%s/\\//gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
