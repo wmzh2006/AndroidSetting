@@ -16,10 +16,10 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1533718212231">
-        <mark key="[" line="140" column="33" />
-        <mark key="]" line="140" column="37" />
-        <mark key="." line="140" column="37" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1533721154798">
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="55" column="3" />
+        <mark key="." line="55" column="3" />
         <mark key="^" line="140" column="37" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1533696060059">
@@ -63,7 +63,7 @@
         <mark key="." line="9" column="100" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1533691919596" />
-      <file name="/LLDB" timestamp="1533717746907">
+      <file name="/LLDB" timestamp="1533721090096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1533694001332">
@@ -79,10 +79,12 @@
         <mark key="^" line="8" column="32" />
         <mark key="." line="8" column="32" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/MainActivity.java" timestamp="1533718570798">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="42" />
-        <mark key="." line="37" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/MainActivity.java" timestamp="1533721012715">
+        <mark key="'" line="60" column="61" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="60" column="73" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1533691117339">
         <mark key="[" line="164" column="0" />
@@ -156,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="29" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="287" column="64" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="291" column="16" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="237" column="59" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -256,6 +257,7 @@
       <jump line="422" column="34" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="196" column="41" filename="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" />
       <jump line="203" column="36" filename="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" />
+      <jump line="61" column="61" filename="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -265,13 +267,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Curtir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZGIiLCAiU0hFTEwgcmV0OiAiICsgcmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBTaGVsbEV4ZS5ydW4oU3RyaW5nLmZvcm1hdCgic3UgLWMgJ2NobW9kIC1SIDc3NyAlcy9Db29raWVzJyIsIGRzdCkpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -283,37 +285,37 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YUJhc2VIZWxwZXIuY3JlYXRlVGVzdERhdGFCYXNlKCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBTaGVsbEV4ZS5ydW4oU3RyaW5nLmZvcm1hdCgic3UgLWMgJ2NobW9kIC1SIDc3NyAlcyciLCBkc3QpKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhYmFzZS5yZXBsYWNlKFRBQkxFX0NPT0tJRVMsIG51bGwsICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YUJhc2VIZWxwZXIub3BlblRlc3REYXRhQmFzZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDb29raWVzQmVhbj4gYmVhbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBLRVlfID0gImNyZWF0aW9uX3V0YyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBkYXRhYmFzZS5yZXBsYWNlKFRBQkxFX0NPT0tJRVMsIG51bGwsICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDb29raWVzQmVhbj4gYmVhbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGZvciAoU3RyaW5nIGtleSA6IGN1cnNvci5nZXRDb2x1bW5OYW1lcygpKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfWZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBLRVlfID0gImNyZWF0aW9uX3V0YyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
