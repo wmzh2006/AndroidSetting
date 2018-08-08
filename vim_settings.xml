@@ -16,10 +16,10 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1533721154798">
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="55" column="3" />
-        <mark key="." line="55" column="3" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1533725751903">
+        <mark key="[" line="76" column="26" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="26" />
         <mark key="^" line="140" column="37" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1533696060059">
@@ -260,14 +260,14 @@
       <jump line="61" column="61" filename="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YUJhc2VIZWxwZXIub3BlblRlc3REYXRhQmFzZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>CREATE TABLE cookies (creation_utc INTEGER NOT NULL UNIQUE PRIMARY KEY,host_key TEXT NOT NULL,name TEXT NOT NULL,value TEXT NOT NULL,path TEXT NOT NULL,expires_utc INTEGER NOT NULL,secure INTEGER NOT NULL,httponly INTEGER NOT NULL,last_access_utc INTEGER NOT NULL, has_expires INTEGER NOT NULL DEFAULT 1, persistent INTEGER NOT NULL DEFAULT 1,priority INTEGER NOT NULL DEFAULT 1,encrypted_value BLOB DEFAULT '');</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>CREATE TABLE cookies (creation_utc INTEGER NOT NULL UNIQUE PRIMARY KEY,host_key TEXT NOT NULL,name TEXT NOT NULL,value TEXT NOT NULL,path TEXT NOT NULL,expires_utc INTEGER NOT NULL,secure INTEGER NOT NULL,httponly INTEGER NOT NULL,last_access_utc INTEGER NOT NULL, has_expires INTEGER NOT NULL DEFAULT 1, persistent INTEGER NOT NULL DEFAULT 1,priority INTEGER NOT NULL DEFAULT 1,encrypted_value BLOB DEFAULT '');</text>
       </register>
       <register name="/" type="4">
         <text>Curtir</text>
