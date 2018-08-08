@@ -16,11 +16,11 @@
         <mark key="." line="61" column="13" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1533716281211">
-        <mark key="[" line="141" column="83" />
-        <mark key="]" line="141" column="83" />
-        <mark key="." line="141" column="83" />
-        <mark key="^" line="113" column="37" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/java/com/ABC/T/DataBaseHelper.java" timestamp="1533717071911">
+        <mark key="[" line="190" column="7" />
+        <mark key="]" line="190" column="47" />
+        <mark key="." line="190" column="47" />
+        <mark key="^" line="190" column="47" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1533696060059">
         <mark key="'" line="421" column="34" />
@@ -63,7 +63,7 @@
         <mark key="." line="9" column="100" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1533691919596" />
-      <file name="/LLDB" timestamp="1533716298878">
+      <file name="/LLDB" timestamp="1533716387973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1533694001332">
@@ -259,14 +259,14 @@
       <jump line="422" column="34" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDb29raWVzQmVhbj4gYmVhbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>Curtir</text>
@@ -278,43 +278,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBLRVlfID0gImNyZWF0aW9uX3V0YyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxDb29raWVzQmVhbj4gYmVhbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBLRVlfID0gImNyZWF0aW9uX3V0YyI7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGZvciAoU3RyaW5nIGtleSA6IGN1cnNvci5nZXRDb2x1bW5OYW1lcygpKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfWZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZhbHVlOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGZvciAoU3RyaW5nIGtleSA6IGN1cnNvci5nZXRDb2x1bW5OYW1lcygpKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfWZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHZhbHVlOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICBpZiAoa2V5LmVxdWFscyhLRVlfRU5DUllQVEVEX1ZBTFVFKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBBcnJheXMudG9TdHJpbmcoY3Vyc29yLmdldEJsb2IoY3Vyc29yLmdldENvbHVtbkluZGV4KGtleSkpKSArICIiOwogICAgICAgICAgICAgICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IGN1cnNvci5nZXRTdHJpbmcoY3Vyc29yLmdldENvbHVtbkluZGV4KGtleSkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKCJkYiIsICJrZXk6IiArIGtleSArICIgPSAiICsgdmFsdWUpOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDEsIHBlcnNpc3RlbnQgSU5URUdFUiBOT1QgTlVMTCBERUZBVUxUIDEscHJpb3JpdHkgSU5URUdFUiBOT1QgTlVMTCBERUZBVUxUIDEsZW5jcnlwdGVkX3ZhbHVlIEJMT0IgREVGQVVMVCAnJyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
