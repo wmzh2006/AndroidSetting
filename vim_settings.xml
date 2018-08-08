@@ -21,12 +21,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1533634604912">
-        <mark key="'" line="491" column="4" />
-        <mark key="[" line="424" column="741" />
-        <mark key="]" line="424" column="741" />
-        <mark key="." line="424" column="741" />
-        <mark key="^" line="424" column="640" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1533692986313">
+        <mark key="'" line="422" column="34" />
+        <mark key="[" line="422" column="47" />
+        <mark key="]" line="422" column="45" />
+        <mark key="." line="422" column="45" />
+        <mark key="^" line="422" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1532595662404">
         <mark key="[" line="0" column="0" />
@@ -60,9 +60,11 @@
         <mark key="^" line="9" column="100" />
         <mark key="." line="9" column="100" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1533691919596" />
       <file name="/LLDB" timestamp="1533641271606">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1533691691890" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1532698171957">
         <mark key="[" line="7" column="113" />
       </file>
@@ -133,12 +135,12 @@
         <mark key="." line="98" column="52" />
         <mark key="^" line="98" column="52" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1533640740296">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1533692351208">
         <mark key="'" line="158" column="33" />
-        <mark key="[" line="214" column="97" />
-        <mark key="]" line="214" column="97" />
-        <mark key="^" line="214" column="94" />
-        <mark key="." line="214" column="97" />
+        <mark key="[" line="161" column="73" />
+        <mark key="]" line="161" column="73" />
+        <mark key="^" line="161" column="70" />
+        <mark key="." line="161" column="73" />
       </file>
       <file name="/Clipboard.txt" timestamp="1531996755797">
         <mark key="[" line="0" column="0" />
@@ -153,8 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/IPackageEntity.java" />
-      <jump line="6" column="52" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/ResopndEnity.java" />
       <jump line="3" column="52" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/tcp/StartWebViewEntity.java" />
       <jump line="267" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
       <jump line="216" column="29" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" />
@@ -253,19 +253,21 @@
       <jump line="439" column="37" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="420" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="491" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="426" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="422" column="34" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;https://www.facebook.com/psmobi20160829/?modal=admin_todo_to&quot;</text>
+        <text>pageId + &quot;_&quot; + link</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;https://www.facebook.com/psmobi20160829/?modal=admin_todo_to&quot;</text>
+        <text>pageId + &quot;_&quot; + link</text>
       </register>
       <register name="/" type="4">
-        <text>_a5o _9_7 _2rgt _1j-f _2rgt</text>
+        <text>Curtir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgU3RyaW5nIGRlZmF1bF9vZmZlciA9ICIiOwo=</text>
@@ -323,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_a5o _9_7 _2rgt _1j-f _2rgt</last-search>
+      <last-search>Curtir</last-search>
       <last-offset />
-      <last-pattern>_a5o _9_7 _2rgt _1j-f _2rgt</last-pattern>
+      <last-pattern>Curtir</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -333,8 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290T3Zlck1zZ1w+</entry>
-        <entry>getJs_content</entry>
         <entry encoding="base64">XDxmaW5pc2hBbGxXZWJ2aWV3XD4=</entry>
         <entry encoding="base64">XDxvdmVyV2Vidmlld1w+</entry>
         <entry>popAutoOffer</entry>
@@ -353,6 +353,8 @@
         <entry>onProsse</entry>
         <entry>onProgress</entry>
         <entry>_a5o _9_7 _2rgt _1j-f _2rgt</entry>
+        <entry>I-like</entry>
+        <entry>Curtir</entry>
       </history-search>
       <history-cmd>
         <entry>args **/*.java</entry>
