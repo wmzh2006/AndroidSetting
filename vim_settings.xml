@@ -61,6 +61,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1533694001332">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/libs/eve_trace.jar!/com/eve/tra/util/Config.class" timestamp="1533901514699" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1532698171957">
         <mark key="[" line="7" column="113" />
       </file>
@@ -72,6 +73,12 @@
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/AndroidManifest.xml" timestamp="1533780421232">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xsu/jz/LoonManager.java" timestamp="1533901534876">
+        <mark key="[" line="13" column="89" />
+        <mark key="]" line="13" column="89" />
+        <mark key="^" line="13" column="88" />
+        <mark key="." line="13" column="89" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1533613728465">
         <mark key="[" line="8" column="20" />
@@ -322,14 +329,14 @@
       <jump line="11" column="86" filename="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/ABC/T/LoonManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Config.SERVER_URL</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>Config.SERVER_URL</text>
       </register>
       <register name="/" type="4">
         <text>Curtir</text>
