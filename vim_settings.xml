@@ -72,13 +72,13 @@
         <mark key="^" line="3" column="81" />
         <mark key="." line="3" column="81" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1534218655184">
-        <mark key="[" line="74" column="23" />
-        <mark key="]" line="74" column="23" />
-        <mark key="." line="74" column="23" />
-        <mark key="^" line="43" column="17" />
+      <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1534221220720">
+        <mark key="[" line="569" column="27" />
+        <mark key="]" line="569" column="27" />
+        <mark key="." line="569" column="27" />
+        <mark key="^" line="547" column="31" />
       </file>
-      <file name="/LLDB" timestamp="1534218527239">
+      <file name="/LLDB" timestamp="1534220993412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1533694001332">
@@ -462,19 +462,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WebView</text>
+        <text>value</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>WebView</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>Log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZW1haWwgPSBudWxsOwo=</text>
+        <text encoding="base64">CQkJTG9nLmUoInh4eHh4IiwgdmFsdWUpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
