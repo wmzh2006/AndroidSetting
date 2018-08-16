@@ -12,12 +12,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/ecfudl3/widget/PopWindowManager.java" timestamp="1534218519418" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1534410003762">
-        <mark key="'" line="106" column="95" />
-        <mark key="[" line="28" column="50" />
-        <mark key="]" line="28" column="51" />
-        <mark key="." line="28" column="51" />
-        <mark key="^" line="28" column="49" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1534420701568">
+        <mark key="'" line="110" column="95" />
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1534305549313" />
       <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1534167305400">
@@ -251,14 +251,14 @@
       <jump line="101" column="95" filename="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>isInstalled(context,   &quot;com.facebook.katana&quot;)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>isInstalled(context,   &quot;com.facebook.katana&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>Log</text>
