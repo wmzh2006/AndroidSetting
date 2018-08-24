@@ -9,6 +9,7 @@
         <mark key="." line="93" column="26" />
         <mark key="^" line="93" column="25" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1535093802788" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" timestamp="1534420047303">
         <mark key="[" line="25" column="50" />
         <mark key="]" line="25" column="33" />
@@ -65,10 +66,20 @@
         <mark key="[" line="3" column="0" />
       </file>
       <file name="D:/StudioProjects/PermissionGrantor/PermissionGrantor/local.properties" timestamp="1535082191870" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/proguard-rules.pro" timestamp="1535092837573">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="D:/StudioProjects/PermissionGrantor/PermissionGrantor/grantor/src/main/java/com/github/dfqin/grantor/PermissionsUtil.java" timestamp="1534842988561">
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/src/main/java/com/init/env/SubSdk.java" timestamp="1535094130656">
+        <mark key="]" line="21" column="58" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="58" />
       </file>
       <file name="D:/StudioProjects/EasyPermission/EasyPermissionUtil/app/src/main/java/com/yxp/easy/permissionutil/MainActivity.java" timestamp="1534839564458">
         <mark key="[" line="118" column="0" />
@@ -153,8 +164,11 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/AndroidManifest.xml" timestamp="1535089872116">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/AndroidManifest.xml" timestamp="1535095395324">
         <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="4" column="64" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/MainActivity.java" timestamp="1535082865627">
         <mark key="[" line="11" column="47" />
@@ -183,11 +197,17 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/hjq/permissions/XXPermissions.java" timestamp="1534927840659" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/MService.java" timestamp="1535082755043">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="27" column="71" />
-        <mark key="." line="27" column="71" />
-        <mark key="^" line="27" column="71" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/MService.java" timestamp="1535094661780">
+        <mark key="[" line="30" column="64" />
+        <mark key="]" line="30" column="104" />
+        <mark key="." line="30" column="104" />
+        <mark key="^" line="30" column="104" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1535094911618">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="84" column="94" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/build.gradle" timestamp="1535082900633">
         <mark key="[" line="10" column="24" />
@@ -245,6 +265,12 @@
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/build.gradle" timestamp="1535095250055">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="^" line="33" column="13" />
+        <mark key="." line="33" column="4" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1534316654969">
         <mark key="[" line="84" column="70" />
         <mark key="]" line="84" column="49" />
@@ -265,6 +291,7 @@
       <file name="/fragment.java" timestamp="1534303881398">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1535092904677" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/app/src/main/java/com/hjq/permissions/demo/MyService.java" timestamp="1535012774755">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="24" column="64" />
@@ -376,63 +403,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>implementation</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
         <text>Log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFpbkFjdGl2aXR5LnRoaXMuZmluaXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uaW5pdChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgIjIwMTgwODI0MTU1MCIsICIxMDQ2NTMiLCAiTSIpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-           
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5saWIudXRpbC5Qcm90ZWN0Owo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTTVNSZWFkLm1vbml0b3JTbXMoY29udGV4dCwgbmV3IFJlY2lldmVIYW5kbGVyKGdldEFwcGxpY2F0aW9uQ29udGV4dCgpKSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNU2VydmljZSgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlldyB2aWV3OyAvLyBhbmRyb2lkLnZpZXcuVmlldwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOm5hdmlnYXRpb25CYXJDb2xvciI+QGNvbG9yL2NvbG9yUHJpbWFyeTwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckFjY2VudCI+QGNvbG9yL2NvbG9yQWNjZW50PC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvY29sb3JQcmltYXJ5RGFyazwvaXRlbT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnkiPkBjb2xvci9jb2xvclByaW1hcnk8L2l0ZW0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
