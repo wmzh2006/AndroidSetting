@@ -9,8 +9,14 @@
         <mark key="." line="93" column="26" />
         <mark key="^" line="93" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1535712976804">
+      <file name="/a.dummy" timestamp="1535714948141">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/OtpFliter.java" timestamp="1535714599778">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/smshelper/SMSRead.java" timestamp="1535081942194">
         <mark key="[" line="63" column="0" />
@@ -192,13 +198,13 @@
         <mark key="^" line="27" column="67" />
         <mark key="." line="27" column="67" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1535611223609">
-        <mark key="'" line="518" column="12" />
-        <mark key="[" line="383" column="0" />
-        <mark key="]" line="383" column="89" />
-        <mark key="." line="509" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/OtpFilter.java" timestamp="1535714849905">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/MService.java" timestamp="1535712925409">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/MService.java" timestamp="1535714652718">
         <mark key="'" line="61" column="46" />
         <mark key="[" line="35" column="44" />
         <mark key="]" line="35" column="44" />
@@ -227,6 +233,11 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/BaseOtpFilter.java" timestamp="1535714969161">
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1535623262584" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/app/src/main/AndroidManifest.xml" timestamp="1535089845301">
@@ -291,6 +302,12 @@
         <mark key="." line="84" column="49" />
         <mark key="^" line="89" column="86" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/AisOtpFilter.java" timestamp="1535714930895">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="6" column="23" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/androidTest/java/com/ABC/T/ExampleInstrumentedTest.java" timestamp="1534408400022">
         <mark key="[" line="26" column="58" />
         <mark key="]" line="26" column="58" />
@@ -302,7 +319,7 @@
         <mark key="]" line="24" column="63" />
         <mark key="." line="24" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1535713376418">
+      <file name="/fragment.java" timestamp="1535714675015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/app/src/main/java/com/hjq/permissions/demo/MyService.java" timestamp="1535012774755">
@@ -416,13 +433,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>false</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFw+</text>
@@ -434,43 +451,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZW5kZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZW5kZXIK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3B0cy5nZXQoc2VuZGVyKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3B0cy5nZXQoc2VuZGVyKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqILj5vt22zNDFCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqILj5vt22zNDFCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBtYXRjaGVyLmdyb3VwQ291bnQoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBjb2RlID0gbWF0Y2hlci5ncm91cChpKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2RlKTsKICAgICAgICAgICAgICAgIGlmIChjb2RlLmxlbmd0aCgpID49IDQgJiYgY29kZS5sZW5ndGgoKSA8PSA2KSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGNvZGU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
