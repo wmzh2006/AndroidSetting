@@ -213,11 +213,12 @@
         <mark key="." line="42" column="42" />
         <mark key="^" line="42" column="42" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1535961429839">
-        <mark key="[" line="181" column="19" />
-        <mark key="]" line="181" column="19" />
-        <mark key="^" line="186" column="40" />
-        <mark key="." line="181" column="19" />
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1535963844182">
+        <mark key="'" line="152" column="45" />
+        <mark key="[" line="183" column="29" />
+        <mark key="]" line="183" column="61" />
+        <mark key="^" line="183" column="37" />
+        <mark key="." line="183" column="29" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1535458379202">
         <mark key="[" line="20" column="0" />
@@ -324,10 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Preference.java" />
-      <jump line="10" column="34" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Preference.java" />
-      <jump line="28" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/Preference.java" />
-      <jump line="459" column="113" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="453" column="59" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="156" column="33" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="30" column="21" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/util/PostLiked.java" />
@@ -424,22 +421,26 @@
       <jump line="13" column="41" filename="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/BaseOtpFilter.java" />
       <jump line="11" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/DefaultOtpFilter.java" />
       <jump line="21" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/DefaultOtpFilter.java" />
+      <jump line="170" column="18" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="169" column="16" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="168" column="29" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="152" column="45" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>E:\\Project\\AD_SO_SDK_PACKAGE\\</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dFw+</text>
+        <text>CLASS_NAME</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">MTExMSxodHRwOi8vdHBiLm9reWVzbW9iaS5jb20vdGw/YT00Jm89Mjc2MQo=</text>
+      <register name="0" type="4">
+        <text>E:\\Project\\AD_SO_SDK_PACKAGE\\</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -488,9 +489,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dFw+</last-search>
+      <last-search>CLASS_NAME</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dFw+</last-pattern>
+      <last-pattern>CLASS_NAME</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -498,7 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTdGFydEZsYWdcPg==</entry>
         <entry encoding="base64">XDxzdGFydG51bWhpc3RvcnlcPg==</entry>
         <entry encoding="base64">XDxtT2ZmZXJsaXN0XD4=</entry>
         <entry encoding="base64">XDxzdG9wTG9hZGluZ1w+</entry>
@@ -518,6 +518,7 @@
         <entry>android</entry>
         <entry>input</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
+        <entry>CLASS_NAME</entry>
       </history-search>
       <history-cmd>
         <entry>args ../**/*.java</entry>
