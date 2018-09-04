@@ -332,8 +332,8 @@
         <mark key="^" line="35" column="56" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1536043372294">
-        <mark key="[" line="92" column="44" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1536044910513">
+        <mark key="[" line="93" column="33" />
         <mark key="]" line="92" column="39" />
         <mark key="^" line="92" column="39" />
         <mark key="." line="92" column="39" />
@@ -511,14 +511,14 @@
       <jump line="203" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/main-plugin-cc/src/com/hjq/permissions/demo/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBldF9jb250ZW50LnNldExpbmVzKDMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_key</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>WRAP_CONTENT</text>
+        <text>_key</text>
       </register>
       <register name="/" type="4">
         <text>onCtreate</text>
