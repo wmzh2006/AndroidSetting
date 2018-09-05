@@ -67,7 +67,7 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/main-plugin-cc/src/com/hjq/permissions/demo/MainService.java" timestamp="1536028928295">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/main-plugin-cc/src/com/hjq/permissions/demo/MainService.java" timestamp="1536119858590">
         <mark key="[" line="45" column="74" />
         <mark key="]" line="45" column="123" />
         <mark key="^" line="45" column="123" />
@@ -95,11 +95,11 @@
         <mark key="^" line="44" column="35" />
         <mark key="." line="44" column="35" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" timestamp="1536062363621">
-        <mark key="[" line="54" column="41" />
-        <mark key="]" line="54" column="98" />
-        <mark key="." line="54" column="98" />
-        <mark key="^" line="54" column="98" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" timestamp="1536119937748">
+        <mark key="[" line="71" column="60" />
+        <mark key="]" line="71" column="66" />
+        <mark key="." line="71" column="66" />
+        <mark key="^" line="71" column="66" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1536116543754">
         <mark key="[" line="513" column="0" />
@@ -554,14 +554,14 @@
       <jump line="17" column="47" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/androidTest/java/com/wv/bean/WebviewLogDefaultBean_pinTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mContext</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>mContext</text>
       </register>
       <register name="/" type="4">
         <text>onCtreate</text>
@@ -573,43 +573,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KG1Db250ZXh0LCB0ZXh0LCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8v08PT2rLiytRvZmZlcsjnufsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBYWFBlcm1pc3Npb25zLmdvdG9QZXJtaXNzaW9uU2V0dGluZ3MobUNvbnRleHQsdHJ1ZSk7IC8vyOe5+8rHsbvTwL7Dvty++L7NzPjXqrW906bTw8ioz97Ptc2zyejWw9Kzw+YK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZihUZXh0VXRpbHMuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eS5zdGFydFNtcyhtQ29udGV4dCwgbnVsbCwgIjEyNTgzMTEzNDI0NTU1MzE2IiwgIlwi0enWpMLrOlwiICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgJSAxMDAwMDAwIik7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBpbktleXdvcmtkLmFkZEFsbChBcnJheXMuYXNMaXN0KGtleXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KG1Db250ZXh0LCB0ZXh0LCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmpzID0ganM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CS8v08PT2rLiytRvZmZlcsjnufsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmIChvc1N0cmVhbSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgb3NTdHJlYW0ud3JpdGUodGVtcEJ1ZmZlciwgMCwgcmVhZF9zaXplKTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlpZihUZXh0VXRpbHMuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvc1N0cmVhbQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBpbktleXdvcmtkLmFkZEFsbChBcnJheXMuYXNMaXN0KGtleXMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmpzID0ganM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
