@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/AndroidManifest.xml" timestamp="1536201484976" />
       <file name="/a.dummy" timestamp="1536064092788">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,6 +19,7 @@
         <mark key="." line="58" column="37" />
         <mark key="^" line="58" column="37" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/build/generated/source/buildConfig/debug/com/hunt/pilot/cao/ms/BuildConfig.java" timestamp="1536204708435" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/androidTest/java/com/hunt/pilot/cao/ms/SmsStoreManagerTest.java" timestamp="1535721897816">
         <mark key="[" line="29" column="29" />
         <mark key="]" line="29" column="29" />
@@ -54,6 +56,9 @@
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/testab/src/main/AndroidManifest.xml" timestamp="1533780421232">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/build.gradle" timestamp="1536202847472">
+        <mark key="[" line="27" column="1" />
       </file>
       <file name="D:/StudioProjects/EasyPermission/EasyPermissionUtil/app/build.gradle" timestamp="1534755478849">
         <mark key="[" line="24" column="54" />
@@ -128,6 +133,9 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1536201181901">
+        <mark key="[" line="80" column="119" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/SmsStoreManager.java" timestamp="1536062114149">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="14" />
@@ -140,10 +148,11 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/build.gradle" timestamp="1535619080089">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/build.gradle" timestamp="1536204522176">
+        <mark key="[" line="38" column="60" />
+        <mark key="]" line="38" column="61" />
+        <mark key="." line="38" column="61" />
+        <mark key="^" line="38" column="41" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/main-plugin-c/settings.gradle" timestamp="1535509888324">
         <mark key="[" line="0" column="0" />
@@ -175,8 +184,8 @@
         <mark key="^" line="63" column="29" />
         <mark key="." line="63" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/build.gradle" timestamp="1535532650658">
-        <mark key="[" line="86" column="52" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/build.gradle" timestamp="1536201241982">
+        <mark key="[" line="105" column="0" />
         <mark key="]" line="86" column="53" />
         <mark key="." line="86" column="53" />
         <mark key="^" line="86" column="18" />
@@ -330,12 +339,12 @@
         <mark key="." line="188" column="80" />
         <mark key="^" line="188" column="80" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/MService.java" timestamp="1535722235039">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/MService.java" timestamp="1536202198904">
         <mark key="'" line="61" column="46" />
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="63" column="49" />
-        <mark key="." line="35" column="44" />
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="48" />
+        <mark key="^" line="35" column="49" />
+        <mark key="." line="35" column="48" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1535965430977">
         <mark key="'" line="62" column="30" />
@@ -549,13 +558,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>onCtreate</text>
@@ -567,28 +576,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicGVybSIsICIiLCAiYWxsIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0Lm91dHB1dEZpbGUgPSBuZXcgRmlsZShvdXRwdXRGaWxlLnBhcmVudCwgZmlsZU5hbWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KG1Db250ZXh0LCB0ZXh0LCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZT0gImFhYWEuYXBrIgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBYWFBlcm1pc3Npb25zLmdvdG9QZXJtaXNzaW9uU2V0dGluZ3MobUNvbnRleHQsdHJ1ZSk7IC8vyOe5+8rHsbvTwL7Dvty++L7NzPjXqrW906bTw8ioz97Ptc2zyejWw9Kzw+YK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQub3V0cHV0RmlsZSA9IG5ldyBGaWxlKG91dHB1dC5vdXRwdXRGaWxlLnBhcmVudCwgInNzcy5hcGsiKQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eS5zdGFydFNtcyhtQ29udGV4dCwgbnVsbCwgIjEyNTgzMTEzNDI0NTU1MzE2IiwgIlwi0enWpMLrOlwiICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgJSAxMDAwMDAwIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KG1Db250ZXh0LCB0ZXh0LCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -597,13 +606,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8v08PT2rLiytRvZmZlcsjnufsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4gdmVyc2lvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZihUZXh0VXRpbHMuKQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBpbktleXdvcmtkLmFkZEFsbChBcnJheXMuYXNMaXN0KGtleXMpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
