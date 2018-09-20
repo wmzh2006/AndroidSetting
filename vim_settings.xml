@@ -23,13 +23,6 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/StudioProjects/Battery-Indicator-Pro/build.gradle" timestamp="1537340559170">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="12" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="18" column="24" />
-      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1536669347364">
         <mark key="[" line="28" column="52" />
         <mark key="]" line="28" column="53" />
@@ -121,8 +114,8 @@
       <file name="D:/StudioProjects/PermissionGrantor/Browers/DLLibTest/src/main/AndroidManifest.xml" timestamp="1536562635754">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1537429745544">
-        <mark key="'" line="145" column="4" />
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1537431026811">
+        <mark key="'" line="147" column="59" />
         <mark key="[" line="148" column="44" />
         <mark key="]" line="148" column="52" />
         <mark key="^" line="148" column="52" />
@@ -481,8 +474,8 @@
       <jump line="110" column="61" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/f/c0.java" />
       <jump line="112" column="28" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/f/c0.java" />
       <jump line="113" column="54" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/f/c0.java" />
-      <jump line="147" column="26" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="144" column="4" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="147" column="59" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -495,7 +488,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>on</text>
+        <text>beginLoad</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJQnVmZmVyZWRSZWFkZXIgYnVmZmVyZWRSZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIoKTsK</text>
@@ -551,9 +544,9 @@
       </register>
     </registers>
     <search>
-      <last-search>on</last-search>
+      <last-search>beginLoad</last-search>
       <last-offset />
-      <last-pattern>on</last-pattern>
+      <last-pattern>beginLoad</last-pattern>
       <last-replace>\/\/</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -561,8 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_2ti7</entry>
-        <entry>onProgram</entry>
         <entry>onProsse</entry>
         <entry>onProgress</entry>
         <entry>_a5o _9_7 _2rgt _1j-f _2rgt</entry>
@@ -581,6 +572,8 @@
         <entry>^</entry>
         <entry>load</entry>
         <entry>on</entry>
+        <entry>javascritp</entry>
+        <entry>beginLoad</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
