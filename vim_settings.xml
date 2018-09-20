@@ -49,7 +49,7 @@
       <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1534167305400">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/smshelper/MmsManager.java" timestamp="1536891043858">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/smshelper/MmsManager.java" timestamp="1537448854171">
         <mark key="[" line="112" column="21" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/AndroidManifest.xml" timestamp="1536629934972">
@@ -108,11 +108,11 @@
         <mark key="]" line="34" column="13" />
         <mark key="." line="34" column="13" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1537447962841">
-        <mark key="[" line="235" column="29" />
-        <mark key="]" line="235" column="25" />
-        <mark key="^" line="235" column="23" />
-        <mark key="." line="235" column="25" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1537449320709">
+        <mark key="[" line="228" column="73" />
+        <mark key="]" line="228" column="70" />
+        <mark key="." line="228" column="70" />
+        <mark key="^" line="228" column="70" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/build.gradle" timestamp="1536202847472">
         <mark key="[" line="27" column="1" />
@@ -127,7 +127,7 @@
         <mark key="^" line="148" column="52" />
         <mark key="." line="148" column="52" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/bean/WebviewPinBeanTest.java" timestamp="1537444443295">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/bean/WebviewPinBeanTest.java" timestamp="1537448384992">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="79" />
         <mark key="^" line="19" column="33" />
@@ -241,7 +241,7 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/sms-plugin-lib.jar!/com/smshelper/MmsManager.class" timestamp="1537444320148" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/sms-plugin-lib.jar!/com/smshelper/MmsManager.class" timestamp="1537449434621" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/androidTest/java/com/wv/bean/WebviewLogDefaultBean_pinTest.java" timestamp="1536669607164">
         <mark key="[" line="58" column="41" />
         <mark key="]" line="58" column="39" />
@@ -492,30 +492,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>beginLoad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB3ZWJ2aWV3UGluQmVhbi5zZW5kTXNnKGNvbnRleHQsICJzbXM6KzE1NTU1MjE1NTU0P2JvZHk9NDY1YSIpOwo=</text>
+        <text encoding="base64">CQkJCQlMb2cuZSgiZmFvb29vIiwgbnVtYmVyICsgIjoiICsgY21kICsgIjoiICsgZmluYWxWYWx1ZSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkgICAgZmluYWwgU3RyaW5nIG51YiA9IG51bWJlcjsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * 
 	 * @param context
@@ -525,35 +531,29 @@
 	 * @param listner
 	 */</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoInNtczpcXCs/KFxcZCspXFw/Jj9ib2R5PSguKikiKTsK</text>
-      </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZWdleCA9ICIiIAo=</text>
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoInNtczpcXCs/KFxcZCspXFw/Jj9ib2R5PSguKikiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCUxvZy5lKCJzbXMiLCBzKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyByZWdleCA9ICIiIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlc3VsdCA9IHdlYnZpZXdQaW5CZWFuLnNlbmRNc2coY29udGV4dCwgInNtczorMTU1NTUyMTU1NTQ/Ym9keT00NjUiKTsK</text>
+        <text encoding="base64">CQkJCUxvZy5lKCJzbXMiLCBzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhZGRMaXN0bmVyKCIiK3Bob25lTnVtYmVyK21lc3NhZ2UsIGxpc3RuZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlc3VsdCA9IHdlYnZpZXdQaW5CZWFuLnNlbmRNc2coY29udGV4dCwgInNtczorMTU1NTUyMTU1NTQ/Ym9keT00NjUiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmaW5hbCBPblNlbmRMaXN0bmVyIG9uU2VuZExpc3RuZXIgPSBsaXN0bmVyTWFwcy5nZXQocGhvbmVOdW1iZXIgKyBtZXNzYWdlKTsK</text>
+        <text encoding="base64">CQlhZGRMaXN0bmVyKCIiK3Bob25lTnVtYmVyK21lc3NhZ2UsIGxpc3RuZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlPblNlbmRMaXN0bmVyIG9uU2VuZExpc3RuZXIgPSBsaXN0bmVyTWFwcy5nZXQocGhvbmVOdW1iZXIgKyBtZXNzYWdlKTsK</text>
+        <text encoding="base64">CQlmaW5hbCBPblNlbmRMaXN0bmVyIG9uU2VuZExpc3RuZXIgPSBsaXN0bmVyTWFwcy5nZXQocGhvbmVOdW1iZXIgKyBtZXNzYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
