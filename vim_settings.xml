@@ -108,7 +108,7 @@
         <mark key="]" line="34" column="13" />
         <mark key="." line="34" column="13" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1537516619218">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1537519817382">
         <mark key="[" line="228" column="73" />
         <mark key="]" line="228" column="70" />
         <mark key="." line="228" column="70" />
@@ -309,11 +309,11 @@
       <file name="/Dummy.txt" timestamp="1537427030842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1537518449722">
-        <mark key="'" line="540" column="20" />
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="548" column="0" />
-        <mark key="." line="548" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1537519998062">
+        <mark key="'" line="541" column="20" />
+        <mark key="[" line="539" column="0" />
+        <mark key="]" line="539" column="0" />
+        <mark key="." line="539" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.bat" timestamp="1536664723026">
         <mark key="[" line="0" column="0" />
@@ -498,7 +498,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -516,36 +516,42 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYoQ2FsbENhbGxiYWNrKG51bGwpOykK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvblJlY2VpdmVkRXJyb3IoV2ViVmlldyB2aWV3LCBXZWJSZXNvdXJjZVJlcXVlc3QgcmVxdWVzdCwgV2ViUmVzb3VyY2VFcnJvciBlcnJvcikgewoJCQlzdXBlci5vblJlY2VpdmVkRXJyb3IodmlldywgcmVxdWVzdCwgZXJyb3IpOwoJCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlvblJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkgICAgZmluYWwgU3RyaW5nIG51YiA9IG51bWJlcjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvblJlY2VpdmVkRXJyb3IoV2ViVmlldyB2aWV3LCBXZWJSZXNvdXJjZVJlcXVlc3QgcmVxdWVzdCwgV2ViUmVzb3VyY2VFcnJvciBlcnJvcikgewoJCQlzdXBlci5vblJlY2VpdmVkRXJyb3IodmlldywgcmVxdWVzdCwgZXJyb3IpOwoJCX0=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQlvblJlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkgICAgZmluYWwgU3RyaW5nIG51YiA9IG51bWJlcjsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * 
 	 * @param context
@@ -554,12 +560,6 @@
 	 * @param textView
 	 * @param listner
 	 */</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoInNtczpcXCs/KFxcZCspXFw/Jj9ib2R5PSguKikiKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZWdleCA9ICIiIAo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
