@@ -264,11 +264,12 @@
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1537519998062">
-        <mark key="'" line="541" column="20" />
-        <mark key="[" line="539" column="0" />
-        <mark key="]" line="539" column="0" />
-        <mark key="." line="539" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1537931548444">
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1537185336948">
         <mark key="[" line="230" column="38" />
@@ -341,7 +342,6 @@
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1537496960814" />
     </filemarks>
     <jumps>
-      <jump line="241" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/autojs/Wm05eVpYWmxjaTV0YWc9PQ==" />
       <jump line="242" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/autojs/Wm05eVpYWmxjaTV0YWc9PQ==" />
       <jump line="243" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/autojs/Wm05eVpYWmxjaTV0YWc9PQ==" />
       <jump line="244" column="25" filename="D:/StudioProjects/XXPermissions/XXPermissions/autojs/Wm05eVpYWmxjaTV0YWc9PQ==" />
@@ -441,10 +441,11 @@
       <jump line="543" column="135" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="544" column="18" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="539" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="61" column="25" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgU3RyaW5nIAlvdHAgPSBudWxsOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -462,19 +463,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgU3RyaW5nIAlvdHAgPSBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYoQ2FsbENhbGxiYWNrKG51bGwpOykK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYoQ2FsbENhbGxiYWNrKG51bGwpOykK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -482,30 +483,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvblJlY2VpdmVkRXJyb3IoV2ViVmlldyB2aWV3LCBXZWJSZXNvdXJjZVJlcXVlc3QgcmVxdWVzdCwgV2ViUmVzb3VyY2VFcnJvciBlcnJvcikgewoJCQlzdXBlci5vblJlY2VpdmVkRXJyb3IodmlldywgcmVxdWVzdCwgZXJyb3IpOwoJCX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlvblJlCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CQlAT3ZlcnJpZGUKCQlwdWJsaWMgdm9pZCBvblJlY2VpdmVkRXJyb3IoV2ViVmlldyB2aWV3LCBXZWJSZXNvdXJjZVJlcXVlc3QgcmVxdWVzdCwgV2ViUmVzb3VyY2VFcnJvciBlcnJvcikgewoJCQlzdXBlci5vblJlY2VpdmVkRXJyb3IodmlldywgcmVxdWVzdCwgZXJyb3IpOwoJCX0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgICAgZmluYWwgU3RyaW5nIG51YiA9IG51bWJlcjsK</text>
+        <text encoding="base64">CQlvblJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkgICAgZmluYWwgU3RyaW5nIG51YiA9IG51bWJlcjsK</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * 
-	 * @param context
-	 * @param phoneNumber 多个号码使用
-	 * @param message
-	 * @param textView
-	 * @param listner
-	 */</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
