@@ -65,6 +65,7 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
+      <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/MainActivity.java" timestamp="1538190970461" />
       <file name="/LLDB" timestamp="1536663855529">
         <mark key="[" line="0" column="0" />
       </file>
@@ -154,6 +155,11 @@
         <mark key="]" line="18" column="67" />
         <mark key="." line="18" column="67" />
         <mark key="^" line="18" column="70" />
+      </file>
+      <file name="D:/StudioProjects/Tools/magic/build.gradle" timestamp="1538191058790">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="E:/Project/bigdata/rOOTSDK_Plugin_bigdata/src/main/java/com/impl/bd/collector/reportor/Reporter.java" timestamp="1537349190752">
         <mark key="[" line="258" column="21" />
@@ -289,6 +295,11 @@
         <mark key="]" line="54" column="3" />
         <mark key="." line="54" column="3" />
         <mark key="^" line="54" column="3" />
+      </file>
+      <file name="D:/StudioProjects/Tools/magic/src/main/java/com/cranife/troubles/MApplication.java" timestamp="1538191302320">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/UploadInfoUtil.java" timestamp="1534159793305">
         <mark key="[" line="266" column="12" />
@@ -465,13 +476,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vd3d3Lm9reWVzbW9iaS5jb206ODA4MC9zZGsvc3ViLmFjdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob2MuaG9jbGliLlBNYW5hZ2VyOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>http://www.okyesmobi.com:8080/sdk/td.action</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVcPg==</text>
@@ -483,43 +494,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vd3d3Lm9reWVzbW9iaS5jb206ODA4MC9zZGsvc3ViLmFjdGlvbgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob2MuaG9jbGliLlBNYW5hZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlodHRwOi8vd3d3Lm9reWVzbW9iaS5jb206ODA4MC9zZGsvc3ViLmFjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vd3d3Lm9reWVzbW9iaS5jb206ODA4MC9zZGsvc3ViLmFjdGlvbgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cDovL3d3dy5va3llc21vYmkuY29tOjgwODAvc2RrL3RkLmFjdGlvbgo=</text>
+        <text encoding="base64">CQlodHRwOi8vd3d3Lm9reWVzbW9iaS5jb206ODA4MC9zZGsvc3ViLmFjdGlvbgo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">aHR0cDovL3d3dy5va3llc21vYmkuY29tOjgwODAvc2RrL3RkLmFjdGlvbgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CQkJLy+0psDtUElOwutvZmZlcgoJCQkJCQkJCVN0cmluZyBwb2tleSA9IFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiY0c4PSIpOy8vcG8KCQkJCQkJCQlKU09OQXJyYXkgb3BMaXN0ID0ganNvbi5vcHRKU09OQXJyYXkocG9rZXkpOwoJCQkJCQkJCWlmIChvcExpc3QgIT0gbnVsbCkgewoJCQkJCQkJCQlTdHJpbmdCdWZmZXIgcmVzdWx0QnVmZmVyIAk9ICBuZXcgU3RyaW5nQnVmZmVyKCk7CgkJCQkJCQkJCWZvciAoaW50IGkgPSAwOyBpIDwgb3BMaXN0Lmxlbmd0aCgpOyBpKyspIHsKCQkJCQkJCQkJCVN0cmluZyByZXQgPSBwYXNlck9QKGpzb24sIG9wTGlzdCwgaSk7CgkJCQkJCQkJCQlyZXN1bHRCdWZmZXIuYXBwZW5kKHJldCk7CgkJCQkJCQkJCX0KCQkJCQkJCQkJaWYgKG1zZy5vYmogIT0gbnVsbCAmJiBtc2cub2JqIGluc3RhbmNlb2YgU3RyaW5nICYmIHJlc3VsdEJ1ZmZlciAhPSBudWxsKXsKCQkJCQkJCQkJCW1zZy5vYmogPSBtc2cub2JqICsgcmVzdWx0QnVmZmVyLnRvU3RyaW5nKCk7CgoJCQkJCQkJCQl9CgkJCQkJCQkJfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CQkJLy+0psDtUElOwutvZmZlcgoJCQkJCQkJCVN0cmluZyBwb2tleSA9IFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiY0c4PSIpOy8vcG8KCQkJCQkJCQlKU09OQXJyYXkgb3BMaXN0ID0ganNvbi5vcHRKU09OQXJyYXkocG9rZXkpOwoJCQkJCQkJCWlmIChvcExpc3QgIT0gbnVsbCkgewoJCQkJCQkJCQlTdHJpbmdCdWZmZXIgcmVzdWx0QnVmZmVyIAk9ICBuZXcgU3RyaW5nQnVmZmVyKCk7CgkJCQkJCQkJCWZvciAoaW50IGkgPSAwOyBpIDwgb3BMaXN0Lmxlbmd0aCgpOyBpKyspIHsKCQkJCQkJCQkJCVN0cmluZyByZXQgPSBwYXNlck9QKGpzb24sIG9wTGlzdCwgaSk7CgkJCQkJCQkJCQlyZXN1bHRCdWZmZXIuYXBwZW5kKHJldCk7CgkJCQkJCQkJCX0KCQkJCQkJCQkJaWYgKG1zZy5vYmogIT0gbnVsbCAmJiBtc2cub2JqIGluc3RhbmNlb2YgU3RyaW5nICYmIHJlc3VsdEJ1ZmZlciAhPSBudWxsKXsKCQkJCQkJCQkJCW1zZy5vYmogPSBtc2cub2JqICsgcmVzdWx0QnVmZmVyLnRvU3RyaW5nKCk7CgoJCQkJCQkJCQl9CgkJCQkJCQkJfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlpZiAoc3RhID09IDApIHsK</text>
+        <text encoding="base64">CQkJCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlpZiAoc3RhID09IDApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
