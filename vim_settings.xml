@@ -15,11 +15,11 @@
         <mark key="^" line="183" column="15" />
         <mark key="." line="183" column="15" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1538998049254">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="21" column="33" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1539049621698">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="57969" />
       </file>
       <file name="/AndroidManifest.xml" timestamp="1539000379233" />
       <file name="/a.dummy" timestamp="1538990405081">
@@ -327,12 +327,12 @@
       <file name="/Dummy.txt" timestamp="1537427030842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1538999168248">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539049646982">
         <mark key="'" line="683" column="25" />
-        <mark key="[" line="690" column="37" />
-        <mark key="]" line="690" column="37" />
-        <mark key="." line="690" column="37" />
-        <mark key="^" line="690" column="53" />
+        <mark key="[" line="705" column="56" />
+        <mark key="]" line="705" column="54" />
+        <mark key="." line="705" column="54" />
+        <mark key="^" line="705" column="54" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.bat" timestamp="1536664723026">
         <mark key="[" line="0" column="0" />
@@ -501,19 +501,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Arrays.toString(raw);</text>
+        <text>).trim())</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Arrays.toString(raw);</text>
+        <text>).trim())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IEJ1dHRvbl9hZGQoImt1Z3VhX3Rlc3QiLCBjb250ZXh0LCBsYXlvdXQsIG5ldyBUZXN0TGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkFjdGlvbihDb250ZXh0IGNvbnRleHQsIFZpZXcgdmlldywgQ2FsbGJhY2sgY2FsbGJhY2spIHsKICAgICAgICAgICAgICAgIHJ0bXNnLnNldFRleHQoImh1bHVfaW5pdDoiICsgUmVhbHNlQ29uZmlnLkh1bHV1cmwpOwoKICAgICAgICAgICAgICAgIEltcGwuZ2V0SW5zdGFuY2UoY29udGV4dCwgY2FsbGJhY2spLmdldEluaXREYXRhKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8JCQlwYXJhbXMucHV0KCJpbWFnZSIsIHZhbHVlLnJlcGxhY2VBbGwoImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCwiLCAiIikudHJpbSgpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
