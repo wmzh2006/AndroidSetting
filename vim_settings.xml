@@ -327,10 +327,10 @@
       <file name="/Dummy.txt" timestamp="1537427030842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539140502403">
-        <mark key="[" line="761" column="0" />
-        <mark key="]" line="761" column="0" />
-        <mark key="." line="761" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539141416496">
+        <mark key="[" line="719" column="0" />
+        <mark key="]" line="719" column="0" />
+        <mark key="." line="719" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.bat" timestamp="1536664723026">
         <mark key="[" line="0" column="0" />
@@ -499,64 +499,63 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJYnl0ZUFycmF5T3V0cHV0U3RyZWFtLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OyBieXRlW10gYml0bWFwQXJyYXkgPSA=</text>
+        <text>byte[] jpgData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJbVdlYnZpZXdfQmVhbi5vbk90aGVyRXZlbnQobUNvbnRleHQsIG51bGwsIG51bGwsICJjYXBfc3VjIiwgIiIrcGl0X3N0clswXSsiX2VzYzoiKyhTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKS1zdGFydCkvMTAwMCk7Cg==</text>
+        <text encoding="base64">CQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCW1XZWJ2aWV3X0JlYW4ub25PdGhlckV2ZW50KG1Db250ZXh0LCBudWxsLCBudWxsLCAiY2FwX2VyciIsIGUudG9TdHJpbmcoKSsiXyIrZGF0YVVyaXMpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJYnl0ZUFycmF5T3V0cHV0U3RyZWFtLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQliYXNlID0gQmFzZTY0LmVuY29kZVRvU3RyaW5nKGpwZ0RhdGEsIEJhc2U2NC5OT19XUkFQKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWJ5dGVbXSBiaXRtYXBBcnJheSA9IGRhdGFVcmlzVG9CaXRtYXAodmFsdWUpOwo=</text>
+        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWJ5dGVBcnJheU91dHB1dFN0cmVhbSA9IGNvbXByZXNzQml0bWFwKGJpdG1hcCk7Cg==</text>
+        <text encoding="base64">CQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">CQkJCXJldHVybiBlbmNvZGVTdHI7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/				FileOutputStream fileOutputStream = new FileOutputStream(new File(mContext.getExternalCacheDir().getAbsolutePath() + &quot;/&quot; + start + &quot;.jpg&quot;));
-//				fileOutputStream.write(jpgData);
-//				fileOutputStream.flush();
-//				fileOutputStream.close();</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJYnl0ZVtdIGpwZ0RhdGEgPSBieXRlQXJyYXlPdXRwdXRTdHJlYW0udG9CeXRlQXJyYXkoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>catch (InterruptedException e) {
+			} catch (JSONException e) {
+			}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">CQkJYnl0ZVtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
