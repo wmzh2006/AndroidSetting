@@ -49,6 +49,7 @@
         <mark key="^" line="25" column="64" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/StrProcessing.class" timestamp="1539163571332" />
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/JSManualOffer.java" timestamp="1537430215036">
         <mark key="[" line="59" column="71" />
         <mark key="]" line="59" column="71" />
@@ -327,10 +328,11 @@
       <file name="/Dummy.txt" timestamp="1537427030842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539158117880">
-        <mark key="[" line="769" column="0" />
-        <mark key="]" line="769" column="0" />
-        <mark key="." line="769" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539163518355">
+        <mark key="[" line="769" column="64" />
+        <mark key="]" line="769" column="61" />
+        <mark key="." line="769" column="61" />
+        <mark key="^" line="769" column="61" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.bat" timestamp="1536664723026">
         <mark key="[" line="0" column="0" />
@@ -498,14 +500,14 @@
       <jump line="32" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>$, Base64.DEFAULT)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getFilesDir</text>
+        <text>$, Base64.DEFAULT)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVcPg==</text>
@@ -517,47 +519,47 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0clByb2Nlc3NpbmcuRGVjcnlwdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQlGaWxlT3V0cHV0U3RyZWFtIGZpbGVPdXRwdXRTdHJlYW0gPSBuZXcgRmlsZU91dHB1dFN0cmVhbShuZXcgRmlsZShtQ29udGV4dC5nZXRFeHRlcm5hbENhY2hlRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCkrIi8iICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyAiLmpwZyIpKTsKCQkJCWZpbGVPdXRwdXRTdHJlYW0ud3JpdGUoanBnRGF0YSk7CgkJCQlmaWxlT3V0cHV0U3RyZWFtLmZsdXNoKCk7CgkJCQlmaWxlT3V0cHV0U3RyZWFtLmNsb3NlKCk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCUZpbGVPdXRwdXRTdHJlYW0gZmlsZU91dHB1dFN0cmVhbSA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKG5ldyBGaWxlKG1Db250ZXh0LmdldEV4dGVybmFsQ2FjaGVEaXIoKS5nZXRBYnNvbHV0ZVBhdGgoKSsiLyIgKyBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSArICIuanBnIikpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQlGaWxlT3V0cHV0U3RyZWFtIGZpbGVPdXRwdXRTdHJlYW0gPSBuZXcgRmlsZU91dHB1dFN0cmVhbShuZXcgRmlsZShtQ29udGV4dC5nZXRFeHRlcm5hbENhY2hlRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCkrIi8iICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyAiLmpwZyIpKTsKCQkJCWZpbGVPdXRwdXRTdHJlYW0ud3JpdGUoanBnRGF0YSk7CgkJCQlmaWxlT3V0cHV0U3RyZWFtLmZsdXNoKCk7CgkJCQlmaWxlT3V0cHV0U3RyZWFtLmNsb3NlKCk7</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCUZpbGVPdXRwdXRTdHJlYW0gZmlsZU91dHB1dFN0cmVhbSA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKG5ldyBGaWxlKG1Db250ZXh0LmdldEV4dGVybmFsQ2FjaGVEaXIoKS5nZXRBYnNvbHV0ZVBhdGgoKSsiLyIgKyBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSArICIuanBnIikpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>FileOutputStream fileOutputStream = new FileOutputStream(new File(mContext.getExternalCacheDir().getAbsolutePath()+&quot;/&quot; + System.currentTimeMillis() + &quot;.jpg&quot;));
 				byte[] jpgData = byteArrayOutputStream.toByteArray();
 				fileOutputStream.write(jpgData);
 				fileOutputStream.flush();
 				fileOutputStream.close();</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Z2V0RmlsZXNEaXIK</text>
-      </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWZpbGVPdXRwdXRTdHJlYW0ud3JpdGUoKTsK</text>
+        <text encoding="base64">Z2V0RmlsZXNEaXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEZpbGUgZmlsZTsK</text>
+        <text encoding="base64">CQkJCWZpbGVPdXRwdXRTdHJlYW0ud3JpdGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc2IuYXBwZW5kKCJcIiIpOwo=</text>
+        <text encoding="base64">ICAgIEZpbGUgZmlsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CQkJc2IuYXBwZW5kKCJcIiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
