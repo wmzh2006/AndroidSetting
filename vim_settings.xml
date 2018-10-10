@@ -15,11 +15,11 @@
         <mark key="^" line="183" column="15" />
         <mark key="." line="183" column="15" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1539138667969">
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="51" />
-        <mark key="." line="25" column="51" />
-        <mark key="^" line="34" column="58988" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1539155779598">
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="63" column="3" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/AndroidManifest.xml" timestamp="1539000379233" />
       <file name="/a.dummy" timestamp="1539140384737">
@@ -327,11 +327,11 @@
       <file name="/Dummy.txt" timestamp="1537427030842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539146205353">
-        <mark key="[" line="748" column="42" />
-        <mark key="]" line="748" column="42" />
-        <mark key="." line="748" column="42" />
-        <mark key="^" line="748" column="43" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539155685829">
+        <mark key="[" line="768" column="91" />
+        <mark key="]" line="768" column="91" />
+        <mark key="." line="768" column="91" />
+        <mark key="^" line="772" column="40" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.bat" timestamp="1536664723026">
         <mark key="[" line="0" column="0" />
@@ -499,14 +499,14 @@
       <jump line="32" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRocm93cyBKU09ORXhjZXB0aW9uIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z2V0RmlsZXNEaXIK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93cyBKU09ORXhjZXB0aW9uIA==</text>
+        <text>getFilesDir</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVcPg==</text>
@@ -518,43 +518,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJc2IuYXBwZW5kKCJcIiIpOwo=</text>
+        <text encoding="base64">Z2V0RmlsZXNEaXIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">CQkJCWZpbGVPdXRwdXRTdHJlYW0ud3JpdGUoKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJICAgIAo=</text>
+        <text encoding="base64">ICAgIEZpbGUgZmlsZTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2IuYXBwZW5kKCJcIiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQliYXNlID0gQmFzZTY0LmVuY29kZVRvU3RyaW5nKGpwZ0RhdGEsIEJhc2U2NC5OT19XUkFQKTsK</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">CQkJCQliYXNlID0gQmFzZTY0LmVuY29kZVRvU3RyaW5nKGpwZ0RhdGEsIEJhc2U2NC5OT19XUkFQKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBlbmNvZGVTdHI7Cg==</text>
+        <text encoding="base64">CQkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
