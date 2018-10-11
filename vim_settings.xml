@@ -44,11 +44,12 @@
         <mark key="." line="28" column="53" />
         <mark key="^" line="28" column="50" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1537517109282">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="31" />
-        <mark key="^" line="25" column="64" />
-        <mark key="." line="15" column="31" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539247746319">
+        <mark key="'" line="18" column="35" />
+        <mark key="[" line="25" column="66" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="36" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/StrProcessing.class" timestamp="1539163571332" />
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/JSManualOffer.java" timestamp="1537430215036">
@@ -405,9 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="41" filename="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/BaseOtpFilter.java" />
-      <jump line="11" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/DefaultOtpFilter.java" />
-      <jump line="21" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ms/src/main/java/com/hunt/pilot/cao/ms/DefaultOtpFilter.java" />
       <jump line="170" column="18" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="169" column="16" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="168" column="29" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
@@ -505,6 +503,9 @@
       <jump line="690" column="25" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="32" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" />
       <jump line="18" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/Test/java/ExampleTest.java" />
+      <jump line="26" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" />
+      <jump line="25" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" />
+      <jump line="18" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -517,7 +518,7 @@
         <text>&quot;a21 ,222&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdmVcPg==</text>
+        <text>android.permission.CHANGE_NETWORK_STATE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHtmYWxzZSwgImEyMSAsMjIyIn0sCg==</text>
@@ -573,17 +574,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdmVcPg==</last-search>
+      <last-search>android.permission.CHANGE_NETWORK_STATE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdmVcPg==</last-pattern>
+      <last-pattern>android.permission.CHANGE_NETWORK_STATE</last-pattern>
       <last-replace>\/\/</last-replace>
       <last-substitute>^</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_a5o _9_7 _2rgt _1j-f _2rgt</entry>
         <entry>I-like</entry>
         <entry>Curtir</entry>
         <entry>log</entry>
@@ -603,6 +603,7 @@
         <entry>beginLoad</entry>
         <entry>onReceivedError</entry>
         <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
+        <entry>android.permission.CHANGE_NETWORK_STATE</entry>
       </history-search>
       <history-cmd>
         <entry>.,$d</entry>
