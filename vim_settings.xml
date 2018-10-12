@@ -140,9 +140,6 @@
         <mark key="." line="214" column="26" />
         <mark key="^" line="214" column="26" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/build.gradle" timestamp="1538992106077">
-        <mark key="[" line="27" column="1" />
-      </file>
       <file name="D:/StudioProjects/PermissionGrantor/Browers/DLLibTest/src/main/AndroidManifest.xml" timestamp="1536562635754">
         <mark key="[" line="2" column="35" />
       </file>
@@ -218,6 +215,12 @@
         <mark key="]" line="53" column="38" />
         <mark key="." line="53" column="38" />
         <mark key="^" line="53" column="38" />
+      </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/build.gradle" timestamp="1539324442513">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/StudioProjects/Battery-Indicator-Pro/settings.gradle" timestamp="1537338163211">
         <mark key="[" line="0" column="0" />
@@ -508,8 +511,8 @@
       <jump line="18" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;a21 ,222&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -521,7 +524,7 @@
         <text>android.permission.CHANGE_NETWORK_STATE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtmYWxzZSwgImEyMSAsMjIyIn0sCg==</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
