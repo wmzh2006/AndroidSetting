@@ -97,6 +97,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/testimei/src/main/AndroidManifest.xml" timestamp="1539333267546">
+        <mark key="[" line="4" column="68" />
+        <mark key="]" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/AndroidManifest.xml" timestamp="1532698171957">
         <mark key="[" line="7" column="113" />
       </file>
@@ -535,8 +541,8 @@
       <jump line="18" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -554,46 +560,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGV4Q2xhc3NMb2FkZXIgZGV4Q2xhc3NMb2FkZXIgPSBuZXcgRGV4Q2xhc3NMb2FkZXIodGhpcy5nZXRwLCAiIiwgbnVsbCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgRGV4Q2xhc3NMb2FkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGV4Q2xhc3NMb2FkZXIgZGV4Q2xhc3NMb2FkZXIgPSBuZXcgRGV4Q2xhc3NMb2FkZXIodGhpcy5nZXRwLCAiIiwgbnVsbCwgbnVsbCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgRGV4Q2xhc3NMb2FkZXIoKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlci5iZWZvcmVIb29rZWRNZXRob2QocGFyYW0pOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="4">
         <text>@Override
                 protected void (MethodHookParam param) throws Throwable {
                     
                 }</text>
       </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbS5zZXRSZXN1bHQoIkhvb2sgc3VjY2VlZCIpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b24gYnV0dG9uID0gKEJ1dHRvbikgdmlldzsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkLyIK</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b24gYnV0dG9uID0gKEJ1dHRvbikgdmlldzsK</text>
       </register>
       <register name=":" type="4">
         <text>0,$d</text>
