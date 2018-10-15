@@ -149,11 +149,11 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="46" column="53" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/GPConfig.java" timestamp="1539568980017">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="7" column="56" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/GPConfig.java" timestamp="1539573680653">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="46" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/SDKUtil.java" timestamp="1539568427647">
         <mark key="[" line="31" column="29" />
@@ -361,6 +361,12 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="23" column="31" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1539573433455">
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="77" />
+        <mark key="." line="17" column="77" />
+        <mark key="^" line="17" column="77" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/XWalkWebviewAutoProcess.java" timestamp="1536918488486">
         <mark key="[" line="129" column="67" />
         <mark key="]" line="129" column="66" />
@@ -510,14 +516,14 @@
       <jump line="18" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljCUxvYWRMaWJyYXJ5IGxvYWRMaWJyYXJ5ID0gbmV3IExvYWRMaWJyYXJ5KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>loadLibrary.</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>android.permission.CHANGE_NETWORK_STATE</text>
