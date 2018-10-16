@@ -65,6 +65,11 @@
         <mark key="." line="214" column="26" />
         <mark key="^" line="214" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1539595819417">
+        <mark key="[" line="617" column="12" />
+        <mark key="]" line="617" column="12" />
+        <mark key="." line="617" column="12" />
+      </file>
       <file name="E:/Project/Test_cs_Demo/build.gradle" timestamp="1538990917078">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="55" />
@@ -330,6 +335,11 @@
         <mark key="^" line="58" column="39" />
         <mark key="." line="58" column="39" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1539601836584">
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/CoreBase.java" timestamp="1539674033969">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
@@ -359,6 +369,11 @@
         <mark key="]" line="35" column="97" />
         <mark key="." line="35" column="97" />
         <mark key="^" line="38" column="90" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/c0.java" timestamp="1539654655272">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1536637081673">
         <mark key="[" line="8" column="39" />
@@ -411,11 +426,10 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/NetworkHelper.java" timestamp="1539678356057">
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+      <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/NetworkHelper.java" timestamp="1539679016016">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
       </file>
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
@@ -533,62 +547,62 @@
       <jump line="14" column="19" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>ToWifiOrMobileNetwork</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>WIFI_CONNECTED</text>
+        <text>ToWifiOrMobileNetwork</text>
       </register>
       <register name="/" type="4">
         <text>LogcatAction</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgInN5bkNvb2tpZXNfY2giLCAiIiwgIiIrcmV0LCAiIik7Ci8vICAgICAgICAgICAgfQogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgdGFyZ2V0Q29va2llc0RCID0gU1FMaXRlRGF0YWJhc2Uub3BlbkRhdGFiYXNlKHBhdGgsIG51bGwsIFNRTGl0ZURhdGFiYXNlLk9QRU5fUkVBRE9OTFkpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IGdldE5ldHdvcmtJbmZvKGNvbnRleHQpOwogICAgICAgIHJldHVybiBuZXR3b3JrSW5mbyAhPSBudWxsICYmIG5ldHdvcmtJbmZvLmdldFR5cGUoKSA9PSBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfV0lGSTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIk1pc3NpbmdQZXJtaXNzaW9uIikK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBmaW5hbCBTdHJpbmcgc2VydmljZSA9IENvbnRleHQuQ09OTkVDVElWSVRZX1NFUlZJQ0U7CiAgICAgICAgZmluYWwgQ29ubmVjdGl2aXR5TWFuYWdlciBtYW5hZ2VyID0gKENvbm5lY3Rpdml0eU1hbmFnZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShzZXJ2aWNlKTsKICAgICAgICBmaW5hbCBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbzsKICAgICAgICB0cnkgewogICAgICAgICAgICAgbmV0d29ya0luZm8gPSBtYW5hZ2VyLmdldEFjdGl2ZU5ldHdvcmtJbmZvKCk7CiAgICAgICAgICAgIGlmIChuZXR3b3JrSW5mbyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmluYWwgYm9vbGVhbiBpc1dpZmlOZXR3b3JrID0gbmV0d29ya0luZm8uZ2V0VHlwZSgpID09IENvbm5lY3Rpdml0eU1hbmFnZXIuVFlQRV9XSUZJOwogICAgICAgICAgICBmaW5hbCBib29sZWFuIGlzTW9iaWxlTmV0V29yayA9IG5ldHdvcmtJbmZvLmdldFR5cGUoKSA9PSBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfTU9CSUxFOwogICAgICAgICAgICBpZiAoaXNXaWZpTmV0d29yayB8fCBpc01vYmlsZU5ldFdvcmspIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LkNvbm5lY3Rpdml0eU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLldlYlZpZXdVdGlsOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNDb25uZWN0ZWQoTmV0d29ya0luZm8gaW5mbywgaW50IHR5cGUpIHsKICAgICAgICBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IGdldE5ldHdvcmtJbmZvKGNvbnRleHQpOwogICAgICAgIHJldHVybiBuZXR3b3JrSW5mbyAhPSBudWxsICYmIG5ldHdvcmtJbmZvLmdldFR5cGUoKSA9PSBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfV0lGSTsKICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCB1c2VkKENvbnRleHQgY29udGV4dCkgewoJCUxvYWRMaWJyYXJ5LmxvYWQoY29udGV4dCk7Cgl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
