@@ -219,8 +219,8 @@
         <mark key="^" line="55" column="41200" />
         <mark key="." line="55" column="57228" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" timestamp="1539674195936">
-        <mark key="[" line="12" column="12" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" timestamp="1539680540561">
+        <mark key="[" line="36" column="8" />
         <mark key="]" line="12" column="12" />
         <mark key="^" line="35" column="17" />
         <mark key="." line="12" column="12" />
@@ -231,8 +231,8 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1539674399980">
-        <mark key="[" line="29" column="41" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1539680472775">
+        <mark key="[" line="116" column="7" />
         <mark key="]" line="29" column="41" />
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
@@ -346,11 +346,11 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="53" />
       </file>
-      <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/NetworkEvents.java" timestamp="1539677633055">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/NetworkEvents.java" timestamp="1539680197359">
+        <mark key="[" line="21" column="112" />
+        <mark key="]" line="21" column="111" />
+        <mark key="." line="21" column="111" />
+        <mark key="^" line="21" column="111" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/autojs/Wm05eVpYWmxjaTV0YWc9PQ==" timestamp="1536546237821">
         <mark key="[" line="36" column="47" />
@@ -548,13 +548,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ToWifiOrMobileNetwork</text>
+        <text>true</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ToWifiOrMobileNetwork</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>LogcatAction</text>
@@ -566,43 +566,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIk1pc3NpbmdQZXJtaXNzaW9uIikK</text>
+        <text encoding="base64">ICAgICAgIGNoZWNrTm90TnVsbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBmaW5hbCBTdHJpbmcgc2VydmljZSA9IENvbnRleHQuQ09OTkVDVElWSVRZX1NFUlZJQ0U7CiAgICAgICAgZmluYWwgQ29ubmVjdGl2aXR5TWFuYWdlciBtYW5hZ2VyID0gKENvbm5lY3Rpdml0eU1hbmFnZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShzZXJ2aWNlKTsKICAgICAgICBmaW5hbCBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbzsKICAgICAgICB0cnkgewogICAgICAgICAgICAgbmV0d29ya0luZm8gPSBtYW5hZ2VyLmdldEFjdGl2ZU5ldHdvcmtJbmZvKCk7CiAgICAgICAgICAgIGlmIChuZXR3b3JrSW5mbyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmluYWwgYm9vbGVhbiBpc1dpZmlOZXR3b3JrID0gbmV0d29ya0luZm8uZ2V0VHlwZSgpID09IENvbm5lY3Rpdml0eU1hbmFnZXIuVFlQRV9XSUZJOwogICAgICAgICAgICBmaW5hbCBib29sZWFuIGlzTW9iaWxlTmV0V29yayA9IG5ldHdvcmtJbmZvLmdldFR5cGUoKSA9PSBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfTU9CSUxFOwogICAgICAgICAgICBpZiAoaXNXaWZpTmV0d29yayB8fCBpc01vYmlsZU5ldFdvcmspIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIk1pc3NpbmdQZXJtaXNzaW9uIikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBmaW5hbCBTdHJpbmcgc2VydmljZSA9IENvbnRleHQuQ09OTkVDVElWSVRZX1NFUlZJQ0U7CiAgICAgICAgZmluYWwgQ29ubmVjdGl2aXR5TWFuYWdlciBtYW5hZ2VyID0gKENvbm5lY3Rpdml0eU1hbmFnZXIpIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShzZXJ2aWNlKTsKICAgICAgICBmaW5hbCBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbzsKICAgICAgICB0cnkgewogICAgICAgICAgICAgbmV0d29ya0luZm8gPSBtYW5hZ2VyLmdldEFjdGl2ZU5ldHdvcmtJbmZvKCk7CiAgICAgICAgICAgIGlmIChuZXR3b3JrSW5mbyA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmluYWwgYm9vbGVhbiBpc1dpZmlOZXR3b3JrID0gbmV0d29ya0luZm8uZ2V0VHlwZSgpID09IENvbm5lY3Rpdml0eU1hbmFnZXIuVFlQRV9XSUZJOwogICAgICAgICAgICBmaW5hbCBib29sZWFuIGlzTW9iaWxlTmV0V29yayA9IG5ldHdvcmtJbmZvLmdldFR5cGUoKSA9PSBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfTU9CSUxFOwogICAgICAgICAgICBpZiAoaXNXaWZpTmV0d29yayB8fCBpc01vYmlsZU5ldFdvcmspIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNDb25uZWN0ZWQoTmV0d29ya0luZm8gaW5mbywgaW50IHR5cGUpIHsKICAgICAgICBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IGdldE5ldHdvcmtJbmZvKGNvbnRleHQpOwogICAgICAgIHJldHVybiBuZXR3b3JrSW5mbyAhPSBudWxsICYmIG5ldHdvcmtJbmZvLmdldFR5cGUoKSA9PSBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfV0lGSTsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNDb25uZWN0ZWQoTmV0d29ya0luZm8gaW5mbywgaW50IHR5cGUpIHsKICAgICAgICBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IGdldE5ldHdvcmtJbmZvKGNvbnRleHQpOwogICAgICAgIHJldHVybiBuZXR3b3JrSW5mbyAhPSBudWxsICYmIG5ldHdvcmtJbmZvLmdldFR5cGUoKSA9PSBDb25uZWN0aXZpdHlNYW5hZ2VyLlRZUEVfV0lGSTsKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
