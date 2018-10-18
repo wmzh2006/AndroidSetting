@@ -280,11 +280,12 @@
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539834854638">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539843640816">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="108" column="18" />
+        <mark key="]" line="108" column="18" />
+        <mark key="." line="108" column="18" />
+        <mark key="^" line="99" column="23" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -529,12 +530,12 @@
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetworkUtilTest.java" timestamp="1539834452122">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetworkUtilTest.java" timestamp="1539843863145">
         <mark key="'" line="26" column="88" />
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="27" column="41" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="27" column="41" />
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="49" />
+        <mark key="." line="27" column="46" />
       </file>
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
@@ -652,14 +653,14 @@
       <jump line="139" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBUYXJnZXRBcGkoMjMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUYXJnZXRBcGlcPg==</text>
@@ -670,29 +671,29 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBUYXJnZXRBcGkoMjMpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgICAgICDX99Xfo7pYWE9PWUMKICAgICAgICDAtNS0o7pDU0ROCiAgICAgICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hYT09ZQy9hcnRpY2xlL2RldGFpbHMvNTA5NTczMDcgCiAgICAgICAgsObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6E=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBUYXJnZXRBcGkoMjMpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNOZXR3b3JrID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNOZXR3b3JrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNOZXR3b3JrID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNOZXR3b3JrKSB7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -700,14 +701,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">yejWw7jQ0MvIpLXEzfjC57mmxNwK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">yejWw7jQ0MvIpLXEzfjC57mmxNwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Pz8/Pz8/Pz8/Pz8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
