@@ -280,10 +280,11 @@
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539830969313">
-        <mark key="[" line="68" column="4" />
-        <mark key="]" line="68" column="4" />
-        <mark key="." line="68" column="4" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539832491176">
+        <mark key="[" line="100" column="41" />
+        <mark key="]" line="100" column="41" />
+        <mark key="." line="100" column="41" />
+        <mark key="^" line="100" column="40" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -528,9 +529,9 @@
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetworkUtilTest.java" timestamp="1539830963649">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetworkUtilTest.java" timestamp="1539831818436">
         <mark key="'" line="26" column="88" />
-        <mark key="[" line="27" column="42" />
+        <mark key="[" line="27" column="44" />
         <mark key="]" line="27" column="42" />
         <mark key="^" line="27" column="88" />
         <mark key="." line="27" column="42" />
@@ -652,13 +653,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>Declared</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>Declared</text>
       </register>
       <register name="/" type="4">
         <text>Log</text>
@@ -670,43 +671,47 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="2" type="4">
+        <text>---------------------
+    作者：--水之心--
+    来源：CSDN
+    原文：https://blog.csdn.net/xiaogang107/article/details/51344264 
+    版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbnRleHQgY29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBJbnN0cnVtZW50YXRpb25SZWdpc3RyeS5nZXRUYXJnZXRDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIENvbnRleHQgY29udGV4dAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaShhcGkgPSBCdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKQo=</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBJbnN0cnVtZW50YXRpb25SZWdpc3RyeS5nZXRUYXJnZXRDb250ZXh0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaShhcGkgPSBCdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKQo=</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaShhcGkgPSBCdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1aXJlc0FwaShhcGkgPSBCdWlsZC5WRVJTSU9OX0NPREVTLkxPTExJUE9QKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
