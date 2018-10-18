@@ -118,6 +118,7 @@
         <mark key="^" line="45" column="123" />
         <mark key="." line="45" column="123" />
       </file>
+      <file name="E:/tools/android/sources/android-27/android/net/ConnectivityManager.java" timestamp="1539845713787" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1536218331222">
         <mark key="[" line="477" column="69" />
         <mark key="]" line="477" column="70" />
@@ -280,12 +281,12 @@
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539843640816">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="108" column="18" />
-        <mark key="]" line="108" column="18" />
-        <mark key="." line="108" column="18" />
-        <mark key="^" line="99" column="23" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539845952463">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="175" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -307,8 +308,11 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/MainActivity.java" timestamp="1539777651991">
-        <mark key="[" line="10" column="47" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/MainActivity.java" timestamp="1539846147107">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1537932608854">
         <mark key="[" line="92" column="34" />
@@ -335,6 +339,9 @@
         <mark key="^" line="18" column="23" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1539672096345" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/res/layout/activity_main.xml" timestamp="1539845991967">
+        <mark key="[" line="8" column="13" />
+      </file>
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/NetworkEventsLogger.java" timestamp="1539693248864">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="8" column="3" />
@@ -654,78 +661,77 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>wifi</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>wifi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYXJnZXRBcGlcPg==</text>
+        <text>getMobileDataEnabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAiZl9jX2NfYWYiLCAiIiwgcmVzdWx0V1ZjaGFuZ2UsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5hcHBlbmQoIndpZmm/ydPDIiArIHdpZmkpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgICAgICDX99Xfo7pYWE9PWUMKICAgICAgICDAtNS0o7pDU0ROCiAgICAgICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hYT09ZQy9hcnRpY2xlL2RldGFpbHMvNTA5NTczMDcgCiAgICAgICAgsObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6E=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBMb2FkTGlicmFyeS5nZXRJbnN0YW5jZSgpLmxvYWRMaWJhcnkoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJmX2NfYyIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBUYXJnZXRBcGkoMjMpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg1/fV36O61K3H4gogICAgwLTUtKO6Q1NETgogICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NoZW55dWFucWluZy9hcnRpY2xlL2RldGFpbHMvNDkyNDk3NzUgCiAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQ==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNNb2JpbGVEYXRhRW5hYmxlID0gaW52b2tlTWV0aG9kKCJnZXRNb2JpbGVEYXRhRW5hYmxlZCIsIGFyZyk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNOZXR3b3JrID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jayAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNOZXR3b3JrKSB7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgICAgICDX99Xfo7pYWE9PWUMKICAgICAgICDAtNS0o7pDU0ROCiAgICAgICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hYT09ZQy9hcnRpY2xlL2RldGFpbHMvNTA5NTczMDcgCiAgICAgICAgsObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6E=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBUYXJnZXRBcGkoMjMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">yejWw7jQ0MvIpLXEzfjC57mmxNwK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNOZXR3b3JrID0gZmFsc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNOZXR3b3JrKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUYXJnZXRBcGlcPg==</last-search>
+      <last-search>getMobileDataEnabled</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYXJnZXRBcGlcPg==</last-pattern>
+      <last-pattern>getMobileDataEnabled</last-pattern>
       <last-replace>LoonManager</last-replace>
       <last-substitute>LogcatAction</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
         <entry>CLASS_NAME</entry>
         <entry>sdkVersion</entry>
@@ -745,6 +751,7 @@
         <entry>log</entry>
         <entry>Log</entry>
         <entry encoding="base64">XDxUYXJnZXRBcGlcPg==</entry>
+        <entry>getMobileDataEnabled</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@+android/@android/gn</entry>
