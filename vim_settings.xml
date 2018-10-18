@@ -274,12 +274,12 @@
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539848859285">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-        <mark key="^" line="175" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539851248632">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="184" column="9" />
+        <mark key="]" line="185" column="20" />
+        <mark key="." line="185" column="20" />
+        <mark key="^" line="185" column="20" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -300,11 +300,11 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/MainActivity.java" timestamp="1539848788287">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/MainActivity.java" timestamp="1539849993277">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="30" />
         <mark key="^" line="23" column="41" />
-        <mark key="." line="9" column="12" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1537932608854">
         <mark key="[" line="92" column="34" />
@@ -330,11 +330,11 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/res/layout/activity_main.xml" timestamp="1539848678498">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="18" column="30" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/res/layout/activity_main.xml" timestamp="1539849986321">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/NetworkEventsLogger.java" timestamp="1539693248864">
         <mark key="[" line="11" column="0" />
@@ -655,61 +655,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>getConnectivityManager(context)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>getConnectivityManager(context)</text>
       </register>
       <register name="/" type="4">
         <text>getMobileDataEnabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5hcHBlbmQoIndpZmm/ydPDIiArIHdpZmkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5hcHBlbmQoIlxuIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgINf31d+jus3iyOHE2rjVCiAgICAgICAgwLTUtKO6Q1NETgogICAgICAgINStzsSjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC91MDE0NjMxOTQ0L2FydGljbGUvZGV0YWlscy81MTU0NDgzMSAKICAgICAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQ==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FkTGlicmFyeS5nZXRJbnN0YW5jZSgpLmxvYWRMaWJhcnkoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJmX2NfYyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg1/fV36O61K3H4gogICAgwLTUtKO6Q1NETgogICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NoZW55dWFucWluZy9hcnRpY2xlL2RldGFpbHMvNDkyNDk3NzUgCiAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNNb2JpbGVEYXRhRW5hYmxlID0gaW52b2tlTWV0aG9kKCJnZXRNb2JpbGVEYXRhRW5hYmxlZCIsIGFyZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jayAK</text>
+        <text encoding="base64">ICAgICAgICBMb2FkTGlicmFyeS5nZXRJbnN0YW5jZSgpLmxvYWRMaWJhcnkoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICJmX2NfYyIpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICAgICAgICAgICAgICDX99Xfo7pYWE9PWUMKICAgICAgICDAtNS0o7pDU0ROCiAgICAgICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1hYT09ZQy9hcnRpY2xlL2RldGFpbHMvNTA5NTczMDcgCiAgICAgICAgsObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6E=</text>
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg1/fV36O61K3H4gogICAgwLTUtKO6Q1NETgogICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NoZW55dWFucWluZy9hcnRpY2xlL2RldGFpbHMvNDkyNDk3NzUgCiAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBUYXJnZXRBcGkoMjMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNNb2JpbGVEYXRhRW5hYmxlID0gaW52b2tlTWV0aG9kKCJnZXRNb2JpbGVEYXRhRW5hYmxlZCIsIGFyZyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBBdXRvLWdlbmVyYXRlZCBjYXRjaCBibG9jayAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
