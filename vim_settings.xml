@@ -274,12 +274,11 @@
         <mark key="." line="29" column="41" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539855277332">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="181" column="56" />
-        <mark key="]" line="177" column="19" />
-        <mark key="." line="177" column="19" />
-        <mark key="^" line="177" column="19" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" timestamp="1539862573839">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="200" column="12" />
+        <mark key="]" line="200" column="12" />
+        <mark key="." line="200" column="12" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -300,7 +299,7 @@
         <mark key="." line="4" column="67" />
         <mark key="^" line="4" column="67" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/MainActivity.java" timestamp="1539856431027">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/MainActivity.java" timestamp="1539861967363">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="17" />
         <mark key="^" line="22" column="43" />
@@ -655,13 +654,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>能</text>
+        <text>isMobile</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>能</text>
+        <text>isMobile</text>
       </register>
       <register name="/" type="4">
         <text>getMobileDataEnabled</text>
@@ -673,43 +672,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9idCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii8+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICDX99Xfo7pBbGljRmVuZwogICAgwbS906O6aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC8xMGVkOWFlMDI3NzUKICAgIIHt1LSjurzyyukKICAgILzyyunW+Nf3yKi56df31d/L+dPQo6zIzrrO0M7KvbXE16rU2La8x+vBqs+11/fV37vxtcPK2siosqLXosP3s/a0pqGj</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICKy4srUx+m/9qO6yta7+tPQc2ltIjsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBlbmQocyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgICAgICAgICAgICAgINf31d+jutiv7OGwstauyPTLwAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvbXA2MjQxODM3NjgvYXJ0aWNsZS9kZXRhaWxzLzcyOTAwMDY0IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906Oh</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9idCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICKy4srUx+m/9qO6yta7+tPQc2ltIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBlbmQocyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
