@@ -309,12 +309,12 @@
         <mark key="." line="29" column="57" />
         <mark key="^" line="29" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1539941861079">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540195908569">
         <mark key="'" line="4" column="20" />
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-        <mark key="^" line="144" column="32" />
+        <mark key="[" line="52" column="27" />
+        <mark key="]" line="39" column="56" />
+        <mark key="." line="39" column="56" />
+        <mark key="^" line="39" column="56" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/androidTest/java/com/wv/bean/WebviewLogDefaultBean_pinTest.java" timestamp="1536669607164">
         <mark key="[" line="58" column="41" />
@@ -472,10 +472,11 @@
         <mark key="." line="129" column="66" />
         <mark key="^" line="129" column="66" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1539941799424">
-        <mark key="[" line="60" column="84" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1540195940859">
+        <mark key="[" line="60" column="125" />
+        <mark key="]" line="56" column="105" />
+        <mark key="." line="56" column="105" />
+        <mark key="^" line="56" column="105" />
       </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/com/wv/auto/fuction/JSAutoConfig.java" timestamp="1537428470365">
         <mark key="[" line="9" column="37" />
@@ -645,19 +646,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>is64ART</text>
+        <text>e.toString()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>is64ART</text>
+        <text>e.toString()</text>
       </register>
       <register name="/" type="4">
         <text>getMobileDataEnabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBlbmQoIj09PT09PT09PT09PT09PT09PT09PT09PT09PSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgImlzWnlnb3RlNjQiLCAiIiwgIiIrZS50b1N0cmluZygpLCAiIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
