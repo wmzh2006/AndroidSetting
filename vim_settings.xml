@@ -243,6 +243,12 @@
         <mark key="^" line="119" column="15" />
         <mark key="." line="120" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1540383700554">
+        <mark key="[" line="56" column="80" />
+        <mark key="]" line="56" column="74" />
+        <mark key="^" line="56" column="74" />
+        <mark key="." line="56" column="74" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewPinBean.java" timestamp="1538013443253">
         <mark key="[" line="181" column="56" />
         <mark key="]" line="183" column="15" />
@@ -280,11 +286,12 @@
         <mark key="." line="177" column="0" />
         <mark key="^" line="175" column="155" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540383090780">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="253" column="13" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540383549099">
+        <mark key="'" line="128" column="34" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="184" column="37" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -549,7 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="95" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="193" column="93" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="204" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="195" column="88" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
@@ -649,19 +655,20 @@
       <jump line="17" column="38" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/MainActivityTest.java" />
       <jump line="19" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/MainActivityTest.java" />
       <jump line="44" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" />
+      <jump line="129" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFkTG9hZExpYnJhcnkgPSB0cnVlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2hpbGUg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getMobileDataEnabled</text>
+        <text>load 64 bit library success</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoInNvIiwgInNpemU6IiArIHNpemUpOwo=</text>
@@ -670,52 +677,52 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFkTG9hZExpYnJhcnkgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiTGlicmFyeUxvYWRlciIsICJsb2FkIDMyIGJpdCBsaWJyYXJ5IHN1Y2Nlc3MhIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU3VjY2VzcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiTGlicmFyeUxvYWRlciIsICJsb2FkIDY0IGJpdCBsaWJyYXJ5IHN1Y2Nlc3MhIik7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhdGhuYW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFkTG9hZExpYnJhcnkgPSB0cnVlOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzU3VjY2VzcyA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhdGhuYW1lOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzaXplID0gemlzLmF2YWlsYWJsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzU3VjY2VzcyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc1N1Y2Nlc3MgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzaXplID0gemlzLmF2YWlsYWJsZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>getMobileDataEnabled</last-search>
+      <last-search>load 64 bit library success</last-search>
       <last-offset />
-      <last-pattern>getMobileDataEnabled</last-pattern>
+      <last-pattern>load 64 bit library success</last-pattern>
       <last-replace>LoonManager</last-replace>
       <last-substitute>LogcatAction</last-substitute>
       <last-dir>1</last-dir>
@@ -723,7 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnB1dFw+</entry>
         <entry>CLASS_NAME</entry>
         <entry>sdkVersion</entry>
         <entry>JAR_VERSION</entry>
@@ -743,6 +749,7 @@
         <entry>Log</entry>
         <entry encoding="base64">XDxUYXJnZXRBcGlcPg==</entry>
         <entry>getMobileDataEnabled</entry>
+        <entry>load 64 bit library success</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@+android/@android/gn</entry>
