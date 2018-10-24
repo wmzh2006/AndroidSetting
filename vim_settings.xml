@@ -280,11 +280,11 @@
         <mark key="." line="177" column="0" />
         <mark key="^" line="175" column="155" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540372537843">
-        <mark key="[" line="186" column="71" />
-        <mark key="]" line="188" column="17" />
-        <mark key="^" line="185" column="33" />
-        <mark key="." line="188" column="17" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540375256440">
+        <mark key="[" line="200" column="43" />
+        <mark key="]" line="200" column="43" />
+        <mark key="^" line="202" column="20" />
+        <mark key="." line="200" column="43" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -652,61 +652,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>O</text>
+        <text>saveFile</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>saveFile</text>
       </register>
       <register name="/" type="4">
         <text>getMobileDataEnabled</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIG5ld05hbWUgPSAiZXJjc3VfIitmb3JtYXREYXRlKyIuYXBrIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgInNhdmVGaWxlIiwgIiIsICIiK2UudG9TdHJpbmcoKSwgIiIpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0RmlsZU5hbWUgPSBuZXdOYW1lIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2F2ZUZpbGUoY29udGV4dCwgc29JbnB1dCwgc29PdXRwdXQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgT3V0cHV0U3RyZWFtICBzb091dHB1dCA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZpbGUpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBuZXdOYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShnZXRMaWJEaXIoY29udGV4dCwgc29OYW1lKSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIG5ld05hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29PdXRwdXQgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShmaWxlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoZ2V0TGliRGlyKGNvbnRleHQsIHNvTmFtZSkpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29JbnB1dCA9IGNvbnRleHQuZ2V0QXNzZXRzKCkub3Blbihzb05hbWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsbHByb2plY3RzLmFwcGxpY2F0aW9uVmFyaWFudHMuZWFjaCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWmlwRmlsZSB6aXBGaWxlID0gbmV3IFppcEZpbGUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgemlwSW5wdXRTdHJlYW0uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgemlwSW5wdXRTdHJlYW0uZ2V0TmV4dEVudHJ5KCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
