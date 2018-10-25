@@ -291,11 +291,11 @@
         <mark key="." line="177" column="0" />
         <mark key="^" line="175" column="155" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540459356206">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540460262571">
         <mark key="'" line="246" column="20" />
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="." line="284" column="0" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -555,11 +555,11 @@
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1540459216369">
-        <mark key="[" line="22" column="50" />
-        <mark key="]" line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-        <mark key="." line="21" column="63" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1540459719178">
+        <mark key="[" line="21" column="89" />
+        <mark key="]" line="21" column="87" />
+        <mark key="^" line="21" column="87" />
+        <mark key="." line="21" column="87" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" timestamp="1539674318767">
         <mark key="[" line="14" column="0" />
@@ -674,14 +674,14 @@
       <jump line="245" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>context.getDir(&quot;lib&quot;, Context.MODE_PRIVATE)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>context.getDir(&quot;lib&quot;, Context.MODE_PRIVATE)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bnppcFNvRnJvbUFzc2V0c1w+</text>
@@ -699,37 +699,37 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg1/fV36O6t+fA69fP1vFfemhhbmdxaWFuZwogICAgwLTUtKO6Q1NETgogICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyMDA2MDQvYXJ0aWNsZS9kZXRhaWxzLzUxMDY5MzUyIAogICAgsObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6E=</text>
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgbG9uZyBnZXRVc2FibGVTcGFjZShGaWxlIHBhdGgpIHsKICAgICAgICB0cnl7CiAgICAgICAgICAgIGZpbmFsIFN0YXRGcyBzdGF0cyA9IG5ldyBTdGF0RnMocGF0aC5nZXRQYXRoKCkpOwogICAgICAgICAgICByZXR1cm4gKGxvbmcpIHN0YXRzLmdldEJsb2NrU2l6ZSgpICogKGxvbmcpIHN0YXRzLmdldEF2YWlsYWJsZUJsb2NrcygpOwogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgcmV0dXJuIC0xOwogICAgICAgIH0KCiAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidW56aXBTb0Zyb21Bc3NldHMiLCAiIiwgIiIrZS50b1N0cmluZygpLCAiIik7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAg1/fV36O6t+fA69fP1vFfemhhbmdxaWFuZwogICAgwLTUtKO6Q1NETgogICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyMDA2MDQvYXJ0aWNsZS9kZXRhaWxzLzUxMDY5MzUyIAogICAgsObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6E=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidW56aXBTb0Zyb21Bc3NldHMiLCAiIiwgIiIrZS50b1N0cmluZygpLCAiIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgdHJ5IHsKICAgICAgICAgICAgICAgIHRocmVhZC5qb2luKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
