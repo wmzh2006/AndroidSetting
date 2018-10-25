@@ -291,11 +291,11 @@
         <mark key="." line="177" column="0" />
         <mark key="^" line="175" column="155" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540470650964">
-        <mark key="'" line="294" column="48" />
-        <mark key="[" line="308" column="0" />
-        <mark key="]" line="308" column="0" />
-        <mark key="." line="308" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540471761627">
+        <mark key="[" line="115" column="49" />
+        <mark key="]" line="115" column="49" />
+        <mark key="." line="115" column="49" />
+        <mark key="^" line="115" column="33" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1539606609432">
         <mark key="'" line="18" column="35" />
@@ -674,14 +674,14 @@
       <jump line="293" column="48" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNvUGF0aCA9IG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getLibDir</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bnppcFNvRnJvbUFzc2V0c1w+</text>
@@ -693,40 +693,44 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNvUGF0aCA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>---------------------
+    作者：风离紫竹_zhangqiang
+    来源：CSDN
+    原文：https://blog.csdn.net/u011200604/article/details/51069352 
+    版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGxpYk5hbWUgPSBTeXN0ZW0ubWFwTGlicmFyeU5hbWUoc29OYW1lKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGNhY2hlRGlyID0gZ2V0RXh0ZXJuYWxDYWNoZURpcihjb250ZXh0KTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGNvcHlTb0Zyb21Bc3NlcnRzKENvbnRleHQgY29udGV4dCwgU3RyaW5nIHNvTmFtZSkgewogICAgICAgIElucHV0U3RyZWFtIHNvSW5wdXQgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHNvSW5wdXQgPSBjb250ZXh0LmdldEFzc2V0cygpLm9wZW4oc29OYW1lKTsKICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoZ2V0TGliRGlyKGNvbnRleHQsIHNvTmFtZSkpOwogICAgICAgICAgICBPdXRwdXRTdHJlYW0gc29PdXRwdXQgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShmaWxlKTsKICAgICAgICAgICAgcmV0dXJuIHNhdmVGaWxlKGNvbnRleHQsIHNvSW5wdXQsIHNvT3V0cHV0KTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBvbkV2ZW50KGNvbnRleHQsICJjb3B5U29Gcm9tQXNzZXJ0cyIsICIiLCAiIiArIGUudG9TdHJpbmcoKSwgIiIpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBjYWNoZURpciA9IGdldEV4dGVybmFsQ2FjaGVEaXIoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoZ2V0TGliRGlyKGNvbnRleHQsIHNvTmFtZSkpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIEZpbGUgZ2V0RXh0ZXJuYWxDYWNoZURpcihDb250ZXh0IGNvbnRleHQpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0cmluZyBkaXIgPSBjb250ZXh0LmdldEV4dGVybmFsQ2FjaGVEaXIoKS5nZXRBYnNvbHV0ZVBhdGgoKSArICIvYXBwX2xpYiI7CiAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoZGlyKTsKICAgICAgICBpZiAoIWZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgYm9vbGVhbiByZXQgPSBmaWxlLm1rZGlycygpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZmlsZTsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIHNvMzJiaXQgPSBuZXcgRmlsZShnZXRMaWJEaXIoY29udGV4dCwgbGliTmFtZSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
