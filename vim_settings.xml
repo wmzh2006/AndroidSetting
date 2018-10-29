@@ -24,11 +24,11 @@
         <mark key="." line="60" column="86" />
         <mark key="^" line="60" column="85" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1540804691345">
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1540810790207">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="121" />
         <mark key="^" line="238" column="39" />
-        <mark key="." line="238" column="0" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1540558458763">
         <mark key="[" line="6" column="39" />
@@ -210,7 +210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpLmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLmluaXQobUN0eCwgIiIrIFJlYWxzZUNvbmZpZy52ZXJzaW9uLCBQSE9ORV9DSUQsICJNIiwgbnVsbCk7CQkvLyDV4sDv1Nm/qrHAwKO49MDro6zV4tH5scDAo8qxo6zE3LLptb3Uy9DQu7e+s7LlvP6xwMCjuvO1xMr9vt0K</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -228,47 +228,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpLmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLmluaXQobUN0eCwgIiIrIFJlYWxzZUNvbmZpZy52ZXJzaW9uLCBQSE9ORV9DSUQsICJNIiwgbnVsbCk7CQkvLyDV4sDv1Nm/qrHAwKO49MDro6zV4tH5scDAo8qxo6zE3LLptb3Uy9DQu7e+s7LlvP6xwMCjuvO1xMr9vt0K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpLmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsKCQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUN0eCwgImFzc2V0cyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCBkZXRhaWwsICIiK3N3LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIGRldGFpbCA9ICJwa2c6ICIgKyBnZXRSZWFsQ29udGV4dC5nZXRBcHBsaWNhdGlvbkluZm8oKS5wYWNrYWdlTmFtZSArICJfcHJvYzoiICsgZ2V0UHJvY2Vzc05hbWUobUN0eCk7Cg==</text>
+        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsKCQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUN0eCwgImFzc2V0cyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCBkZXRhaWwsICIiK3N3LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nIGRldGFpbCA9ICJwa2c6ICIgKyBnZXRSZWFsQ29udGV4dC5nZXRBcHBsaWNhdGlvbkluZm8oKS5wYWNrYWdlTmFtZSArICJfcHJvYzoiICsgZ2V0UHJvY2Vzc05hbWUobUN0eCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzaXplID0gZ2V0VXNhYmxlU3BhY2UobmV3IEZpbGUoZ2V0TGliRGlyKGNvbnRleHQsIHNvTmFtZSkpKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXRoID0gIGdldExpYkRpcihjb250ZXh0LCBzb05hbWUpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>---------------------
-    作者：风离紫竹_zhangqiang
-    来源：CSDN
-    原文：https://blog.csdn.net/u011200604/article/details/51069352 
-    版权声明：本文为博主原创文章，转载请附上博文链接！</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzaXplID0gZ2V0VXNhYmxlU3BhY2UobmV3IEZpbGUoZ2V0TGliRGlyKGNvbnRleHQsIHNvTmFtZSkpKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXRoID0gIGdldExpYkRpcihjb250ZXh0LCBzb05hbWUpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogcatAction/LoonManager/gc</text>
