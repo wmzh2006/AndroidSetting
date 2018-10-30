@@ -28,6 +28,12 @@
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/assets/f" timestamp="1540893592988">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/PluginContext.java" timestamp="1540868665345">
+        <mark key="[" line="83" column="37" />
+        <mark key="]" line="78" column="35" />
+        <mark key="^" line="78" column="35" />
+        <mark key="." line="78" column="35" />
+      </file>
       <file name="/LLDB" timestamp="1540896392335">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,6 +49,12 @@
         <mark key="[" line="51" column="37" />
         <mark key="]" line="51" column="37" />
         <mark key="." line="51" column="37" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/ResourcesManager.java" timestamp="1540881762643">
+        <mark key="[" line="304" column="12" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/PluginManager.java" timestamp="1540881270592">
         <mark key="[" line="100" column="0" />
@@ -82,6 +94,12 @@
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1540886419893" />
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/dynamicload/extern/DLPluginUser.java" timestamp="1540890035693" />
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/engine/impl/RunPluginTask.java" timestamp="1540890151012" />
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1540882486366">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="213" column="37" />
+        <mark key="." line="213" column="37" />
+        <mark key="^" line="212" column="49" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1540265501289">
         <mark key="[" line="46" column="29" />
         <mark key="]" line="20" column="0" />
@@ -91,7 +109,11 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/engine/impl/PluginImpl.java" timestamp="1540896379915" />
+      <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/engine/impl/PluginImpl.java" timestamp="1540898038578">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="." line="276" column="0" />
+      </file>
       <file name="E:/Project/DynamicLoader/androidstub/src/main/java/android/content/res/Resources.java" timestamp="1540881448557" />
       <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/AndroidManifest.xml" timestamp="1540888832183">
         <mark key="[" line="2" column="35" />
@@ -105,10 +127,11 @@
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLUtils.java" timestamp="1540896646312">
         <mark key="'" line="78" column="23" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/testassets/src/main/java/com/colo/pil/testassets/MainActivity.java" timestamp="1540897083722">
-        <mark key="[" line="21" column="84" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/testassets/src/main/java/com/colo/pil/testassets/MainActivity.java" timestamp="1540898358503">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/engine/impl/PluginManager.java" timestamp="1540892812729" />
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/modify/LoadedApkHacker.java" timestamp="1540896290407" />
@@ -259,7 +282,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0QXNzZXRzKCkuCg==</text>
+        <text encoding="base64">CQl0aGlzLmhvc3RDb250ZXh0LmdldFJlc291cmNlcygpLmdldAo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -277,43 +300,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0QXNzZXRzKCkuCg==</text>
+        <text encoding="base64">CQl0aGlzLmhvc3RDb250ZXh0LmdldFJlc291cmNlcygpLmdldAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0QXNzZXRzKCkuCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhZGVyID0gbmV3IFN0cmluZ1JlYWRlcihzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwuZHluYW1pY2xvYWQuUjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhZGVyID0gbmV3IFN0cmluZ1JlYWRlcihzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwuZHluYW1pY2xvYWQuUjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBkZXhPcHRpb25zIHsKICAgICAgICBwcmVEZXhMaWJyYXJpZXMgPSBmYWxzZQogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
