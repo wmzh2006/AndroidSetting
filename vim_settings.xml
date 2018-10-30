@@ -12,20 +12,7 @@
         <mark key="^" line="56" column="74" />
         <mark key="." line="56" column="74" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1540456100940">
-        <mark key="'" line="42" column="20" />
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="46" />
-        <mark key="^" line="41" column="46" />
-        <mark key="." line="41" column="46" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1540213743168">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="42" column="85" />
-        <mark key="]" line="42" column="79" />
-        <mark key="." line="42" column="79" />
-        <mark key="^" line="42" column="79" />
-      </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/PluginUtil.java" timestamp="1540868376135" />
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1540456030794">
         <mark key="[" line="61" column="9" />
         <mark key="]" line="62" column="23" />
@@ -41,7 +28,7 @@
         <mark key="." line="255" column="94" />
         <mark key="^" line="255" column="94" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1540865620136">
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1540869065396">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="4" />
         <mark key="." line="36" column="4" />
@@ -54,6 +41,12 @@
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/PluginContext.java" timestamp="1540868665345">
+        <mark key="[" line="83" column="37" />
+        <mark key="]" line="78" column="35" />
+        <mark key="^" line="78" column="35" />
+        <mark key="." line="78" column="35" />
       </file>
       <file name="E:/Project/DynamicLoader/androidstub/src/main/java/android/content/res/Resources.java" timestamp="1540865858743" />
       <file name="/LLDB" timestamp="1540455478398">
@@ -92,6 +85,9 @@
         <mark key="^" line="238" column="39" />
         <mark key="." line="226" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" timestamp="1540868685445">
+        <mark key="'" line="88" column="22" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1540558458763">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="40" />
@@ -101,6 +97,7 @@
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1540869166437" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1540460841618">
         <mark key="[" line="21" column="89" />
         <mark key="]" line="21" column="87" />
@@ -121,10 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="48" filename="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.gradle" />
-      <jump line="37" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.gradle" />
-      <jump line="233" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/XWalkWebviewAutoProcess.java" />
-      <jump line="94" column="11" filename="D:/StudioProjects/Battery-Indicator-Pro/build.gradle" />
       <jump line="89" column="0" filename="D:/StudioProjects/Battery-Indicator-Pro/build.gradle" />
       <jump line="141" column="0" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/f/c0.java" />
       <jump line="114" column="58" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto6/ROOTSDK_Plugin_jsauto6/app/src/main/java/f/c0.java" />
@@ -221,6 +214,10 @@
       <jump line="231" column="77" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" />
       <jump line="62" column="0" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Reflector.java" />
       <jump line="326" column="36" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Reflector.java" />
+      <jump line="109" column="13" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" />
+      <jump line="127" column="20" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" />
+      <jump line="131" column="13" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" />
+      <jump line="88" column="22" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -233,7 +230,7 @@
         <text encoding="base64">YXBpIA==</text>
       </register>
       <register name="/" type="4">
-        <text>@NonNull</text>
+        <text encoding="base64">XDxtUmVzb3VyY2VzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFF1aWV0UmVmbGVjdG9yIG9uKCBTdHJpbmcgbmFtZSwgYm9vbGVhbiBpbml0aWFsaXplLCAgQ2xhc3NMb2FkZXIgbG9hZGVyKSB7Cg==</text>
@@ -285,9 +282,9 @@
       </register>
     </registers>
     <search>
-      <last-search>@NonNull</last-search>
+      <last-search encoding="base64">XDxtUmVzb3VyY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>@NonNull</last-pattern>
+      <last-pattern encoding="base64">XDxtUmVzb3VyY2VzXD4=</last-pattern>
       <last-replace />
       <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
@@ -295,7 +292,6 @@
     </search>
     <history>
       <history-search>
-        <entry>^</entry>
         <entry>load</entry>
         <entry>on</entry>
         <entry>javascritp</entry>
@@ -315,6 +311,7 @@
         <entry encoding="base64">XDxtTWFwXD4=</entry>
         <entry>@Nullable</entry>
         <entry>@NonNull</entry>
+        <entry encoding="base64">XDxtUmVzb3VyY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/],/]/g</entry>
