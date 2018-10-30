@@ -41,6 +41,11 @@
         <mark key="." line="255" column="94" />
         <mark key="^" line="255" column="94" />
       </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1540865620136">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1540265501289">
         <mark key="[" line="46" column="29" />
         <mark key="]" line="20" column="0" />
@@ -50,6 +55,7 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
+      <file name="E:/Project/DynamicLoader/androidstub/src/main/java/android/content/res/Resources.java" timestamp="1540865858743" />
       <file name="/LLDB" timestamp="1540455478398">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,10 +74,11 @@
         <mark key="]" line="229" column="96" />
         <mark key="." line="326" column="36" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/ResourcesManager.java" timestamp="1540864818448">
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="30" />
-        <mark key="." line="51" column="30" />
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/ResourcesManager.java" timestamp="1540865954952">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1540279655588">
         <mark key="[" line="60" column="86" />
@@ -217,13 +224,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFF1aWV0UmVmbGVjdG9yIG9uKCBTdHJpbmcgbmFtZSwgYm9vbGVhbiBpbml0aWFsaXplLCAgQ2xhc3NMb2FkZXIgbG9hZGVyKSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QE5vbk51bGwg</text>
+        <text encoding="base64">YXBpIA==</text>
       </register>
       <register name="/" type="4">
         <text>@NonNull</text>
@@ -235,43 +242,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kaWRpLnZpcnR1YWxhcGsuaW50ZXJuYWwuQ29uc3RhbnRzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkZGQK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVkIHByb2plY3QoJzpBbmRyb2lkU3R1YicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZGlkaS52aXJ0dWFsYXBrLnV0aWxzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaWRpLnZpcnR1YWxhcGsuaW50ZXJuYWwuQ29uc3RhbnRzOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLmluaXQobUN0eCwgIiIrIFJlYWxzZUNvbmZpZy52ZXJzaW9uLCBQSE9ORV9DSUQsICJNIiwgbnVsbCk7CQkvLyDV4sDv1Nm/qrHAwKO49MDro6zV4tH5scDAo8qxo6zE3LLptb3Uy9DQu7e+s7LlvP6xwMCjuvO1xMr9vt0K</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpLmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsKCQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUN0eCwgImFzc2V0cyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCBkZXRhaWwsICIiK3N3LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZGlkaS52aXJ0dWFsYXBrLnV0aWxzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
