@@ -28,10 +28,11 @@
         <mark key="." line="255" column="94" />
         <mark key="^" line="255" column="94" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1540869065396">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1540882486366">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="213" column="37" />
+        <mark key="." line="213" column="37" />
+        <mark key="^" line="212" column="49" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1540265501289">
         <mark key="[" line="46" column="29" />
@@ -48,7 +49,7 @@
         <mark key="^" line="78" column="35" />
         <mark key="." line="78" column="35" />
       </file>
-      <file name="E:/Project/DynamicLoader/androidstub/src/main/java/android/content/res/Resources.java" timestamp="1540865858743" />
+      <file name="E:/Project/DynamicLoader/androidstub/src/main/java/android/content/res/Resources.java" timestamp="1540881448557" />
       <file name="/LLDB" timestamp="1540455478398">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,21 +59,27 @@
         <mark key="^" line="53" column="58" />
         <mark key="." line="53" column="58" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/a0.java" timestamp="1540871323443" />
-      <file name="/Dummy.txt" timestamp="1540879470443">
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/a0.java" timestamp="1540882844073" />
+      <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/engine/drive/PluginSearcher.java" timestamp="1540881891048" />
+      <file name="/Dummy.txt" timestamp="1540881867437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Reflector.java" timestamp="1540864681247">
-        <mark key="'" line="326" column="36" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="96" />
-        <mark key="." line="326" column="36" />
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/VAInstrumentation.java" timestamp="1540880100067">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/ResourcesManager.java" timestamp="1540867099411">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="36" />
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Reflector.java" timestamp="1540880083040">
+        <mark key="'" line="326" column="36" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/ResourcesManager.java" timestamp="1540881762643">
+        <mark key="[" line="304" column="12" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1540279655588">
         <mark key="[" line="60" column="86" />
@@ -86,8 +93,17 @@
         <mark key="^" line="238" column="39" />
         <mark key="." line="226" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" timestamp="1540868685445">
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" timestamp="1540881092063">
         <mark key="'" line="88" column="22" />
+        <mark key="[" line="71" column="92" />
+        <mark key="]" line="71" column="92" />
+        <mark key="^" line="71" column="109" />
+        <mark key="." line="71" column="92" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/PluginManager.java" timestamp="1540881270592">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1540558458763">
         <mark key="[" line="6" column="39" />
@@ -224,14 +240,14 @@
       <jump line="88" column="22" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/LoadedPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXBpIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtUmVzb3VyY2VzXD4=</text>
@@ -243,25 +259,25 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJkbCIsICIiLCAiIitlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFjdGl2aXR5Owo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkZGQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaWRpLnZpcnR1YWxhcGsudXRpbHMuUmVmbGVjdG9yOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVkIHByb2plY3QoJzpBbmRyb2lkU3R1YicpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaWRpLnZpcnR1YWxhcGsuUGx1Z2luTWFuYWdlcjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5kaWRpLnZpcnR1YWxhcGsuaW50ZXJuYWwuQ29uc3RhbnRzOwo=</text>
@@ -273,13 +289,13 @@
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuUmVzb3VyY2VzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZGlkaS52aXJ0dWFsYXBrLnV0aWxzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0O2RkZGQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
