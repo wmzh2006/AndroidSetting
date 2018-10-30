@@ -62,7 +62,17 @@
       <file name="/Dummy.txt" timestamp="1539863310206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/ResourcesManager.java" timestamp="1540863468384" />
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Reflector.java" timestamp="1540864681247">
+        <mark key="'" line="326" column="36" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="96" />
+        <mark key="." line="326" column="36" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/ResourcesManager.java" timestamp="1540864818448">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1540279655588">
         <mark key="[" line="60" column="86" />
         <mark key="]" line="60" column="86" />
@@ -99,13 +109,11 @@
         <mark key="^" line="119" column="15" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1540458833911">
+      <file name="/fragment.java" timestamp="1540864532880">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="76" filename="D:/StudioProjects/PermissionGrantor/Browers/xwebview/libs/xwalk_core_library.jar!/org/xwalk/core/XWalkCoreWrapper.class" />
-      <jump line="1" column="1" filename="D:/StudioProjects/PermissionGrantor/Browers/x5/src/main/res/layout/activity_main.xml" />
       <jump line="42" column="48" filename="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.gradle" />
       <jump line="37" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/build.gradle" />
       <jump line="233" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/XWalkWebviewAutoProcess.java" />
@@ -204,82 +212,82 @@
       <jump line="700" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" />
       <jump line="701" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" />
       <jump line="231" column="77" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" />
+      <jump line="62" column="0" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Reflector.java" />
+      <jump line="326" column="36" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Reflector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLmluaXQobUN0eCwgIiIrIFJlYWxzZUNvbmZpZy52ZXJzaW9uLCBQSE9ORV9DSUQsICJNIiwgbnVsbCk7CQkvLyDV4sDv1Nm/qrHAwKO49MDro6zV4tH5scDAo8qxo6zE3LLptb3Uy9DQu7e+s7LlvP6xwMCjuvO1xMr9vt0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFF1aWV0UmVmbGVjdG9yIG9uKCBTdHJpbmcgbmFtZSwgYm9vbGVhbiBpbml0aWFsaXplLCAgQ2xhc3NMb2FkZXIgbG9hZGVyKSB7Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>assets</text>
+        <text encoding="base64">QE5vbk51bGwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtTWFwXD4=</text>
+        <text>@NonNull</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIGRldGFpbCA9ICJwa2c6ICIgKyBnZXRSZWFsQ29udGV4dC5nZXRBcHBsaWNhdGlvbkluZm8oKS5wYWNrYWdlTmFtZSArICJfcHJvYzoiICsgZ2V0UHJvY2Vzc05hbWUobUN0eCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFF1aWV0UmVmbGVjdG9yIG9uKCBTdHJpbmcgbmFtZSwgYm9vbGVhbiBpbml0aWFsaXplLCAgQ2xhc3NMb2FkZXIgbG9hZGVyKSB7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLmluaXQobUN0eCwgIiIrIFJlYWxzZUNvbmZpZy52ZXJzaW9uLCBQSE9ORV9DSUQsICJNIiwgbnVsbCk7CQkvLyDV4sDv1Nm/qrHAwKO49MDro6zV4tH5scDAo8qxo6zE3LLptb3Uy9DQu7e+s7LlvP6xwMCjuvO1xMr9vt0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5kaWRpLnZpcnR1YWxhcGsuaW50ZXJuYWwuQ29uc3RhbnRzOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpLmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsKCQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUN0eCwgImFzc2V0cyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCBkZXRhaWwsICIiK3N3LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIGRldGFpbCA9ICJwa2c6ICIgKyBnZXRSZWFsQ29udGV4dC5nZXRBcHBsaWNhdGlvbkluZm8oKS5wYWNrYWdlTmFtZSArICJfcHJvYzoiICsgZ2V0UHJvY2Vzc05hbWUobUN0eCk7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZGlkaS52aXJ0dWFsYXBrLnV0aWxzOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLmluaXQobUN0eCwgIiIrIFJlYWxzZUNvbmZpZy52ZXJzaW9uLCBQSE9ORV9DSUQsICJNIiwgbnVsbCk7CQkvLyDV4sDv1Nm/qrHAwKO49MDro6zV4tH5scDAo8qxo6zE3LLptb3Uy9DQu7e+s7LlvP6xwMCjuvO1xMr9vt0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzaXplID0gZ2V0VXNhYmxlU3BhY2UobmV3IEZpbGUoZ2V0TGliRGlyKGNvbnRleHQsIHNvTmFtZSkpKTsK</text>
+        <text encoding="base64">CQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpLmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXRoID0gIGdldExpYkRpcihjb250ZXh0LCBzb05hbWUpOwo=</text>
+        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJQ29udGV4dCBnZXRSZWFsQ29udGV4dCA9IEhvc3RVdGlsLmdldFJlYWxDb250ZXh0KG1DdHgpOwoJCQlTdHJpbmcgZGV0YWlsID0gInBrZzogIiArIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnBhY2thZ2VOYW1lICsgIl9wcm9jOiIgKyBnZXRQcm9jZXNzTmFtZShtQ3R4KTsKCQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUN0eCwgImFzc2V0cyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCBkZXRhaWwsICIiK3N3LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/LogcatAction/LoonManager/gc</text>
+        <text>%s/@NonNull//gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtTWFwXD4=</last-search>
+      <last-search>@NonNull</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtTWFwXD4=</last-pattern>
-      <last-replace>LoonManager</last-replace>
-      <last-substitute>LogcatAction</last-substitute>
+      <last-pattern>@NonNull</last-pattern>
+      <last-replace />
+      <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onCretater</entry>
-        <entry>onCtreate</entry>
         <entry>^</entry>
         <entry>load</entry>
         <entry>on</entry>
@@ -298,10 +306,10 @@
         <entry encoding="base64">XDxSdW5uYWJsZVdWY2hhbmdlXD4=</entry>
         <entry encoding="base64">XDx1bnppcFNvRnJvbUFzc2V0c1w+</entry>
         <entry encoding="base64">XDxtTWFwXD4=</entry>
+        <entry>@Nullable</entry>
+        <entry>@NonNull</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/@+android/@android/gn</entry>
-        <entry>%s/@+android/@android/g</entry>
         <entry>%s/],/]/g</entry>
         <entry>%s/else//gn</entry>
         <entry>%s/false//gn</entry>
@@ -320,6 +328,8 @@
         <entry>4,$s/^/\/\//g</entry>
         <entry>0,$d</entry>
         <entry>%s/LogcatAction/LoonManager/gc</entry>
+        <entry>%s/@Nullable//gc</entry>
+        <entry>%s/@NonNull//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
