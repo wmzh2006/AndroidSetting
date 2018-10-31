@@ -144,10 +144,11 @@
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/engine/impl/PluginManager.java" timestamp="1540892812729" />
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/modify/LoadedApkHacker.java" timestamp="1540896290407" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1540978042434">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1540979247688">
+        <mark key="[" line="236" column="119" />
+        <mark key="]" line="236" column="52" />
+        <mark key="." line="236" column="52" />
+        <mark key="^" line="236" column="52" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/src/test/java/com/test/project/ExampleUnitTest.java" timestamp="1540974894695" />
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1540904561608">
@@ -272,14 +273,14 @@
       <jump line="747" column="10" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJSG9zdFV0aWwuZ2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNyZWF0ZVByb3h5XD4=</text>
