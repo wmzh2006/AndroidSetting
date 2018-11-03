@@ -45,11 +45,11 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1541217467954">
-        <mark key="[" line="104" column="75" />
-        <mark key="]" line="104" column="75" />
-        <mark key="." line="104" column="75" />
-        <mark key="^" line="104" column="63" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/function/AutoWebview.java" timestamp="1541243699844">
+        <mark key="[" line="104" column="141" />
+        <mark key="]" line="104" column="139" />
+        <mark key="." line="104" column="139" />
+        <mark key="^" line="104" column="139" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/build.gradle" timestamp="1541062895828">
         <mark key="[" line="8" column="26" />
@@ -84,12 +84,12 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541238720850">
-        <mark key="'" line="544" column="116" />
-        <mark key="[" line="589" column="48" />
-        <mark key="]" line="589" column="48" />
-        <mark key="." line="589" column="48" />
-        <mark key="^" line="589" column="47" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541244894642">
+        <mark key="'" line="528" column="19" />
+        <mark key="[" line="589" column="12" />
+        <mark key="]" line="589" column="12" />
+        <mark key="." line="589" column="12" />
+        <mark key="^" line="588" column="53" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -171,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="19" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" />
-      <jump line="48" column="174" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/LoadLibrary.java" />
-      <jump line="58" column="65" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/LoadLibrary.java" />
       <jump line="50" column="17" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/LoadLibrary.java" />
       <jump line="52" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" />
       <jump line="57" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" />
@@ -271,73 +268,76 @@
       <jump line="544" column="116" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="15" column="21" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" />
       <jump line="32" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" />
+      <jump line="575" column="67" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="527" column="16" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="528" column="19" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comment</text>
+        <text>var comment_str = android.getComment()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text>var comment_str = android.getComment()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGtBcHBsaWNhdGlvblw+</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiCQkJYW5kcm9pZC5saWtlQW5kQ29tbWVudCgnY29tbWVudCcsICdzdWNjZXNzIScpOyIgCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
+        <text encoding="base64">ICAgICAgICAiCXZhciBjb21tZW50X3N0ciA9IGFuZHJvaWQuZ2V0Q29tbWVudCgpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiCWlmKGhhZENvbW1lbnQpIHJldHVybiB0cnVlOyIgICsgIE5MICsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdHlwZXNbXSA9IHR5cGUuc3BsaXQoIiwiKTsK</text>
+      <register name="3" type="8">
+        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQ==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgIHJldHVybiAiUGFnZXsiICsKICAgICAgICAgICAgICAiaWQ9IiArIGlkICsKICAgICAgICAgICAgICAiLCBwYWdlVXJsPSciICsgcGFnZVVybCArICdcJycgKwogICAgICAgICAgICAgICd9JzsKICAgfQ==</text>
+      <register name="4" type="8">
+        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkiCS8vfSIgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
+        <text encoding="base64">CQkiCQkvKiC809TYuPy24Mz719MqLyIgICsgIE5MICsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkiCS8vaWYgKHRydWUpIHsiIAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
+        <text encoding="base64">CQkiCQkvKiDH0Lu7tb3M+9fTKi8iICArICBOTCArCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiIiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
+        <text encoding="base64">CQkiIiAgKyAgTkwgKwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCgkJImZ1bmN0aW9uIGdldERhdGFCeVRhZ0NsYXNzTmFtZSh0eXBlVmF1bGUpIHsiIAkJCQkJCQkJCQkJCQkJCSsgCU5MICsKCQkiCXZhciBpbnB1dHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKHR5cGVWYXVsZSk7IiAJCQkJCQkJCQkJCSsgCU5MICsKCQkiCXJldHVybiBpbnB1dHM7IiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCgkJIn0iOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkiIiAgKyAgTkwgKwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkiCQljb25zb2xlLmxvZyhlcnIpOyIgCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
+        <text encoding="base64">CQkiIiAgKyAgTkwgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGtBcHBsaWNhdGlvblw+</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGtBcHBsaWNhdGlvblw+</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace />
       <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
@@ -345,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Log</entry>
         <entry encoding="base64">XDxUYXJnZXRBcGlcPg==</entry>
         <entry>getMobileDataEnabled</entry>
         <entry>load 64 bit library success</entry>
@@ -365,6 +364,7 @@
         <entry encoding="base64">XDxvbkNyZWF0ZVByb3h5XD4=</entry>
         <entry encoding="base64">XDx0YWdfYXBrQXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxhcGtBcHBsaWNhdGlvblw+</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>%s/else//gn</entry>
