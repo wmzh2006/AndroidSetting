@@ -12,6 +12,12 @@
       <file name="/a.dummy" timestamp="1540469329588">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/Page.java" timestamp="1541235032227">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="58" column="20" />
+        <mark key="." line="58" column="26" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/assets/f" timestamp="1540893592988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,6 +29,12 @@
       </file>
       <file name="/LLDB" timestamp="1541232120200">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1541235555195">
+        <mark key="[" line="90" column="44" />
+        <mark key="]" line="90" column="43" />
+        <mark key="^" line="90" column="43" />
+        <mark key="." line="90" column="43" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1541143408484">
         <mark key="[" line="10" column="0" />
@@ -51,6 +63,12 @@
         <mark key="^" line="22" column="88" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/ecfudl3/widget/PopWindowManager.java" timestamp="1541152954713" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1541235371251">
+        <mark key="[" line="212" column="89" />
+        <mark key="]" line="166" column="30" />
+        <mark key="^" line="166" column="30" />
+        <mark key="." line="166" column="30" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1540861788177">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,6 +90,12 @@
         <mark key="]" line="545" column="65" />
         <mark key="." line="545" column="65" />
         <mark key="^" line="564" column="74" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1540969492648">
         <mark key="[" line="128" column="15" />
@@ -100,6 +124,12 @@
         <mark key="]" line="21" column="47" />
         <mark key="." line="21" column="47" />
         <mark key="^" line="21" column="47" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBManager.java" timestamp="1541235315938">
+        <mark key="[" line="93" column="69" />
+        <mark key="]" line="93" column="69" />
+        <mark key="." line="93" column="69" />
+        <mark key="^" line="93" column="28" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLConstants.java" timestamp="1541056416575" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541077214114">
@@ -237,58 +267,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>comment</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>comment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGtBcHBsaWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8JCVdlYnZpZXdCYXNlQmVhbiBvZmZlckl0ZW0gPSBuZXcgV2Vidmlld0xvZ0RlZmF1bHRCZWFuKCkuaW8oIjExMSIsICJodHRwczovL20uZmFjZWJvb2suY29tL3hpYW9sb25nLnd1LjMxMSIsMC41KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2Uuc2V0Q29tbWVudChjdXJzb3IuZ2V0U3RyaW5nKGN1cnNvci5nZXRDb2x1bW5JbmRleCgiY29tbWVudCIpKSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkiCS8vfSIgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgIHJldHVybiAiUGFnZXsiICsKICAgICAgICAgICAgICAiaWQ9IiArIGlkICsKICAgICAgICAgICAgICAiLCBwYWdlVXJsPSciICsgcGFnZVVybCArICdcJycgKwogICAgICAgICAgICAgICd9JzsKICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkiCS8vaWYgKHRydWUpIHsiIAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
+        <text encoding="base64">CQkiCS8vfSIgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkiIiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
+        <text encoding="base64">CQkiCS8vaWYgKHRydWUpIHsiIAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCgkJImZ1bmN0aW9uIGdldERhdGFCeVRhZ0NsYXNzTmFtZSh0eXBlVmF1bGUpIHsiIAkJCQkJCQkJCQkJCQkJCSsgCU5MICsKCQkiCXZhciBpbnB1dHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKHR5cGVWYXVsZSk7IiAJCQkJCQkJCQkJCSsgCU5MICsKCQkiCXJldHVybiBpbnB1dHM7IiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCgkJIn0iOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkiIiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkiCQljb25zb2xlLmxvZyhlcnIpOyIgCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCgkJImZ1bmN0aW9uIGdldERhdGFCeVRhZ0NsYXNzTmFtZSh0eXBlVmF1bGUpIHsiIAkJCQkJCQkJCQkJCQkJCSsgCU5MICsKCQkiCXZhciBpbnB1dHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKHR5cGVWYXVsZSk7IiAJCQkJCQkJCQkJCSsgCU5MICsKCQkiCXJldHVybiBpbnB1dHM7IiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCgkJIn0iOw==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkiIiArIE5MICsK</text>
+        <text encoding="base64">CQkiCQljb25zb2xlLmxvZyhlcnIpOyIgCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiIiAJKyBOTCArCg==</text>
+        <text encoding="base64">CQkiIiArIE5MICsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkiIiArIE5MICsK</text>
+        <text encoding="base64">CQkiIiAJKyBOTCArCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkiIiArIE5MICsK</text>
