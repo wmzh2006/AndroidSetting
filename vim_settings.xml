@@ -27,7 +27,7 @@
         <mark key="^" line="78" column="35" />
         <mark key="." line="78" column="35" />
       </file>
-      <file name="/LLDB" timestamp="1541246136727">
+      <file name="/LLDB" timestamp="1541247293972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1541238012175">
@@ -84,11 +84,11 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541245422275">
-        <mark key="'" line="528" column="19" />
-        <mark key="[" line="636" column="0" />
-        <mark key="]" line="636" column="0" />
-        <mark key="." line="636" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541247012819">
+        <mark key="'" line="527" column="19" />
+        <mark key="[" line="437" column="0" />
+        <mark key="]" line="437" column="0" />
+        <mark key="." line="437" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -115,12 +115,12 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1541056086047">
         <mark key="[" line="1199" column="24" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1541238268865">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1541247028267">
         <mark key="'" line="52" column="4" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="18" column="34" />
-        <mark key="." line="16" column="31" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1541040558057">
         <mark key="[" line="0" column="0" />
@@ -273,7 +273,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdhYWFhYWFhYWFhYWFhYWFhYWFhYWEuLi4uLi4uLi4uLi4uLicpOyIgICsgIE5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdpbmplY3QuLi4uLi4uLi4uLi4uLi4nKTsiICsgTkwgKwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -291,43 +291,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdhYWFhYWFhYWFhYWFhYWFhYWFhYWEuLi4uLi4uLi4uLi4uLicpOyIgICsgIE5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdpbmplY3QuLi4uLi4uLi4uLi4uLi4nKTsiICsgTkwgKwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdhYWFhYWFhYWFhYWFhYWFhYWFhYWEuLi4uLi4uLi4uLi4uLicpOyIgICsgIE5MICsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8JCSIJdmFyIGZjID0gZ2V0RGF0YUJ5VGFnQ2xhc3NOYW1lKCdzY3JvbGxBcmVhIHNjcm9sbEFyZWEtaG9yaXpvbnRhbCcpOyIgICsgIE5MICsKLy8JCSIJaWYgKGZjLmxlbmd0aCA+IDApIHsiICArICBOTCArCi8vCQkiCQl2YXIgdGFicyA9IGZjWzBdLmZpcnN0Q2hpbGQuY2hpbGROb2RlczsiICArICBOTCArCi8vCQkiCQlmb3IgKHZhciBpID0gMDsgaSA8IHRhYnMubGVuZ3RoOyBpKyspIHsiICArICBOTCArCi8vCQkiCQkJY29uc29sZS5sb2codGFic1tpXS50YWdOYW1lKTsiICArICBOTCArCi8vCQkiCQkJaWYgKHRhYnNbaV0udGFnTmFtZSA9PSAnQScgJiYgdGFic1tpXS5ocmVmLmluZGV4T2YoJy9wb3N0cy8nKSA+IC0xKSB7IiAgKyAgTkwgKwovLwkJIgkJCQl0YWJzW2ldLmNsaWNrKCk7IiAgKyAgTkwgKwovLwkJIgkJCX0iICArICBOTCArCi8vCQkiCQl9IiAgKyAgTkwgKwovLwkJIgl9IiAgKyAgTkwgKw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKGNvbW1lbnRfc3RyKycuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLicpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8JCSIJdmFyIGZjID0gZ2V0RGF0YUJ5VGFnQ2xhc3NOYW1lKCdzY3JvbGxBcmVhIHNjcm9sbEFyZWEtaG9yaXpvbnRhbCcpOyIgICsgIE5MICsKLy8JCSIJaWYgKGZjLmxlbmd0aCA+IDApIHsiICArICBOTCArCi8vCQkiCQl2YXIgdGFicyA9IGZjWzBdLmZpcnN0Q2hpbGQuY2hpbGROb2RlczsiICArICBOTCArCi8vCQkiCQlmb3IgKHZhciBpID0gMDsgaSA8IHRhYnMubGVuZ3RoOyBpKyspIHsiICArICBOTCArCi8vCQkiCQkJY29uc29sZS5sb2codGFic1tpXS50YWdOYW1lKTsiICArICBOTCArCi8vCQkiCQkJaWYgKHRhYnNbaV0udGFnTmFtZSA9PSAnQScgJiYgdGFic1tpXS5ocmVmLmluZGV4T2YoJy9wb3N0cy8nKSA+IC0xKSB7IiAgKyAgTkwgKwovLwkJIgkJCQl0YWJzW2ldLmNsaWNrKCk7IiAgKyAgTkwgKwovLwkJIgkJCX0iICArICBOTCArCi8vCQkiCQl9IiAgKyAgTkwgKwovLwkJIgl9IiAgKyAgTkwgKw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiCWlmKGhhZENvbW1lbnQpIHJldHVybiB0cnVlOyIgICsgIE5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKGNvbW1lbnRfc3RyKycuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLicpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAiCWlmKGhhZENvbW1lbnQpIHJldHVybiB0cnVlOyIgICsgIE5MICsK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="8">
         <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkiCQkvKiC809TYuPy24Mz719MqLyIgICsgIE5MICsK</text>
+      <register name="9" type="8">
+        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
