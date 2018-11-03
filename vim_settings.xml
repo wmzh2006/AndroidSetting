@@ -84,12 +84,12 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541249076098">
-        <mark key="'" line="330" column="109" />
-        <mark key="[" line="608" column="20" />
-        <mark key="]" line="608" column="20" />
-        <mark key="." line="608" column="20" />
-        <mark key="^" line="607" column="36" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541250930869">
+        <mark key="'" line="604" column="55" />
+        <mark key="[" line="594" column="59" />
+        <mark key="]" line="594" column="60" />
+        <mark key="^" line="592" column="59" />
+        <mark key="." line="594" column="60" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -170,8 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" />
-      <jump line="4" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" />
       <jump line="26" column="88" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetworkUtilTest.java" />
       <jump line="139" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" />
       <jump line="17" column="38" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/MainActivityTest.java" />
@@ -270,61 +268,63 @@
       <jump line="596" column="55" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="607" column="57" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="330" column="109" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="562" column="48" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="604" column="55" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdjb21tZW50X3N0ciBiZi4uLi4uLi4uLi4uLi4uLi4uLi4uMScpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>return true</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>suc</text>
+        <text>like comm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkiCQkJcmV0dXJuIHRydWU7IiAJCQkJCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdjb21tZW50X3N0ciBiZi4uLi4uLi4uLi4uLi4uLi4uLi4uMScpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdpbmplY3QuLi4uLi4uLi4uLi4uLi4nKTsiICsgTkwgKwo=</text>
+        <text encoding="base64">ICAgICAgICAiCXZhciBjb21tZW50X3N0ciA9IGFuZHJvaWQuZ2V0Q29tbWVudCgpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdhYWFhYWFhYWFhYWFhYWFhYWFhYWEuLi4uLi4uLi4uLi4uLicpOyIgICsgIE5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdpbmplY3QuLi4uLi4uLi4uLi4uLi4nKTsiICsgTkwgKwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKCdhYWFhYWFhYWFhYWFhYWFhYWFhYWEuLi4uLi4uLi4uLi4uLicpOyIgICsgIE5MICsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8JCSIJdmFyIGZjID0gZ2V0RGF0YUJ5VGFnQ2xhc3NOYW1lKCdzY3JvbGxBcmVhIHNjcm9sbEFyZWEtaG9yaXpvbnRhbCcpOyIgICsgIE5MICsKLy8JCSIJaWYgKGZjLmxlbmd0aCA+IDApIHsiICArICBOTCArCi8vCQkiCQl2YXIgdGFicyA9IGZjWzBdLmZpcnN0Q2hpbGQuY2hpbGROb2RlczsiICArICBOTCArCi8vCQkiCQlmb3IgKHZhciBpID0gMDsgaSA8IHRhYnMubGVuZ3RoOyBpKyspIHsiICArICBOTCArCi8vCQkiCQkJY29uc29sZS5sb2codGFic1tpXS50YWdOYW1lKTsiICArICBOTCArCi8vCQkiCQkJaWYgKHRhYnNbaV0udGFnTmFtZSA9PSAnQScgJiYgdGFic1tpXS5ocmVmLmluZGV4T2YoJy9wb3N0cy8nKSA+IC0xKSB7IiAgKyAgTkwgKwovLwkJIgkJCQl0YWJzW2ldLmNsaWNrKCk7IiAgKyAgTkwgKwovLwkJIgkJCX0iICArICBOTCArCi8vCQkiCQl9IiAgKyAgTkwgKwovLwkJIgl9IiAgKyAgTkwgKw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKGNvbW1lbnRfc3RyKycuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLicpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8JCSIJdmFyIGZjID0gZ2V0RGF0YUJ5VGFnQ2xhc3NOYW1lKCdzY3JvbGxBcmVhIHNjcm9sbEFyZWEtaG9yaXpvbnRhbCcpOyIgICsgIE5MICsKLy8JCSIJaWYgKGZjLmxlbmd0aCA+IDApIHsiICArICBOTCArCi8vCQkiCQl2YXIgdGFicyA9IGZjWzBdLmZpcnN0Q2hpbGQuY2hpbGROb2RlczsiICArICBOTCArCi8vCQkiCQlmb3IgKHZhciBpID0gMDsgaSA8IHRhYnMubGVuZ3RoOyBpKyspIHsiICArICBOTCArCi8vCQkiCQkJY29uc29sZS5sb2codGFic1tpXS50YWdOYW1lKTsiICArICBOTCArCi8vCQkiCQkJaWYgKHRhYnNbaV0udGFnTmFtZSA9PSAnQScgJiYgdGFic1tpXS5ocmVmLmluZGV4T2YoJy9wb3N0cy8nKSA+IC0xKSB7IiAgKyAgTkwgKwovLwkJIgkJCQl0YWJzW2ldLmNsaWNrKCk7IiAgKyAgTkwgKwovLwkJIgkJCX0iICArICBOTCArCi8vCQkiCQl9IiAgKyAgTkwgKwovLwkJIgl9IiAgKyAgTkwgKw==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiCWlmKGhhZENvbW1lbnQpIHJldHVybiB0cnVlOyIgICsgIE5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKGNvbW1lbnRfc3RyKycuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLicpOyIgCQkJCQkJCQkJCQkJCQkJCSsgCU5MICsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAiCWlmKGhhZENvbW1lbnQpIHJldHVybiB0cnVlOyIgICsgIE5MICsK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="8">
         <text encoding="base64">CQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQoJCgkKCQ==</text>
@@ -334,9 +334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>suc</last-search>
+      <last-search>like comm</last-search>
       <last-offset />
-      <last-pattern>suc</last-pattern>
+      <last-pattern>like comm</last-pattern>
       <last-replace />
       <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
@@ -344,7 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load 64 bit library success</entry>
         <entry encoding="base64">XDxSdW5uYWJsZVdWY2hhbmdlXD4=</entry>
         <entry encoding="base64">XDx1bnppcFNvRnJvbUFzc2V0c1w+</entry>
         <entry encoding="base64">XDxtTWFwXD4=</entry>
@@ -364,6 +363,7 @@
         <entry>input</entry>
         <entry>suc成功</entry>
         <entry>suc</entry>
+        <entry>like comm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/else//gn</entry>
