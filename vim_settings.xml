@@ -84,12 +84,12 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541251827282">
-        <mark key="'" line="598" column="55" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541380364727">
+        <mark key="'" line="547" column="18" />
         <mark key="[" line="701" column="16" />
-        <mark key="]" line="701" column="16" />
-        <mark key="." line="701" column="16" />
-        <mark key="^" line="701" column="16" />
+        <mark key="]" line="934" column="32" />
+        <mark key="." line="934" column="32" />
+        <mark key="^" line="934" column="32" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -175,8 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="88" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetworkUtilTest.java" />
-      <jump line="139" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/main/java/com/hunt/pilot/cao/testloadso/NetworkUtil.java" />
       <jump line="17" column="38" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/MainActivityTest.java" />
       <jump line="19" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/MainActivityTest.java" />
       <jump line="44" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" />
@@ -275,6 +273,8 @@
       <jump line="330" column="109" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="562" column="48" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="604" column="55" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="934" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="547" column="18" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -287,7 +287,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>like comm</text>
+        <text encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiCQkJCWNvbnNvbGUubG9nKCdsaWtlIGNvbW0gLi4uLi4uLi4uLi4uLi4uLi4uLi4nICsgYW5kcm9pZC5pc0NvbW1lbnQoKSk7IiAJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
@@ -339,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>like comm</last-search>
+      <last-search encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</last-search>
       <last-offset />
-      <last-pattern>like comm</last-pattern>
+      <last-pattern encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</last-pattern>
       <last-replace />
       <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSdW5uYWJsZVdWY2hhbmdlXD4=</entry>
         <entry encoding="base64">XDx1bnppcFNvRnJvbUFzc2V0c1w+</entry>
         <entry encoding="base64">XDxtTWFwXD4=</entry>
         <entry>@Nullable</entry>
@@ -369,6 +368,7 @@
         <entry>suc成功</entry>
         <entry>suc</entry>
         <entry>like comm</entry>
+        <entry encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/else//gn</entry>
