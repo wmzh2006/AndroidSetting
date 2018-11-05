@@ -84,12 +84,12 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541386275474">
-        <mark key="'" line="547" column="18" />
-        <mark key="[" line="549" column="68" />
-        <mark key="]" line="549" column="68" />
-        <mark key="." line="549" column="68" />
-        <mark key="^" line="549" column="63" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541388476826">
+        <mark key="'" line="549" column="18" />
+        <mark key="[" line="938" column="28" />
+        <mark key="]" line="939" column="27" />
+        <mark key="." line="939" column="27" />
+        <mark key="^" line="939" column="27" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -103,8 +103,11 @@
         <mark key="." line="128" column="15" />
         <mark key="^" line="128" column="33" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1541251932955">
-        <mark key="[" line="64" column="120" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1541388107195">
+        <mark key="[" line="131" column="58" />
+        <mark key="]" line="131" column="57" />
+        <mark key="^" line="131" column="57" />
+        <mark key="." line="131" column="57" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
@@ -117,9 +120,6 @@
         <mark key="^" line="563" column="78" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1541247369706" />
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1541056086047">
-        <mark key="[" line="1199" column="24" />
-      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1541247327108">
         <mark key="'" line="52" column="4" />
         <mark key="[" line="35" column="25" />
@@ -127,7 +127,7 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541040558057">
+      <file name="/Dummy.txt" timestamp="1541388063148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/java/com/colo/pil/testassets/MainActivity.java" timestamp="1540902310624">
@@ -158,11 +158,11 @@
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1541385035047">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" timestamp="1541387683974">
+        <mark key="[" line="114" column="11" />
+        <mark key="]" line="114" column="12" />
         <mark key="^" line="114" column="15" />
-        <mark key="." line="115" column="0" />
+        <mark key="." line="114" column="12" />
       </file>
       <file name="/fragment.java" timestamp="1541247899838">
         <mark key="[" line="0" column="0" />
@@ -278,16 +278,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>d</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</text>
+        <text>sendOfferMsg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkiCXRyeSB7IiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
@@ -339,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</last-search>
+      <last-search>sendOfferMsg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</last-pattern>
+      <last-pattern>sendOfferMsg</last-pattern>
       <last-replace />
       <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
@@ -349,8 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bnppcFNvRnJvbUFzc2V0c1w+</entry>
-        <entry encoding="base64">XDxtTWFwXD4=</entry>
         <entry>@Nullable</entry>
         <entry>@NonNull</entry>
         <entry encoding="base64">XDxtUmVzb3VyY2VzXD4=</entry>
@@ -369,6 +367,8 @@
         <entry>suc</entry>
         <entry>like comm</entry>
         <entry encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</entry>
+        <entry>sendOffermsg</entry>
+        <entry>sendOfferMsg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/else//gn</entry>
