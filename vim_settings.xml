@@ -84,12 +84,12 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541388476826">
-        <mark key="'" line="549" column="18" />
-        <mark key="[" line="938" column="28" />
-        <mark key="]" line="939" column="27" />
-        <mark key="." line="939" column="27" />
-        <mark key="^" line="939" column="27" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541392308948">
+        <mark key="'" line="630" column="68" />
+        <mark key="[" line="633" column="35" />
+        <mark key="]" line="633" column="43" />
+        <mark key="." line="633" column="43" />
+        <mark key="^" line="633" column="43" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -175,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="38" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/MainActivityTest.java" />
       <jump line="19" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/MainActivityTest.java" />
       <jump line="44" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" />
       <jump line="129" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" />
@@ -275,64 +274,65 @@
       <jump line="604" column="55" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="934" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="547" column="18" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="630" column="68" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>comment</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>comment</text>
       </register>
       <register name="/" type="4">
         <text>sendOfferMsg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkiCXRyeSB7IiAJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
+        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLkVycm9yKCdjb21tZW50Jywgd2luZG93LmxvY2F0aW9uLmhyZWYsIGVyciwnPGh0bWw+Jytkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaHRtbCcpWzBdLmlubmVySFRNTCsnPC9odG1sPicpOyIJKwkiXHJcbiIgKwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiCWNvbnNvbGUubG9nKGNvbW1lbnRfc3RyKTsiIAkJCQkJCQkJCQkJCQkJCQkJCQkrIAlOTCArCg==</text>
+        <text encoding="base64">CQkJImFuZHJvaWQuRXJyb3IoIgkK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkiCQkJfSIgIAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAyMDAwMCk7Cg==</text>
+        <text encoding="base64">CQkiCQkJCWNsZWFySW50ZXJ2YWwobG9hZG1vcmUpOyIgIAkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkiCQkJCWNvbnNvbGUubG9nKCdzdG9wJyk7IiAgCQkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+        <text encoding="base64">CQkiCQkJaWYgKHBvc3QgIT0gbnVsbCkgeyIgIAkJCQkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">CQkiCQl9LCA1MDAwKTsiICAJCQkJCQkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsK</text>
+        <text encoding="base64">CQkiCQl2YXIgbG9hZG1vcmUgPSBzZXRJbnRlcnZhbChmdW5jdGlvbigpIHsiICAJCQkJCQkJCQkJCQkJCSsgICBOTCArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiCQkJbnVtKys7IiAgCQkJCQkJCQkJCQkJCQkJCQkJCQkJKyAgIE5MICsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTQXV0b1VzZXIuZ2V0SW5zdGFuY2UoZ2V0QXBwbGljYXRpb25Db250ZXh0KCkpLmJlZ2luUnVuT2ZmZXIoKTsK</text>
+        <text encoding="base64">CQkiCQkJfSIgIAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
