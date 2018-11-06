@@ -21,6 +21,11 @@
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/assets/f" timestamp="1540893592988">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1541500447407">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/PluginContext.java" timestamp="1540868665345">
         <mark key="[" line="83" column="37" />
         <mark key="]" line="78" column="35" />
@@ -50,6 +55,17 @@
         <mark key="]" line="104" column="139" />
         <mark key="." line="104" column="139" />
         <mark key="^" line="104" column="139" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/DL-lib3/build.gradle" timestamp="1541062895828">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2018110618/readme.txt" timestamp="1541500513935">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="47" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1541077268853">
         <mark key="[" line="22" column="91" />
@@ -274,8 +290,8 @@
       <jump line="122" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5vLnQuZy5naC5ldi5hcnQuUm9Nb2JpU2RrOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -293,45 +309,45 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCQlTdHJpbmcgcmUgPSBzYiAhPSBudWxsID8gc2IudG9TdHJpbmcoKSA6ICIiOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vLnQuZy5naC5ldi5hcnQuUm9Nb2JpU2RrOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQllLnByaW50U3RhY2tUcmFjZShwdyk7Cg==</text>
+        <text encoding="base64">Ly8JCQlTdHJpbmcgcmUgPSBzYiAhPSBudWxsID8gc2IudG9TdHJpbmcoKSA6ICIiOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQlQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7Cg==</text>
+        <text encoding="base64">Ly8JCQllLnByaW50U3RhY2tUcmFjZShwdyk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCQlTdHJpbmdXcml0ZXIgc3cgPSBuZXcgU3RyaW5nV3JpdGVyKCk7Cg==</text>
+        <text encoding="base64">Ly8JCQlQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>function() {&quot; + NL +
-		&quot;		loadStory();&quot; + NL +
-		&quot;	}</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8JCQlTdHJpbmdXcml0ZXIgc3cgPSBuZXcgU3RyaW5nV3JpdGVyKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCSJjbGVhckludGVydmFsKGludGVydmFsVGltZSk7ICIgKyBOTCArCg==</text>
+      <register name="6" type="4">
+        <text>function() {&quot; + NL +
+		&quot;		loadStory();&quot; + NL +
+		&quot;	}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
+        <text encoding="base64">CQkJCSJjbGVhckludGVydmFsKGludGVydmFsVGltZSk7ICIgKyBOTCArCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkiCQkJCQljbGVhckludGVydmFsKGxvYWRtb3JlKTsiICArICBOTCArCg==</text>
+        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
