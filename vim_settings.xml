@@ -143,11 +143,11 @@
         <mark key="^" line="93" column="28" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLConstants.java" timestamp="1541056416575" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541479261970">
-        <mark key="[" line="260" column="51" />
-        <mark key="]" line="260" column="53" />
-        <mark key="." line="260" column="53" />
-        <mark key="^" line="260" column="53" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541492987387">
+        <mark key="[" line="196" column="74" />
+        <mark key="]" line="196" column="80" />
+        <mark key="." line="196" column="80" />
+        <mark key="^" line="196" column="80" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1540904561608">
         <mark key="[" line="10" column="24" />
@@ -279,15 +279,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>function() {&quot; + NL +
-		&quot;		loadStory();&quot; + NL +
-		&quot;	}</text>
+        <text>.getApplicationContext();</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>.getApplicationContext();</text>
       </register>
       <register name="/" type="4">
         <text>mbase</text>
@@ -298,46 +296,46 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>function() {&quot; + NL +
-		&quot;		loadStory();&quot; + NL +
-		&quot;	}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8JCQlTdHJpbmcgcmUgPSBzYiAhPSBudWxsID8gc2IudG9TdHJpbmcoKSA6ICIiOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSJjbGVhckludGVydmFsKGludGVydmFsVGltZSk7ICIgKyBOTCArCg==</text>
+        <text encoding="base64">Ly8JCQllLnByaW50U3RhY2tUcmFjZShwdyk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
+        <text encoding="base64">Ly8JCQlQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
+        <text encoding="base64">Ly8JCQlTdHJpbmdXcml0ZXIgc3cgPSBuZXcgU3RyaW5nV3JpdGVyKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkiCQkJCQljbGVhckludGVydmFsKGxvYWRtb3JlKTsiICArICBOTCArCg==</text>
+      <register name="5" type="4">
+        <text>function() {&quot; + NL +
+		&quot;		loadStory();&quot; + NL +
+		&quot;	}</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkiCXZhciBsb2FkbW9yZSA9IHNldEludGVydmFsKGZ1bmN0aW9uKCkgeyIgICsgIE5MICsK</text>
+        <text encoding="base64">CQkJCSJjbGVhckludGVydmFsKGludGVydmFsVGltZSk7ICIgKyBOTCArCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiCXZhciBudW0gPSAwOyIgIAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
+        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCQllLnByaW50U3RhY2tUcmFjZShwdyk7Cg==</text>
+        <text encoding="base64">CQkiCQkJCQljbGVhckludGVydmFsKGxvYWRtb3JlKTsiICArICBOTCArCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
