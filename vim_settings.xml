@@ -155,11 +155,11 @@
         <mark key="^" line="93" column="28" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLConstants.java" timestamp="1541056416575" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541498821376">
-        <mark key="[" line="276" column="46" />
-        <mark key="]" line="276" column="8" />
-        <mark key="." line="276" column="8" />
-        <mark key="^" line="276" column="8" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541501788204">
+        <mark key="[" line="251" column="109" />
+        <mark key="]" line="250" column="9" />
+        <mark key="." line="250" column="9" />
+        <mark key="^" line="250" column="9" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1540904561608">
         <mark key="[" line="10" column="24" />
@@ -290,64 +290,64 @@
       <jump line="122" column="0" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vLnQuZy5naC5ldi5hcnQuUm9Nb2JpU2RrOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>mbase</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KG1DdHgsICJhc3NldHNfY3R4MyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCAiY3R4MzogIiArIG1DdHgzLnRvU3RyaW5nKCkgKyAiY3R4OiAiICsgbUN0eC50b1N0cmluZygpLCAiIitzYik7Cg==</text>
+      <register name="0" type="4">
+        <text>tag_apkApplication</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vLnQuZy5naC5ldi5hcnQuUm9Nb2JpU2RrOwo=</text>
+        <text encoding="base64">CQkJQXBwbGljYXRpb24gdGFnX2Fwa0FwcGxpY2F0aW9uID0gKEFwcGxpY2F0aW9uKSBtQ3R4MjsvL7+0v7TU9cO0t7TJ5LvxyKG1vUFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCQlTdHJpbmcgcmUgPSBzYiAhPSBudWxsID8gc2IudG9TdHJpbmcoKSA6ICIiOwo=</text>
+        <text encoding="base64">CQkJbUN0eC5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKS5nCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQllLnByaW50U3RhY2tUcmFjZShwdyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vLnQuZy5naC5ldi5hcnQuUm9Nb2JpU2RrOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCQlQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7Cg==</text>
+        <text encoding="base64">Ly8JCQlTdHJpbmcgcmUgPSBzYiAhPSBudWxsID8gc2IudG9TdHJpbmcoKSA6ICIiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCQlTdHJpbmdXcml0ZXIgc3cgPSBuZXcgU3RyaW5nV3JpdGVyKCk7Cg==</text>
+        <text encoding="base64">Ly8JCQllLnByaW50U3RhY2tUcmFjZShwdyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Ly8JCQlQcmludFdyaXRlciBwdyA9IG5ldyBQcmludFdyaXRlcihzdyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8JCQlTdHJpbmdXcml0ZXIgc3cgPSBuZXcgU3RyaW5nV3JpdGVyKCk7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>function() {&quot; + NL +
 		&quot;		loadStory();&quot; + NL +
 		&quot;	}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCSJjbGVhckludGVydmFsKGludGVydmFsVGltZSk7ICIgKyBOTCArCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkiCQkJfSwgNTAwMCk7IiAgKyAgTkwgKwo=</text>
+        <text encoding="base64">CQkJCSJjbGVhckludGVydmFsKGludGVydmFsVGltZSk7ICIgKyBOTCArCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
