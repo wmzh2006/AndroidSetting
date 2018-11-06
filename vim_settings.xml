@@ -143,11 +143,11 @@
         <mark key="^" line="93" column="28" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLConstants.java" timestamp="1541056416575" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541492987387">
-        <mark key="[" line="196" column="74" />
-        <mark key="]" line="196" column="80" />
-        <mark key="." line="196" column="80" />
-        <mark key="^" line="196" column="80" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541495161378">
+        <mark key="[" line="276" column="46" />
+        <mark key="]" line="276" column="8" />
+        <mark key="." line="276" column="8" />
+        <mark key="^" line="276" column="8" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1540904561608">
         <mark key="[" line="10" column="24" />
@@ -279,19 +279,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getApplicationContext();</text>
+        <text>b</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.getApplicationContext();</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>mbase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiCXZhciBudW0gPSAwOyIgIAkJCQkJCQkJCQkJCQkJCQkJCQkJCQkrICAgTkwgKwo=</text>
+        <text encoding="base64">CQkJCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KG1DdHgsICJhc3NldHNfY3R4MyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCAiY3R4MzogIiArIG1DdHgzLnRvU3RyaW5nKCkgKyAiY3R4OiAiICsgbUN0eC50b1N0cmluZygpLCAiIitzYik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
