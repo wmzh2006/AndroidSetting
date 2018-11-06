@@ -143,11 +143,11 @@
         <mark key="^" line="93" column="28" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLConstants.java" timestamp="1541056416575" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541077214114">
-        <mark key="[" line="252" column="16" />
-        <mark key="]" line="252" column="16" />
-        <mark key="." line="252" column="16" />
-        <mark key="^" line="254" column="33" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541475521379">
+        <mark key="[" line="260" column="51" />
+        <mark key="]" line="260" column="53" />
+        <mark key="." line="260" column="53" />
+        <mark key="^" line="260" column="53" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1540904561608">
         <mark key="[" line="10" column="24" />
@@ -279,70 +279,70 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>A</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>function</text>
+        <text>mbase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkiCQkJfSIrTkwrCg==</text>
+        <text encoding="base64">CQkJCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KG1DdHgsICJhc3NldHNfMyIsIEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICIiLCBkZXRhaWwsICIiK3NiKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkiCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAgdmcgPSAoVmlld0dyb3VwKS5nZXREZWNvclZpZXcoKTsK</text>
+        <text encoding="base64">Ly8JCQllLnByaW50U3RhY2tUcmFjZShwdyk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2Zy5hZAo=</text>
+        <text encoding="base64">ICAgICAgICBtQ3R4Mi5nZXQK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBicm9zd2VyVmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicm9zd2VyVmlldy5yZW1gYAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCSJ3aW5kb3cuc2NyZWVuLndpZHRoPSAxMDAwOyIgK05MKwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CWlmIChUZXh0VXRpbHMuaXNFbXB0eShzYikpIHsKCQkJCXNiID0gSG9zdFV0aWwuZ2V0SG9zdExvZyhnZXRSZWFsQ29udGV4dCk7CgkJCQlkZXRhaWwgPSAiWzAwMF0iK2RldGFpbDsKCQkJfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSJ3aW5kb3cuc2NyZWVuLmhlaWdodCA9IDEwMDA7IiArTkwrCg==</text>
+        <text encoding="base64">CQkiCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSJ3aW5kb3cuc2NyZWVuLmhlaWdodCA9IDEwMDA7IiArTkwrCg==</text>
+        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAgdmcgPSAoVmlld0dyb3VwKS5nZXREZWNvclZpZXcoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiCQlhbmRyb2lkLkVycm9yKCdjb21tZW50Jywgd2luZG93LmxvY2F0aW9uLmhyZWYsIGVyciwnPGh0bWw+Jytkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaHRtbCcpWzBdLmlubmVySFRNTCsnPC9odG1sPicpOyIJKwkiXHJcbiIgKwo=</text>
+        <text encoding="base64">ICAgICAgICB2Zy5hZAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>function</last-search>
+      <last-search>mbase</last-search>
       <last-offset />
-      <last-pattern>function</last-pattern>
+      <last-pattern>mbase</last-pattern>
       <last-replace />
       <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
@@ -350,7 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUmVzb3VyY2VzXD4=</entry>
         <entry>Resources</entry>
         <entry>addPath</entry>
         <entry>add</entry>
@@ -370,6 +369,7 @@
         <entry>sendOfferMsg</entry>
         <entry>unlickLike</entry>
         <entry>function</entry>
+        <entry>mbase</entry>
       </history-search>
       <history-cmd>
         <entry>%s/else//gn</entry>
