@@ -12,12 +12,11 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541559165885">
-        <mark key="'" line="642" column="8" />
-        <mark key="[" line="643" column="52" />
-        <mark key="]" line="643" column="52" />
-        <mark key="." line="643" column="52" />
-        <mark key="^" line="643" column="52" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1541560541777">
+        <mark key="'" line="641" column="8" />
+        <mark key="[" line="567" column="17" />
+        <mark key="]" line="567" column="17" />
+        <mark key="." line="567" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1540469329588">
         <mark key="[" line="0" column="0" />
@@ -290,13 +289,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>setInterval</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>setInterval</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
@@ -308,43 +307,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiIAlpdHQgPSBmdW5jdGlvbigpe2xvYWRTdG9yeSgpO307IiAgKyBOTCArCg==</text>
+        <text encoding="base64">CQkJCQkJImNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOyIgKyBOTCArCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkiZnVuY3Rpb24gaW50ZXJ2YWxUaW1lKCkgeyIgKyBOTCsKCQkiCQlsb2FkU3RvcnkoKTsiICsgTkwgKwoJCSIJfTsgIiArIE5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiCXZhciBpdHQ7IiAgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgICBOTCArCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiCWludGVydmFsVGltZSgpOyIgKyBOTCArCg==</text>
+        <text encoding="base64">ICAgICAgICAiIAlpdHQgPSBmdW5jdGlvbigpe2xvYWRTdG9yeSgpO307IiAgKyBOTCArCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkiCXNldFRpbWVvdXQoaXQsIDgwMDApO30iICsgTkwgKwo=</text>
+        <text encoding="base64">CQkiZnVuY3Rpb24gaW50ZXJ2YWxUaW1lKCkgeyIgKyBOTCsKCQkiCQlsb2FkU3RvcnkoKTsiICsgTkwgKwoJCSIJfTsgIiArIE5MICsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiCXZhciBpdDsgIiAgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgICBOTCArCg==</text>
+        <text encoding="base64">ICAgICAgICAiCWludGVydmFsVGltZSgpOyIgKyBOTCArCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkiCQlpdCA9IGZ1bmN0aW9uKCkgeyIgKyBOTCArCg==</text>
+        <text encoding="base64">CQkiCXNldFRpbWVvdXQoaXQsIDgwMDApO30iICsgTkwgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgU3RyaW5nIGRlZlZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAiCXZhciBpdDsgIiAgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgICBOTCArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgU3RyaW5nIGtleTsK</text>
+        <text encoding="base64">CQkiCQlpdCA9IGZ1bmN0aW9uKCkgeyIgKyBOTCArCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCU9iamVjdCBvYmpMb2cgPSBwbHVnaW5QYWNrYWdlLmdldFBsdWdpbkFwcGxpY2F0aW9uQ29udGV4dCgpLmdldFN5c3RlbVNlcnZpY2UoIkRMX0dFVF9IT1NUX01ZTE9HIik7CS8vILvxyKGwstew1NrK1rv6wO/D5rXEYXBrtcRMT0cs0rK+zcrHy97W97XETE9HKTsK</text>
+        <text encoding="base64">ICAgU3RyaW5nIGRlZlZhbHVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
