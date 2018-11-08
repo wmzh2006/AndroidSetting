@@ -9,6 +9,12 @@
       <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/res/layout/activity_main.xml" timestamp="1540888895929">
         <mark key="[" line="5" column="19" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/java/com/hunt/pilot/cao/demo2/MainActivity.java" timestamp="1541665414789">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+      </file>
       <file name="/a.dummy" timestamp="1541662439366">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,6 +70,17 @@
         <mark key="]" line="106" column="75" />
         <mark key="." line="106" column="75" />
         <mark key="^" line="105" column="174" />
+      </file>
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" timestamp="1541664732671">
+        <mark key="[" line="32" column="85" />
+      </file>
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
+        <mark key="[" line="25" column="5" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/DL-lib3/build.gradle" timestamp="1541062895828">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2018110618/readme.txt" timestamp="1541500513935">
         <mark key="[" line="0" column="48" />
@@ -122,6 +139,11 @@
         <mark key="]" line="128" column="15" />
         <mark key="." line="128" column="15" />
         <mark key="^" line="128" column="33" />
+      </file>
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/build.gradle" timestamp="1541664773700">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1541404405556">
         <mark key="[" line="131" column="58" />
@@ -198,7 +220,7 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" timestamp="1541663251055">
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" timestamp="1541665444917">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="19" column="9" />
         <mark key="]" line="21" column="18" />
@@ -319,13 +341,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ':test'</text>
+        <text>&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, ':test'</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
@@ -337,43 +359,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZ29vZ2xlKCkK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZ29vZ2xlKCkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldC5hZGQobmV3IFBhY2thZ2VJbmZvKGFwcGxpY2F0aW9uSW5mby5wYWNrYWdlTmFtZSwgdHJ1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZihwYWNrYWdlSW5mby5hcHBsaWNhdGlvbkluZm8uZmxhZ3MgJiYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldC5hZGQobmV3IFBhY2thZ2VJbmZvKGFwcGxpY2F0aW9uSW5mby5wYWNrYWdlTmFtZSwgdHJ1ZSkpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJImNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOyIgKyBOTCArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBpZihwYWNrYWdlSW5mby5hcHBsaWNhdGlvbkluZm8uZmxhZ3MgJiYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiCXZhciBpdHQ7IiAgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgICBOTCArCg==</text>
+        <text encoding="base64">CQkJCQkJImNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOyIgKyBOTCArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIAlpdHQgPSBmdW5jdGlvbigpe2xvYWRTdG9yeSgpO307IiAgKyBOTCArCg==</text>
+        <text encoding="base64">ICAgICAgICAiCXZhciBpdHQ7IiAgCQkJCQkJCQkJCQkJCQkJCQkJCQkJCSsgICBOTCArCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkiZnVuY3Rpb24gaW50ZXJ2YWxUaW1lKCkgeyIgKyBOTCsKCQkiCQlsb2FkU3RvcnkoKTsiICsgTkwgKwoJCSIJfTsgIiArIE5MICsK</text>
+        <text encoding="base64">ICAgICAgICAiIAlpdHQgPSBmdW5jdGlvbigpe2xvYWRTdG9yeSgpO307IiAgKyBOTCArCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
