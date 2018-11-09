@@ -152,12 +152,12 @@
         <mark key="." line="480" column="43" />
         <mark key="^" line="634" column="9" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1541735420736">
-        <mark key="'" line="12" column="3" />
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="51" column="4" />
-        <mark key="." line="51" column="4" />
-        <mark key="^" line="51" column="4" />
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1541735630334">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="57" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -365,13 +365,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbmV3IFBhY2thZ2VJbmZvKCk=</text>
+        <text>context</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IFBhY2thZ2VJbmZvKCk=</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>unlickLike</text>
@@ -383,19 +383,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIFRocmVhZAo=</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuCg==</text>
+        <text encoding="base64">ICAgICAgIFRocmVhZAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc1N1cGVyID0gU2hlOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -404,22 +404,22 @@
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc1N1cGVyID0gU2hlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBpc1N1cGVyID0gU2hlOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNBdXRvVXNlci5nZXRJbnN0YW5jZShjb250ZXh0LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKS5vYnRhaW5PZmZlcnMoImNvbS5mYWNlYm9vay5rYXRhbmEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNBdXRvVXNlci5nZXRJbnN0YW5jZShjb250ZXh0LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKS5vYnRhaW5PZmZlcnMoImNvbS5mYWNlYm9vay5rYXRhbmEiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBib29sZWFuIFNZU19TVVBQT1JUU19TQ0hFREdST1VQUyA9IG5ldyBGaWxlKCIvZGV2L2NwdWN0bC90YXNrcyIpLmV4aXN0cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlc3Qud3JpdGVJbnQodWlkKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBib29sZWFuIFNZU19TVVBQT1JUU19TQ0hFREdST1VQUyA9IG5ldyBGaWxlKCIvZGV2L2NwdWN0bC90YXNrcyIpLmV4aXN0cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
