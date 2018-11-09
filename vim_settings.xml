@@ -10,7 +10,7 @@
         <mark key="[" line="5" column="19" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/oasis/assistant/yo/RoMobiSdk.java" timestamp="1541752358134" />
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/java/com/hunt/pilot/cao/demo2/MainActivity.java" timestamp="1541745341031">
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/java/com/hunt/pilot/cao/demo2/MainActivity.java" timestamp="1541753786211">
         <mark key="[" line="21" column="55" />
         <mark key="]" line="23" column="80" />
         <mark key="^" line="31" column="39" />
@@ -147,12 +147,12 @@
         <mark key="." line="480" column="43" />
         <mark key="^" line="634" column="9" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1541747919406">
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1541754284122">
         <mark key="'" line="26" column="3" />
-        <mark key="[" line="95" column="36" />
-        <mark key="]" line="95" column="34" />
-        <mark key="." line="95" column="34" />
-        <mark key="^" line="95" column="34" />
+        <mark key="[" line="74" column="82" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="123" column="26" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -362,13 +362,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AESUtil.encrypt(json);</text>
+        <text encoding="base64">TGlzdDxBbmRyb2lkQXBwUHJvY2Vzcz4gYW5kcm9pZEFwcFByb2Nlc3NlcyA=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>AESUtil.encrypt(json);</text>
+        <text encoding="base64">TGlzdDxBbmRyb2lkQXBwUHJvY2Vzcz4gYW5kcm9pZEFwcFByb2Nlc3NlcyA=</text>
       </register>
       <register name="/" type="4">
         <text>unlickLike</text>
