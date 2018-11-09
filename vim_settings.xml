@@ -9,11 +9,11 @@
       <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/res/layout/activity_main.xml" timestamp="1540888895929">
         <mark key="[" line="5" column="19" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/java/com/hunt/pilot/cao/demo2/MainActivity.java" timestamp="1541734829094">
-        <mark key="[" line="21" column="80" />
-        <mark key="]" line="21" column="80" />
-        <mark key="^" line="29" column="39" />
-        <mark key="." line="21" column="80" />
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/java/com/hunt/pilot/cao/demo2/MainActivity.java" timestamp="1541745341031">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="23" column="80" />
+        <mark key="^" line="31" column="39" />
+        <mark key="." line="23" column="80" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" timestamp="1541732609170">
         <mark key="[" line="17" column="0" />
@@ -23,8 +23,8 @@
       <file name="/a.dummy" timestamp="1541662439366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/AndroidManifest.xml" timestamp="1541666340261">
-        <mark key="[" line="4" column="0" />
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/AndroidManifest.xml" timestamp="1541745316455">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -92,12 +92,6 @@
         <mark key="." line="106" column="75" />
         <mark key="^" line="105" column="174" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" timestamp="1541735408673">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="32" column="4" />
-      </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
@@ -152,11 +146,12 @@
         <mark key="." line="480" column="43" />
         <mark key="^" line="634" column="9" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1541745266204">
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1541746711087">
         <mark key="'" line="26" column="3" />
-        <mark key="[" line="83" column="69" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="98" column="37" />
+        <mark key="." line="98" column="37" />
+        <mark key="^" line="98" column="37" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/db/DBHelp.java" timestamp="1541235352037">
         <mark key="[" line="8" column="39" />
@@ -223,7 +218,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1541744647912" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1541746366614" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1541509192538">
         <mark key="[" line="268" column="0" />
         <mark key="]" line="268" column="79" />
@@ -365,14 +360,14 @@
       <jump line="7" column="3" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgidXAiLCAic3RhdHVzOiIgKyBzdGF0dXMgKyAiICIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>AESUtil.encrypt(json);</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>AESUtil.encrypt(json);</text>
       </register>
       <register name="/" type="4">
         <text>unlickLike</text>
@@ -384,43 +379,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgidXAiLCAic3RhdHVzOiIgKyBzdGF0dXMgKyAiICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gZGF0YSA9IEFFU1V0aWwuZW5jcnlwdChqc29uKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuYWRkSGVhZGVyKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiUTI5dWRHVnVkQzEwZVhCbCIpLyoiQ29udGVudC10eXBlIiovLCBTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIllYQndiR2xqWVhScGIyNHZhbk52Ymc9PSIpLyoiYXBwbGljYXRpb24vanNvbiIqLyk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuc2V0UG9zdERhdGEoZGF0YSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgidXAiLCAic3RhdHVzOiIgKyBzdGF0dXMgKyAiICIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqZWN0LnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqZWN0LnB1dCgicGtncyIsIGFycmF5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIFRocmVhZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqZWN0LnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
