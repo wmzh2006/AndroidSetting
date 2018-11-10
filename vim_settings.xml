@@ -58,6 +58,9 @@
         <mark key="[" line="10" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyUtil.java" timestamp="1541855463708" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1541857133169">
+        <mark key="[" line="185" column="17" />
+      </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
@@ -101,6 +104,12 @@
         <mark key="." line="121" column="29" />
         <mark key="^" line="119" column="22" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/UploadInfoUtil.java" timestamp="1541858320103">
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="95" />
+        <mark key="." line="243" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/RunCondition.java" timestamp="1541858165002" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/c0.java" timestamp="1541853374260">
         <mark key="[" line="37" column="58" />
         <mark key="]" line="37" column="58" />
@@ -133,17 +142,16 @@
         <mark key="^" line="15" column="28" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/libs/shelluser-lib-release.jar!/com/ecfudl/libshelluser/ShellExe.class" timestamp="1541731580555" />
-      <file name="/Dummy.txt" timestamp="1541388063148">
+      <file name="/Dummy.txt" timestamp="1541858492122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1541855447382">
-        <mark key="'" line="144" column="36" />
-        <mark key="[" line="776" column="8" />
-        <mark key="]" line="128" column="52" />
-        <mark key="^" line="128" column="52" />
-        <mark key="." line="128" column="52" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1541857630821">
+        <mark key="'" line="807" column="29" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSOperationStatistics.java" timestamp="1541855361855" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSOperationStatistics.java" timestamp="1541857770121" />
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
@@ -159,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="46" filename="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLUtils.java" />
       <jump line="78" column="23" filename="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl/utils/DLUtils.java" />
       <jump line="44" column="25" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
       <jump line="667" column="14" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
@@ -259,10 +266,11 @@
       <jump line="941" column="70" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="7" column="3" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" />
       <jump line="144" column="36" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="807" column="29" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8JCQkJcGFyYW1zLnB1dChEZXZpY2VzSW5mb1BhcmFtTmFtZXMubmV0dHlwZSxQaG9uZVV0aWwuZ2V0TmV0VHlwZShwbHVnaW5fY29udGV4dCkpOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -274,49 +282,49 @@
         <text>init_ad_list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXQuYWRkQWxsKGdldEluc3RhbGxlZFBhY2thZ2VzKHRydWUpKTsK</text>
+        <text encoding="base64">Ly8JCQkJcGFyYW1zLnB1dChEZXZpY2VzSW5mb1BhcmFtTmFtZXMubmV0dHlwZSxQaG9uZVV0aWwuZ2V0TmV0VHlwZShwbHVnaW5fY29udGV4dCkpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5QYWNrYWdlSW5mbzsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJvZmZlcmxpc3QiLCAiIiwgIiIrcmVzdWx0QnVmZmVyLnRvU3RyaW5nKCksICIiKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5JbnN0YWxsZWRQYWNrYWdlczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5QYWNrYWdlSW5mbzsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5BbmRyb2lkQXBwUHJvY2VzczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5JbnN0YWxsZWRQYWNrYWdlczsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IExpc3Q8QW5kcm9pZEFwcFByb2Nlc3M+IHByb2Nlc3NlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIEZpbGVbXSBmaWxlcyA9IG5ldyBGaWxlKCIvcHJvYyIpLmxpc3RGaWxlcygpOwogICAgICAgIGZvciAoRmlsZSBmaWxlIDogZmlsZXMpIHsKICAgICAgICAgICAgaWYgKGZpbGUuaXNEaXJlY3RvcnkoKSkgewogICAgICAgICAgICAgICAgaW50IHBpZDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcGlkID0gSW50ZWdlci5wYXJzZUludChmaWxlLmdldE5hbWUoKSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChOdW1iZXJGb3JtYXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBwcm9jZXNzZXMuYWRkKG5ldyBBbmRyb2lkQXBwUHJvY2VzcyhwaWQpKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEFuZHJvaWRBcHBQcm9jZXNzLk5vdEFuZHJvaWRBcHBQcm9jZXNzRXhjZXB0aW9uIGlnbm9yZWQpIHsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicHJvYyIsICJFcnJvciByZWFkaW5nIGZyb20gL3Byb2MvIitwaWQgKyAiZTogIiArIGUudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgLy8gU3lzdGVtIGFwcHMgd2lsbCBub3QgYmUgcmVhZGFibGUgb24gQW5kcm9pZCA1LjArIGlmIFNFTGludXggaXMgZW5mb3JjaW5nLgogICAgICAgICAgICAgICAgICAgIC8vIFlvdSB3aWxsIG5lZWQgcm9vdCBhY2Nlc3Mgb3IgYW4gZWxldmF0ZWQgU0VMaW51eCBjb250ZXh0IHRvIHJlYWQgYWxsIGZpbGVzIHVuZGVyIC9wcm9jLgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5BbmRyb2lkQXBwUHJvY2VzczsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gZGF0YSA9IEFFU1V0aWwuZW5jcnlwdChqc29uKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IExpc3Q8QW5kcm9pZEFwcFByb2Nlc3M+IHByb2Nlc3NlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIEZpbGVbXSBmaWxlcyA9IG5ldyBGaWxlKCIvcHJvYyIpLmxpc3RGaWxlcygpOwogICAgICAgIGZvciAoRmlsZSBmaWxlIDogZmlsZXMpIHsKICAgICAgICAgICAgaWYgKGZpbGUuaXNEaXJlY3RvcnkoKSkgewogICAgICAgICAgICAgICAgaW50IHBpZDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcGlkID0gSW50ZWdlci5wYXJzZUludChmaWxlLmdldE5hbWUoKSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChOdW1iZXJGb3JtYXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBwcm9jZXNzZXMuYWRkKG5ldyBBbmRyb2lkQXBwUHJvY2VzcyhwaWQpKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEFuZHJvaWRBcHBQcm9jZXNzLk5vdEFuZHJvaWRBcHBQcm9jZXNzRXhjZXB0aW9uIGlnbm9yZWQpIHsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicHJvYyIsICJFcnJvciByZWFkaW5nIGZyb20gL3Byb2MvIitwaWQgKyAiZTogIiArIGUudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgLy8gU3lzdGVtIGFwcHMgd2lsbCBub3QgYmUgcmVhZGFibGUgb24gQW5kcm9pZCA1LjArIGlmIFNFTGludXggaXMgZW5mb3JjaW5nLgogICAgICAgICAgICAgICAgICAgIC8vIFlvdSB3aWxsIG5lZWQgcm9vdCBhY2Nlc3Mgb3IgYW4gZWxldmF0ZWQgU0VMaW51eCBjb250ZXh0IHRvIHJlYWQgYWxsIGZpbGVzIHVuZGVyIC9wcm9jLgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBydW5uZXIuYWRkSGVhZGVyKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiUTI5dWRHVnVkQzEwZVhCbCIpLyoiQ29udGVudC10eXBlIiovLCBTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIllYQndiR2xqWVhScGIyNHZhbk52Ymc9PSIpLyoiYXBwbGljYXRpb24vanNvbiIqLyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gZGF0YSA9IEFFU1V0aWwuZW5jcnlwdChqc29uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBydW5uZXIuc2V0UG9zdERhdGEoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuYWRkSGVhZGVyKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiUTI5dWRHVnVkQzEwZVhCbCIpLyoiQ29udGVudC10eXBlIiovLCBTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIllYQndiR2xqWVhScGIyNHZhbk52Ymc9PSIpLyoiYXBwbGljYXRpb24vanNvbiIqLyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgidXAiLCAic3RhdHVzOiIgKyBzdGF0dXMgKyAiICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBydW5uZXIuc2V0UG9zdERhdGEoZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgidXAiLCAic3RhdHVzOiIgKyBzdGF0dXMgKyAiICIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
