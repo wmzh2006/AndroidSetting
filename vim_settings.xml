@@ -54,6 +54,11 @@
         <mark key="." line="47" column="34" />
         <mark key="^" line="47" column="34" />
       </file>
+      <file name="D:/SportsBoards/settings.gradle" timestamp="1542075488552">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1541143408484">
         <mark key="[" line="10" column="0" />
       </file>
@@ -272,8 +277,8 @@
       <jump line="807" column="29" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5jbHVkZSAnOnNwYWNlQXNzYXVsdCcK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -291,43 +296,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY2FwdGNoYUxvZyhtQ29udGV4dCwgImVudGVyIiwgdXJsMCwgIiIsICIiKTsJCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOnNwYWNlQXNzYXVsdCcK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBjdHguZ2V0QXBwbGljYXRpb25Db250ZXh0KCk7Cg==</text>
+        <text encoding="base64">CQkJY2FwdGNoYUxvZyhtQ29udGV4dCwgImVudGVyIiwgdXJsMCwgIiIsICIiKTsJCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBjdHguZ2V0QXBwbGljYXRpb25Db250ZXh0KCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cGxvYWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJvZmZlcmxpc3QiLCAiIiwgIiIrcmVzdWx0QnVmZmVyLnRvU3RyaW5nKCksICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICB1cGxvYWQoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5QYWNrYWdlSW5mbzsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJvZmZlcmxpc3QiLCAiIiwgIiIrcmVzdWx0QnVmZmVyLnRvU3RyaW5nKCksICIiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5JbnN0YWxsZWRQYWNrYWdlczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5QYWNrYWdlSW5mbzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5BbmRyb2lkQXBwUHJvY2VzczsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5JbnN0YWxsZWRQYWNrYWdlczsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IExpc3Q8QW5kcm9pZEFwcFByb2Nlc3M+IHByb2Nlc3NlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIEZpbGVbXSBmaWxlcyA9IG5ldyBGaWxlKCIvcHJvYyIpLmxpc3RGaWxlcygpOwogICAgICAgIGZvciAoRmlsZSBmaWxlIDogZmlsZXMpIHsKICAgICAgICAgICAgaWYgKGZpbGUuaXNEaXJlY3RvcnkoKSkgewogICAgICAgICAgICAgICAgaW50IHBpZDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcGlkID0gSW50ZWdlci5wYXJzZUludChmaWxlLmdldE5hbWUoKSk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChOdW1iZXJGb3JtYXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBwcm9jZXNzZXMuYWRkKG5ldyBBbmRyb2lkQXBwUHJvY2VzcyhwaWQpKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEFuZHJvaWRBcHBQcm9jZXNzLk5vdEFuZHJvaWRBcHBQcm9jZXNzRXhjZXB0aW9uIGlnbm9yZWQpIHsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgicHJvYyIsICJFcnJvciByZWFkaW5nIGZyb20gL3Byb2MvIitwaWQgKyAiZTogIiArIGUudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgLy8gU3lzdGVtIGFwcHMgd2lsbCBub3QgYmUgcmVhZGFibGUgb24gQW5kcm9pZCA1LjArIGlmIFNFTGludXggaXMgZW5mb3JjaW5nLgogICAgICAgICAgICAgICAgICAgIC8vIFlvdSB3aWxsIG5lZWQgcm9vdCBhY2Nlc3Mgb3IgYW4gZWxldmF0ZWQgU0VMaW51eCBjb250ZXh0IHRvIHJlYWQgYWxsIGZpbGVzIHVuZGVyIC9wcm9jLgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0YWxsZXIucHJvY2Vzcy5BbmRyb2lkQXBwUHJvY2VzczsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
