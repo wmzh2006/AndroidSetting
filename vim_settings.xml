@@ -91,11 +91,11 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1541987276863">
-        <mark key="'" line="26" column="3" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1542200133595">
+        <mark key="'" line="29" column="3" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/UploadInfoUtil.java" timestamp="1541858320103">
         <mark key="[" line="243" column="0" />
@@ -134,12 +134,6 @@
         <mark key="[" line="8" column="21" />
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="22" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1541857630821">
-        <mark key="'" line="807" column="29" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
       </file>
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
@@ -259,20 +253,20 @@
       <jump line="807" column="29" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQlpbmRvc2F0b29yZWRvbwkJCQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQlpbmRvc2F0b29yZWRvbwkJCQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>init_ad_list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9CiAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJyZWNlaXZlbXNnIiwgICIiLCAiIitzbXNEYXRhLmdldENvbnRlbnQoKSwgIiIrc21zRGF0YS5nZXRTZW5kZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcyBzaGFyZWRQcmVmZXJlbmNlcyA9IGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoInVwIiwgMCk7IAo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -284,37 +278,37 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uU2F2ZUluc3RhbmNlU3RhdGUoQnVuZGxlIG91dFN0YXRlKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyBpbnRlcnZhbCA9IDI0ICogNjAgKiA2MCAqIDEwMDA7Ly8xzOwK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtV2ViVmlldy5zYXZlU3RhdGUob3V0U3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKCkgCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uU2F2ZUluc3RhbmNlU3RhdGUoQnVuZGxlIG91dFN0YXRlKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uU2F2ZUluc3RhbmNlU3RhdGUoQnVuZGxlIG91dFN0YXRlKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
