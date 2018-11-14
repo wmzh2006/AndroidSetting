@@ -58,6 +58,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/2048-android/app/src/main/java/com/estar/pro2048/MainActivity.java" timestamp="1542185944436">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1541143408484">
         <mark key="[" line="10" column="0" />
       </file>
@@ -82,6 +87,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542185880698">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="/Clipboard.txt" timestamp="1540861788177">
         <mark key="[" line="0" column="0" />
@@ -142,6 +153,11 @@
         <mark key="^" line="395" column="89" />
         <mark key="." line="395" column="89" />
       </file>
+      <file name="$USER_HOME$/Desktop/2048-android/app/build.gradle" timestamp="1542185781409">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1541857630821">
         <mark key="'" line="807" column="29" />
         <mark key="[" line="203" column="0" />
@@ -159,7 +175,7 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1541734238336">
+      <file name="/fragment.java" timestamp="1542185257290">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -266,14 +282,14 @@
       <jump line="807" column="29" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>AppTheme</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>AppTheme</text>
       </register>
       <register name="/" type="4">
         <text>init_ad_list</text>
@@ -291,37 +307,37 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uU2F2ZUluc3RhbmNlU3RhdGUoQnVuZGxlIG91dFN0YXRlKSB7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hY3JhLmFubm90YXRpb24uKjsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hY3JhLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtV2ViVmlldy5zYXZlU3RhdGUob3V0U3RhdGUpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlBQ1JBLmluaXQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlcG9ydHNDcmFzaGVzKGZvcm1LZXkgPSAiZEhaRmNtTjJVRnB4WnpOc1MxRXdSSFpOV0RWTlozYzZNUSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnNwYWNlQXNzYXVsdCcK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY2FwdGNoYUxvZyhtQ29udGV4dCwgImVudGVyIiwgdXJsMCwgIiIsICIiKTsJCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uU2F2ZUluc3RhbmNlU3RhdGUoQnVuZGxlIG91dFN0YXRlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
