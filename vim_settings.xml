@@ -31,11 +31,11 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/taa/src/main/java/com/hunt/pilot/cao/taa/MainActivity.java" timestamp="1542630277200">
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="35" column="30" />
-        <mark key="^" line="35" column="30" />
-        <mark key="." line="35" column="30" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/taa/src/main/java/com/hunt/pilot/cao/taa/MainActivity.java" timestamp="1542631631213">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="18" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/assets/f" timestamp="1540893592988">
         <mark key="[" line="0" column="0" />
@@ -117,11 +117,12 @@
         <mark key="]" line="110" column="41" />
         <mark key="." line="110" column="41" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/hjq/permissions/XXPermissions.java" timestamp="1542628777078">
-        <mark key="[" line="133" column="107" />
-        <mark key="]" line="133" column="107" />
-        <mark key="." line="133" column="107" />
-        <mark key="^" line="133" column="109" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/hjq/permissions/XXPermissions.java" timestamp="1542631564441">
+        <mark key="'" line="136" column="4" />
+        <mark key="[" line="139" column="47" />
+        <mark key="]" line="258" column="18" />
+        <mark key="." line="258" column="18" />
+        <mark key="^" line="258" column="18" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/UploadInfoUtil.java" timestamp="1541858320103">
         <mark key="[" line="243" column="0" />
@@ -152,11 +153,11 @@
         <mark key="]" line="30" column="31" />
         <mark key="." line="30" column="31" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/taa/src/main/AndroidManifest.xml" timestamp="1542629932626">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="4" column="76" />
-        <mark key="^" line="4" column="76" />
-        <mark key="." line="4" column="76" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/taa/src/main/AndroidManifest.xml" timestamp="1542632062150">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="76" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1542627146389">
         <mark key="[" line="0" column="0" />
@@ -194,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="667" column="14" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
       <jump line="669" column="25" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
       <jump line="672" column="21" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
       <jump line="673" column="16" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
@@ -294,64 +294,65 @@
       <jump line="807" column="29" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="37" column="3" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" />
       <jump line="23" column="0" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" />
+      <jump line="136" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/hjq/permissions/XXPermissions.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>init_ad_list</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcyBzaGFyZWRQcmVmZXJlbmNlcyA9IGNvbnRleHQuZ2V0U2hhcmVkUHJlZmVyZW5jZXMoInVwIiwgMCk7IAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpc0RlZmluZWRQZXJtaXNzaW9uKCJhbmRyb2lkLnBlcm1pc3Npb24uU0VORF9TTVMiKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgidGVzdCIsIHJlcXVlc3RlZFBlcm1pc3Npb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYWNrYWdlTWFuYWdlciBwbSA9IGdldFBhY2thZ2VNYW5hZ2VyKCk7Cg==</text>
+        <text encoding="base64">CQlBY3Rpdml0eUluZm8gaW5mbyA9IG1BY3Rpdml0eS5nZXRQYWNrYWdlTWFuYWdlcigpLmdldFBlcm1pc3Npb25JbmZvKCJhbmRyb2lkLnBlcm1pc3Npb24uU0VORF9TTVMiLCBQZXJtaXNzaW9uSW5mby5QUk9URUNUSU9OX05PUk1BTCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZighbWF0Y2gpdGhyb3cgbmV3IEV4Y2VwdGlvbihwZXJtICsgIiBpcyB1bmRlZmluZWQiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWF0Y2g7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZighbWF0Y2gpdGhyb3cgbmV3IEV4Y2VwdGlvbihwZXJtICsgIiBpcyB1bmRlZmluZWQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uU0VORF9TTVMiLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgidGVzdCIsIHJlcXVlc3RlZFBlcm1pc3Npb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoInRlc3QiLCAiQXBwOiAiICsgYXBwbGljYXRpb25JbmZvLm5hbWUgKyAiIFBhY2thZ2U6ICIgKyBhcHBsaWNhdGlvbkluZm8ucGFja2FnZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
