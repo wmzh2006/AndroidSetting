@@ -15,7 +15,7 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1542718367478">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1542721561955">
         <mark key="[" line="77" column="23" />
         <mark key="]" line="77" column="30" />
         <mark key="." line="77" column="0" />
@@ -88,13 +88,6 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1542634558404" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1541857133169">
         <mark key="[" line="185" column="17" />
-      </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" timestamp="1542202209302">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="37" column="3" />
-        <mark key="]" line="37" column="3" />
-        <mark key="^" line="37" column="22" />
-        <mark key="." line="37" column="3" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/main-plugin-cc/AndroidManifest.xml" timestamp="1542627971714" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
@@ -184,7 +177,7 @@
       <file name="/Dummy.txt" timestamp="1542627146389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542719078245">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542721736606">
         <mark key="[" line="666" column="15" />
         <mark key="]" line="666" column="15" />
         <mark key="^" line="669" column="4" />
@@ -216,6 +209,12 @@
       </file>
       <file name="/fragment.java" timestamp="1542185257290">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1542721891749">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="40" column="60" />
+        <mark key="^" line="40" column="62" />
+        <mark key="." line="40" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -322,13 +321,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>context</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>init_ad_list</text>
