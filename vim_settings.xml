@@ -194,11 +194,11 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542700614855">
-        <mark key="[" line="247" column="23" />
-        <mark key="]" line="248" column="29" />
-        <mark key="." line="248" column="29" />
-        <mark key="^" line="247" column="23" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542701576996">
+        <mark key="[" line="240" column="54" />
+        <mark key="]" line="240" column="54" />
+        <mark key="^" line="233" column="70" />
+        <mark key="." line="240" column="54" />
       </file>
       <file name="/fragment.java" timestamp="1542185257290">
         <mark key="[" line="0" column="0" />
@@ -308,13 +308,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>matcher.group(1)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>matcher.group(1)</text>
       </register>
       <register name="/" type="4">
         <text>init_ad_list</text>
@@ -326,43 +326,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENoYXJTZXF1ZW5jZSBpbnB1dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1hdGNoZXIuZmluZCgpKXsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGNoZXIgbWF0Y2hlciA9IHBhdHRlcm4ubWF0Y2hlcihzb3VyY2UpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZSgiLiooXFx7LipcXH0pOyIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJpcCIsICkK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJpcCIsIG5ldyBTdHJpbmcoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlBY3Rpdml0eUluZm8gaW5mbyA9IG1BY3Rpdml0eS5nZXRQYWNrYWdlTWFuYWdlcigpLmdldFBlcm1pc3Npb25JbmZvKCJhbmRyb2lkLnBlcm1pc3Npb24uU0VORF9TTVMiLCBQZXJtaXNzaW9uSW5mby5QUk9URUNUSU9OX05PUk1BTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
