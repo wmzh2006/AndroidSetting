@@ -170,11 +170,11 @@
       <file name="/Dummy.txt" timestamp="1542627146389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542200964659">
-        <mark key="[" line="246" column="96" />
-        <mark key="]" line="246" column="96" />
-        <mark key="^" line="248" column="5" />
-        <mark key="." line="246" column="96" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542704629562">
+        <mark key="[" line="720" column="60" />
+        <mark key="]" line="720" column="70" />
+        <mark key="^" line="716" column="48" />
+        <mark key="." line="720" column="60" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-android/app/build.gradle" timestamp="1542185781409">
         <mark key="[" line="8" column="21" />
@@ -194,11 +194,11 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542701576996">
-        <mark key="[" line="240" column="54" />
-        <mark key="]" line="240" column="54" />
-        <mark key="^" line="233" column="70" />
-        <mark key="." line="240" column="54" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542703771381">
+        <mark key="[" line="271" column="7" />
+        <mark key="]" line="271" column="7" />
+        <mark key="." line="271" column="7" />
+        <mark key="^" line="159" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1542185257290">
         <mark key="[" line="0" column="0" />
@@ -308,61 +308,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>matcher.group(1)</text>
+        <text>fail</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>matcher.group(1)</text>
+        <text>fail</text>
       </register>
       <register name="/" type="4">
         <text>init_ad_list</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAic2VuZG1zZ18zIiwgIiIsICIiK2UudG9TdHJpbmcoKSwgIiIpOwo=</text>
+      <register name="0" type="4">
+        <text>parserfail</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjYXBfc3VjIiwgIiIsIiIrIl9lc2M6IisoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCktc3RhcnQpLzEwMDAsICIiK3ZhbHVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1hdGNoZXIuZmluZCgpKXsK</text>
+        <text encoding="base64">CQkJCQkJCQlMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgImNhcF9zdWMiLCAiIiwiIisiX2VzYzoiKyhTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKS1zdGFydCkvMTAwMCwgIiIrdmFsdWUpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGNoZXIgbWF0Y2hlciA9IHBhdHRlcm4ubWF0Y2hlcihzb3VyY2UpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IFRocmVhZCB0ID0gbmV3IFRocmVhZChodHRwUnVubmVyKTsKICAgICAgICB0cnkgewogICAgICAgICAgICB0LmpvaW4oKTsKICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHQuc3RhcnQoKTs=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZSgiLiooXFx7LipcXH0pOyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXBbMF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJpcCIsICkK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdbXSBpcCA9IHtudWxsfTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJpcCIsIG5ldyBTdHJpbmcoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0LnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdGltZSA9IDAgOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgdGltZSsrOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0gd2hpbGUgKHRpbWUgPCAzICYmIFRleHRVdGlscy5pc0VtcHR5KGlwKSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkbyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
