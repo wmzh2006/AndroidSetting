@@ -194,11 +194,12 @@
       <file name="/Dummy.txt" timestamp="1542627146389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542889209254">
-        <mark key="[" line="718" column="0" />
-        <mark key="]" line="497" column="16" />
-        <mark key="^" line="497" column="16" />
-        <mark key="." line="497" column="16" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542895314756">
+        <mark key="'" line="774" column="47" />
+        <mark key="[" line="774" column="47" />
+        <mark key="]" line="774" column="61" />
+        <mark key="^" line="774" column="61" />
+        <mark key="." line="774" column="61" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-android/app/build.gradle" timestamp="1542185781409">
         <mark key="[" line="8" column="21" />
@@ -237,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1629" column="24" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="1733" column="19" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="1445" column="52" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="94" column="13" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
@@ -337,16 +337,17 @@
       <jump line="295" column="49" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
       <jump line="273" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
       <jump line="8" column="3" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/res/layout/activity_main.xml" />
+      <jump line="774" column="47" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>cap_ret_fail_4</text>
@@ -358,43 +359,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">CQkJSlNPTk9iamVjdCBvYmplY3QgPSBuZXcgSlNPTk9iamVjdChTdHJpbmcudmFsdWVPZihkYXRhKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXAgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXAgPSAiIjsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1laSA9IFBob25lVXRpbC5nZXRJbWVpKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1laSA9IFBob25lVXRpbC5nZXRJbWVpKGNvbnRleHQpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1laSA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9ICIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicmVjZWl2ZW1zZyIsICIiLCAiIiArIHNtc0RhdGEuZ2V0Q29udGVudCgpLCAiIiArIHNtc0RhdGEuZ2V0U2VuZGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1laSA9ICIiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICIiICsgU01TTE9HKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicmVjZWl2ZW1zZyIsICIiLCAiIiArIHNtc0RhdGEuZ2V0Q29udGVudCgpLCAiIiArIHNtc0RhdGEuZ2V0U2VuZGVyKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIFNNU0xPRyA9ICJbytW1vbbM0MVdIiArIHNtc0RhdGEuZ2V0VXJpKCkgKyAiPSIgKyBzbXNEYXRhLmdldEludFR5cGUoKSArICI9IiArIHNtc0RhdGEuZ2V0RGF0ZSgpICsgIjpcbiIgKyBzbXNEYXRhLmdldFNlbmRlcigpICsgIiA6XG4iICsgc21zRGF0YS5nZXRDb250ZW50KCkgKyAiXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICIiICsgU01TTE9HKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
