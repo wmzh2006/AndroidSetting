@@ -122,9 +122,17 @@
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" timestamp="1542877482318">
+        <mark key="'" line="250" column="12" />
+        <mark key="[" line="269" column="30" />
+        <mark key="]" line="269" column="35" />
+        <mark key="." line="269" column="35" />
+        <mark key="^" line="269" column="35" />
+      </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/libs/sms-plugin-lib.jar!/com/hjq/permissions/PermissionDumpActivity.class" timestamp="1542876177250" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
       </file>
@@ -147,6 +155,12 @@
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/AndroidManifest.xml" timestamp="1542876252854">
+        <mark key="[" line="25" column="75" />
+        <mark key="]" line="25" column="75" />
+        <mark key="^" line="25" column="92" />
+        <mark key="." line="25" column="75" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
@@ -202,6 +216,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1542635867392" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1542875993740" />
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
@@ -211,13 +226,13 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542874928943">
-        <mark key="[" line="175" column="116" />
-        <mark key="]" line="176" column="41" />
-        <mark key="." line="176" column="41" />
-        <mark key="^" line="176" column="41" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542875982054">
+        <mark key="[" line="171" column="9" />
+        <mark key="]" line="172" column="22" />
+        <mark key="." line="172" column="22" />
+        <mark key="^" line="172" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1542868511219">
+      <file name="/fragment.java" timestamp="1542875621073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1542781224335">
@@ -228,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="672" column="21" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
-      <jump line="673" column="16" filename="E:/tools/android/sources/android-27/android/content/res/AssetManager.java" />
       <jump line="38" column="32" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLogic.java" />
       <jump line="1629" column="24" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="1733" column="19" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
@@ -328,64 +341,66 @@
       <jump line="23" column="0" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" />
       <jump line="136" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/hjq/permissions/XXPermissions.java" />
       <jump line="149" column="80" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="295" column="49" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
+      <jump line="273" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtc2cpCg==</text>
+      <register name="&quot;" type="4">
+        <text>failed</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1zaSA=</text>
+        <text>failed</text>
       </register>
       <register name="/" type="4">
         <text>cap_ret_fail_4</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TkRBNU1URTFORGt4TlRBd05qTTJORFpmTkRBME9UZzVPRGsyT0RjeU9ESXpYekl5TXk0eE9EUXVNVGMxTGo9PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJUQUciLCBuZXcgU3RyaW5nKHJhdykpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtc2cpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicmVjZWl2ZW1zZyIsICIiLCAiIiArIHNtc0RhdGEuZ2V0Q29udGVudCgpLCAiIiArIHNtc0RhdGEuZ2V0U2VuZGVyKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICIiICsgU01TTE9HKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIFNNU0xPRyA9ICJbytW1vbbM0MVdIiArIHNtc0RhdGEuZ2V0VXJpKCkgKyAiPSIgKyBzbXNEYXRhLmdldEludFR5cGUoKSArICI9IiArIHNtc0RhdGEuZ2V0RGF0ZSgpICsgIjpcbiIgKyBzbXNEYXRhLmdldFNlbmRlcigpICsgIiA6XG4iICsgc21zRGF0YS5nZXRDb250ZW50KCkgKyAiXG4iOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLzAxMjM0NTY3ODAuXwogICAgICAgIC8vYWJjZGVmZ2hpamtsCiAgICAgICAgU3RyaW5nIG4gPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIFNNU2NvZGUgPSAi0enWpMLrob4iICsgY29kZSArICKhvyI7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">NDA5MTE1NDkxNTAwNjM2NDZfNDA0OTg5ODk2ODcyODIzXzIyMy4xODQuMTc1Lj09Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgaWYgKGNvbnRlbnQgIT0gbnVsbCAmJiBjb250ZW50LnN0YXJ0c1dpdGgoImphdmEubGFuZy5TZWN1cml0eUV4Y2VwdGlvbiIpKSB7CiAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicmVjZWl2ZW1zZ19lcnIiLCAiIiwgIiIgKyBzbXNEYXRhLmdldENvbnRlbnQoKSwgIiIgKyBzbXNEYXRhLmdldFNlbmRlcigpKTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHJpbmcgY29kZSA9IFNtc1dyaXRlT3BVdGlsLmdldENvZGVGcm9tU21zKHNtc0RhdGEuZ2V0U2VuZGVyKCksIHNtc0RhdGEuZ2V0Q29udGVudCgpKTsKICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShjb2RlKSkgewogICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgidmFsdWUiLCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQobUNvbnRleHQsICJjYXBfc3VjIiwgIiIsIiIrIl9lc2M6IisoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCktc3RhcnQpLzEwMDAsICIiK3ZhbHVlKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgLyogICB0cnkgewogICAgICAgIC8vICAgIGlmIChCdWlsZC5NT0RFTC5lcXVhbHMoIkVsaXRlIFNlbnNlIikgfHwgQnVpbGQuTU9ERUwuZXF1YWxzKCJUUlQtQUwwMCIpKSB7CiAgICAgICAgCSAJT2JqZWN0IG1NYWluVGhyZWFkT2JqZWN0IAkJPSAgUmVmbGVjdC5vbihjb250ZXh0KS5nZXQoIm1NYWluVGhyZWFkIik7CiAgICAgICAgCSAJT2JqZWN0IGdldEluc3RydW1lbnRhdGlvbk9iamVjdCA9ICBSZWZsZWN0Lm9uKG1NYWluVGhyZWFkT2JqZWN0KS5jYWxsKCJnZXRJbnN0cnVtZW50YXRpb24iKS5nZXQoKTsgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgInN0YXJ0QWN0aXZpdHlfVGVzdF9iZiIsICIiICsgbU1haW5UaHJlYWRPYmplY3QsICIiICtnZXRJbnN0cnVtZW50YXRpb25PYmplY3QsICIiKTsgICAgCiAgICAgICAgICAgICAgICBJbnRlbnQgc3RhcnRJbnRlbnQgPSBuZXcgSW50ZW50KGNvbnRleHQsIGMyLmNsYXNzKTsKICAgICAgICAgICAgICAgIHN0YXJ0SW50ZW50LnNldEZsYWdzKDI2ODQzNTQ1Nik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgY29udGV4dC5zdGFydEFjdGl2aXR5KHN0YXJ0SW50ZW50KTsgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAic3RhcnRBY3Rpdml0eV9UZXN0X2FmIiwgIiIsICIiLCAiIik7ICAKICAgICAgICAvLyAgICB9CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAJU3RyaW5nIGdldFN0YWNrVHJhY2UJID0gU3RhY2tUcmFjZUhlbHBlci5nZXRTdGFja1RyYWNlKGUpOwogICAgICAgIAlpZiAoZ2V0U3RhY2tUcmFjZS5jb250YWlucygiYWN0aXZpdHkgaW4geW91ciBBbmRyb2lkTWFuaWZlc3QueG1sPyIpKXsKICAgICAgICAgICAgICAgIENvbnRleHQgZ2V0UmVhbENvbnRleHQgPSBIb3N0VXRpbC5nZXRSZWFsQ29udGV4dChjb250ZXh0KTsKICAgICAgICAJCVN0cmluZyBhbGxhY3Rpdml5dFN0cmluZyA9IG9idGFpbkFsbEFjdGl2aXRpZShnZXRSZWFsQ29udGV4dCk7CiAgICAgICAgICAgIAlnZXRTdGFja1RyYWNlCSA9IEJ1aWxkLlZFUlNJT04uU0RLX0lOVCArICJbVCIrIGdldFJlYWxDb250ZXh0LmdldEFwcGxpY2F0aW9uSW5mbygpLnRhcmdldFNka1ZlcnNpb24gKyJdIisgYWxsYWN0aXZpeXRTdHJpbmcgKyBnZXRTdGFja1RyYWNlOwogICAgICAgIAl9CiAgICAgICAgICAgIExvZy5lKCJUQUciLCAicmVxdWVzdFBlcm1pc3Npb25zOiAiKyBnZXRTdGFja1RyYWNlICk7CiAgICAgICAgCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJFeGNlcHRpb25fc3RhcnRBY3Rpdml0eV9UZXN0X2FmIiwgIiIrZSwgIiIrZS5nZXRNZXNzYWdlKCksIGdldFN0YWNrVHJhY2UpOwogICAgICAgIH0gICAgICov</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQlMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgImNhcF9zdWMiLCAiIiwiIisiX2VzYzoiKyhTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKS1zdGFydCkvMTAwMCwgIiIrdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIsb0tq+2zNDFvODM/bf+zvEiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
