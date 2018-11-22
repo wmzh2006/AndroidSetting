@@ -177,11 +177,11 @@
       <file name="/Dummy.txt" timestamp="1542627146389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542802858444">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1542859300687">
         <mark key="[" line="666" column="15" />
-        <mark key="]" line="666" column="15" />
-        <mark key="^" line="669" column="4" />
-        <mark key="." line="666" column="15" />
+        <mark key="]" line="496" column="16" />
+        <mark key="^" line="496" column="16" />
+        <mark key="." line="496" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-android/app/build.gradle" timestamp="1542185781409">
         <mark key="[" line="8" column="21" />
@@ -330,7 +330,7 @@
         <text>！</text>
       </register>
       <register name="/" type="4">
-        <text>init_ad_list</text>
+        <text>cap_ret_fail_4</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJUQUciLCAit6K2zNDFs8m5pqOhIiArIHMpOwo=</text>
@@ -382,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>init_ad_list</last-search>
+      <last-search>cap_ret_fail_4</last-search>
       <last-offset />
-      <last-pattern>init_ad_list</last-pattern>
+      <last-pattern>cap_ret_fail_4</last-pattern>
       <last-replace />
       <last-substitute>@NonNull</last-substitute>
       <last-dir>1</last-dir>
@@ -392,8 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
-        <entry encoding="base64">XDxSZXNvdXJjZXNcPg==</entry>
         <entry encoding="base64">XDxFVkVOVF9vbkNyZWF0ZU1zZ1w+</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry encoding="base64">XDxnZXRNeUlubmVyU3RyXD4=</entry>
@@ -412,6 +410,8 @@
         <entry>share</entry>
         <entry>unlickLike</entry>
         <entry>init_ad_list</entry>
+        <entry>cap_ret_fail_1</entry>
+        <entry>cap_ret_fail_4</entry>
       </history-search>
       <history-cmd>
         <entry>%s/else//gn</entry>
