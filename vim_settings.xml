@@ -20,7 +20,7 @@
         <mark key="]" line="77" column="30" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1541662439366">
+      <file name="/a.dummy" timestamp="1542974476449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
@@ -190,21 +190,21 @@
         <mark key="." line="48" column="54" />
         <mark key="^" line="48" column="54" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542972424935">
-        <mark key="'" line="341" column="64" />
-        <mark key="[" line="137" column="16" />
-        <mark key="]" line="137" column="21" />
-        <mark key="^" line="137" column="21" />
-        <mark key="." line="137" column="21" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1542974772239">
+        <mark key="'" line="173" column="8" />
+        <mark key="[" line="154" column="32" />
+        <mark key="]" line="143" column="28" />
+        <mark key="." line="143" column="28" />
+        <mark key="^" line="143" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1542875621073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1542889055148">
-        <mark key="[" line="42" column="60" />
-        <mark key="]" line="42" column="60" />
-        <mark key="^" line="42" column="63" />
-        <mark key="." line="42" column="60" />
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="39" column="63" />
+        <mark key="." line="39" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.txt" timestamp="1542958827530">
         <mark key="[" line="4" column="3" />
@@ -214,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="64" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
-      <jump line="166" column="30" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="171" column="18" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="173" column="12" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="175" column="26" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
@@ -314,16 +312,18 @@
       <jump line="6" column="31" filename="D:/AndroidStudioProjects/PrizeClaw/app/src/main/AndroidManifest.xml" />
       <jump line="3" column="0" filename="D:/AndroidStudioProjects/PrizeClaw/app/src/main/AndroidManifest.xml" />
       <jump line="13" column="4" filename="D:/AndroidStudioProjects/PrizeClaw/app/src/main/AndroidManifest.xml" />
+      <jump line="170" column="30" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="185" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>先判读是否</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>先判读是否</text>
       </register>
       <register name="/" type="4">
         <text>\(android\..*\)</text>
@@ -335,40 +335,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5lZWRTZW5nTXNnID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL8/IxdC2wcrHt/EK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGN1clZlcmlvbiA9IEpTQXV0b0NvbmZpZy51cGRhdGV2ZXJzaW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgaXAgPSAiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBuZWVkU2VuZE1zZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbmVlZFNlbmdNc2cgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNOZWVkU2VuZE1zZygpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIG5lZWRvYnRhaW5QaG9uZU51bSA9IGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
