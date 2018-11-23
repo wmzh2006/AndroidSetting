@@ -14,12 +14,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/java/com/hunt/pilot/cao/demo2/MainActivity.java" timestamp="1542202605958">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="29" />
-        <mark key="^" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1542889017833">
         <mark key="[" line="77" column="23" />
         <mark key="]" line="77" column="30" />
@@ -40,12 +34,6 @@
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1542635836653">
-        <mark key="[" line="143" column="75" />
-        <mark key="]" line="143" column="74" />
-        <mark key="^" line="143" column="75" />
-        <mark key="." line="143" column="74" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/taa/src/main/java/com/hunt/pilot/cao/taa/MainActivity.java" timestamp="1542631631213">
         <mark key="[" line="23" column="18" />
@@ -124,12 +112,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542185880698">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="29" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1540861788177">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,6 +174,7 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/test/build.gradle" timestamp="1541663780984">
         <mark key="[" line="8" column="31" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/AESUtil.class" timestamp="1542955433586" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/AndroidAppProcess.java" timestamp="1541773595440">
         <mark key="[" line="30" column="31" />
         <mark key="]" line="30" column="31" />
@@ -238,17 +221,10 @@
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/build.gradle" timestamp="1542201252046">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1542955052214">
-        <mark key="[" line="52" column="55" />
-        <mark key="]" line="52" column="18" />
-        <mark key="." line="52" column="18" />
-        <mark key="^" line="52" column="18" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1542955500084">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="6" />
+        <mark key="." line="53" column="6" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/res/layout/activity_main.xml" timestamp="1542877646998">
         <mark key="'" line="8" column="3" />
@@ -377,13 +353,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Decrypt</text>
+        <text encoding="base64">ICB0cnkgewogICAgICAgICAgICBTdHJpbmcgYSA9IEFFU1V0aWwuZGVjcnlwdCgoU3RyaW5nKSBtYXAuZ2V0KCJzaWduIiksIG5ldyBTdHJpbmcoZCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Decrypt</text>
+        <text>new String(d)</text>
       </register>
       <register name="/" type="4">
         <text>cap_ret_fail_4</text>
@@ -394,44 +370,44 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1nZSA9IGpzb25PYmplY3QuZ2V0U3RyaW5nKCJpbWFnZSIpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICB0cnkgewogICAgICAgICAgICBTdHJpbmcgYSA9IEFFU1V0aWwuZGVjcnlwdCgoU3RyaW5nKSBtYXAuZ2V0KCJzaWduIiksIG5ldyBTdHJpbmcoZCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJSlNPTk9iamVjdCBvYmplY3QgPSBuZXcgSlNPTk9iamVjdChTdHJpbmcudmFsdWVPZihkYXRhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsIGEpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgYSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXAgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1nZSA9IGpzb25PYmplY3QuZ2V0U3RyaW5nKCJpbWFnZSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">CQkJSlNPTk9iamVjdCBvYmplY3QgPSBuZXcgSlNPTk9iamVjdChTdHJpbmcudmFsdWVPZihkYXRhKSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1laSA9IFBob25lVXRpbC5nZXRJbWVpKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaXAgPSAiIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1laSA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1zaSA9IFBob25lVXRpbC5nZXRJbXNpKGNvbnRleHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicmVjZWl2ZW1zZyIsICIiLCAiIiArIHNtc0RhdGEuZ2V0Q29udGVudCgpLCAiIiArIHNtc0RhdGEuZ2V0U2VuZGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW1laSA9IFBob25lVXRpbC5nZXRJbWVpKGNvbnRleHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/@NonNull//gc</text>
