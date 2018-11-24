@@ -183,12 +183,11 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1542967342125">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1543031345194">
         <mark key="'" line="46" column="34" />
-        <mark key="[" line="48" column="56" />
-        <mark key="]" line="48" column="54" />
-        <mark key="." line="48" column="54" />
-        <mark key="^" line="48" column="54" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1543030227846">
         <mark key="'" line="167" column="14" />
@@ -316,14 +315,14 @@
       <jump line="170" column="14" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgInBob246IiArIHBob24pOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">U3RyaW5nIHBob24gPSA=</text>
       </register>
       <register name="/" type="4">
         <text>\(android\..*\)</text>
@@ -335,40 +334,40 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwUnVubmVyIHJ1bm5lciA9IG5ldyBIdHRwUnVubmVyKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiaHR0cDovLzUyLjIyMS43LjM0OjgwODcvc21zL3NlYXJjaE1lc3M9Iikpewo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgInBob246IiArIHBob24pOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzdHJSZXQgPSBuZXcgU3RyaW5nKHJhdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwUnVubmVyIHJ1bm5lciA9IG5ldyBIdHRwUnVubmVyKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiaHR0cDovLzUyLjIyMS43LjM0OjgwODcvc21zL3NlYXJjaE1lc3M9Iikpewo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJUQUciLCBuZXcgU3RyaW5nKHJhdykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzdHJSZXQgPSBuZXcgU3RyaW5nKHJhdyk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU0F1dG9Db25maWcucGhvbmVOdW1iZXIgPSBzdHJSZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJUQUciLCBuZXcgU3RyaW5nKHJhdykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU0F1dG9Db25maWcucGhvbmVOdW1iZXIgPSBzdHJSZXQ7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghVGV4dFV0aWxzLmlzRW1wdHkoc3RyUmV0KSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGh0dHA6Ly8xMC4xMy4xLjY6ODA4MC9zbXMvc2VhcmNoTWVzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghVGV4dFV0aWxzLmlzRW1wdHkoc3RyUmV0KSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGh0dHA6Ly8xMC4xMy4xLjY6ODA4MC9zbXMvc2VhcmNoTWVzcwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
