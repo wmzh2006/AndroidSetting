@@ -62,16 +62,16 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/app/src/androidTest/java/com/test/project/ExampleInstrumentedTest.java" timestamp="1543195526215">
-        <mark key="[" line="65" column="61" />
-        <mark key="]" line="65" column="62" />
-        <mark key="." line="65" column="62" />
-        <mark key="^" line="65" column="61" />
+      <file name="E:/AndroidStudioProjects/Project/app/src/androidTest/java/com/test/project/ExampleInstrumentedTest.java" timestamp="1543199126170">
+        <mark key="[" line="66" column="60" />
+        <mark key="]" line="66" column="60" />
+        <mark key="." line="66" column="60" />
+        <mark key="^" line="63" column="53" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1543195616822">
-        <mark key="[" line="44" column="68" />
-        <mark key="]" line="44" column="69" />
-        <mark key="." line="44" column="69" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1543199369145">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/build.gradle" timestamp="1543059528463" />
       <file name="/Clipboard.txt" timestamp="1540861788177">
@@ -299,13 +299,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL2RsLmFwcG5leHQuY29tLyIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNvTmV3TmFtZSA9IC8vU1RSX2puaSArIHBhY2thZ2VOYW1lLnJlcGxhY2VBbGwoU1RSX0RJUl9Qb2ksIiIpOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIHBob24gPSA=</text>
+        <text>&quot;cool&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\(android\..*\)</text>
@@ -317,43 +317,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL2RsLmFwcG5leHQuY29tLyIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNvTmV3TmFtZSA9IC8vU1RSX2puaSArIHBhY2thZ2VOYW1lLnJlcGxhY2VBbGwoU1RSX0RJUl9Qb2ksIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL2RsLmFwcG5leHQuY29tLyIgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZW5jb2RlID0gdG94b3IobGliTmFtZSwga2V5KTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL2RsLmFwcG5leHQuY29tLyIgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlycyAnbGlicycK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAiaHR0cDovL2RsLmFwcG5leHQuY29tLyIgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbGF0RGlyIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0LnNldE5hbWUoIm9idGFpbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlycyAnbGlicycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgY2lwICA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbGF0RGlyIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgInBob246IiArIHBob24pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0LnNldE5hbWUoIm9idGFpbiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwUnVubmVyIHJ1bm5lciA9IG5ldyBIdHRwUnVubmVyKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiaHR0cDovLzUyLjIyMS43LjM0OjgwODcvc21zL3NlYXJjaE1lc3M9Iikpewo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgY2lwICA9ICIiOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">NCwxNCBzL1woYW5kcm9pZFwuLipcKS9cPHVzZXItcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9IlwxIlwvPi9n</text>
