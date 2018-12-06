@@ -31,6 +31,9 @@
         <mark key="]" line="77" column="30" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="/AndroidManifest.xml" timestamp="1544081049850">
+        <mark key="'" line="32" column="9" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" timestamp="1541732609170">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -107,12 +110,6 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/2048-android/app/src/main/java/com/estar/pro2048/MainActivity.java" timestamp="1543226874388">
-        <mark key="'" line="70" column="19" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1541143408484">
         <mark key="[" line="10" column="0" />
@@ -299,12 +296,6 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1543031345194">
-        <mark key="'" line="46" column="34" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1543559735223">
         <mark key="[" line="242" column="79" />
         <mark key="]" line="242" column="54" />
@@ -334,8 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="12" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
-      <jump line="175" column="26" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="200" column="20" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="203" column="19" filename="E:/tools/android/sources/android-25/android/content/res/Resources.java" />
       <jump line="542" column="12" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" />
@@ -434,6 +423,8 @@
       <jump line="185" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="170" column="14" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="70" column="19" filename="$USER_HOME$/Desktop/2048-android/app/src/main/java/com/estar/pro2048/MainActivity.java" />
+      <jump line="25" column="52" filename="/AndroidManifest.xml" />
+      <jump line="32" column="9" filename="/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -446,7 +437,7 @@
         <text>style/AppTheme</text>
       </register>
       <register name="/" type="4">
-        <text>\(android\..*\)</text>
+        <text>meta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgidGFnIiwgImEuLi4uIik7IAo=</text>
@@ -498,9 +489,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\(android\..*\)</last-search>
+      <last-search>meta</last-search>
       <last-offset />
-      <last-pattern>\(android\..*\)</last-pattern>
+      <last-pattern>meta</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -508,7 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNyZWF0ZVByb3h5XD4=</entry>
         <entry encoding="base64">XDx0YWdfYXBrQXBwbGljYXRpb25cPg==</entry>
         <entry encoding="base64">XDxhcGtBcHBsaWNhdGlvblw+</entry>
         <entry>input</entry>
@@ -528,6 +518,7 @@
         <entry>cap_err_1</entry>
         <entry>(android\..*)</entry>
         <entry>\(android\..*\)</entry>
+        <entry>meta</entry>
       </history-search>
       <history-cmd>
         <entry>0,$ d</entry>
