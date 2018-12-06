@@ -80,7 +80,7 @@
         <mark key="^" line="149" column="95" />
         <mark key="." line="149" column="32" />
       </file>
-      <file name="/LLDB" timestamp="1543195539495">
+      <file name="/LLDB" timestamp="1544084165302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-android/app/src/main/res/values/strings.xml" timestamp="1543224305550">
@@ -151,6 +151,7 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="17" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1544084475492" />
       <file name="$USER_HOME$/Desktop/2048-android/app/src/main/AndroidManifest.xml" timestamp="1543237810661">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="25" column="0" />
@@ -230,6 +231,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1544083929443">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="78" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
@@ -245,6 +251,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1544085275339" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/AndroidAppProcess.java" timestamp="1541773595440">
         <mark key="[" line="30" column="31" />
         <mark key="]" line="30" column="31" />
@@ -261,7 +268,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542627146389">
+      <file name="/Dummy.txt" timestamp="1544084809997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-android/app/build.gradle" timestamp="1543229320925">
@@ -272,6 +279,7 @@
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1544084819286" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.txt" timestamp="1542868812164">
         <mark key="[" line="2" column="46" />
         <mark key="]" line="3" column="0" />
@@ -427,8 +435,8 @@
       <jump line="32" column="9" filename="/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>style/AppTheme</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPG1ldGEtZGF0YSBhbmRyb2lkOm5hbWU9Im1ldGFfZmtjYmFsYSIgYW5kcm9pZDp2YWx1ZT0iMTA0NjUzIi8+LS0+Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -440,7 +448,7 @@
         <text>meta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgidGFnIiwgImEuLi4uIik7IAo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPG1ldGEtZGF0YSBhbmRyb2lkOm5hbWU9Im1ldGFfZmtjYmFsYSIgYW5kcm9pZDp2YWx1ZT0iMTA0NjUzIi8+LS0+Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
