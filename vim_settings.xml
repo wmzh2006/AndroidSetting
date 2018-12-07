@@ -97,6 +97,11 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/src/f/c0.java" timestamp="1544152951436">
+        <mark key="[" line="133" column="54" />
+        <mark key="]" line="133" column="54" />
+        <mark key="." line="133" column="54" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/AndroidManifest.xml" timestamp="1543324828129">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -412,14 +417,14 @@
       <jump line="32" column="9" filename="/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPG1ldGEtZGF0YSBhbmRyb2lkOm5hbWU9Im1ldGFfZmtjYmFsYSIgYW5kcm9pZDp2YWx1ZT0iMTA0NjUzIi8+LS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>VISIBLE</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>style/AppTheme</text>
+        <text>VISIBLE</text>
       </register>
       <register name="/" type="4">
         <text>meta</text>
