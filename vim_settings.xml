@@ -348,7 +348,12 @@
       <file name="/Dummy.txt" timestamp="1544424696328">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1544509578399" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1544577971611">
+        <mark key="'" line="79" column="11" />
+        <mark key="]" line="470" column="73" />
+        <mark key="^" line="470" column="85" />
+        <mark key="." line="470" column="73" />
+      </file>
       <file name="$USER_HOME$/Desktop/2048-android/app/build.gradle" timestamp="1543229320925">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="24" />
@@ -386,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="117" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="433" column="117" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="475" column="118" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="524" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -486,19 +490,20 @@
       <jump line="632" column="14" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="634" column="11" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="51" column="27" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WMUtil.java" />
+      <jump line="78" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>updateViewLayout</text>
+        <text>.com.my</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>updateViewLayout</text>
+        <text>.com.my</text>
       </register>
       <register name="/" type="4">
-        <text>findStr</text>
+        <text>onPageStart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8jZGVmaW5lIE5FV19LRVlfV09SRCAgICAgICAgICJVc2VyLUFnZW50cy1UZXN0IiAgLy8gsdjQ682sWC1SZXF1ZXN0ZWQtV2l0aNK70fmzpCzJ2dK7uPa2vLvhyqew3Ao=</text>
@@ -550,9 +555,9 @@
       </register>
     </registers>
     <search>
-      <last-search>findStr</last-search>
+      <last-search>onPageStart</last-search>
       <last-offset />
-      <last-pattern>findStr</last-pattern>
+      <last-pattern>onPageStart</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -560,8 +565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>like comm</entry>
-        <entry encoding="base64">XDxsaWtlQW5kQ29tbWVudFw+</entry>
         <entry>sendOffermsg</entry>
         <entry>sendOfferMsg</entry>
         <entry>function</entry>
@@ -580,6 +583,8 @@
         <entry>newStr</entry>
         <entry>FIND_KEY_WORD</entry>
         <entry>findStr</entry>
+        <entry>onstart</entry>
+        <entry>onPageStart</entry>
       </history-search>
       <history-cmd>
         <entry>0,$ d</entry>
