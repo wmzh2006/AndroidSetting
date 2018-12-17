@@ -188,16 +188,17 @@
         <mark key="." line="43" column="35" />
         <mark key="^" line="43" column="35" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1544424084918" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1545016791509" />
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/build.gradle" timestamp="1544424974069" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1545012302833">
-        <mark key="[" line="165" column="40" />
-        <mark key="]" line="165" column="40" />
-        <mark key="." line="165" column="40" />
-        <mark key="^" line="165" column="45" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1545018009317">
+        <mark key="'" line="221" column="51" />
+        <mark key="[" line="221" column="47" />
+        <mark key="]" line="221" column="47" />
+        <mark key="." line="221" column="47" />
+        <mark key="^" line="221" column="81" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1544512444483">
         <mark key="[" line="144" column="37" />
@@ -378,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="544" column="116" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="15" column="21" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" />
       <jump line="32" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/bean/WebviewDefaultBean.java" />
@@ -478,19 +478,20 @@
       <jump line="39" column="3" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" />
       <jump line="1" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.txt" />
+      <jump line="221" column="51" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>msg</text>
+        <text>isAvailableSO</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>msg</text>
+        <text>isAvailableSO</text>
       </register>
       <register name="/" type="4">
-        <text>43,48 d</text>
+        <text>isZygote64_err</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJUQUciLCAiRkFJTDoiICsgbXNnKTsK</text>
@@ -542,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search>43,48 d</last-search>
+      <last-search>isZygote64_err</last-search>
       <last-offset />
-      <last-pattern>43,48 d</last-pattern>
+      <last-pattern>isZygote64_err</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendOfferMsg</entry>
         <entry>function</entry>
         <entry>mbase</entry>
         <entry>share</entry>
@@ -572,6 +572,7 @@
         <entry>onstart</entry>
         <entry>onPageStart</entry>
         <entry>43,48 d</entry>
+        <entry>isZygote64_err</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
