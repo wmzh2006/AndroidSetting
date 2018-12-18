@@ -111,6 +111,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Activityhelpserver.java" timestamp="1545100304713">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/build.gradle" timestamp="1543222239764">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -487,14 +492,14 @@
       <jump line="221" column="51" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isAvailableSO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>isAvailableSO</text>
+        <text encoding="base64">LypleHRlbmRzIEFjdGl2aXR5aW1wbGVtZW50cyBWaWV3Lk9uQ2xpY2tMaXN0ZW5lciovIA==</text>
       </register>
       <register name="/" type="4">
         <text>isZygote64_err</text>
@@ -512,37 +517,50 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImZpbGU6IiArIGZpbGUudG9TdHJpbmcoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgCiAgIC8qIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgIAlSdW50aW1lLmdldFJ1bnRpbWUoKS5sb2FkTGlicmFyeShTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpKTsKICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoU2VydmljZWhlbHBzZXJ2ZXIuY2xhc3MuZ2V0UGFja2FnZSgpLmdldE5hbWUoKSk7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgQWN0aXZpdHloZWxwc2VydmVyIGluc3RhbmNlID0gbmV3IEFjdGl2aXR5aGVscHNlcnZlcigpOwoKICAgIHB1YmxpYyBzdGF0aWMgQWN0aXZpdHloZWxwc2VydmVyIGdldEluc3RhbmNlKCkgewogICAgICAgIHN5bmNocm9uaXplZCAoQWN0aXZpdHloZWxwc2VydmVyLmNsYXNzKSB7CiAgICAgICAgICAgIGlmIChpbnN0YW5jZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBpbnN0YW5jZSA9IG5ldyBBY3Rpdml0eWhlbHBzZXJ2ZXIoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGluc3RhbmNlOwogICAgfSov</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vYXNpcy5hc3Npc3RhbnQueW8uUm9Nb2JpU2RrOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IC8qc3RhdGljIFN0cmluZyBkZGRTdHJpbmcgPSBTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpOwoJCglAT3ZlcnJpZGUKCXB1YmxpYyB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKCQlzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwoJCVNlcnZpY2VoZWxwc2VydmVyLmxvYWQodGhpcyk7CiAgICAgICAgCgkJCgl9Ki8KCQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>//        startService(new Intent(this, Servicehelpserver.class));
+        Context context = this.getApplicationContext();
+        AssetManager assetManager = context.getAssets();
+        try {
+            InputStream inputStream = assetManager.open(&quot;a&quot;);
+            int size = inputStream.available();
+            byte[] buffer = new byte[size];
+            int len = 0;
+            while ((len = inputStream.read(buffer)) != 1) {
+
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgUm9Nb2JpU2RrLmluaXQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksICIxMDQ2MzMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImZpbGU6IiArIGZpbGUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
