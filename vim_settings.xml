@@ -216,12 +216,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1545113842566">
-        <mark key="'" line="223" column="51" />
-        <mark key="[" line="216" column="72" />
-        <mark key="]" line="216" column="62" />
-        <mark key="." line="216" column="62" />
-        <mark key="^" line="216" column="62" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1545200379222">
+        <mark key="'" line="236" column="51" />
+        <mark key="[" line="220" column="52" />
+        <mark key="]" line="222" column="58" />
+        <mark key="." line="222" column="58" />
+        <mark key="^" line="222" column="58" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1544512444483">
         <mark key="[" line="144" column="37" />
@@ -330,6 +330,7 @@
         <mark key="^" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="E:/tools/android/sources/android-23/java/util/Arrays.java" timestamp="1545200414438" />
       <file name="E:/Project/DynamicLoader/tsdk/release/2018111511/readme.txt" timestamp="1542251563933">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="44" />
@@ -527,19 +528,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;104633&quot;</text>
+        <text>Arrays.asList((File[]) pathSos);</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;104633&quot;</text>
+        <text>Arrays.asList((File[]) pathSos);</text>
       </register>
       <register name="/" type="4">
         <text>isZygote64_err</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LWxpYnJhcnlqYXJzIGxpYnMvZXZlX3RyYWNlLmphcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgRmlsZVtdIGZpbGVzID0gKEZpbGVbXSkgKCgoRmllbGQpIG9iak5hdGl2ZUxpYmFyeURpcmVjb3RpcmVzKS5nZXQob2JqUGF0aExpc3QpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -556,14 +557,14 @@
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgCiAgIC8qIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgIAlSdW50aW1lLmdldFJ1bnRpbWUoKS5sb2FkTGlicmFyeShTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpKTsKICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoU2VydmljZWhlbHBzZXJ2ZXIuY2xhc3MuZ2V0UGFja2FnZSgpLmdldE5hbWUoKSk7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgQWN0aXZpdHloZWxwc2VydmVyIGluc3RhbmNlID0gbmV3IEFjdGl2aXR5aGVscHNlcnZlcigpOwoKICAgIHB1YmxpYyBzdGF0aWMgQWN0aXZpdHloZWxwc2VydmVyIGdldEluc3RhbmNlKCkgewogICAgICAgIHN5bmNocm9uaXplZCAoQWN0aXZpdHloZWxwc2VydmVyLmNsYXNzKSB7CiAgICAgICAgICAgIGlmIChpbnN0YW5jZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBpbnN0YW5jZSA9IG5ldyBBY3Rpdml0eWhlbHBzZXJ2ZXIoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGluc3RhbmNlOwogICAgfSov</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCBmaWxlc3MgPSAoKChGaWVsZCkgb2JqTmF0aXZlTGliYXJ5RGlyZWNvdGlyZXMpLmdldChvYmpQYXRoTGlzdCkpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8qc3RhdGljIFN0cmluZyBkZGRTdHJpbmcgPSBTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpOwoJCglAT3ZlcnJpZGUKCXB1YmxpYyB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKCQlzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwoJCVNlcnZpY2VoZWxwc2VydmVyLmxvYWQodGhpcyk7CiAgICAgICAgCgkJCgl9Ki8KCQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -572,6 +573,15 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgCiAgIC8qIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsKICAgIAlSdW50aW1lLmdldFJ1bnRpbWUoKS5sb2FkTGlicmFyeShTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpKTsKICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoU2VydmljZWhlbHBzZXJ2ZXIuY2xhc3MuZ2V0UGFja2FnZSgpLmdldE5hbWUoKSk7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgQWN0aXZpdHloZWxwc2VydmVyIGluc3RhbmNlID0gbmV3IEFjdGl2aXR5aGVscHNlcnZlcigpOwoKICAgIHB1YmxpYyBzdGF0aWMgQWN0aXZpdHloZWxwc2VydmVyIGdldEluc3RhbmNlKCkgewogICAgICAgIHN5bmNocm9uaXplZCAoQWN0aXZpdHloZWxwc2VydmVyLmNsYXNzKSB7CiAgICAgICAgICAgIGlmIChpbnN0YW5jZSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBpbnN0YW5jZSA9IG5ldyBBY3Rpdml0eWhlbHBzZXJ2ZXIoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGluc3RhbmNlOwogICAgfSov</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IC8qc3RhdGljIFN0cmluZyBkZGRTdHJpbmcgPSBTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpOwoJCglAT3ZlcnJpZGUKCXB1YmxpYyB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKCQlzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwoJCVNlcnZpY2VoZWxwc2VydmVyLmxvYWQodGhpcyk7CiAgICAgICAgCgkJCgl9Ki8KCQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>//        startService(new Intent(this, Servicehelpserver.class));
         Context context = this.getApplicationContext();
         AssetManager assetManager = context.getAssets();
@@ -586,15 +596,6 @@
         } catch (IOException e) {
             e.printStackTrace();
         }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImZpbGU6IiArIGZpbGUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
