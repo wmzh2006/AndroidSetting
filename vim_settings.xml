@@ -82,6 +82,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1544085912854" />
+      <file name="E:/Project/DynamicLoader/tsdk/release/2018121910/readme.txt" timestamp="1545190475550">
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+      </file>
       <file name="E:/tools/android/sources/android-23/android/view/View.java" timestamp="1544166479765" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/HttpDataUtil.java" timestamp="1544776095594" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/settings.gradle" timestamp="1541664219529">
@@ -388,6 +394,9 @@
         <mark key="." line="273" column="63" />
         <mark key="^" line="273" column="63" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/AndroidManifest.xml" timestamp="1545190463774">
+        <mark key="[" line="39" column="78" />
+      </file>
       <file name="D:/AndroidStudioProjects/Solo/app/src/main/AndroidManifest.xml" timestamp="1543478979420">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="24" />
@@ -517,14 +526,14 @@
       <jump line="221" column="51" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LWxpYnJhcnlqYXJzIGxpYnMvZXZlX3RyYWNlLmphcgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;104633&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>eve</text>
+        <text>&quot;104633&quot;</text>
       </register>
       <register name="/" type="4">
         <text>isZygote64_err</text>
