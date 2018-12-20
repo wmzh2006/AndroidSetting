@@ -145,7 +145,12 @@
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1545306766602" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1545314172145">
+        <mark key="[" line="66" column="51" />
+        <mark key="]" line="66" column="51" />
+        <mark key="." line="66" column="51" />
+        <mark key="^" line="66" column="51" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1542961066570">
         <mark key="[" line="77" column="23" />
         <mark key="]" line="77" column="30" />
@@ -164,11 +169,11 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1545311903393">
-        <mark key="[" line="208" column="58" />
-        <mark key="]" line="208" column="62" />
-        <mark key="^" line="208" column="62" />
-        <mark key="." line="208" column="62" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1545314402483">
+        <mark key="[" line="178" column="117" />
+        <mark key="]" line="178" column="15" />
+        <mark key="." line="178" column="15" />
+        <mark key="^" line="178" column="15" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1544512444483">
         <mark key="[" line="144" column="37" />
@@ -427,49 +432,51 @@
         <text>initData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgImZfY19jX3NvIiwgIiIsICIiK2ZfY19jU28uZ2V0QWJzb2x1dGVQYXRoKCksICIiK2ZfY19jU28ubGVuZ3RoKCkpOwo=</text>
+        <text encoding="base64">CQkJCQkJTG9nLmUoImpuaWxvZyIsICJsb2FkTGlicmFyeSBhZjoiICsoaXM2NGJpdCA/ICI2NCIgOiAiMzIiKSArIHJlc3VsdFdWY2hhbmdlKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAvLyAgIExvZy5lKCJUQUciLCAic2l6ZTogIiArIGZfY19jU28ubGVuZ3RoKCkgKyAiIGZpbGU6IiArIGZfY19jU28udG9TdHJpbmcoKSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgcHJpdmF0ZSB2b2lkIHRocm93RmlsZUxlbmdodElzWmVybyhDb250ZXh0IGNvbnRleHQsIFN0cmluZyBmaWxlTmFtZSkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICAgICAgaXNBdmFpbGFibGVTTyhjb250ZXh0LCBmaWxlTmFtZSkKICAgIH0=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZl9jX2NTbyAhPSBudWxsICYmIGZfY19jU28ubGVuZ3RoKCkgPiAwKSB7Cg==</text>
+      <register name="4" type="4">
+        <text>) {
+            throw new FileNotFoundException(&quot;length of the so is 0&quot;);
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAiZl9jX2Nfc28iLCAiIiwgIiIrZl9jX2NTby5nZXRBYnNvbHV0ZVBhdGgoKSwgIiIrZl9jX2NTby5sZW5ndGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiTGlicmFyeUxvYWRlciIsIFN0cmluZy5mb3JtYXQoImxvYWQgJXMgYml0IGxpYnJhcnkgc3VjY2VzcyEiLCBpczY0Yml0ID8gIjY0IiA6ICIzMiIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgaGFkTG9hZExpYnJhcnkgPSB0cnVlOwogICAgICAgICAgICAgICAgaWYgKGlMb2FkTGliYXJ5IT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGlMb2FkTGliYXJ5Lm9uU3VjY2VzcyhpczY0Yml0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIExvZy5kKCJMaWJyYXJ5TG9hZGVyIiwgImxvYWQgMzIgYml0IGxpYnJhcnkgc3VjY2VzcyEiKTs=</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
