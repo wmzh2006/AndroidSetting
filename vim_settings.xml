@@ -331,11 +331,11 @@
         <mark key="." line="204" column="11" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/lemon/lib/copy/share/ShareService.java" timestamp="1545381656218" />
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1545810021034">
-        <mark key="[" line="79" column="49" />
-        <mark key="]" line="79" column="48" />
-        <mark key="^" line="79" column="48" />
-        <mark key="." line="79" column="48" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1545811676914">
+        <mark key="[" line="123" column="114" />
+        <mark key="]" line="123" column="114" />
+        <mark key="^" line="123" column="110" />
+        <mark key="." line="123" column="114" />
       </file>
       <file name="D:/AndroidStudioProjects/Solo/app/src/main/java/com/honor/claim/solo/MainService.java" timestamp="1543478253681">
         <mark key="[" line="11" column="42" />
@@ -495,14 +495,14 @@
       <jump line="37" column="8" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlSZWFsc2VDb25maWcuaW5pdERpeVBhY2thZ2VOYW1lKG1NeVNlcnZpY2VfQ2xhc3MsIG1Db250ZXh0KTsvLyDSu7ao0qrPyMno1sO6w7T6wuuw/LXEsPzD+6Os1eLR+cTasr/E2sjd19S2r7Hku6+howo=</text>
+      <register name="&quot;" type="4">
+        <text>PHONE_UID</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>init</text>
+        <text>PHONE_UID</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
