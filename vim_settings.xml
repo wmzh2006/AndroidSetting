@@ -133,10 +133,10 @@
         <mark key="." line="253" column="0" />
         <mark key="^" line="253" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1545802360638">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="151" />
-        <mark key="." line="70" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1545803222381">
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="21" />
+        <mark key="." line="70" column="21" />
       </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/AndroidAppProcess.java" timestamp="1541773595440">
         <mark key="[" line="30" column="31" />
@@ -204,6 +204,12 @@
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1545803673530">
+        <mark key="[" line="45" column="51" />
+        <mark key="]" line="45" column="43" />
+        <mark key="." line="45" column="43" />
+        <mark key="^" line="68" column="48" />
       </file>
       <file name="D:/AndroidStudioProjects/PrizeClaw/build.gradle" timestamp="1545184531714">
         <mark key="[" line="21" column="42" />
@@ -299,6 +305,12 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/ProviderService.java" timestamp="1545803700604">
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="63" column="50" />
+      </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/build.gradle" timestamp="1544150313043">
         <mark key="[" line="58" column="3" />
       </file>
@@ -315,6 +327,12 @@
         <mark key="." line="204" column="11" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/lemon/lib/copy/share/ShareService.java" timestamp="1545381656218" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1545803641122">
+        <mark key="[" line="79" column="45" />
+        <mark key="]" line="79" column="45" />
+        <mark key="^" line="79" column="45" />
+        <mark key="." line="79" column="45" />
+      </file>
       <file name="D:/AndroidStudioProjects/Solo/app/src/main/java/com/honor/claim/solo/MainService.java" timestamp="1543478253681">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="13" column="0" />
@@ -473,14 +491,14 @@
       <jump line="37" column="8" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uaW5pdChjb250ZXh0LCB2ZXJzaW9uICsgIiIsICIiK2NpZCwgImFkcCIsIFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYUhSMGNEb3ZMMnh2Wnk1cmIyRndhMjF2WW1rdVkyOXQiKSk7Ly8iaHR0cDovL2xvZy5rb2Fwa21vYmkuY29tIgo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>init</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -492,43 +510,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uaW5pdChjb250ZXh0LCB2ZXJzaW9uICsgIiIsICIiK2NpZCwgImFkcCIsIFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYUhSMGNEb3ZMMnh2Wnk1cmIyRndhMjF2WW1rdVkyOXQiKSk7Ly8iaHR0cDovL2xvZy5rb2Fwa21vYmkuY29tIgo=</text>
+        <text encoding="base64">CQlMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicF9vbkNyZWF0ZSIsICIiLCAiIiwgIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2aWNlaGVscHNlcnZlcl9jKGNvbnRleHQuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIGludGVudCk7Cg==</text>
+        <text encoding="base64">CQlMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAicF9vbkNyZWF0ZSIsICIiLCAiIiwgIiIpOwkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2aWNlaGVscHNlcnZlcl9jKGNvbnRleHQuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIGludGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uaW5pdChjb250ZXh0LCB2ZXJzaW9uICsgIiIsICIiK2NpZCwgImFkcCIsIFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYUhSMGNEb3ZMMnh2Wnk1cmIyRndhMjF2WW1rdVkyOXQiKSk7Ly8iaHR0cDovL2xvZy5rb2Fwa21vYmkuY29tIgo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLmNvbmZpZyhtQ29udGV4dCwgUmVhbHNlQ29uZmlnLnZlcnNpb24rICIiLCAiIitSZWFsc2VDb25maWcuLCAiYWRwIiwgY29tLm15cHMudXRpbC5TdHJQcm9jZXNzaW5nLkRlY3J5cHQoImFIUjBjRG92TDJ4dlp5NXJiMkZ3YTIxdllta3VZMjl0IikpOy8vImh0dHA6Ly9sb2cua29hcGttb2JpLmNvbSIKICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgInN0YXJ0IiwgIiIsICIiLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlaGVscHNlcnZlcl9jKGNvbnRleHQuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIGludGVudCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpbml0ID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlaGVscHNlcnZlcl9jKGNvbnRleHQuZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIGludGVudCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLmNvbmZpZyhtQ29udGV4dCwgUmVhbHNlQ29uZmlnLnZlcnNpb24rICIiLCAiIitSZWFsc2VDb25maWcuLCAiYWRwIiwgY29tLm15cHMudXRpbC5TdHJQcm9jZXNzaW5nLkRlY3J5cHQoImFIUjBjRG92TDJ4dlp5NXJiMkZ3YTIxdllta3VZMjl0IikpOy8vImh0dHA6Ly9sb2cua29hcGttb2JpLmNvbSIKICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgInN0YXJ0IiwgIiIsICIiLCAiIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaW5pdCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpbml0ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpbml0KUxvYWRMaWJyYXJ5LmxvYWQoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaW5pdCA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
