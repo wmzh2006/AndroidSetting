@@ -139,6 +139,7 @@
         <mark key="." line="253" column="0" />
         <mark key="^" line="253" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/base/BaseContext.java" timestamp="1545876275273" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1545803222381">
         <mark key="[" line="70" column="21" />
         <mark key="]" line="70" column="21" />
@@ -281,12 +282,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545832810564">
-        <mark key="'" line="720" column="0" />
-        <mark key="[" line="739" column="38" />
-        <mark key="]" line="741" column="20" />
-        <mark key="^" line="741" column="20" />
-        <mark key="." line="741" column="20" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545876638691">
+        <mark key="'" line="751" column="4" />
+        <mark key="[" line="743" column="25" />
+        <mark key="]" line="743" column="31" />
+        <mark key="^" line="743" column="31" />
+        <mark key="." line="743" column="31" />
       </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
@@ -297,8 +298,11 @@
         <mark key="^" line="259" column="32" />
         <mark key="." line="258" column="11" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1545828464317">
-        <mark key="[" line="30" column="64" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1545874192755">
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="20" />
+        <mark key="^" line="63" column="37" />
+        <mark key="." line="63" column="20" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
@@ -380,7 +384,7 @@
         <mark key="^" line="53" column="93" />
         <mark key="." line="53" column="93" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545381603746">
+      <file name="/Dummy.txt" timestamp="1545876251388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/f/c.java" timestamp="1545832895466">
@@ -428,8 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="547" column="18" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="630" column="68" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="649" column="61" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="522" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="917" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -528,16 +530,18 @@
       <jump line="37" column="8" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" />
       <jump line="730" column="28" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="720" column="0" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
+      <jump line="741" column="86" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
+      <jump line="751" column="4" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>c</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
