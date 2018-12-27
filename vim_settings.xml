@@ -203,7 +203,7 @@
         <mark key="^" line="144" column="35" />
         <mark key="." line="144" column="37" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/CMakeLists.txt" timestamp="1545906191533">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/CMakeLists.txt" timestamp="1545911607342">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="49" column="61" />
@@ -250,12 +250,12 @@
         <mark key="." line="61" column="23" />
         <mark key="^" line="74" column="16" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545904385996">
-        <mark key="'" line="751" column="4" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="78" column="44" />
-        <mark key="." line="37" column="0" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545911723177">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="38" column="3" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="3" />
       </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
@@ -375,8 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="919" column="60" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="924" column="70" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="483" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="972" column="19" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="423" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -475,16 +473,18 @@
       <jump line="19" column="43" filename="E:/Project/zHooKDemoOK_JniTestWeb/build.gradle" />
       <jump line="12" column="12" filename="E:/Project/zHooKDemoOK_JniTestWeb/build.gradle" />
       <jump line="0" column="0" filename="E:/Project/zHooKDemoOK_JniTestWeb/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeCache.txt" />
+      <jump line="38" column="0" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
+      <jump line="49" column="0" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>-fvisibility=hidden</text>
