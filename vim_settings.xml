@@ -190,6 +190,9 @@
         <mark key="." line="66" column="51" />
         <mark key="^" line="66" column="51" />
       </file>
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
+        <mark key="[" line="47" column="35" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/auto/fuction/WebviewAutoProcessTest.java" timestamp="1542961066570">
         <mark key="[" line="77" column="23" />
         <mark key="]" line="77" column="30" />
@@ -278,12 +281,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545832703180">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545832810564">
         <mark key="'" line="720" column="0" />
-        <mark key="[" line="742" column="16" />
-        <mark key="]" line="742" column="16" />
-        <mark key="^" line="741" column="42" />
-        <mark key="." line="742" column="16" />
+        <mark key="[" line="739" column="38" />
+        <mark key="]" line="741" column="20" />
+        <mark key="^" line="741" column="20" />
+        <mark key="." line="741" column="20" />
       </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
@@ -379,6 +382,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1545381603746">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/f/c.java" timestamp="1545832895466">
+        <mark key="[" line="15" column="35" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1545706162508">
         <mark key="'" line="845" column="8" />
@@ -525,61 +531,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ReleaseString</text>
+        <text>d</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ReleaseString</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPkRlbGV0ZUxvY2FsUmVmKGVudiwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HRSgiZmluZCBob3N0IGNvbnRleHQhIikK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBoYWRIb3N0Q29udGV4dCA9IEpOSV9GQUxTRTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBoYWRIb3N0Q29udGV4dCA9IEpOSV9GQUxTRTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBjbHp6X2N0eCA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBjdHgpOwogICAgam1ldGhvZElEIG1ldGhvZElEX3N5c3Rlcm1TZXJ2aWNlID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsIGNsenpfY3R4LCAiZ2V0U3lzdGVtU2VydmljZSIsICIoTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xhbmcvT2JqZWN0OyIpOwogICAgY29uc3QgY2hhciBzekhvc3RbXSA9ICJETF9HZXRIb3N0Q29udGV4dCI7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbE9iamVjdE1ldGhvZChlbnYsIGNsenpfY3R4LCAiTGFuZHJvaWQvY29udGVudC9nZXRTeXN0ZW1TZXJ2aWNlOyIpOwo=</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBjbHp6X2N0eCA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBjdHgpOwogICAgam1ldGhvZElEIG1ldGhvZElEX3N5c3Rlcm1TZXJ2aWNlID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsIGNsenpfY3R4LCAiZ2V0U3lzdGVtU2VydmljZSIsICIoTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xhbmcvT2JqZWN0OyIpOwogICAgY29uc3QgY2hhciBzekhvc3RbXSA9ICJETF9HZXRIb3N0Q29udGV4dCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgImxhdWNoXzAiLCAiIiwgIiIsICIiKTsK</text>
+        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbE9iamVjdE1ldGhvZChlbnYsIGNsenpfY3R4LCAiTGFuZHJvaWQvY29udGVudC9nZXRTeXN0ZW1TZXJ2aWNlOyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hcC5wdXQoImNpZF9rZXkiLCBjaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgImxhdWNoXzAiLCAiIiwgIiIsICIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfQ0lELCBjb25maWdEYXRhLmdldENpZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hcC5wdXQoImNpZF9rZXkiLCBjaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
