@@ -61,12 +61,11 @@
         <mark key="." line="49" column="41" />
         <mark key="^" line="49" column="41" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1545817036207">
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1545915110280">
         <mark key="'" line="36" column="8" />
-        <mark key="[" line="65" column="34" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
-        <mark key="^" line="44" column="17" />
+        <mark key="[" line="37" column="24" />
+        <mark key="]" line="37" column="24" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
@@ -364,13 +363,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f_c_c</text>
+        <text>false</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>f_c_c</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>-fvisibility=hidden</text>
@@ -388,37 +387,37 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0JVSUxEX1RZUEUgRGVidWcgQ0FDSEUgU1RSSU5HICJzZXQgYnVpbGQgdHlwZSB0byBkZWJ1ZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25sb2cgPSAoQm9vbGVhbikgaU1hcC5nZXQoQ29uc3RhbnMuS0VZX0xPRyk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3NldChDTUFLRV9CVUlMRF9UWVBFIFJlbGVhc2UgQ0FDSEUgU1RSSU5HICJzZXQgYnVpbGQgdHlwZSB0byByZWxlYXNlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NfRkxBR1NfUkVMRUFTRSAiJEVOVntDRkxBR1N9IC1mdmlzaWJpbGl0eT1oaWRkZW4iKWQK</text>
+        <text encoding="base64">c2V0KENNQUtFX0JVSUxEX1RZUEUgRGVidWcgQ0FDSEUgU1RSSU5HICJzZXQgYnVpbGQgdHlwZSB0byBkZWJ1ZyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNGbGFncyAiLWZ2aXNpYmlsaXR5PWhpZGRlbiIsICItZmRhdGEtc2VjdGlvbnMiCg==</text>
+        <text encoding="base64">I3NldChDTUFLRV9CVUlMRF9UWVBFIFJlbGVhc2UgQ0FDSEUgU1RSSU5HICJzZXQgYnVpbGQgdHlwZSB0byByZWxlYXNlIikK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2RlZmluZSBFTkFCTEVfREVCVUcgMAo=</text>
+        <text encoding="base64">c2V0KENNQUtFX0NfRkxBR1NfUkVMRUFTRSAiJEVOVntDRkxBR1N9IC1mdmlzaWJpbGl0eT1oaWRkZW4iKWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8jZGVmaW5lIEZJTkRfS0VZX1dPUkQgICAgICAgIlgtUmVxdWVzdGVkLVdpdGgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNGbGFncyAiLWZ2aXNpYmlsaXR5PWhpZGRlbiIsICItZmRhdGEtc2VjdGlvbnMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXIgYnVmWzI1Nl0gPSB7MH07Cg==</text>
+        <text encoding="base64">I2RlZmluZSBFTkFCTEVfREVCVUcgMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNucHJpbnRmKGJ1Ziwgc3RybGVuKHN0clBrZ05hbWUpLCAicGtnOiAlcyIsIHN0clBrZ05hbWUpOwo=</text>
+        <text encoding="base64">Ly8jZGVmaW5lIEZJTkRfS0VZX1dPUkQgICAgICAgIlgtUmVxdWVzdGVkLVdpdGgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
