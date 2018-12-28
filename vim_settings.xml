@@ -97,11 +97,11 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545983332773">
-        <mark key="[" line="769" column="5" />
-        <mark key="]" line="767" column="0" />
-        <mark key="^" line="767" column="0" />
-        <mark key="." line="767" column="0" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545984928897">
+        <mark key="[" line="729" column="137" />
+        <mark key="]" line="729" column="136" />
+        <mark key="^" line="729" column="136" />
+        <mark key="." line="729" column="136" />
       </file>
       <file name="/Clipboard.txt" timestamp="1545275022437">
         <mark key="[" line="0" column="0" />
@@ -144,7 +144,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" timestamp="1545982231234">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" timestamp="1545984799366">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="47" column="22" />
         <mark key="]" line="47" column="22" />
@@ -351,43 +351,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyIERMX0dldEhvc3RDb250ZXh0W10gPSB7MHg0NCwweDRjLDB4NWYsMHg0NywweDY1LDB4NzQsMHg0OCwweDZmLDB4NzMsMHg3NCwweDQzLDB4NmYsMHg2ZSwweDc0LDB4NjUsMHg3OCwweDc0LDB4MH07LypETF9HZXRIb3N0Q29udGV4dCovCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getPackageName_var</text>
+        <text>DL_GetHostContext</text>
       </register>
       <register name="/" type="4">
         <text>0xfa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChzdHJjbXAoZ2V0U3lzdGVtU2VydmljZSwgImdldFN5c3RlbVNlcnZpY2UiKT09MCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dFKCIlcyIsIERMX0dldEhvc3RDb250ZXh0KTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyIERMX0dldEhvc3RDb250ZXh0W10gPSB7MHg0NCwweDRjLDB4NWYsMHg0NywweDY1LDB4NzQsMHg0OCwweDZmLDB4NzMsMHg3NCwweDQzLDB4NmYsMHg2ZSwweDc0LDB4NjUsMHg3OCwweDc0LDB4MH07LypETF9HZXRIb3N0Q29udGV4dCovCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0UoImZpbmQgaG9zdCBjb250ZXh0ISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyIGdldFN5c3RlbVNlcnZpY2VbXSA9IHsweDY3LDB4NjUsMHg3NCwweDUzLDB4NzksMHg3MywweDc0LDB4NjUsMHg2ZCwweDUzLDB4NjUsMHg3MiwweDc2LDB4NjksMHg2MywweDY1LCAweDB9Owo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dFKCIlcyIsIERMX0dldEhvc3RDb250ZXh0KQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNucHJpbnRmKGdDaGFuZ2VBZGRyU3RyUmVzdWx0LCBzaXplb2YoZ0NoYW5nZUFkZHJTdHJSZXN1bHQpLCBDYW5fZmluZF9ob3N0X2NvbnRleHQsIHJldCwgZ0NoYW5nZUFkZHJTdHJSZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -396,16 +396,16 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamJvb2xlYW4gaXNDb3B5ID0gTlVMTDsKICAgICAgICAgICAgY29uc3QgY2hhciAqIHN0clBrZ05hbWUgPSAoKmVudiktPkdldFN0cmluZ1VURkNoYXJzKGVudiwganN0cl9wa2dOYW1lLCAmaXNDb3B5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0UoImZpbmQgaG9zdCBjb250ZXh0ISIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChzdHJjbXAoRExfR2V0SG9zdENvbnRleHQsICJETF9HZXRIb3N0Q29udGV4dCIpPT0wKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgRExfR2V0SG9zdENvbnRleHRbXSA9IHsweDQ0LDB4NGMsMHg1ZiwweDQ3LDB4NjUsMHg3NCwweDQ4LDB4NmYsMHg3MywweDc0LDB4NDMsMHg2ZiwweDZlLDB4NzQsMHg2NSwweDc4LDB4NzR9Oy8qRExfR2V0SG9zdENvbnRleHQqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgYXNzZXJ0KHN0cmNtcChnZXRQYWNrYWdlTmFtZV92YXIsICIoKUxqYXZhL2xhbmcvU3RyaW5nOyIpPT0wKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
