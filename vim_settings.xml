@@ -97,11 +97,11 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545979364928">
-        <mark key="[" line="728" column="26" />
-        <mark key="]" line="728" column="29" />
-        <mark key="^" line="728" column="29" />
-        <mark key="." line="728" column="29" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545981767560">
+        <mark key="[" line="732" column="144" />
+        <mark key="]" line="733" column="41" />
+        <mark key="^" line="733" column="41" />
+        <mark key="." line="733" column="41" />
       </file>
       <file name="/Clipboard.txt" timestamp="1545275022437">
         <mark key="[" line="0" column="0" />
@@ -144,12 +144,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" timestamp="1545979170073">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" timestamp="1545981859397">
         <mark key="'" line="40" column="4" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="16" />
-        <mark key="." line="32" column="16" />
-        <mark key="^" line="28" column="15" />
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="25" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="25" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1545916194951">
         <mark key="[" line="35" column="35" />
@@ -351,70 +351,70 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>-fvisibility=hidden</text>
+        <text>0xfa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0JVSUxEX1RZUEUgRGVidWcgQ0FDSEUgU1RSSU5HICJzZXQgYnVpbGQgdHlwZSB0byBkZWJ1ZyIpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChzdHJjbXAoZ2V0U3lzdGVtU2VydmljZSwgImdldFN5c3RlbVNlcnZpY2UiKT09MCk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICIiICsgcmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIoKUxqYXZhL2xhbmcvU3RyaW5nOyJ9Owo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHJlY292ZXIsIHNyYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJnZXRQYWNrYWdlTmFtZSIsCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgcmVjb3ZlciA9IFN0cmluZy52YWx1ZU9mKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIoTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xhbmcvT2JqZWN0OyIsCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnl0ZS5wYXJzZUJ5dGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJETF9HZXRIb3N0Q29udGV4dCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIiIgKyByZXQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RyY21wKERMX0dldEhvc3RDb250ZXh0LCAiRExfR2V0SG9zdENvbnRleHQiKT09MCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmV0ID0gc3RyaW5nMmJ5dGVzKHNyYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dFKCJzekhvc3Q6ICVzIiwgc3pIb3N0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9qYm9vbGVhbiBjaGVja2hvc3QoSk5JRW52ICplbnYsIGpvYmplY3QgY3R4Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyIHN6SG9zdFtdID0gc3RyX0RMX0dldEhvc3RDb250ZXh0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICIiICsgcmV0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
       </register>
     </registers>
     <search>
-      <last-search>-fvisibility=hidden</last-search>
+      <last-search>0xfa</last-search>
       <last-offset />
-      <last-pattern>-fvisibility=hidden</last-pattern>
+      <last-pattern>0xfa</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unlickLike</entry>
         <entry>init_ad_list</entry>
         <entry>cap_ret_fail_1</entry>
         <entry>cap_ret_fail_4</entry>
@@ -442,6 +441,7 @@
         <entry>initData</entry>
         <entry>create</entry>
         <entry>-fvisibility=hidden</entry>
+        <entry>0xfa</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
