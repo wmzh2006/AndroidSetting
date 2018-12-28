@@ -107,12 +107,11 @@
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" timestamp="1545988913409">
-        <mark key="'" line="390" column="63" />
-        <mark key="[" line="391" column="0" />
-        <mark key="]" line="388" column="24" />
-        <mark key="^" line="388" column="24" />
-        <mark key="." line="388" column="24" />
+      <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" timestamp="1545990444528">
+        <mark key="[" line="369" column="28" />
+        <mark key="]" line="369" column="61" />
+        <mark key="." line="369" column="61" />
+        <mark key="^" line="369" column="61" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1545800241391">
         <mark key="[" line="49" column="42" />
@@ -177,7 +176,8 @@
       <file name="D:/AndroidStudioProjects/Solo/app/proguard-rules.pro" timestamp="1543478099735">
         <mark key="[" line="20" column="38" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1545811676914">
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1545990420690">
+        <mark key="'" line="1675" column="19" />
         <mark key="[" line="123" column="114" />
         <mark key="]" line="123" column="114" />
         <mark key="^" line="123" column="110" />
@@ -207,7 +207,12 @@
         <mark key="^" line="94" column="46" />
         <mark key="." line="138" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1545988216320" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1545990686473">
+        <mark key="[" line="109" column="32" />
+        <mark key="]" line="109" column="32" />
+        <mark key="." line="109" column="32" />
+        <mark key="^" line="109" column="65" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1545816453234">
         <mark key="[" line="12" column="81" />
         <mark key="]" line="12" column="84" />
@@ -229,14 +234,14 @@
       <file name="/fragment.java" timestamp="1544753536232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545987780083">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545990665306">
         <mark key="[" line="43" column="69" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl_plugin/intf/CoreCall.java" timestamp="1545990110163">
+        <mark key="'" line="24" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="62" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" />
-      <jump line="632" column="92" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="636" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="647" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="642" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="118" column="101" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" />
@@ -334,19 +339,22 @@
       <jump line="35" column="21" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" />
       <jump line="36" column="4" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" />
       <jump line="390" column="63" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
+      <jump line="1675" column="19" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
+      <jump line="17" column="36" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl_plugin/intf/CoreCall.java" />
+      <jump line="24" column="33" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl_plugin/intf/CoreCall.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>this</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>0xfa</text>
+        <text encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dFKCIlcyIsIGdldFN5c3RlbVNlcnZpY2UpOwo=</text>
@@ -355,52 +363,52 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCX0K</text>
+        <text encoding="base64">CQkJCQkJCQkK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQlwbHVnaW5fY29udGV4dCA9IGNvbnRleHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCWlmIChwbHVnaW5fY29udGV4dCA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQlIYW5kbGVyLkNhbGxiYWNrIG1haW4gPSBuaXRFbnZpcm9ubWVudENhbGxiYWNrIGZfYS5uZXdJbnN0YW5jZSgpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoYXIgcmVzdFN0ciAK</text>
+        <text encoding="base64">CQkJCQkJCW5ldyBNYWluKCkucHJlcGFyZVJvb3RlbnYocGFyYW1ldGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhdGljIGludCAK</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RyY21wKGdldFN5c3RlbVNlcnZpY2UsICJnZXRTeXN0ZW1TZXJ2aWNlIik9PTApOwo=</text>
+        <text encoding="base64">CQkJCQkJCQlwbHVnaW5fY29udGV4dCA9IGNvbnRleHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RyY21wKERMX0dldEhvc3RDb250ZXh0LCAiRExfR2V0SG9zdENvbnRleHQiKT09MCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCWlmIChwbHVnaW5fY29udGV4dCA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGFzdEluZGV4ID0gc2IubGFzdEluZGV4T2YoIiwiKTsK</text>
+        <text encoding="base64">ICAgIGNoYXIgcmVzdFN0ciAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGFzdEluZGV4ID0gc2IubGFzdEluZGV4T2YoIiwiKTsK</text>
+        <text encoding="base64">c3RhdGljIGludCAK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
       </register>
     </registers>
     <search>
-      <last-search>0xfa</last-search>
+      <last-search encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</last-search>
       <last-offset />
-      <last-pattern>0xfa</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -408,8 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>init_ad_list</entry>
-        <entry>cap_ret_fail_1</entry>
         <entry>cap_ret_fail_4</entry>
         <entry>cap_err_1</entry>
         <entry>(android\..*)</entry>
@@ -428,6 +434,8 @@
         <entry>create</entry>
         <entry>-fvisibility=hidden</entry>
         <entry>0xfa</entry>
+        <entry encoding="base64">XDxpbml0Um9vdEVudk1zZ1w+</entry>
+        <entry encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
