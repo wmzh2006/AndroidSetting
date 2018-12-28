@@ -24,7 +24,7 @@
         <mark key="]" line="24" column="51" />
         <mark key="." line="24" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1544529866315">
+      <file name="/a.dummy" timestamp="1545978036072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
@@ -52,7 +52,7 @@
         <mark key="." line="21" column="55" />
         <mark key="^" line="22" column="23" />
       </file>
-      <file name="/LLDB" timestamp="1545968100152">
+      <file name="/LLDB" timestamp="1545978598209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/util.c" timestamp="1545968945107" />
@@ -97,11 +97,11 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545977659147">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="5" />
-        <mark key="^" line="724" column="46" />
-        <mark key="." line="39" column="5" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545979364928">
+        <mark key="[" line="728" column="26" />
+        <mark key="]" line="728" column="29" />
+        <mark key="^" line="728" column="29" />
+        <mark key="." line="728" column="29" />
       </file>
       <file name="/Clipboard.txt" timestamp="1545275022437">
         <mark key="[" line="0" column="0" />
@@ -144,12 +144,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" timestamp="1545967765529">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="41" column="45" />
-        <mark key="." line="41" column="45" />
-        <mark key="^" line="41" column="45" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" timestamp="1545979170073">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1545916194951">
         <mark key="[" line="35" column="35" />
@@ -163,6 +163,7 @@
         <mark key="." line="57" column="68" />
         <mark key="^" line="44" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/str_def.c" timestamp="1545979649187" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
@@ -349,14 +350,14 @@
       <jump line="36" column="4" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly9qYm9vbGVhbiBjaGVja2hvc3QoSk5JRW52ICplbnYsIGpvYmplY3QgY3R4Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>-fvisibility=hidden</text>
@@ -368,43 +369,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9qYm9vbGVhbiBjaGVja2hvc3QoSk5JRW52ICplbnYsIGpvYmplY3QgY3R4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICIiICsgcmV0KTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHJlY292ZXIsIHNyYyk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGpuaS5oPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgcmVjb3ZlciA9IFN0cmluZy52YWx1ZU9mKCkK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amJvb2xlYW4gY2hlY2tob3N0KEpOSUVudiAgKmVudiwgam9iamVjdCBjdHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnl0ZS5wYXJzZUJ5dGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIiIgKyByZXQpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIlsiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSByZXQucmUobGFzdEluZGV4LCBsYXN0SW5kZXgsICJdIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmV0ID0gc3RyaW5nMmJ5dGVzKHNyYyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVwbGEKICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly9qYm9vbGVhbiBjaGVja2hvc3QoSk5JRW52ICplbnYsIGpvYmplY3QgY3R4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8g1rG907vxyKHJz9K7tM61xL3hufsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
