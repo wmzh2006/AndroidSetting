@@ -89,9 +89,6 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1545274560894">
-        <mark key="'" line="273" column="51" />
-      </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2018121910/readme.txt" timestamp="1545723273178">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="0" column="56" />
@@ -109,6 +106,13 @@
       </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" timestamp="1545988913409">
+        <mark key="'" line="390" column="63" />
+        <mark key="[" line="391" column="0" />
+        <mark key="]" line="388" column="24" />
+        <mark key="^" line="388" column="24" />
+        <mark key="." line="388" column="24" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1545800241391">
         <mark key="[" line="49" column="42" />
@@ -128,15 +132,10 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoConfig.java" timestamp="1542718954423">
         <mark key="[" line="7" column="52" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1545915110280">
-        <mark key="'" line="36" column="8" />
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="37" column="24" />
-        <mark key="." line="37" column="24" />
-      </file>
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/rootsdk_impl_plugin_lib.jar!/com/impl_plugin/intf/InitEnvironmentCallback.class" timestamp="1545988310269" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,9 +195,6 @@
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/f/c.java" timestamp="1545832895466">
         <mark key="[" line="15" column="35" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeCache.txt" timestamp="1545905697501">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
       </file>
@@ -211,6 +207,7 @@
         <mark key="^" line="94" column="46" />
         <mark key="." line="138" column="55" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1545988216320" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1545816453234">
         <mark key="[" line="12" column="81" />
         <mark key="]" line="12" column="84" />
@@ -232,12 +229,11 @@
       <file name="/fragment.java" timestamp="1544753536232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545986161204">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545987780083">
         <mark key="[" line="43" column="69" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="117" column="62" filename="E:/Project/ZHooKDemo_AdmobTestA/zHooKDemoOK_B/src/main/java/e/c0.java" />
       <jump line="632" column="92" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="636" column="4" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -337,16 +333,17 @@
       <jump line="46" column="15" filename="E:/Project/zHooKDemoOK_JniTestWeb/CMakeLists.txt" />
       <jump line="35" column="21" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" />
       <jump line="36" column="4" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/androidTest/java/com/dc/my/jnitest/ExampleInstrumentedTest.java" />
+      <jump line="390" column="63" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>d</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>0xfa</text>
@@ -358,43 +355,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYXIgcmVzdFN0ciAK</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdGljIGludCAK</text>
+        <text encoding="base64">CQkJCQkJCQlwbHVnaW5fY29udGV4dCA9IGNvbnRleHQ7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RyY21wKGdldFN5c3RlbVNlcnZpY2UsICJnZXRTeXN0ZW1TZXJ2aWNlIik9PTApOwo=</text>
+        <text encoding="base64">CQkJCQkJCWlmIChwbHVnaW5fY29udGV4dCA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RyY21wKERMX0dldEhvc3RDb250ZXh0LCAiRExfR2V0SG9zdENvbnRleHQiKT09MCk7Cg==</text>
+        <text encoding="base64">ICAgIGNoYXIgcmVzdFN0ciAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGFzdEluZGV4ID0gc2IubGFzdEluZGV4T2YoIiwiKTsK</text>
+        <text encoding="base64">c3RhdGljIGludCAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGFzdEluZGV4ID0gc2IubGFzdEluZGV4T2YoIiwiKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RyY21wKGdldFN5c3RlbVNlcnZpY2UsICJnZXRTeXN0ZW1TZXJ2aWNlIik9PTApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmV0ID0gc2IudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoc3RyY21wKERMX0dldEhvc3RDb250ZXh0LCAiRExfR2V0SG9zdENvbnRleHQiKT09MCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyIERMX0dldEhvc3RDb250ZXh0W10gPSB7MHg0NCwweDRjLDB4NWYsMHg0NywweDY1LDB4NzQsMHg0OCwweDZmLDB4NzMsMHg3NCwweDQzLDB4NmYsMHg2ZSwweDc0LDB4NjUsMHg3OCwweDc0LDB4MH07LypETF9HZXRIb3N0Q29udGV4dCovCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGFzdEluZGV4ID0gc2IubGFzdEluZGV4T2YoIiwiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyIGdldFN5c3RlbVNlcnZpY2VbXSA9IHsweDY3LDB4NjUsMHg3NCwweDUzLDB4NzksMHg3MywweDc0LDB4NjUsMHg2ZCwweDUzLDB4NjUsMHg3MiwweDc2LDB4NjksMHg2MywweDY1LCAweDB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGFzdEluZGV4ID0gc2IubGFzdEluZGV4T2YoIiwiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
