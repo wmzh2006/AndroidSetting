@@ -24,12 +24,6 @@
         <mark key="^" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/build.gradle" timestamp="1545964691902">
-        <mark key="'" line="12" column="12" />
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="24" column="51" />
-        <mark key="." line="24" column="51" />
-      </file>
       <file name="/a.dummy" timestamp="1545978036072">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,6 +54,12 @@
       </file>
       <file name="/LLDB" timestamp="1545978598209">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/BaseContext.java" timestamp="1545991297376">
+        <mark key="[" line="126" column="44" />
+        <mark key="]" line="126" column="44" />
+        <mark key="." line="126" column="44" />
+        <mark key="^" line="126" column="46" />
       </file>
       <file name="/util.c" timestamp="1545968945107" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1545809992474">
@@ -95,7 +95,7 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545985938329">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545990948269">
         <mark key="[" line="39" column="4" />
         <mark key="]" line="39" column="5" />
         <mark key="^" line="39" column="3" />
@@ -231,7 +231,7 @@
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1544753536232">
+      <file name="/fragment.java" timestamp="1545991016715">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545990665306">
@@ -345,13 +345,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>name</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</text>
@@ -362,44 +362,44 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEBPdmVycmlkZQogICAgcHVibGljIEFzc2V0TWFuYWdlciBnZXRBc3NldHMoKSB7CiAgICAgICAgcmV0dXJuIHN1cGVyLmdldEFzc2V0cygpOwogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQlIYW5kbGVyLkNhbGxiYWNrIG1haW4gPSBuaXRFbnZpcm9ubWVudENhbGxiYWNrIGZfYS5uZXdJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCW5ldyBNYWluKCkucHJlcGFyZVJvb3RlbnYocGFyYW1ldGVyKTsK</text>
+        <text encoding="base64">CQkJCQkJCQlIYW5kbGVyLkNhbGxiYWNrIG1haW4gPSBuaXRFbnZpcm9ubWVudENhbGxiYWNrIGZfYS5uZXdJbnN0YW5jZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCX0K</text>
+        <text encoding="base64">CQkJCQkJCW5ldyBNYWluKCkucHJlcGFyZVJvb3RlbnYocGFyYW1ldGVyKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQlwbHVnaW5fY29udGV4dCA9IGNvbnRleHQ7Cg==</text>
+        <text encoding="base64">CQkJCQkJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCWlmIChwbHVnaW5fY29udGV4dCA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQlwbHVnaW5fY29udGV4dCA9IGNvbnRleHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYXIgcmVzdFN0ciAK</text>
+        <text encoding="base64">CQkJCQkJCWlmIChwbHVnaW5fY29udGV4dCA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhdGljIGludCAK</text>
+        <text encoding="base64">ICAgIGNoYXIgcmVzdFN0ciAK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
