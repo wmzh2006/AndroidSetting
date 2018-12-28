@@ -9,8 +9,8 @@
       <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/res/layout/activity_main.xml" timestamp="1540888895929">
         <mark key="[" line="5" column="19" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1545314172145">
-        <mark key="[" line="66" column="51" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1545997749147">
+        <mark key="[" line="55" column="47" />
         <mark key="]" line="66" column="51" />
         <mark key="." line="66" column="51" />
         <mark key="^" line="66" column="51" />
@@ -51,6 +51,9 @@
         <mark key="]" line="21" column="55" />
         <mark key="." line="21" column="55" />
         <mark key="^" line="22" column="23" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c.java" timestamp="1545997723251">
+        <mark key="[" line="14" column="35" />
       </file>
       <file name="/LLDB" timestamp="1545978598209">
         <mark key="[" line="0" column="0" />
@@ -96,11 +99,11 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545996213192">
-        <mark key="[" line="124" column="41" />
-        <mark key="]" line="124" column="41" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="124" column="41" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1545998731322">
+        <mark key="[" line="735" column="54" />
+        <mark key="]" line="735" column="28" />
+        <mark key="^" line="735" column="28" />
+        <mark key="." line="735" column="28" />
       </file>
       <file name="/Clipboard.txt" timestamp="1545275022437">
         <mark key="[" line="0" column="0" />
@@ -108,7 +111,7 @@
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" timestamp="1545990444528">
+      <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" timestamp="1545997928050">
         <mark key="[" line="369" column="28" />
         <mark key="]" line="369" column="61" />
         <mark key="." line="369" column="61" />
@@ -120,11 +123,11 @@
         <mark key="." line="49" column="41" />
         <mark key="^" line="49" column="41" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1545996128218">
-        <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="51" />
-        <mark key="^" line="71" column="67" />
-        <mark key="." line="71" column="51" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1545997220430">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="113" />
+        <mark key="^" line="71" column="50" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
@@ -236,6 +239,7 @@
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/rootsdk_impl_plugin_lib.jar!/com/impl_plugin/intf/PluginCall.class" timestamp="1545998046997" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/oasis/assistant/yo/wsb/adm.java" timestamp="1545817075659">
         <mark key="'" line="390" column="163" />
         <mark key="[" line="338" column="35" />
@@ -366,20 +370,20 @@
       <jump line="53" column="48" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/BaseContext.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>F</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNoYXIgZ2V0U3lzdGVtU2VydmljZVtdID0gZ2V0U3lzdGVtU2VydmljZV9kZWYgCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>DL_GetHostContext_def</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dFKCIlcyIsIGdldFN5c3RlbVNlcnZpY2UpOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgZ2V0U3lzdGVtU2VydmljZVtdID0gZ2V0U3lzdGVtU2VydmljZV9kZWYgCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
