@@ -94,12 +94,12 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1546074209912">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1546075283665">
         <mark key="'" line="116" column="52" />
-        <mark key="[" line="539" column="33" />
-        <mark key="]" line="539" column="34" />
-        <mark key="^" line="539" column="34" />
-        <mark key="." line="539" column="34" />
+        <mark key="[" line="794" column="8" />
+        <mark key="]" line="794" column="117" />
+        <mark key="^" line="794" column="117" />
+        <mark key="." line="794" column="117" />
       </file>
       <file name="/Clipboard.txt" timestamp="1545275022437">
         <mark key="[" line="0" column="0" />
@@ -367,13 +367,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>JNI_TRUE</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>JNI_TRUE</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
