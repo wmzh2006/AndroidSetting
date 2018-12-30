@@ -82,6 +82,7 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1541857133169">
         <mark key="[" line="185" column="17" />
       </file>
+      <file name="E:/tools/android/ndk-bundle/sysroot/usr/include/jni.h" timestamp="1546139416362" />
       <file name="$USER_HOME$/Desktop/2048-android/build.gradle" timestamp="1543220106046">
         <mark key="[" line="15" column="16" />
       </file>
@@ -94,12 +95,12 @@
         <mark key="." line="0" column="56" />
         <mark key="^" line="0" column="56" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1546076480625">
-        <mark key="'" line="116" column="52" />
-        <mark key="[" line="124" column="46" />
-        <mark key="]" line="124" column="46" />
-        <mark key="^" line="539" column="17" />
-        <mark key="." line="124" column="46" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1546140247564">
+        <mark key="'" line="799" column="4" />
+        <mark key="[" line="815" column="20" />
+        <mark key="]" line="815" column="21" />
+        <mark key="^" line="814" column="34" />
+        <mark key="." line="815" column="21" />
       </file>
       <file name="/Clipboard.txt" timestamp="1545275022437">
         <mark key="[" line="0" column="0" />
@@ -119,7 +120,7 @@
         <mark key="." line="49" column="41" />
         <mark key="^" line="49" column="41" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1546138623555">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1546140293938">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="76" />
         <mark key="^" line="71" column="76" />
@@ -192,8 +193,10 @@
       <file name="/Dummy.txt" timestamp="1545965889151">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/f/c.java" timestamp="1545832895466">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/f/c.java" timestamp="1546140267278">
         <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1545706162508">
         <mark key="'" line="845" column="8" />
@@ -264,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="0" filename="$USER_HOME$/AppData/Local/Temp/dl-lib2-debug188214527903696130.jar!/com/ecfudl2/engine/impl/PluginImpl.class" />
-      <jump line="242" column="60" filename="$USER_HOME$/AppData/Local/Temp/dl-lib2-debug188214527903696130.jar!/com/ecfudl2/engine/impl/PluginImpl.class" />
       <jump line="241" column="33" filename="$USER_HOME$/AppData/Local/Temp/dl-lib2-debug188214527903696130.jar!/com/ecfudl2/engine/impl/PluginImpl.class" />
       <jump line="634" column="58" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="623" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -364,16 +365,18 @@
       <jump line="794" column="53" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="805" column="0" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="116" column="52" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
+      <jump line="815" column="38" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
+      <jump line="799" column="4" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>Context context</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Context context</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
