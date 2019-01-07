@@ -88,6 +88,12 @@
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
       </file>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" timestamp="1546865583963">
+        <mark key="'" line="82" column="21" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="45" />
+        <mark key="." line="183" column="0" />
+      </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1546594145470">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="51" />
@@ -134,12 +140,12 @@
       <file name="D:/AndroidStudioProjects/Solo/app/proguard-rules.pro" timestamp="1543478099735">
         <mark key="[" line="20" column="38" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1546855858830">
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1546865537188">
         <mark key="'" line="1675" column="19" />
-        <mark key="[" line="446" column="68" />
-        <mark key="]" line="446" column="0" />
-        <mark key="^" line="446" column="7" />
-        <mark key="." line="446" column="0" />
+        <mark key="[" line="448" column="0" />
+        <mark key="]" line="448" column="0" />
+        <mark key="^" line="448" column="18" />
+        <mark key="." line="448" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1545965889151">
         <mark key="[" line="0" column="0" />
@@ -184,9 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="49" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
-      <jump line="1" column="0" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
-      <jump line="23" column="12" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
       <jump line="26" column="20" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
       <jump line="31" column="8" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
       <jump line="18" column="15" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" />
@@ -284,10 +287,13 @@
       <jump line="164" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="166" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="170" column="17" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="0" column="0" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
+      <jump line="77" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
+      <jump line="82" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -296,7 +302,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>handle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBJbnN0cnVtZW50YXRpb25SZWdpc3RyeS5nZXRUYXJnZXRDb250ZXh0KCk7Cg==</text>
@@ -305,19 +311,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBzZW5kTXNnKCk7Cg==</text>
+        <text encoding="base64">CQlMb2cuZCgic2tkIikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -326,31 +332,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBzZW5kTXNnKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLm9uQ3JlYXRlKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBzZW5kTXNnKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLm9uQ3JlYXRlKGNvbnRleHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>handle</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>handle</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -358,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\(android\..*\)</entry>
         <entry>meta</entry>
         <entry>38</entry>
         <entry>NEW_KEY_WORD</entry>
@@ -378,6 +383,7 @@
         <entry>reset</entry>
         <entry>handleSendMsg</entry>
         <entry>send</entry>
+        <entry>handle</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
