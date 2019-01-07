@@ -169,8 +169,8 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1546855415629">
-        <mark key="'" line="139" column="22" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1546859305624">
+        <mark key="'" line="170" column="17" />
         <mark key="[" line="352" column="41" />
         <mark key="]" line="139" column="22" />
         <mark key="." line="139" column="22" />
@@ -184,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="8" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="16" column="15" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
-      <jump line="20" column="0" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
       <jump line="12" column="49" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
       <jump line="1" column="0" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
       <jump line="23" column="12" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" />
@@ -212,7 +209,6 @@
       <jump line="3" column="0" filename="D:/AndroidStudioProjects/PrizeClaw/app/src/main/AndroidManifest.xml" />
       <jump line="13" column="4" filename="D:/AndroidStudioProjects/PrizeClaw/app/src/main/AndroidManifest.xml" />
       <jump line="185" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
-      <jump line="170" column="14" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="70" column="19" filename="$USER_HOME$/Desktop/2048-android/app/src/main/java/com/estar/pro2048/MainActivity.java" />
       <jump line="25" column="52" filename="/AndroidManifest.xml" />
       <jump line="32" column="9" filename="/AndroidManifest.xml" />
@@ -284,6 +280,10 @@
       <jump line="799" column="4" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="0" column="52" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.txt" />
       <jump line="139" column="22" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="158" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="164" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="166" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="170" column="17" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -296,7 +296,7 @@
         <text>context</text>
       </register>
       <register name="/" type="4">
-        <text>handleSendMsg</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBJbnN0cnVtZW50YXRpb25SZWdpc3RyeS5nZXRUYXJnZXRDb250ZXh0KCk7Cg==</text>
@@ -348,9 +348,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handleSendMsg</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>handleSendMsg</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -358,7 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(android\..*)</entry>
         <entry>\(android\..*\)</entry>
         <entry>meta</entry>
         <entry>38</entry>
@@ -378,6 +377,7 @@
         <entry encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</entry>
         <entry>reset</entry>
         <entry>handleSendMsg</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
