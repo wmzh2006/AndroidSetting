@@ -25,11 +25,11 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
       </file>
-      <file name="D:/AndroidStudioProjects/app/src/main/AndroidManifest.xml" timestamp="1546850265177">
-        <mark key="[" line="38" column="106" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="106" />
+      <file name="D:/AndroidStudioProjects/app/src/main/AndroidManifest.xml" timestamp="1546919469424">
+        <mark key="[" line="38" column="83" />
+        <mark key="]" line="38" column="83" />
+        <mark key="." line="38" column="83" />
+        <mark key="^" line="41" column="71" />
       </file>
       <file name="D:/AndroidStudioProjects/app/src/main/res/values/styles.xml" timestamp="1546845335472" />
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/assets/f" timestamp="1540893592988">
@@ -109,11 +109,11 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1546850739367" />
-      <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainActivity.java" timestamp="1546850850275">
-        <mark key="[" line="17" column="84" />
-        <mark key="]" line="17" column="49" />
+      <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainActivity.java" timestamp="1546919451285">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="52" />
         <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="49" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
@@ -292,14 +292,14 @@
       <jump line="82" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Translucent.NoTitleBar</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>Translucent.NoTitleBar</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
@@ -311,43 +311,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJDT0RFOiIgKyBpbml0UmV0Q29kZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlMb2cuZCgic2tkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMb2cuZCgic2tkIikK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBzZW5kTXNnKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBzZW5kTXNnKCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBzZW5kTXNnKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBzZW5kTXNnKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLm9uQ3JlYXRlKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLm9uQ3JlYXRlKGNvbnRleHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
