@@ -18,7 +18,6 @@
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
         <mark key="[" line="47" column="35" />
       </file>
-      <file name="D:/AndroidStudioProjects/app/src/main/res/values/colors.xml" timestamp="1546845324938" />
       <file name="/a.dummy" timestamp="1545978036072">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,7 +30,6 @@
         <mark key="." line="38" column="83" />
         <mark key="^" line="41" column="71" />
       </file>
-      <file name="D:/AndroidStudioProjects/app/src/main/res/values/styles.xml" timestamp="1546845335472" />
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/assets/f" timestamp="1540893592988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,7 +42,6 @@
       <file name="/LLDB" timestamp="1546594159338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/app/libs/yn_paymentfinal.jar!/com/payment/online/g/c.class" timestamp="1546845705266" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.txt" timestamp="1546825073198">
         <mark key="'" line="0" column="52" />
       </file>
@@ -74,7 +71,6 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_27.txt" timestamp="1546854509342" />
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1546594748424">
         <mark key="'" line="799" column="4" />
         <mark key="[" line="805" column="14" />
@@ -108,7 +104,6 @@
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1546850739367" />
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainActivity.java" timestamp="1546919451285">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="52" />
@@ -121,13 +116,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/TestOkhttp/app/src/main/java/com/honor/claim/testokhttp/MainActivity.java" timestamp="1547432449381" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/proguard-rules.pro" timestamp="1545794179291">
         <mark key="[" line="46" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/app/libs/yn_paymentfinal.jar!/com/payment/online/a/b.class" timestamp="1546845935982" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/test/build.gradle" timestamp="1541663780984">
         <mark key="[" line="8" column="31" />
       </file>
@@ -161,7 +156,6 @@
       <file name="E:/Project/DynamicLoader/tsdk/src/main/AndroidManifest.xml" timestamp="1545190463774">
         <mark key="[" line="39" column="78" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1546854323149" />
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
@@ -292,17 +286,17 @@
       <jump line="201" column="7" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MAIN KC4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoKQo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MAIN KC4</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>handle</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgInhsXzIiLCAiIiwgIiIrcywgIiIpOwo=</text>
@@ -311,52 +305,52 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1tc01hbmFnZXIuc2VuZFNNUyhjb250ZXh0LCAiOTYwMDAiLCAiTUFJTiBLQzQiLCBudWxsLCBuZXcgTW1zTWFuYWdlci5PblNlbmRMaXN0bmVyKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPa0h0dHBDbGllbnQgb2tIdHRwQ2xpZW50ID0gCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1tc01hbmFnZXIuc2VuZFNNUyhjb250ZXh0LCAiOTYwMDAiLCAiTUFJTiBLQzQiLCBudWxsLCBuZXcgTW1zTWFuYWdlci5PblNlbmRMaXN0bmVyKCkgewo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZWVkU2VuZE1zZyA9IGlzTmVlZFNlbmRNc2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJDT0RFOiIgKyBpbml0UmV0Q29kZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMb2cuZCgic2tkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2V0TGFzdFZlcnNpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
       </register>
     </registers>
     <search>
-      <last-search>handle</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>handle</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -364,8 +358,6 @@
     </search>
     <history>
       <history-search>
-        <entry>meta</entry>
-        <entry>38</entry>
         <entry>NEW_KEY_WORD</entry>
         <entry>newStr</entry>
         <entry>FIND_KEY_WORD</entry>
@@ -384,6 +376,8 @@
         <entry>handleSendMsg</entry>
         <entry>send</entry>
         <entry>handle</entry>
+        <entry>postMsg</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
