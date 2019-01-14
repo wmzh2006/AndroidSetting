@@ -15,10 +15,11 @@
         <mark key="." line="60" column="46" />
         <mark key="^" line="60" column="44" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/build.gradle" timestamp="1547433881557">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/build.gradle" timestamp="1547435020880">
+        <mark key="[" line="39" column="85" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
         <mark key="[" line="47" column="35" />
@@ -47,11 +48,11 @@
       <file name="/LLDB" timestamp="1546594159338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MainActivity.java" timestamp="1547434286096">
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="24" column="4" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MainActivity.java" timestamp="1547436358736">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="25" />
         <mark key="^" line="24" column="4" />
-        <mark key="." line="24" column="4" />
+        <mark key="." line="41" column="25" />
       </file>
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainService.java" timestamp="1546846520904">
         <mark key="[" line="25" column="22" />
@@ -99,11 +100,11 @@
       <file name="/Clipboard.txt" timestamp="1545275022437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" timestamp="1547434463397">
-        <mark key="[" line="308" column="53" />
-        <mark key="]" line="308" column="53" />
-        <mark key="." line="308" column="53" />
-        <mark key="^" line="308" column="53" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" timestamp="1547435870765">
+        <mark key="[" line="310" column="58" />
+        <mark key="]" line="310" column="58" />
+        <mark key="." line="310" column="58" />
+        <mark key="^" line="310" column="58" />
       </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
@@ -211,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="8" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
       <jump line="18" column="15" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" />
       <jump line="936" column="64" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="941" column="70" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -311,22 +311,23 @@
       <jump line="77" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
       <jump line="82" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
       <jump line="201" column="7" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="306" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgInhsXzIiLCAiIiwgIiIrcywgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICLM4b270MXPorPJuaYiICsgcmVzcG9uc2UuYm9keSgpLnN0cmluZygpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -338,37 +339,38 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgcmVzcG9uc2UudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5ib2R5KCkuY2xvc2UoKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgcmVzcG9uc2UuYm9keSgpLnN0cmluZygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdEJvZHkgYm9keSA9IFJlcXVlc3RCb2R5LmNyZWF0ZShKU09OLCBuZXcgYnl0ZVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkZXIoKQo=</text>
+      <register name="6" type="4">
+        <text>(&quot;TAG&quot;, &quot;fail!!!&quot; + response.message());
+                    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPa0h0dHBDbGllbnQgb2tIdHRwQ2xpZW50ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVzcG9uc2UuaXNTdWNjZXNzZnVsKCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPa0h0dHBDbGllbnQgY2xpZW50ID0gbmV3IE9rSHR0cENsaWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRIZWFkZXIoIkFjY2VwdCIsICJhcHBsaWNhYXRpb24vanNvbjsgcT0wLjUiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
