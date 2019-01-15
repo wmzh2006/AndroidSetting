@@ -24,8 +24,15 @@
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
         <mark key="[" line="47" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1545978036072">
+      <file name="/a.dummy" timestamp="1547544139616">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" timestamp="1547544096311">
+        <mark key="'" line="74" column="41" />
+        <mark key="[" line="26" column="94" />
+        <mark key="]" line="26" column="93" />
+        <mark key="^" line="26" column="93" />
+        <mark key="." line="26" column="93" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
@@ -54,6 +61,7 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="41" column="25" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1547544245672" />
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainService.java" timestamp="1546846520904">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="22" />
@@ -77,6 +85,9 @@
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1541857133169">
         <mark key="[" line="185" column="17" />
+      </file>
+      <file name="/RegExp Fragment (httpHook.java:2908).regexp" timestamp="1547543694686">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/MsServiceTest.java" timestamp="1547434231063">
         <mark key="[" line="10" column="126" />
@@ -138,6 +149,11 @@
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLogic.java" timestamp="1547544148150">
+        <mark key="[" line="29" column="102" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,6 +200,7 @@
       <file name="E:/Project/DynamicLoader/tsdk/src/main/AndroidManifest.xml" timestamp="1545190463774">
         <mark key="[" line="39" column="78" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1547544218832" />
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
@@ -204,7 +221,7 @@
         <mark key="." line="187" column="58" />
         <mark key="^" line="187" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1547433172552">
+      <file name="/fragment.java" timestamp="1547542648222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545990665306">
@@ -212,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" />
       <jump line="936" column="64" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="941" column="70" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="7" column="3" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" />
@@ -312,16 +328,17 @@
       <jump line="82" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
       <jump line="201" column="7" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="306" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
+      <jump line="70" column="41" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBIdHRwCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>lpparam</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -333,13 +350,13 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXNwb25zZS5ib2R5KCkuY2xvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -351,26 +368,25 @@
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgcmVzcG9uc2UuYm9keSgpLnN0cmluZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text>(&quot;TAG&quot;, &quot;fail!!!&quot; + response.message());
-                    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9ZWxzZXsK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVzcG9uc2UuaXNTdWNjZXNzZnVsKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRIZWFkZXIoIkFjY2VwdCIsICJhcHBsaWNhYXRpb24vanNvbjsgcT0wLjUiKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICDX99Xfo7rKwL3nw8C+sAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMzU4MzQwNTUvYXJ0aWNsZS9kZXRhaWxzLzc4Njc1NzM1IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906Oh</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
