@@ -55,6 +55,9 @@
       <file name="/LLDB" timestamp="1546594159338">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
+        <mark key="[" line="10" column="55" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MainActivity.java" timestamp="1547625234323">
         <mark key="[" line="41" column="25" />
         <mark key="]" line="41" column="25" />
@@ -66,6 +69,9 @@
         <mark key="]" line="25" column="22" />
         <mark key="." line="25" column="22" />
         <mark key="^" line="24" column="54" />
+      </file>
+      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedOutStream.java" timestamp="1547640839202">
+        <mark key="[" line="9" column="57" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1541143408484">
         <mark key="[" line="10" column="0" />
@@ -134,11 +140,11 @@
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HttpHook.java" timestamp="1547546464899">
-        <mark key="[" line="61" column="105" />
-        <mark key="]" line="61" column="105" />
-        <mark key="^" line="61" column="103" />
-        <mark key="." line="61" column="105" />
+      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HttpHook.java" timestamp="1547641146010">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="36" />
+        <mark key="^" line="31" column="36" />
       </file>
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainActivity.java" timestamp="1546919451285">
         <mark key="[" line="21" column="0" />
@@ -222,7 +228,7 @@
         <mark key="." line="187" column="58" />
         <mark key="^" line="187" column="57" />
       </file>
-      <file name="/fragment.java" timestamp="1547542648222">
+      <file name="/fragment.java" timestamp="1547640864346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545990665306">
@@ -332,8 +338,8 @@
       <jump line="70" column="41" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Okhttp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -351,13 +357,13 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -372,7 +378,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -381,13 +387,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICDX99Xfo7rKwL3nw8C+sAogICAgICAgIMC01LSjukNTRE4KICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvcXFfMzU4MzQwNTUvYXJ0aWNsZS9kZXRhaWxzLzc4Njc1NzM1IAogICAgICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906Oh</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
