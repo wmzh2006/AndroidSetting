@@ -79,11 +79,11 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/ExampleInstrumentedTest.java" timestamp="1547433949581">
         <mark key="[" line="24" column="120" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/f/MsServiceTest.java" timestamp="1547690794241">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="19" column="68" />
-        <mark key="^" line="19" column="68" />
-        <mark key="." line="19" column="68" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/f/MsServiceTest.java" timestamp="1547694926972">
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="4" />
       </file>
       <file name="D:/AndroidStudioProjects/app/build.gradle" timestamp="1546847640370">
         <mark key="[" line="7" column="26" />
@@ -227,18 +227,21 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547693368304">
-        <mark key="[" line="777" column="52" />
-        <mark key="]" line="776" column="64" />
-        <mark key="^" line="776" column="64" />
-        <mark key="." line="776" column="64" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547696193896">
+        <mark key="[" line="771" column="15" />
+        <mark key="]" line="771" column="15" />
+        <mark key="." line="771" column="15" />
+        <mark key="^" line="786" column="84" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/libs/eve_trace.jar!/com/android/providers/certinstaller/com/HttpRunner.class" timestamp="1547642068601" />
       <file name="/fragment.java" timestamp="1547690700056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545990665306">
-        <mark key="[" line="43" column="69" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1547695304897">
+        <mark key="[" line="34" column="71" />
+        <mark key="]" line="34" column="67" />
+        <mark key="^" line="34" column="67" />
+        <mark key="." line="34" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -345,37 +348,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAiaW1zaVJhbmdlIiwgIiIsICIyIiwgIiIrZS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJ0aHJlZV8zIiwgIiIsICIxIiwgIiIrbmV3IFN0cmluZyhyYXcpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21taXRJbmZvKGNvbnRleHQsIGluZm8sIGltc2krIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZGF0YSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9vCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uU3VjY2VzcyhyYXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -383,8 +386,16 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwCg==</text>
+      <register name="5" type="4">
+        <text>//        String useImei = &quot;\&quot;imei\&quot;:\&quot;0\&quot;,&quot;;
+//        if (!TextUtils.isEmpty(curImei)) {
+//            useImei =  &quot;\&quot;imei\&quot;:\&quot;&quot;+ curImei + &quot;\&quot;,&quot;;
+//        }
+//        String useImsi = &quot;&quot;;
+//        if (!TextUtils.isEmpty(curImsi)) {
+//            useImsi = &quot;\&quot;imsi\&quot;:\&quot;&quot; + curImsi + &quot;\&quot;,&quot;;
+//        }
+//        final  String postdate = &quot;{&quot; + useImei + useImsi + &quot;\&quot;msisdn\&quot;:null,\&quot;deviceModel\&quot;:\&quot;\&quot;,\&quot;deviceManufactur\&quot;:\&quot;\&quot;,\&quot;deviceOs\&quot;:\&quot;\&quot;}\n&quot;;</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -393,13 +404,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uU3VjY2VzcyhyYXcpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgc3RyUmV0KTsvLwkJCQkJeyJtZXNzYWdlIjoiUGVybWludGFhbiBkaXRvbGFrIiwic3RhdHVzIjpmYWxzZX0K</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
