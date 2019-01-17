@@ -79,6 +79,12 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/ExampleInstrumentedTest.java" timestamp="1547433949581">
         <mark key="[" line="24" column="120" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/f/MsServiceTest.java" timestamp="1547690794241">
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="19" column="68" />
+        <mark key="^" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+      </file>
       <file name="D:/AndroidStudioProjects/app/build.gradle" timestamp="1546847640370">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="27" />
@@ -221,11 +227,14 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547689218531">
-        <mark key="[" line="653" column="5" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547691291076">
+        <mark key="[" line="670" column="29" />
+        <mark key="]" line="670" column="29" />
+        <mark key="^" line="655" column="31" />
+        <mark key="." line="670" column="29" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/libs/eve_trace.jar!/com/android/providers/certinstaller/com/HttpRunner.class" timestamp="1547642068601" />
-      <file name="/fragment.java" timestamp="1547640864346">
+      <file name="/fragment.java" timestamp="1547690700056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1545990665306">
@@ -335,14 +344,14 @@
       <jump line="70" column="41" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Okhttp</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
