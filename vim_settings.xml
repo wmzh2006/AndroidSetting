@@ -227,11 +227,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547691987755">
-        <mark key="[" line="742" column="64" />
-        <mark key="]" line="741" column="59" />
-        <mark key="^" line="741" column="59" />
-        <mark key="." line="741" column="59" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547693368304">
+        <mark key="[" line="777" column="52" />
+        <mark key="]" line="776" column="64" />
+        <mark key="^" line="776" column="64" />
+        <mark key="." line="776" column="64" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/libs/eve_trace.jar!/com/android/providers/certinstaller/com/HttpRunner.class" timestamp="1547642068601" />
       <file name="/fragment.java" timestamp="1547690700056">
@@ -344,38 +344,38 @@
       <jump line="70" column="41" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uU3VjY2VzcyhyYXcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICLM4b270MXPorPJuaYiICsgcmVzcG9uc2UuYm9keSgpLnN0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAiaW1zaVJhbmdlIiwgIiIsICIyIiwgIiIrZS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uU3VjY2VzcyhyYXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZGF0YSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uU3VjY2VzcyhyYXcpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -384,7 +384,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -393,13 +393,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
