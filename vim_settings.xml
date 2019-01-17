@@ -27,13 +27,6 @@
       <file name="/a.dummy" timestamp="1547544139616">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" timestamp="1547544096311">
-        <mark key="'" line="74" column="41" />
-        <mark key="[" line="26" column="94" />
-        <mark key="]" line="26" column="93" />
-        <mark key="^" line="26" column="93" />
-        <mark key="." line="26" column="93" />
-      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
       </file>
@@ -80,7 +73,7 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/ExampleInstrumentedTest.java" timestamp="1547433949581">
         <mark key="[" line="24" column="120" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/f/MsServiceTest.java" timestamp="1547707772773">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/f/MsServiceTest.java" timestamp="1547709464365">
         <mark key="[" line="19" column="69" />
         <mark key="]" line="22" column="4" />
         <mark key="^" line="22" column="4" />
@@ -112,14 +105,7 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1546594748424">
-        <mark key="'" line="799" column="4" />
-        <mark key="[" line="805" column="14" />
-        <mark key="]" line="535" column="13" />
-        <mark key="^" line="535" column="13" />
-        <mark key="." line="535" column="13" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1545275022437">
+      <file name="/Clipboard.txt" timestamp="1547709862924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" timestamp="1547601749817">
@@ -152,6 +138,11 @@
         <mark key="]" line="44" column="37" />
         <mark key="." line="44" column="37" />
         <mark key="^" line="44" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.txt" timestamp="1547709852133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainActivity.java" timestamp="1546919451285">
         <mark key="[" line="21" column="0" />
@@ -188,13 +179,6 @@
       <file name="D:/AndroidStudioProjects/Solo/app/proguard-rules.pro" timestamp="1543478099735">
         <mark key="[" line="20" column="38" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1546865537188">
-        <mark key="'" line="1675" column="19" />
-        <mark key="[" line="448" column="0" />
-        <mark key="]" line="448" column="0" />
-        <mark key="^" line="448" column="18" />
-        <mark key="." line="448" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1545965889151">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,17 +205,11 @@
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/wv/util/LibraryLoaderTest.java" timestamp="1546852999921">
-        <mark key="'" line="41" column="3" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="39" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547708351143">
-        <mark key="[" line="758" column="51" />
-        <mark key="]" line="801" column="0" />
-        <mark key="." line="801" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547712135037">
+        <mark key="[" line="807" column="70" />
+        <mark key="]" line="807" column="70" />
+        <mark key="." line="807" column="70" />
+        <mark key="^" line="809" column="43" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/libs/eve_trace.jar!/com/android/providers/certinstaller/com/HttpRunner.class" timestamp="1547642068601" />
       <file name="/fragment.java" timestamp="1547690700056">
@@ -346,14 +324,14 @@
       <jump line="70" column="41" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ims[i]</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>ims[i]</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -365,43 +343,52 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgaW1zLmxlbmd0aDsgaSsrKXsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJ1bm5lci5hZGRIZWFkZXIoIiIsIkRhbHZpay8xLjYuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjI7IFBFLVVMMDAgQnVpbGQvSHVhd2VpUEUtVUwwMCkiKTsK</text>
+      <register name="2" type="8">
+        <text>01-17 14:22:11.923 8022-8278/com.init.env E/info_http: 510899117601012:
+01-17 14:22:13.093 8022-8278/com.init.env E/info_http: 510899117601013:
+01-17 14:22:14.053 8022-8278/com.init.env E/info_http: 510899117601020:
+01-17 14:22:14.693 8022-8278/com.init.env E/info_http: 510899117601044:
+01-17 14:22:15.033 8022-8278/com.init.env E/info_http: 510899117601060:
+01-17 14:22:15.703 8022-8278/com.init.env E/info_http: 510899117601066:
+01-17 14:22:16.913 8022-8278/com.init.env E/info_http: 510899117601063:
+01-17 14:22:17.513 8022-8278/com.init.env E/info_http: 510899117601110:
+01-17 14:22:17.863 8022-8278/com.init.env E/info_http: 510899117601115:
+01-17 14:22:18.223 8022-8278/com.init.env E/info_http: 510899117601118:</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5QYWlyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQml0bWFwOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJ1bm5lci5hZGRIZWFkZXIoIiIsIkRhbHZpay8xLjYuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjI7IFBFLVVMMDAgQnVpbGQvSHVhd2VpUEUtVUwwMCkiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5QYWlyOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21taXRJbmZvKGNvbnRleHQsIGluZm8sIGltc2krIiIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQml0bWFwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9vCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21taXRJbmZvKGNvbnRleHQsIGluZm8sIGltc2krIiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9vCg==</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
