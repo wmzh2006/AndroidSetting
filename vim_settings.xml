@@ -205,11 +205,12 @@
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547714581940">
-        <mark key="[" line="807" column="70" />
-        <mark key="]" line="807" column="70" />
-        <mark key="." line="807" column="70" />
-        <mark key="^" line="809" column="43" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547714914843">
+        <mark key="'" line="807" column="39" />
+        <mark key="[" line="811" column="74" />
+        <mark key="]" line="811" column="74" />
+        <mark key="." line="811" column="74" />
+        <mark key="^" line="809" column="36" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/libs/eve_trace.jar!/com/android/providers/certinstaller/com/HttpRunner.class" timestamp="1547642068601" />
       <file name="/fragment.java" timestamp="1547690700056">
@@ -222,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="936" column="64" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="941" column="70" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="7" column="3" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/Collector.java" />
       <jump line="144" column="36" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
@@ -322,16 +322,17 @@
       <jump line="201" column="7" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="306" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
       <jump line="70" column="41" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" />
+      <jump line="807" column="39" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ims[i]</text>
+        <text>]</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ims[i]</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
