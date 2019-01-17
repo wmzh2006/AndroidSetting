@@ -228,10 +228,10 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="39" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547701568683">
-        <mark key="[" line="698" column="0" />
-        <mark key="]" line="698" column="0" />
-        <mark key="." line="698" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1547702899912">
+        <mark key="[" line="801" column="0" />
+        <mark key="]" line="801" column="0" />
+        <mark key="." line="801" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/libs/eve_trace.jar!/com/android/providers/certinstaller/com/HttpRunner.class" timestamp="1547642068601" />
       <file name="/fragment.java" timestamp="1547690700056">
@@ -347,13 +347,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJ1bm5lci5hZGRIZWFkZXIoIiIsIkRhbHZpay8xLjYuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjI7IFBFLVVMMDAgQnVpbGQvSHVhd2VpUEUtVUwwMCkiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -365,51 +365,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJ1bm5lci5hZGRIZWFkZXIoIiIsIkRhbHZpay8xLjYuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjI7IFBFLVVMMDAgQnVpbGQvSHVhd2VpUEUtVUwwMCkiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5QYWlyOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJ1bm5lci5hZGRIZWFkZXIoIiIsIkRhbHZpay8xLjYuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjI7IFBFLVVMMDAgQnVpbGQvSHVhd2VpUEUtVUwwMCkiKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQml0bWFwOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5QYWlyOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQml0bWFwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21taXRJbmZvKGNvbnRleHQsIGluZm8sIGltc2krIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21taXRJbmZvKGNvbnRleHQsIGluZm8sIGltc2krIiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>//        String useImei = &quot;\&quot;imei\&quot;:\&quot;0\&quot;,&quot;;
-//        if (!TextUtils.isEmpty(curImei)) {
-//            useImei =  &quot;\&quot;imei\&quot;:\&quot;&quot;+ curImei + &quot;\&quot;,&quot;;
-//        }
-//        String useImsi = &quot;&quot;;
-//        if (!TextUtils.isEmpty(curImsi)) {
-//            useImsi = &quot;\&quot;imsi\&quot;:\&quot;&quot; + curImsi + &quot;\&quot;,&quot;;
-//        }
-//        final  String postdate = &quot;{&quot; + useImei + useImsi + &quot;\&quot;msisdn\&quot;:null,\&quot;deviceModel\&quot;:\&quot;\&quot;,\&quot;deviceManufactur\&quot;:\&quot;\&quot;,\&quot;deviceOs\&quot;:\&quot;\&quot;}\n&quot;;</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
