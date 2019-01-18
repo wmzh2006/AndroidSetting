@@ -1,9 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="E:/tools/android" />
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -63,7 +66,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
