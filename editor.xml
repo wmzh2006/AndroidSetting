@@ -1,5 +1,6 @@
 <application>
-  <component name="XmlEditorOptions">
-    <option name="insertQuotesForAttributeValue" value="false" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
