@@ -69,11 +69,11 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1548642467232">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1548644046264">
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="36" column="68" />
+        <mark key="." line="36" column="68" />
+        <mark key="^" line="36" column="68" />
       </file>
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainService.java" timestamp="1546846520904">
         <mark key="[" line="25" column="22" />
@@ -354,13 +354,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -372,33 +372,36 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZW50UHJvdmlkZXIgY29udGVudFByb3ZpZGVyOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFNtc1N0b3JlTWFuYWdlci5nZXRJbnN0YW5jZSgpLnNlbiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKG1hdGNoZXIuZmluZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFNtc1N0b3JlTWFuYWdlci5nZXRJbnN0YW5jZSgpLnNlbiAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKG1hdGNoZXIuZmluZCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgaW1zLmxlbmd0aDsgaSsrKXsK</text>
+        <text encoding="base64">CQkJTG9nY2F0QWN0aW9uLm9uRXZlbnQoKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IoaW50IGkgPSAwOyBpIDwgaW1zLmxlbmd0aDsgaSsrKXsK</text>
+      </register>
+      <register name="7" type="8">
         <text>01-17 14:22:11.923 8022-8278/com.init.env E/info_http: 510899117601012:
 01-17 14:22:13.093 8022-8278/com.init.env E/info_http: 510899117601013:
 01-17 14:22:14.053 8022-8278/com.init.env E/info_http: 510899117601020:
@@ -410,14 +413,11 @@
 01-17 14:22:17.863 8022-8278/com.init.env E/info_http: 510899117601115:
 01-17 14:22:18.223 8022-8278/com.init.env E/info_http: 510899117601118:</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJ1bm5lci5hZGRIZWFkZXIoIiIsIkRhbHZpay8xLjYuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjI7IFBFLVVMMDAgQnVpbGQvSHVhd2VpUEUtVUwwMCkiKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5QYWlyOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJ1bm5lci5hZGRIZWFkZXIoIiIsIkRhbHZpay8xLjYuMCAoTGludXg7IFU7IEFuZHJvaWQgNC40LjI7IFBFLVVMMDAgQnVpbGQvSHVhd2VpUEUtVUwwMCkiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
