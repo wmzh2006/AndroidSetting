@@ -34,11 +34,10 @@
       <file name="/a.dummy" timestamp="1548660109790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/androidTest/java/com/honor/claim/phoneinfo/PhoneUtilsTest.java" timestamp="1548761697226">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-        <mark key="^" line="34" column="49" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/androidTest/java/com/honor/claim/phoneinfo/PhoneUtilsTest.java" timestamp="1548761818256">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" timestamp="1547544096311">
         <mark key="'" line="74" column="41" />
@@ -97,12 +96,12 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1548760129750">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1548762582311">
         <mark key="'" line="55" column="34" />
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="46" column="80" />
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="88" column="18" />
+        <mark key="." line="88" column="18" />
+        <mark key="^" line="88" column="18" />
       </file>
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainService.java" timestamp="1546846520904">
         <mark key="[" line="25" column="22" />
@@ -176,7 +175,7 @@
         <mark key="." line="310" column="58" />
         <mark key="^" line="310" column="58" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/CallHistory.java" timestamp="1548751739960">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/CallHistory.java" timestamp="1548762187608">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="4" />
         <mark key="." line="46" column="4" />
@@ -451,13 +450,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>concat</text>
+        <text>else {
+                callHistories.add(callHistory);
+            }</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>concat</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -468,44 +469,46 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXROZXR3b3JrQ291bnRyeUlzbwo=</text>
+      <register name="1" type="4">
+        <text>else {
+                callHistories.add(callHistory);
+            }</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvbnNvbmdiYWkvYXJ0aWNsZS9kZXRhaWxzLzc2NTE2MjY5IAo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIG5lZWRBZGQgPSB0cnVlOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICDAtNS0o7pDU0ROCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5lZWRBZGQgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgINf31d+jum5zb25nYmFpCg==</text>
+        <text encoding="base64">ICAgICAgIGlmKGNhbGxIaXN0b3JpZXMpIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXROZXR3b3JrQ291bnRyeUlzbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpbwo=</text>
+        <text encoding="base64">ICAgICAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvbnNvbmdiYWkvYXJ0aWNsZS9kZXRhaWxzLzc2NTE2MjY5IAo=</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
