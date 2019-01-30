@@ -34,11 +34,11 @@
       <file name="/a.dummy" timestamp="1548660109790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/androidTest/java/com/honor/claim/phoneinfo/PhoneUtilsTest.java" timestamp="1548838244271">
-        <mark key="[" line="41" column="73" />
-        <mark key="]" line="41" column="72" />
-        <mark key="." line="41" column="72" />
-        <mark key="^" line="41" column="72" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/androidTest/java/com/honor/claim/phoneinfo/PhoneUtilsTest.java" timestamp="1548838964999">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="16" />
+        <mark key="." line="48" column="16" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" timestamp="1547544096311">
         <mark key="'" line="74" column="41" />
@@ -464,14 +464,14 @@
       <jump line="145" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc29ydE9yZGVyID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
