@@ -24,11 +24,12 @@
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
         <mark key="[" line="47" column="35" />
       </file>
-      <file name="E:/Project/indo_demo/indo_demo/src/main/java/com/idea/play/MainActivity.java" timestamp="1548759886298">
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="62" />
-        <mark key="." line="37" column="62" />
-        <mark key="^" line="37" column="61" />
+      <file name="E:/Project/indo_demo/indo_demo/src/main/java/com/idea/play/MainActivity.java" timestamp="1548811377352">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="37" column="83" />
+        <mark key="]" line="37" column="83" />
+        <mark key="." line="37" column="83" />
+        <mark key="^" line="37" column="83" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/EventBean.class" timestamp="1547794374586" />
       <file name="/a.dummy" timestamp="1548660109790">
@@ -136,7 +137,7 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1541857133169">
         <mark key="[" line="185" column="17" />
       </file>
-      <file name="E:/Project/indo_demo/indo_demo/build.gradle" timestamp="1548756993253">
+      <file name="E:/Project/indo_demo/indo_demo/build.gradle" timestamp="1548811266379">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="24" />
         <mark key="^" line="7" column="33" />
@@ -218,6 +219,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1548811325424" />
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainActivity.java" timestamp="1546919451285">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="52" />
@@ -348,8 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" />
-      <jump line="136" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/hjq/permissions/XXPermissions.java" />
       <jump line="149" column="80" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="295" column="49" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
       <jump line="273" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
@@ -448,18 +448,18 @@
       <jump line="5" column="41" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/AndroidManifest.xml" />
       <jump line="36" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
+      <jump line="37" column="82" filename="E:/Project/indo_demo/indo_demo/src/main/java/com/idea/play/MainActivity.java" />
+      <jump line="49" column="8" filename="E:/Project/indo_demo/indo_demo/src/main/java/com/idea/play/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else {
-                callHistories.add(callHistory);
-            }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -470,46 +470,46 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-                callHistories.add(callHistory);
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      <register name="2" type="4">
+        <text>else {
+                callHistories.add(callHistory);
+            }</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIG5lZWRBZGQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5lZWRBZGQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIG5lZWRBZGQgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGlmKGNhbGxIaXN0b3JpZXMpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5lZWRBZGQgPSBmYWxzZTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgIGlmKGNhbGxIaXN0b3JpZXMpIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXROZXR3b3JrQ291bnRyeUlzbwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXROZXR3b3JrQ291bnRyeUlzbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICDUrc7Eo7podHRwczovL2Jsb2cuY3Nkbi5uZXQvbnNvbmdiYWkvYXJ0aWNsZS9kZXRhaWxzLzc2NTE2MjY5IAo=</text>
+        <text encoding="base64">ICAgICAgICCw5sioyfnD96O6sb7OxM6qsqnW99SttLTOxNXCo6zXqtTYx+u4vcnPsqnOxMG0vdOjoQo=</text>
       </register>
       <register name=":" type="4">
         <text>43, 48 d</text>
