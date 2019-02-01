@@ -62,7 +62,7 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1548846648513">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1549026950797">
         <mark key="'" line="148" column="34" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="52" />
@@ -153,6 +153,13 @@
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1549027191749">
+        <mark key="'" line="888" column="0" />
+        <mark key="[" line="880" column="75" />
+        <mark key="]" line="299" column="78" />
+        <mark key="^" line="299" column="78" />
+        <mark key="." line="299" column="78" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1547700532240">
         <mark key="[" line="35" column="44" />
         <mark key="]" line="35" column="0" />
@@ -213,11 +220,11 @@
       <file name="/RegExp Fragment (httpHook.java:2908).regexp" timestamp="1547543694686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/MainActivity.java" timestamp="1549026445841">
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="17" column="41" />
-        <mark key="." line="17" column="41" />
-        <mark key="^" line="17" column="41" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/MainActivity.java" timestamp="1549027043274">
+        <mark key="[" line="23" column="68" />
+        <mark key="]" line="23" column="68" />
+        <mark key="." line="23" column="68" />
+        <mark key="^" line="21" column="70" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/MsServiceTest.java" timestamp="1547434231063">
         <mark key="[" line="10" column="126" />
@@ -267,6 +274,7 @@
         <mark key="." line="44" column="37" />
         <mark key="^" line="44" column="37" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/sms-plugin-lib.jar!/com/hjq/permissions/Permission.class" timestamp="1549027448370" />
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
       </file>
@@ -452,13 +460,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CONTEXT_IGNORE_SECURITY</text>
+        <text>WRITE_CONTACTS</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>CONTEXT_IGNORE_SECURITY</text>
+        <text>WRITE_CONTACTS</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -470,43 +478,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PENvbnRhY3RzPiBjb250YWN0c0xpc3QgPSBQaG9uZVV0aWxzLmdldENvbnRhY3RzKGNvbnRleHQpOwogICAgICAgIExvZy5lKCJUQUciLCBjb250YWN0c0xpc3QudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTQiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIxOSIgLz4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50Lmxpc3RlbmVyLkluaXRMaXN0ZW5lcjsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTQiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIxOSIgLz4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50LnBheS5QYXlSZXN1bHQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50Lmxpc3RlbmVyLkluaXRMaXN0ZW5lcjsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50Lmxpc3RlbmVyLkdhbWVTREtQYXlSZXN1bHRMaXN0ZW5lcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50LnBheS5QYXlSZXN1bHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50LmVtLlN0YXR1ZUNvZGUuUGF5UmV0Q29kZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50Lmxpc3RlbmVyLkdhbWVTREtQYXlSZXN1bHRMaXN0ZW5lcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50LmVtLlN0YXR1ZUNvZGUuSW5pdFJldENvZGU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50LmVtLlN0YXR1ZUNvZGUuUGF5UmV0Q29kZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50LkdhbWVTREs7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wYXltZW50LmVtLlN0YXR1ZUNvZGUuSW5pdFJldENvZGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$ y</text>
