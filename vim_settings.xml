@@ -213,11 +213,11 @@
       <file name="/RegExp Fragment (httpHook.java:2908).regexp" timestamp="1547543694686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/MainActivity.java" timestamp="1549021650435">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/MainActivity.java" timestamp="1549026445841">
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/MsServiceTest.java" timestamp="1547434231063">
         <mark key="[" line="10" column="126" />
@@ -451,14 +451,14 @@
       <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>CONTEXT_IGNORE_SECURITY</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CONTEXT_IGNORE_SECURITY</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
