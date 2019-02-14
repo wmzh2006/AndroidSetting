@@ -179,6 +179,13 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1550113650022">
+        <mark key="'" line="14" column="30" />
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1547709862924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -356,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="70" column="19" filename="$USER_HOME$/Desktop/2048-android/app/src/main/java/com/estar/pro2048/MainActivity.java" />
       <jump line="25" column="52" filename="/AndroidManifest.xml" />
       <jump line="32" column="9" filename="/AndroidManifest.xml" />
@@ -456,81 +462,81 @@
       <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/proguard-rules.pro" />
       <jump line="7" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
       <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
+      <jump line="14" column="30" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>android.support.constraint.ConstraintLayout</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text encoding="base64">XDxTZXJ2aWNlaGVscHNlcnZlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>PackageInfo info</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBzb05ld05hbWUgPSBTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgc29OZXdOYW1lID0gU2VydmljZWhlbHBzZXJ2ZXIuY2xhc3MuZ2V0UGFja2FnZSgpLmdldE5hbWUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBzb05ld05hbWUgPSBTZXJ2aWNlaGVscHNlcnZlci5jbGFzcy5nZXRQYWNrYWdlKCkuZ2V0TmFtZSgpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ID0gU2VydmljZWhlbHBzZXJ2ZXIuY2xhc3MuZ2V0UGFja2FnZSgpLmdldE5hbWUoKTsKICAgIHB1YmxpYyBzdGF0aWMgTG9hZExpYnJhcnkgZ2V0SW5zdGFuY2UoKSB7CiAgICAgICAgc3luY2hyb25pemVkIChMb2FkTGlicmFyeS5jbGFzcykgewogICAgICAgICAgICBpZiAoaW5zdGFuY2UgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgaW5zdGFuY2UgPSBuZXcgTG9hZExpYnJhcnkoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBzb05ld05hbWUgPSA=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ID0gU2VydmljZWhlbHBzZXJ2ZXIuY2xhc3MuZ2V0UGFja2FnZSgpLmdldE5hbWUoKTsKICAgIHB1YmxpYyBzdGF0aWMgTG9hZExpYnJhcnkgZ2V0SW5zdGFuY2UoKSB7CiAgICAgICAgc3luY2hyb25pemVkIChMb2FkTGlicmFyeS5jbGFzcykgewogICAgICAgICAgICBpZiAoaW5zdGFuY2UgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgaW5zdGFuY2UgPSBuZXcgTG9hZExpYnJhcnkoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBzb05ld05hbWUgPSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PENvbnRhY3RzPiBjb250YWN0c0xpc3QgPSBQaG9uZVV0aWxzLmdldENvbnRhY3RzKGNvbnRleHQpOwogICAgICAgIExvZy5lKCJUQUciLCBjb250YWN0c0xpc3QudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0IAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTQiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIxOSIgLz4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$ y</text>
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search encoding="base64">XDxTZXJ2aWNlaGVscHNlcnZlclw+</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern encoding="base64">XDxTZXJ2aWNlaGVscHNlcnZlclw+</last-pattern>
       <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
       <last-substitute>\(android\..*\)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NEW_KEY_WORD</entry>
         <entry>newStr</entry>
         <entry>FIND_KEY_WORD</entry>
         <entry>findStr</entry>
@@ -550,6 +556,7 @@
         <entry>handle</entry>
         <entry>postMsg</entry>
         <entry>post</entry>
+        <entry encoding="base64">XDxTZXJ2aWNlaGVscHNlcnZlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^\(.*\)//gcn</entry>
