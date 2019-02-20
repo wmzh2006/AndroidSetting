@@ -114,11 +114,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/res/values/strings.xml" timestamp="1550632444157">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="49" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="49" />
+      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/res/values/strings.xml" timestamp="1550662263968">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="53" />
       </file>
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainActivity.java" timestamp="1546919451285">
         <mark key="[" line="21" column="0" />
@@ -144,6 +144,12 @@
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/proguard-rules.pro" timestamp="1547433920208">
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/2048-master/2048/build.gradle" timestamp="1550663207111">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
@@ -263,11 +269,11 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/build.gradle" timestamp="1550660439724">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/build.gradle" timestamp="1550663593766">
+        <mark key="[" line="24" column="72" />
+        <mark key="]" line="24" column="73" />
+        <mark key="." line="24" column="73" />
+        <mark key="^" line="25" column="54" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" timestamp="1547601749817">
         <mark key="[" line="310" column="58" />
@@ -494,14 +500,14 @@
       <jump line="22" column="27" filename="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/java/com/tcpoa/twozerogame/RankService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gZmlsZXMoJ2xpYnMvY29tLmVhY2hpc2gucGFrZV8xMDQ3ODdfMjAxOTAyMjAxNTUzLmphcicpCg==</text>
+      <register name="&quot;" type="4">
+        <text>${YOUR_TRACKING_ID}</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>isInitialized()</text>
+        <text>${YOUR_TRACKING_ID}</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
@@ -513,43 +519,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gZmlsZXMoJ2xpYnMvY29tLmVhY2hpc2gucGFrZV8xMDQ3ODdfMjAxOTAyMjAxNTUzLmphcicpCg==</text>
+        <text encoding="base64">ICAgIDwvcmVzb3VyY2VzPgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXBwRXZlbnRzTG9nZ2VyIGxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgIDxyZXNvdXJjZXM+Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICBjb21waWxlICdjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtYW5hbHl0aWNzOjEwLjIuNCcK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAnY29tLmdvb2dsZS5nbXM6Z29vZ2xlLXNlcnZpY2VzOjMuMC4wJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gZmlsZXMoJ2xpYnMvY29tLmVhY2hpc2gucGFrZV8xMDQ3ODdfMjAxOTAyMjAxNTUzLmphcicpCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgYXR0YWNoQmFzZUNvbnRleHQoQ29udGV4dCBiYXNlKSB7CiAgICAgICAgc3VwZXIuYXR0YWNoQmFzZUNvbnRleHQoYmFzZSk7CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQXBwRXZlbnRzTG9nZ2VyIGxvZ2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>.,$ y</text>
