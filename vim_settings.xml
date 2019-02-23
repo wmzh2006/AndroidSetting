@@ -141,6 +141,11 @@
       <file name="/Clipboard.txt" timestamp="1547709862924">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/settings.gradle" timestamp="1550889809257">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+      </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/java/com/tcpoa/twozerogame/AppApplication.java" timestamp="1550647078149">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="20" />
@@ -565,13 +570,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>, ':demo2'</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>, ':demo2'</text>
       </register>
       <register name="/" type="4">
         <text>gp</text>
