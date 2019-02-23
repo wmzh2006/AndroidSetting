@@ -421,11 +421,10 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1550914602175">
-        <mark key="[" line="58" column="76" />
-        <mark key="]" line="57" column="69" />
-        <mark key="." line="57" column="69" />
-        <mark key="^" line="57" column="69" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1550914739127">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/settings.gradle" timestamp="1550891047831">
         <mark key="[" line="10" column="0" />
@@ -610,14 +609,14 @@
       <jump line="150" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/HttpRunnerUploadFile.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">VXBGaWxlTWFuYWdlciA=</text>
       </register>
       <register name="/" type="4">
         <text>LogUtil</text>
@@ -634,40 +633,40 @@
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICBib29sZWFuIGNoZWNrTUQ1ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShtZDUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZ1V0aWwuaShUQUcsICJtZDUgaXNuJ3QgbnVsbCB0aGF0IG5lZWQgdG8gY2hlY2sgbWQ1Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrTUQ1ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChjaGVja01ENSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZmlsZU1kNSA9IFBob25lSW5mb1V0aWwuZmlsZU1ENShmaWxlKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KGZpbGVNZDUpIHx8IGZpbGVNZDUubGVuZ3RoKCkgPCA4IHx8ICFmaWxlTWQ1LnN1YnN0cmluZygwLCA4KS5lcXVhbHMobWQ1LnRvTG93ZXJDYXNlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dVdGlsLmUoVEFHLCAibWQ1IGRvZXNuJ3QgbWF0Y2ggIiArIGZpbGVNZDUuc3Vic3RyaW5nKDAsIE1hdGgubWluKGZpbGVNZDUubGVuZ3RoKCksOCkpICArICIgIT0gIiArIG1kNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cEZpbGVNYW5hZ2VyID0gbmV3IFVwRmlsZU1hbmFnZXIoY3R4LCBjaWQpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nVXRpbC5pKFRBRywgIm1kNSBpc24ndCBudWxsIHRoYXQgbmVlZCB0byBjaGVjayBtZDUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICBib29sZWFuIGNoZWNrTUQ1ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShtZDUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZ1V0aWwuaShUQUcsICJtZDUgaXNuJ3QgbnVsbCB0aGF0IG5lZWQgdG8gY2hlY2sgbWQ1Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrTUQ1ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChjaGVja01ENSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZmlsZU1kNSA9IFBob25lSW5mb1V0aWwuZmlsZU1ENShmaWxlKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KGZpbGVNZDUpIHx8IGZpbGVNZDUubGVuZ3RoKCkgPCA4IHx8ICFmaWxlTWQ1LnN1YnN0cmluZygwLCA4KS5lcXVhbHMobWQ1LnRvTG93ZXJDYXNlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dVdGlsLmUoVEFHLCAibWQ1IGRvZXNuJ3QgbWF0Y2ggIiArIGZpbGVNZDUuc3Vic3RyaW5nKDAsIE1hdGgubWluKGZpbGVNZDUubGVuZ3RoKCksOCkpICArICIgIT0gIiArIG1kNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJlYWxQYXRoID0gRmlsZVV0aWwucGF0aE5ldFRvTG9jYWwocGF0aCwgcG4pOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nVXRpbC5pKFRBRywgIm1kNSBpc24ndCBudWxsIHRoYXQgbmVlZCB0byBjaGVjayBtZDUiKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJlYWxQYXRoID0gRmlsZVV0aWwucGF0aE5ldFRvTG9jYWwocGF0aCwgcG4pOwogICAgICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="8" type="4">
         <text>else {
                     realPath = FileUtil.pathNetToLocal(path, pn);
                 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gY2hlY2tNRDUgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KG1kNSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAibWQ1IGlzbid0IG51bGwgdGhhdCBuZWVkIHRvIGNoZWNrIG1kNSIpOwogICAgICAgICAgICAgICAgICAgICAgICBjaGVja01ENSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAoY2hlY2tNRDUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGZpbGVNZDUgPSBQaG9uZUluZm9VdGlsLmZpbGVNRDUoZmlsZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShmaWxlTWQ1KSB8fCBmaWxlTWQ1Lmxlbmd0aCgpIDwgOCB8fCAhZmlsZU1kNS5zdWJzdHJpbmcoMCwgOCkuZXF1YWxzKG1kNS50b0xvd2VyQ2FzZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCAibWQ1IGRvZXNuJ3QgbWF0Y2ggIiArIGZpbGVNZDUuc3Vic3RyaW5nKDAsIE1hdGgubWluKGZpbGVNZDUubGVuZ3RoKCksOCkpICArICIgIT0gIiArIG1kNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>% s/LogUtil/Log/gc</text>
