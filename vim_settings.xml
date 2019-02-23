@@ -285,6 +285,9 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/HttpRunnerUploadFile.java" timestamp="1550912805104">
+        <mark key="'" line="151" column="55" />
+      </file>
       <file name="D:/AndroidStudioProjects/app/src/main/java/com/honor/rocket/MainService.java" timestamp="1546846520904">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="22" />
@@ -418,11 +421,11 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1550911084080">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-        <mark key="^" line="25" column="3" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1550914602175">
+        <mark key="[" line="58" column="76" />
+        <mark key="]" line="57" column="69" />
+        <mark key="." line="57" column="69" />
+        <mark key="^" line="57" column="69" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/settings.gradle" timestamp="1550891047831">
         <mark key="[" line="10" column="0" />
@@ -450,11 +453,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1550912026237">
-        <mark key="[" line="130" column="16" />
-        <mark key="]" line="130" column="19" />
-        <mark key="." line="130" column="19" />
-        <mark key="^" line="130" column="19" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1550913840519">
+        <mark key="'" line="263" column="30" />
+        <mark key="[" line="253" column="21" />
+        <mark key="]" line="253" column="56" />
+        <mark key="." line="253" column="56" />
+        <mark key="^" line="253" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/androidTest/java/com/tcpoa/twozerogame/StoreTest.java" timestamp="1550754780099">
         <mark key="[" line="18" column="25" />
@@ -467,6 +471,12 @@
         <mark key="]" line="25" column="4" />
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/androidTest/java/com/upload/file/UpFileManagerTest.java" timestamp="1550912656119">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/AndroidManifest.xml" timestamp="1545190463774">
         <mark key="[" line="39" column="78" />
@@ -493,13 +503,11 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1550910829699">
+      <file name="/fragment.java" timestamp="1550913443862">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="609" column="21" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
-      <jump line="610" column="13" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="611" column="13" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="612" column="13" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="613" column="15" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
@@ -598,19 +606,21 @@
       <jump line="121" column="4" filename="E:/Project/AD_SO_SDK_PACKAGE/build.bat" />
       <jump line="9" column="10" filename="E:/Project/AD_SO_SDK_PACKAGE/build.bat" />
       <jump line="53" column="4" filename="E:/Project/AD_SO_SDK_PACKAGE/build.bat" />
+      <jump line="263" column="30" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" />
+      <jump line="150" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/HttpRunnerUploadFile.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>gp</text>
+        <text>LogUtil</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiVEFHIiwgImRlbGF5IHN0YXJ0Li4uIik7Cg==</text>
@@ -660,21 +670,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gY2hlY2tNRDUgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICBpZiAoIVRleHRVdGlscy5pc0VtcHR5KG1kNSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmkoVEFHLCAibWQ1IGlzbid0IG51bGwgdGhhdCBuZWVkIHRvIGNoZWNrIG1kNSIpOwogICAgICAgICAgICAgICAgICAgICAgICBjaGVja01ENSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBpZiAoY2hlY2tNRDUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGZpbGVNZDUgPSBQaG9uZUluZm9VdGlsLmZpbGVNRDUoZmlsZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChUZXh0VXRpbHMuaXNFbXB0eShmaWxlTWQ1KSB8fCBmaWxlTWQ1Lmxlbmd0aCgpIDwgOCB8fCAhZmlsZU1kNS5zdWJzdHJpbmcoMCwgOCkuZXF1YWxzKG1kNS50b0xvd2VyQ2FzZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoVEFHLCAibWQ1IGRvZXNuJ3QgbWF0Y2ggIiArIGZpbGVNZDUuc3Vic3RyaW5nKDAsIE1hdGgubWluKGZpbGVNZDUubGVuZ3RoKCksOCkpICArICIgIT0gIiArIG1kNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
-        <text>.,$ y</text>
+        <text>% s/LogUtil/Log/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>gp</last-search>
+      <last-search>LogUtil</last-search>
       <last-offset />
-      <last-pattern>gp</last-pattern>
-      <last-replace encoding="base64">XDx1c2VyLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJcMSJcLz4=</last-replace>
-      <last-substitute>\(android\..*\)</last-substitute>
+      <last-pattern>LogUtil</last-pattern>
+      <last-replace>Log</last-replace>
+      <last-substitute>LogUtil</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onstart</entry>
         <entry>onPageStart</entry>
         <entry>43,48 d</entry>
         <entry>isZygote64_err</entry>
@@ -694,9 +703,9 @@
         <entry>js</entry>
         <entry>go</entry>
         <entry>gp</entry>
+        <entry>LogUtil</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/^\(.*\)//gcn</entry>
         <entry>%s/^\(.*\)//gn</entry>
         <entry>%s/^(.*)$//gn</entry>
         <entry>%s/^/\/\//g</entry>
@@ -716,6 +725,7 @@
         <entry>43, 48 d</entry>
         <entry>.,$ y</entry>
         <entry>y.,$</entry>
+        <entry>% s/LogUtil/Log/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
