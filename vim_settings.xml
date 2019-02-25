@@ -64,13 +64,6 @@
       <file name="/LLDB" timestamp="1546594159338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/AD_SO_SDK_PACKAGE/build.bat" timestamp="1550805740902">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="48" column="48" />
-        <mark key="]" line="121" column="4" />
-        <mark key="^" line="121" column="4" />
-        <mark key="." line="121" column="4" />
-      </file>
       <file name="E:/Project/indo_demo/indo_demo/src/main/res/layout/activity_main.xml" timestamp="1548661448282">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -185,13 +178,6 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/test/build.gradle" timestamp="1541663780984">
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/java/com/tcpoa/twozerogame/RankService.java" timestamp="1550756956970">
-        <mark key="'" line="46" column="27" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="44" column="32" />
-        <mark key="^" line="44" column="32" />
-        <mark key="." line="44" column="32" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/proguard-rules.pro" timestamp="1547433920208">
         <mark key="[" line="21" column="0" />
       </file>
@@ -278,6 +264,9 @@
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="32" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo2/src/main/java/com/hunt/pilot/cao/demo2/MainActivity.java" timestamp="1551063390259">
+        <mark key="[" line="19" column="115" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpDate.java" timestamp="1550910892903">
         <mark key="[" line="4" column="23" />
@@ -367,11 +356,11 @@
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/androidTest/java/com/installer/process/CollectorTest.java" timestamp="1551062068295">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="27" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/androidTest/java/com/installer/process/CollectorTest.java" timestamp="1551063034766">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="49" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="17" column="49" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HttpHook.java" timestamp="1547643745730">
         <mark key="[" line="44" column="38" />
@@ -427,8 +416,8 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551062026095">
-        <mark key="[" line="53" column="4" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551063730063">
+        <mark key="[" line="75" column="10" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
@@ -459,12 +448,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1550913840519">
-        <mark key="'" line="263" column="30" />
-        <mark key="[" line="253" column="21" />
-        <mark key="]" line="253" column="56" />
-        <mark key="." line="253" column="56" />
-        <mark key="^" line="253" column="56" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1551063825097">
+        <mark key="'" line="265" column="30" />
+        <mark key="[" line="46" column="60" />
+        <mark key="]" line="48" column="22" />
+        <mark key="." line="48" column="22" />
+        <mark key="^" line="48" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/androidTest/java/com/tcpoa/twozerogame/StoreTest.java" timestamp="1550754780099">
         <mark key="[" line="18" column="25" />
@@ -617,13 +606,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>etJSONArray</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>etJSONArray</text>
       </register>
       <register name="/" type="4">
         <text>LogUtil</text>
@@ -635,45 +624,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdChuZXcgU3RyaW5nKHJhdykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBkYXRhID0gb2JqZWN0LmdldEpTT05PYmplY3QoImR0Iik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdChuZXcgU3RyaW5nKHJhdykpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cEZpbGVNYW5hZ2VyID0gbmV3IFVwRmlsZU1hbmFnZXIoY3R4LCBjaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cEZpbGVNYW5hZ2VyID0gbmV3IFVwRmlsZU1hbmFnZXIoY3R4LCBjaWQpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICBib29sZWFuIGNoZWNrTUQ1ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShtZDUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZ1V0aWwuaShUQUcsICJtZDUgaXNuJ3QgbnVsbCB0aGF0IG5lZWQgdG8gY2hlY2sgbWQ1Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrTUQ1ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChjaGVja01ENSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZmlsZU1kNSA9IFBob25lSW5mb1V0aWwuZmlsZU1ENShmaWxlKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KGZpbGVNZDUpIHx8IGZpbGVNZDUubGVuZ3RoKCkgPCA4IHx8ICFmaWxlTWQ1LnN1YnN0cmluZygwLCA4KS5lcXVhbHMobWQ1LnRvTG93ZXJDYXNlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dVdGlsLmUoVEFHLCAibWQ1IGRvZXNuJ3QgbWF0Y2ggIiArIGZpbGVNZDUuc3Vic3RyaW5nKDAsIE1hdGgubWluKGZpbGVNZDUubGVuZ3RoKCksOCkpICArICIgIT0gIiArIG1kNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nVXRpbC5pKFRBRywgIm1kNSBpc24ndCBudWxsIHRoYXQgbmVlZCB0byBjaGVjayBtZDUiKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICBib29sZWFuIGNoZWNrTUQ1ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShtZDUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZ1V0aWwuaShUQUcsICJtZDUgaXNuJ3QgbnVsbCB0aGF0IG5lZWQgdG8gY2hlY2sgbWQ1Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrTUQ1ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChjaGVja01ENSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZmlsZU1kNSA9IFBob25lSW5mb1V0aWwuZmlsZU1ENShmaWxlKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KGZpbGVNZDUpIHx8IGZpbGVNZDUubGVuZ3RoKCkgPCA4IHx8ICFmaWxlTWQ1LnN1YnN0cmluZygwLCA4KS5lcXVhbHMobWQ1LnRvTG93ZXJDYXNlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dVdGlsLmUoVEFHLCAibWQ1IGRvZXNuJ3QgbWF0Y2ggIiArIGZpbGVNZDUuc3Vic3RyaW5nKDAsIE1hdGgubWluKGZpbGVNZDUubGVuZ3RoKCksOCkpICArICIgIT0gIiArIG1kNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nVXRpbC5pKFRBRywgIm1kNSBpc24ndCBudWxsIHRoYXQgbmVlZCB0byBjaGVjayBtZDUiKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJlYWxQYXRoID0gRmlsZVV0aWwucGF0aE5ldFRvTG9jYWwocGF0aCwgcG4pOwogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>else {
-                    realPath = FileUtil.pathNetToLocal(path, pn);
-                }</text>
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJlYWxQYXRoID0gRmlsZVV0aWwucGF0aE5ldFRvTG9jYWwocGF0aCwgcG4pOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>% s/LogUtil/Log/gc</text>
