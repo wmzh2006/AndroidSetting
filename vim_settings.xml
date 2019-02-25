@@ -254,6 +254,7 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1548904789043">
         <mark key="[" line="8" column="66" />
       </file>
+      <file name="E:/tools/android/sources/android-27/android/text/format/Time.java" timestamp="1551065565310" />
       <file name="E:/Project/MyApplication/moke/src/main/res/values/styles.xml" timestamp="1550111680141">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="35" />
@@ -356,11 +357,10 @@
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/androidTest/java/com/installer/process/CollectorTest.java" timestamp="1551063034766">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="49" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="49" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/androidTest/java/com/installer/process/CollectorTest.java" timestamp="1551066404615">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HttpHook.java" timestamp="1547643745730">
         <mark key="[" line="44" column="38" />
@@ -416,11 +416,11 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551063730063">
-        <mark key="[" line="75" column="10" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="52" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551067204520">
+        <mark key="[" line="233" column="7" />
+        <mark key="]" line="233" column="40" />
+        <mark key="^" line="233" column="40" />
+        <mark key="." line="233" column="40" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/settings.gradle" timestamp="1550891047831">
         <mark key="[" line="10" column="0" />
@@ -605,14 +605,14 @@
       <jump line="150" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/HttpRunnerUploadFile.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>etJSONArray</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>etJSONArray</text>
+        <text>Avaible</text>
       </register>
       <register name="/" type="4">
         <text>LogUtil</text>
@@ -624,43 +624,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBkYXRhID0gb2JqZWN0LmdldEpTT05PYmplY3QoImR0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdChuZXcgU3RyaW5nKHJhdykpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLmhvdXI7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNldFRvTm93KCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cEZpbGVNYW5hZ2VyID0gbmV3IFVwRmlsZU1hbmFnZXIoY3R4LCBjaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLnRleHQuZm9ybWF0LlRpbWUgdGltZSA9IG5ldyBhbmRyb2lkLnRleHQuZm9ybWF0LlRpbWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkLmljdS51dGlsLkNhbGVuZGFyIGNhbGVuZGFyID0gYW5kcm9pZC5pY3UudXRpbC5DYWxlbmRhci5nZXRJbnN0YW5jZSgpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgoKICAgICAgICAgICAgICAgICAgICBib29sZWFuIGNoZWNrTUQ1ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShtZDUpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExvZ1V0aWwuaShUQUcsICJtZDUgaXNuJ3QgbnVsbCB0aGF0IG5lZWQgdG8gY2hlY2sgbWQ1Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrTUQ1ID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChjaGVja01ENSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZmlsZU1kNSA9IFBob25lSW5mb1V0aWwuZmlsZU1ENShmaWxlKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKFRleHRVdGlscy5pc0VtcHR5KGZpbGVNZDUpIHx8IGZpbGVNZDUubGVuZ3RoKCkgPCA4IHx8ICFmaWxlTWQ1LnN1YnN0cmluZygwLCA4KS5lcXVhbHMobWQ1LnRvTG93ZXJDYXNlKCkpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dVdGlsLmUoVEFHLCAibWQ1IGRvZXNuJ3QgbWF0Y2ggIiArIGZpbGVNZDUuc3Vic3RyaW5nKDAsIE1hdGgubWluKGZpbGVNZDUubGVuZ3RoKCksOCkpICArICIgIT0gIiArIG1kNSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxlbmRhci4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nVXRpbC5pKFRBRywgIm1kNSBpc24ndCBudWxsIHRoYXQgbmVlZCB0byBjaGVjayBtZDUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBHcmVnb3JpYW5DYWxlbmRhciBjYWxlbmRhciA9IG5ldyBHcmVnb3JpYW5DYWxlbmRhcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1lVXRpbHMuCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJlYWxQYXRoID0gRmlsZVV0aWwucGF0aE5ldFRvTG9jYWwocGF0aCwgcG4pOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTk9iamVjdCBkYXRhID0gb2JqZWN0LmdldEpTT05PYmplY3QoImR0Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/LogUtil/Log/gc</text>
