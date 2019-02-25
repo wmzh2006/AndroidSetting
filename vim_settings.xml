@@ -430,12 +430,12 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551083356319">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551084470499">
         <mark key="'" line="227" column="38" />
-        <mark key="[" line="227" column="56" />
-        <mark key="]" line="227" column="57" />
-        <mark key="^" line="225" column="17" />
-        <mark key="." line="227" column="57" />
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="60" column="14" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/settings.gradle" timestamp="1550891047831">
         <mark key="[" line="10" column="0" />
@@ -513,7 +513,7 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1551082857236">
+      <file name="/fragment.java" timestamp="1551084547030">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -620,14 +620,14 @@
       <jump line="227" column="38" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>LogUtil</text>
@@ -639,43 +639,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJ1bldpdGgoVSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdFByb2NjZXNzKGN0eCk7CiAgICAgICAgICAgIHVwbG9hZEZpbGUoY3R4KTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLmhvdXI7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNldFRvTm93KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkLnRleHQuZm9ybWF0LlRpbWUgdGltZSA9IG5ldyBhbmRyb2lkLnRleHQuZm9ybWF0LlRpbWUoKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgdC5zdGFydCgpOw==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkLmljdS51dGlsLkNhbGVuZGFyIGNhbGVuZGFyID0gYW5kcm9pZC5pY3UudXRpbC5DYWxlbmRhci5nZXRJbnN0YW5jZSgpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIFRocmVhZCB0ID0gbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxlbmRhci4K</text>
+        <text encoding="base64">QFJ1bldpdGgoVSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHcmVnb3JpYW5DYWxlbmRhciBjYWxlbmRhciA9IG5ldyBHcmVnb3JpYW5DYWxlbmRhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lVXRpbHMuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLmhvdXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/LogUtil/Log/gc</text>
