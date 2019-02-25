@@ -208,6 +208,13 @@
         <mark key="." line="0" column="25" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo2/build.gradle" timestamp="1550891037088" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" timestamp="1551077177471">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="17" column="73" />
+        <mark key="^" line="17" column="73" />
+        <mark key="." line="17" column="73" />
+      </file>
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
@@ -217,10 +224,11 @@
         <mark key="^" line="28" column="32" />
         <mark key="." line="28" column="32" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" timestamp="1550911572247">
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="27" column="50" />
-        <mark key="." line="27" column="50" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" timestamp="1551077219494">
+        <mark key="[" line="27" column="78" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="51" />
+        <mark key="^" line="27" column="51" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1547700532240">
         <mark key="[" line="35" column="44" />
@@ -416,11 +424,11 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551074423198">
-        <mark key="[" line="233" column="7" />
-        <mark key="]" line="233" column="40" />
-        <mark key="^" line="233" column="40" />
-        <mark key="." line="233" column="40" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551077300479">
+        <mark key="[" line="49" column="44" />
+        <mark key="]" line="51" column="21" />
+        <mark key="^" line="51" column="21" />
+        <mark key="." line="51" column="21" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/settings.gradle" timestamp="1550891047831">
         <mark key="[" line="10" column="0" />
@@ -448,12 +456,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1551063825097">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1551077832375">
         <mark key="'" line="265" column="30" />
-        <mark key="[" line="46" column="60" />
-        <mark key="]" line="48" column="22" />
-        <mark key="." line="48" column="22" />
-        <mark key="^" line="48" column="22" />
+        <mark key="[" line="104" column="35" />
+        <mark key="]" line="104" column="35" />
+        <mark key="." line="104" column="35" />
+        <mark key="^" line="104" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/androidTest/java/com/tcpoa/twozerogame/StoreTest.java" timestamp="1550754780099">
         <mark key="[" line="18" column="25" />
@@ -503,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="611" column="13" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
-      <jump line="612" column="13" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="613" column="15" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="614" column="25" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="632" column="14" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
@@ -603,16 +609,18 @@
       <jump line="53" column="4" filename="E:/Project/AD_SO_SDK_PACKAGE/build.bat" />
       <jump line="263" column="30" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" />
       <jump line="150" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/HttpRunnerUploadFile.java" />
+      <jump line="17" column="58" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
+      <jump line="29" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>realPath</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Avaible</text>
+        <text>realPath</text>
       </register>
       <register name="/" type="4">
         <text>LogUtil</text>
