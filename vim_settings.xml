@@ -424,11 +424,11 @@
         <mark key="^" line="41" column="45" />
         <mark key="." line="41" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551077300479">
-        <mark key="[" line="49" column="44" />
-        <mark key="]" line="51" column="21" />
-        <mark key="^" line="51" column="21" />
-        <mark key="." line="51" column="21" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/Collector.java" timestamp="1551078536111">
+        <mark key="[" line="226" column="41" />
+        <mark key="]" line="225" column="49" />
+        <mark key="^" line="225" column="49" />
+        <mark key="." line="225" column="49" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/settings.gradle" timestamp="1550891047831">
         <mark key="[" line="10" column="0" />
@@ -456,12 +456,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1551077832375">
-        <mark key="'" line="265" column="30" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" timestamp="1551078779694">
+        <mark key="'" line="86" column="26" />
         <mark key="[" line="104" column="35" />
-        <mark key="]" line="104" column="35" />
-        <mark key="." line="104" column="35" />
-        <mark key="^" line="104" column="41" />
+        <mark key="]" line="86" column="33" />
+        <mark key="." line="86" column="33" />
+        <mark key="^" line="86" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/androidTest/java/com/tcpoa/twozerogame/StoreTest.java" timestamp="1550754780099">
         <mark key="[" line="18" column="25" />
@@ -511,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="613" column="15" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="614" column="25" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="632" column="14" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="634" column="11" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
@@ -611,16 +610,17 @@
       <jump line="150" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/HttpRunnerUploadFile.java" />
       <jump line="17" column="58" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
       <jump line="29" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
+      <jump line="86" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>realPath</text>
+        <text>9</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>realPath</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>LogUtil</text>
