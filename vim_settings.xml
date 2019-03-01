@@ -140,6 +140,11 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/AndroidManifest.xml" timestamp="1551093502707">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1547709862924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -235,6 +240,11 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1551325285121" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1551425001223">
+        <mark key="[" line="161" column="47" />
+        <mark key="]" line="161" column="47" />
+        <mark key="." line="161" column="47" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" timestamp="1550483020834">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="25" />
@@ -249,7 +259,7 @@
         <mark key="^" line="17" column="73" />
         <mark key="." line="17" column="73" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MZMain.java" timestamp="1551422577741">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MZMain.java" timestamp="1551425967334">
         <mark key="[" line="195" column="23" />
         <mark key="]" line="195" column="50" />
         <mark key="^" line="195" column="50" />
@@ -378,6 +388,7 @@
         <mark key="." line="23" column="68" />
         <mark key="^" line="21" column="70" />
       </file>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_jsauto/src/com/init/env/Main.java" timestamp="1551425045747" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/MsServiceTest.java" timestamp="1547434231063">
         <mark key="[" line="10" column="126" />
         <mark key="]" line="10" column="124" />
@@ -436,6 +447,11 @@
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/androidTest/java/com/installer/process/CollectorTest.java" timestamp="1551066404615">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HttpHook.java" timestamp="1547643745730">
         <mark key="[" line="44" column="38" />
@@ -693,14 +709,14 @@
       <jump line="154" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/mzlib/src/main/java/com/honor/claim/mzlib/MZMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2JpbGVOdW0gPSAiKzYyIittb2JpbGVOdW07Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getContent</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
