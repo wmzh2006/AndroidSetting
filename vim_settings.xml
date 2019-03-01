@@ -276,11 +276,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1551408916103">
-        <mark key="[" line="122" column="37" />
-        <mark key="]" line="121" column="19" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1551410314429">
+        <mark key="[" line="288" column="80" />
+        <mark key="]" line="288" column="80" />
         <mark key="^" line="121" column="19" />
-        <mark key="." line="121" column="19" />
+        <mark key="." line="288" column="80" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1547700532240">
         <mark key="[" line="35" column="44" />
@@ -694,13 +694,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>instance</text>
+        <text>getContent</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>instance</text>
+        <text>getContent</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
