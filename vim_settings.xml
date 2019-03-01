@@ -113,6 +113,7 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1541143408484">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1551404825414" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/androidTest/java/com/hunt/pilot/cao/msnserver/ExampleInstrumentedTest.java" timestamp="1547433949581">
         <mark key="[" line="24" column="120" />
       </file>
@@ -138,11 +139,6 @@
       </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
-      </file>
-      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/AndroidManifest.xml" timestamp="1551093502707">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="30" column="36" />
       </file>
       <file name="/Clipboard.txt" timestamp="1547709862924">
         <mark key="[" line="0" column="0" />
@@ -274,7 +270,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1551344821444" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1551405051165" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1547700532240">
         <mark key="[" line="35" column="44" />
         <mark key="]" line="35" column="0" />
@@ -348,11 +344,12 @@
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/mzlib/src/main/java/com/honor/claim/mzlib/MZMain.java" timestamp="1551404490641">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/mzlib/src/main/java/com/honor/claim/mzlib/MZMain.java" timestamp="1551405775159">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="194" column="12" />
+        <mark key="]" line="194" column="15" />
+        <mark key="." line="194" column="15" />
+        <mark key="^" line="194" column="15" />
       </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/testweb/src/main/java/f/c.java" timestamp="1545968348986">
         <mark key="[" line="15" column="35" />
@@ -427,11 +424,6 @@
         <mark key="[" line="9" column="36" />
         <mark key="]" line="9" column="40" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/androidTest/java/com/installer/process/CollectorTest.java" timestamp="1551066404615">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HttpHook.java" timestamp="1547643745730">
         <mark key="[" line="44" column="38" />
@@ -689,14 +681,14 @@
       <jump line="154" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/mzlib/src/main/java/com/honor/claim/mzlib/MZMain.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGluIA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>matcher.group(0);</text>
+        <text encoding="base64">cGluIA==</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
