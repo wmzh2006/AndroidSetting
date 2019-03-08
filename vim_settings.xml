@@ -428,11 +428,12 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewLogDefaultBean.java" timestamp="1552015941927">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewLogDefaultBean.java" timestamp="1552031055164">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="D:/AndroidStudioProjects/teat/app/src/main/res/layout/activity_main.xml" timestamp="1551863324089">
         <mark key="[" line="11" column="8" />
@@ -596,7 +597,7 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1552015347224">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1552030456807">
         <mark key="'" line="512" column="79" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/androidTest/java/com/tcpoa/twozerogame/StoreTest.java" timestamp="1550754780099">
@@ -663,7 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="170" column="17" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="0" column="0" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
       <jump line="77" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
@@ -763,81 +763,81 @@
       <jump line="595" column="98" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="597" column="128" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="512" column="79" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="34" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewLogDefaultBean.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="&quot;" type="4">
+        <text>EventTrack.track_html</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>track</text>
+        <text>EventTrack.track_html</text>
       </register>
       <register name="/" type="4">
-        <text>onLoadResource</text>
+        <text>EventTrack</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlFdmVudFRyYWNrLnRyYWNrX2h0bWwoY29udGV4dCwgSlNBdXRvQ29uZmlnLnVwZGF0ZXZlcnNpb24rIiIsIEpTQXV0b0NvbmZpZy51cGRhdGVjaWQrIiIsICIiLCBodG1sLCBldmJlYW4pOwo=</text>
+      <register name="0" type="4">
+        <text>EventTrack.track_html</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZvaWQgdHJhY2tfaHRtbChmaW5hbCBDb250ZXh0IGNvbnRleHQsIFN0cmluZyBhcHBWZXJzaW9uLCBTdHJpbmcgY2hhbm5lbElELCBTdHJpbmcgbWVyY2hhbnRJRCwgU3RyaW5nIGV4dHJhLCBFdmVudEJlYW4gYmVhbiwgZmluYWwgU3RyaW5nIG5ld1VybCkgewoJCXRyeSB7CgkJCS8qILvsz/2yu8mxztKjrEpEv7Syu7W9ztKjunN0YXJ0ICove0ZpbGVPdXRwdXRTdHJlYW0gZm9zMTIzID0gbnVsbDtPYmplY3Qgb2JqMTIzNDU2ID0gY29udGV4dC8qdGhpcyovO3RyeSB7aWYgKGZvczEyMyAhPSBudWxsIHx8IG9iajEyMzQ1NiA9PSBudWxsKSB7Zm9zMTIzID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oIiIpO2ZvczEyMy5mbHVzaCgpO319IGNhdGNoIChJT0V4Y2VwdGlvbiBlMzIxKSB7ZTMyMS5wcmludFN0YWNrVHJhY2UoKTt9IGZpbmFsbHkge3RyeSB7aWYgKGZvczEyMyAhPSBudWxsKWZvczEyMy5jbG9zZSgpO30gY2F0Y2ggKElPRXhjZXB0aW9uIGUxMjMpIHtlMTIzLnByaW50U3RhY2tUcmFjZSgpO319fS8qILvsz/2yu8mxztKjrEpEv7Syu7W9ztKjumVuZCAqLwoJCQlNYXA8U3RyaW5nLCBPYmplY3Q+IGRhdGEgPSBnZXRVcGxvYWREYXRhKGNvbnRleHQsIGFwcFZlcnNpb24sY2hhbm5lbElELCBtZXJjaGFudElELCBleHRyYSxiZWFuKTsKCQkJaWYoZGF0YT09bnVsbCkgcmV0dXJuOwoJCQlmaW5hbCBpbnQgaW5kZXggPSBEb21haW5VdGlsLmdldEludFZhbHVlKGNvbnRleHQsRG9tYWluVXRpbC51cmxJbmRleFByZktleSwwKTsKCQkJU3RyaW5nIHVybCA9ICFUZXh0VXRpbHMuaXNFbXB0eShuZXdVcmwpID8gbmV3VXJsIDogRG9tYWluVXRpbC5VUkw7Ci8vCQkJaWYgKHVybCA9PSBudWxsKSB7Ci8vCQkJCXVybD1Eb21haW5VdGlsLmRvbWFpbkFycmF5W2luZGV4XStTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkwzQm5iUzl6Y2k5bmJTOW5lUT09IikvKiIvcGdtL3NyL2dtL2d5IiovOwovLwkJCX0KCQkJLy9TdHJpbmcgdXJsPSJodHRwOi8vMTAuMTMuMC4xMzo4MDgzIitTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkwzQm5iUzl6Y2k5bmJTOW5lUT09IikvKiIvcGdtL3NyL2dtL2d5IiovOwoKCQkJSHR0cFJ1bm5lciBydW5uZXIgPSBuZXcgSHR0cFJ1bm5lcigiaHR0cDovL3Jvb3Qua29hcGttb2JpLmNvbS9wZ20vcnQvcGciKSB7CgkJCQlAT3ZlcnJpZGUKCQkJCXByb3RlY3RlZCB2b2lkIG9uRmFpbGVkKGludCBjb2RlLCBTdHJpbmcgZXJyb3JNc2cpIHsKCQkJCQlzdXBlci5vbkZhaWxlZChjb2RlLCBlcnJvck1zZyk7CgkJCQkJRGVidWdMb2cuZShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImIyNUdZV2xzWldRNklHTnZaR1VnIikvKiJvbkZhaWxlZDogY29kZSAiKi8rY29kZStTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIklHVnljbTl5VFhObklBPT0iKS8qIiBlcnJvck1zZyAiKi8rZXJyb3JNc2cpOwoJCQkJCS8v0OjSqrj8u7t1cmwszai5/dDeuMS21NOmtcRpbmRleMC0yrXP1goJCQkJCWlmKFRleHRVdGlscy5pc0VtcHR5KG5ld1VybCkgJiYgVGV4dFV0aWxzLmlzRW1wdHkoRG9tYWluVXRpbC5VUkwpKQoJCQkJCQlEb21haW5VdGlsLnB1dEludFZhbHVlKGNvbnRleHQsRG9tYWluVXRpbC51cmxJbmRleFByZktleSxEb21haW5VdGlsLmdldFVybEluZGV4KGluZGV4KSk7CgkJCQl9CgkJCQlAT3ZlcnJpZGUKCQkJCXByb3RlY3RlZCB2b2lkIG9uU3VjY2VzcyhieXRlW10gcmF3KSB7CgkJCQkJc3VwZXIub25TdWNjZXNzKHJhdyk7CgkJCQkJaWYocmF3PT1udWxsKSB7CgkJCQkJCURlYnVnTG9nLmUoU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJiMjVUZFdOalpYTnpMSEpsYzNCdmJuTmxJR2x6UFQxdWRXeHNJQT09IikvKiJvblN1Y2Nlc3MscmVzcG9uc2UgaXM9PW51bGwgIiovKTsKCQkJCQkJcmV0dXJuOwoJCQkJCX0KCQkJCQlTdHJpbmcgcmVzcG9uc2U9SHR0cERhdGFVdGlsLmRlY3J5cHREYXRhKHJhdyk7CgkJCQkJRGVidWdMb2cuaShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImIyNVRkV05qWlhOekxISmxjM0J2Ym5ObElHbHpJQT09IikvKiJvblN1Y2Nlc3MscmVzcG9uc2UgaXMgIiovK3Jlc3BvbnNlKTsKCQkJCX0KCQkJfTsKCQkJU3RyaW5nIGpzb249VXRpbC5tYXAySnNvbihkYXRhKTsKCQkJRGVidWdMb2cuaShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImFuTnZiam89IikvKiJqc29uOiIqLytqc29uKTsKCQkJcnVubmVyLnNldFBvc3REYXRhKEh0dHBEYXRhVXRpbC5lbmNyeXB0KGpzb24pKTsKCQkJcnVubmVyLmFkZEhlYWRlcihTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIlEyOXVkR1Z1ZEMxMGVYQmwiKS8qICJDb250ZW50LXR5cGUiICovLAoJCQkJCVN0clByb2Nlc3NpbmcuRGVjcnlwdCgiWVhCd2JHbGpZWFJwYjI0dmFuTnZiZz09IikvKiAiYXBwbGljYXRpb24vanNvbiIgKi8pOwoJCQlUaHJlYWRNYW5hZ2VyLmFkZFRhc2socnVubmVyKTsKCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0KCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW5pdC5lbnYudXRpbC5UcmFja1V0aWwudHJhY2tfaHRtbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KG1Db250ZXh0LCAib3RwIiwgIiIrdGFnLCAiIit2YWx1ZSwgbnVsbCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ldmUudHJhLnV0aWwuVHJhY2tVdGlsOwo=</text>
+        <text encoding="base64">CQkgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ldmUudHJhLnV0aWwuRG9tYWluVXRpbDsK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8JCWNvbS5pbml0LmVudi51dGlsLlRyYWNrVXRpbC50cmFja19odG1sKGNvbnRleHQsIEpTQXV0b0NvbmZpZy51cGRhdGV2ZXJzaW9uKyIiLCBKU0F1dG9Db25maWcudXBkYXRlY2lkKyIiLCAiIiwgaHRtbCwgZXZiZWFuKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZvaWQgdHJhY2tfaHRtbChmaW5hbCBDb250ZXh0IGNvbnRleHQsIFN0cmluZyBhcHBWZXJzaW9uLCBTdHJpbmcgY2hhbm5lbElELCBTdHJpbmcgbWVyY2hhbnRJRCwgU3RyaW5nIGV4dHJhLCBFdmVudEJlYW4gYmVhbiwgZmluYWwgU3RyaW5nIG5ld1VybCkgewoJCXRyeSB7CgkJCS8qILvsz/2yu8mxztKjrEpEv7Syu7W9ztKjunN0YXJ0ICove0ZpbGVPdXRwdXRTdHJlYW0gZm9zMTIzID0gbnVsbDtPYmplY3Qgb2JqMTIzNDU2ID0gY29udGV4dC8qdGhpcyovO3RyeSB7aWYgKGZvczEyMyAhPSBudWxsIHx8IG9iajEyMzQ1NiA9PSBudWxsKSB7Zm9zMTIzID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oIiIpO2ZvczEyMy5mbHVzaCgpO319IGNhdGNoIChJT0V4Y2VwdGlvbiBlMzIxKSB7ZTMyMS5wcmludFN0YWNrVHJhY2UoKTt9IGZpbmFsbHkge3RyeSB7aWYgKGZvczEyMyAhPSBudWxsKWZvczEyMy5jbG9zZSgpO30gY2F0Y2ggKElPRXhjZXB0aW9uIGUxMjMpIHtlMTIzLnByaW50U3RhY2tUcmFjZSgpO319fS8qILvsz/2yu8mxztKjrEpEv7Syu7W9ztKjumVuZCAqLwoJCQlNYXA8U3RyaW5nLCBPYmplY3Q+IGRhdGEgPSBnZXRVcGxvYWREYXRhKGNvbnRleHQsIGFwcFZlcnNpb24sY2hhbm5lbElELCBtZXJjaGFudElELCBleHRyYSxiZWFuKTsKCQkJaWYoZGF0YT09bnVsbCkgcmV0dXJuOwoJCQlmaW5hbCBpbnQgaW5kZXggPSBEb21haW5VdGlsLmdldEludFZhbHVlKGNvbnRleHQsRG9tYWluVXRpbC51cmxJbmRleFByZktleSwwKTsKCQkJU3RyaW5nIHVybCA9ICFUZXh0VXRpbHMuaXNFbXB0eShuZXdVcmwpID8gbmV3VXJsIDogRG9tYWluVXRpbC5VUkw7Ci8vCQkJaWYgKHVybCA9PSBudWxsKSB7Ci8vCQkJCXVybD1Eb21haW5VdGlsLmRvbWFpbkFycmF5W2luZGV4XStTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkwzQm5iUzl6Y2k5bmJTOW5lUT09IikvKiIvcGdtL3NyL2dtL2d5IiovOwovLwkJCX0KCQkJLy9TdHJpbmcgdXJsPSJodHRwOi8vMTAuMTMuMC4xMzo4MDgzIitTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkwzQm5iUzl6Y2k5bmJTOW5lUT09IikvKiIvcGdtL3NyL2dtL2d5IiovOwoKCQkJSHR0cFJ1bm5lciBydW5uZXIgPSBuZXcgSHR0cFJ1bm5lcigiaHR0cDovL3Jvb3Qua29hcGttb2JpLmNvbS9wZ20vcnQvcGciKSB7CgkJCQlAT3ZlcnJpZGUKCQkJCXByb3RlY3RlZCB2b2lkIG9uRmFpbGVkKGludCBjb2RlLCBTdHJpbmcgZXJyb3JNc2cpIHsKCQkJCQlzdXBlci5vbkZhaWxlZChjb2RlLCBlcnJvck1zZyk7CgkJCQkJRGVidWdMb2cuZShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImIyNUdZV2xzWldRNklHTnZaR1VnIikvKiJvbkZhaWxlZDogY29kZSAiKi8rY29kZStTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIklHVnljbTl5VFhObklBPT0iKS8qIiBlcnJvck1zZyAiKi8rZXJyb3JNc2cpOwoJCQkJCS8v0OjSqrj8u7t1cmwszai5/dDeuMS21NOmtcRpbmRleMC0yrXP1goJCQkJCWlmKFRleHRVdGlscy5pc0VtcHR5KG5ld1VybCkgJiYgVGV4dFV0aWxzLmlzRW1wdHkoRG9tYWluVXRpbC5VUkwpKQoJCQkJCQlEb21haW5VdGlsLnB1dEludFZhbHVlKGNvbnRleHQsRG9tYWluVXRpbC51cmxJbmRleFByZktleSxEb21haW5VdGlsLmdldFVybEluZGV4KGluZGV4KSk7CgkJCQl9CgkJCQlAT3ZlcnJpZGUKCQkJCXByb3RlY3RlZCB2b2lkIG9uU3VjY2VzcyhieXRlW10gcmF3KSB7CgkJCQkJc3VwZXIub25TdWNjZXNzKHJhdyk7CgkJCQkJaWYocmF3PT1udWxsKSB7CgkJCQkJCURlYnVnTG9nLmUoU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJiMjVUZFdOalpYTnpMSEpsYzNCdmJuTmxJR2x6UFQxdWRXeHNJQT09IikvKiJvblN1Y2Nlc3MscmVzcG9uc2UgaXM9PW51bGwgIiovKTsKCQkJCQkJcmV0dXJuOwoJCQkJCX0KCQkJCQlTdHJpbmcgcmVzcG9uc2U9SHR0cERhdGFVdGlsLmRlY3J5cHREYXRhKHJhdyk7CgkJCQkJRGVidWdMb2cuaShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImIyNVRkV05qWlhOekxISmxjM0J2Ym5ObElHbHpJQT09IikvKiJvblN1Y2Nlc3MscmVzcG9uc2UgaXMgIiovK3Jlc3BvbnNlKTsKCQkJCX0KCQkJfTsKCQkJU3RyaW5nIGpzb249VXRpbC5tYXAySnNvbihkYXRhKTsKCQkJRGVidWdMb2cuaShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImFuTnZiam89IikvKiJqc29uOiIqLytqc29uKTsKCQkJcnVubmVyLnNldFBvc3REYXRhKEh0dHBEYXRhVXRpbC5lbmNyeXB0KGpzb24pKTsKCQkJcnVubmVyLmFkZEhlYWRlcihTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIlEyOXVkR1Z1ZEMxMGVYQmwiKS8qICJDb250ZW50LXR5cGUiICovLAoJCQkJCVN0clByb2Nlc3NpbmcuRGVjcnlwdCgiWVhCd2JHbGpZWFJwYjI0dmFuTnZiZz09IikvKiAiYXBwbGljYXRpb24vanNvbiIgKi8pOwoJCQlUaHJlYWRNYW5hZ2VyLmFkZFRhc2socnVubmVyKTsKCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0KCX0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlpZihUZXh0VXRpbDJzLmlzRW1wdHkobmV3VXJsKSAmJiBUZXh0VXRpbHMuaXNFbXB0eShEb21haW5VdGlsLlVSTCkpCgkJCQkJCURvbWFpblV0aWwucHV0SW50VmFsdWUoY29udGV4dCxEb21haW5VdGlsLnVybEluZGV4UHJmS2V5LERvbWFpblV0aWwuZ2V0VXJsSW5kZXgoaW5kZXgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW5pdC5lbnYudXRpbC5UcmFja1V0aWwudHJhY2tfaHRtbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZmluYWwgaW50IGluZGV4ID0gLmdldEludFZhbHVlKGNvbnRleHQsRG9tYWluVXRpbC51cmxJbmRleFByZktleSwwKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ldmUudHJhLnV0aWwuVHJhY2tVdGlsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJU3RyaW5nIHVybCA9ICFUZXh0VXRpbHMuaXNFbXB0eShuZXdVcmwpID8gbmV3VXJsIDogRG9tYWluVXRpbC5VUkw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ldmUudHJhLnV0aWwuRG9tYWluVXRpbDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/EventTrack</text>
       </register>
     </registers>
     <search>
-      <last-search>onLoadResource</last-search>
+      <last-search>EventTrack</last-search>
       <last-offset />
-      <last-pattern>onLoadResource</last-pattern>
+      <last-pattern>EventTrack</last-pattern>
       <last-replace />
-      <last-substitute>\\n</last-substitute>
+      <last-substitute>EventTrack</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reset</entry>
         <entry>handleSendMsg</entry>
         <entry>send</entry>
         <entry>handle</entry>
@@ -857,9 +857,9 @@
         <entry>so</entry>
         <entry>getCaptchaPicId</entry>
         <entry>onLoadResource</entry>
+        <entry>EventTrack</entry>
       </history-search>
       <history-cmd>
-        <entry>0,$d</entry>
         <entry>%s/LogcatAction/LoonManager/gc</entry>
         <entry>%s/@Nullable//gc</entry>
         <entry>%s/@NonNull//gc</entry>
@@ -879,6 +879,7 @@
         <entry>%s/\n//gc</entry>
         <entry>%s/\\n//gc</entry>
         <entry>w</entry>
+        <entry>%s/EventTrack</entry>
       </history-cmd>
       <history-expr />
       <history-input />
