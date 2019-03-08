@@ -596,7 +596,9 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1551958565967" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1552015347224">
+        <mark key="'" line="512" column="79" />
+      </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/androidTest/java/com/tcpoa/twozerogame/StoreTest.java" timestamp="1550754780099">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="38" />
@@ -661,12 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="815" column="38" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
-      <jump line="799" column="4" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
-      <jump line="0" column="52" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.txt" />
-      <jump line="139" column="22" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
-      <jump line="158" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
-      <jump line="164" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="166" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="170" column="17" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="0" column="0" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
@@ -761,6 +757,12 @@
       <jump line="20" column="25" filename="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/eve/tra/util/DomainUtil.java" />
       <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/eve/tra/util/DomainUtil.java" />
       <jump line="170" column="29" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" />
+      <jump line="511" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="591" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="592" column="106" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="595" column="98" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="597" column="128" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="512" column="79" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -773,7 +775,7 @@
         <text>track</text>
       </register>
       <register name="/" type="4">
-        <text>getCaptchaPicId</text>
+        <text>onLoadResource</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlFdmVudFRyYWNrLnRyYWNrX2h0bWwoY29udGV4dCwgSlNBdXRvQ29uZmlnLnVwZGF0ZXZlcnNpb24rIiIsIEpTQXV0b0NvbmZpZy51cGRhdGVjaWQrIiIsICIiLCBodG1sLCBldmJlYW4pOwo=</text>
@@ -825,9 +827,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getCaptchaPicId</last-search>
+      <last-search>onLoadResource</last-search>
       <last-offset />
-      <last-pattern>getCaptchaPicId</last-pattern>
+      <last-pattern>onLoadResource</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -835,7 +837,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0RW52aXJvbm1lbnRNc2dcPg==</entry>
         <entry>reset</entry>
         <entry>handleSendMsg</entry>
         <entry>send</entry>
@@ -855,6 +856,7 @@
         <entry>Sso</entry>
         <entry>so</entry>
         <entry>getCaptchaPicId</entry>
+        <entry>onLoadResource</entry>
       </history-search>
       <history-cmd>
         <entry>0,$d</entry>
