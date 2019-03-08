@@ -65,12 +65,12 @@
         <mark key="]" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1552046933751">
-        <mark key="'" line="172" column="36" />
-        <mark key="[" line="162" column="112" />
-        <mark key="]" line="162" column="111" />
-        <mark key="." line="162" column="111" />
-        <mark key="^" line="162" column="111" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1552048998891">
+        <mark key="'" line="284" column="20" />
+        <mark key="[" line="128" column="45" />
+        <mark key="]" line="128" column="82" />
+        <mark key="." line="128" column="82" />
+        <mark key="^" line="128" column="82" />
       </file>
       <file name="/LLDB" timestamp="1551870356558">
         <mark key="[" line="0" column="0" />
@@ -675,11 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
-      <jump line="82" column="21" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
-      <jump line="201" column="7" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
-      <jump line="306" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/src/main/java/com/hunt/pilot/cao/msnserver/MsService.java" />
-      <jump line="70" column="41" filename="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/httpHook.java" />
       <jump line="807" column="39" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="312" column="61" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="885" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
@@ -775,64 +770,71 @@
       <jump line="34" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewLogDefaultBean.java" />
       <jump line="162" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="170" column="36" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="173" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="155" column="76" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="150" column="32" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="265" column="87" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="281" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>js</text>
+        <text>aHR0cDovL3BzLm9reWVzbW9iaS5jb206ODgwMi9zdWIvb2Y=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>js</text>
+        <text>aHR0cDovL3BzLm9reWVzbW9iaS5jb206ODgwMi9zdWIvb2Y=</text>
       </register>
       <register name="/" type="4">
         <text>EventTrack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBqcyA9IG9iamVjdC5vcHRTdHJpbmcoU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJhbk09IiksIG51bGwpOy8vanMJCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCUxvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJqc2FycnlfcGlkIiwgIiIsICIiK3BpZCwgIiIpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQo=</text>
+        <text encoding="base64">CQkJCQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJa2V5V29yZCA9IGpzRW50cnkua2V5OwoJCQkJCQlyZWdleCA9IGpzRW50cnkuZm07CgkJCQkJCWpzID0ganNFbnRyeS5qczsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KG1Db250ZXh0LCAib3RwIiwgIiIrdGFnLCAiIit2YWx1ZSwgbnVsbCk7Cg==</text>
+      <register name="5" type="4">
+        <text>else {
+											
+										}</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CglwdWJsaWMgc3RhdGljIHZvaWQgdHJhY2tfaHRtbChmaW5hbCBDb250ZXh0IGNvbnRleHQsIFN0cmluZyBhcHBWZXJzaW9uLCBTdHJpbmcgY2hhbm5lbElELCBTdHJpbmcgbWVyY2hhbnRJRCwgU3RyaW5nIGV4dHJhLCBFdmVudEJlYW4gYmVhbiwgZmluYWwgU3RyaW5nIG5ld1VybCkgewoJCXRyeSB7CgkJCS8qILvsz/2yu8mxztKjrEpEv7Syu7W9ztKjunN0YXJ0ICove0ZpbGVPdXRwdXRTdHJlYW0gZm9zMTIzID0gbnVsbDtPYmplY3Qgb2JqMTIzNDU2ID0gY29udGV4dC8qdGhpcyovO3RyeSB7aWYgKGZvczEyMyAhPSBudWxsIHx8IG9iajEyMzQ1NiA9PSBudWxsKSB7Zm9zMTIzID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0oIiIpO2ZvczEyMy5mbHVzaCgpO319IGNhdGNoIChJT0V4Y2VwdGlvbiBlMzIxKSB7ZTMyMS5wcmludFN0YWNrVHJhY2UoKTt9IGZpbmFsbHkge3RyeSB7aWYgKGZvczEyMyAhPSBudWxsKWZvczEyMy5jbG9zZSgpO30gY2F0Y2ggKElPRXhjZXB0aW9uIGUxMjMpIHtlMTIzLnByaW50U3RhY2tUcmFjZSgpO319fS8qILvsz/2yu8mxztKjrEpEv7Syu7W9ztKjumVuZCAqLwoJCQlNYXA8U3RyaW5nLCBPYmplY3Q+IGRhdGEgPSBnZXRVcGxvYWREYXRhKGNvbnRleHQsIGFwcFZlcnNpb24sY2hhbm5lbElELCBtZXJjaGFudElELCBleHRyYSxiZWFuKTsKCQkJaWYoZGF0YT09bnVsbCkgcmV0dXJuOwoJCQlmaW5hbCBpbnQgaW5kZXggPSBEb21haW5VdGlsLmdldEludFZhbHVlKGNvbnRleHQsRG9tYWluVXRpbC51cmxJbmRleFByZktleSwwKTsKCQkJU3RyaW5nIHVybCA9ICFUZXh0VXRpbHMuaXNFbXB0eShuZXdVcmwpID8gbmV3VXJsIDogRG9tYWluVXRpbC5VUkw7Ci8vCQkJaWYgKHVybCA9PSBudWxsKSB7Ci8vCQkJCXVybD1Eb21haW5VdGlsLmRvbWFpbkFycmF5W2luZGV4XStTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkwzQm5iUzl6Y2k5bmJTOW5lUT09IikvKiIvcGdtL3NyL2dtL2d5IiovOwovLwkJCX0KCQkJLy9TdHJpbmcgdXJsPSJodHRwOi8vMTAuMTMuMC4xMzo4MDgzIitTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkwzQm5iUzl6Y2k5bmJTOW5lUT09IikvKiIvcGdtL3NyL2dtL2d5IiovOwoKCQkJSHR0cFJ1bm5lciBydW5uZXIgPSBuZXcgSHR0cFJ1bm5lcigiaHR0cDovL3Jvb3Qua29hcGttb2JpLmNvbS9wZ20vcnQvcGciKSB7CgkJCQlAT3ZlcnJpZGUKCQkJCXByb3RlY3RlZCB2b2lkIG9uRmFpbGVkKGludCBjb2RlLCBTdHJpbmcgZXJyb3JNc2cpIHsKCQkJCQlzdXBlci5vbkZhaWxlZChjb2RlLCBlcnJvck1zZyk7CgkJCQkJRGVidWdMb2cuZShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImIyNUdZV2xzWldRNklHTnZaR1VnIikvKiJvbkZhaWxlZDogY29kZSAiKi8rY29kZStTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIklHVnljbTl5VFhObklBPT0iKS8qIiBlcnJvck1zZyAiKi8rZXJyb3JNc2cpOwoJCQkJCS8v0OjSqrj8u7t1cmwszai5/dDeuMS21NOmtcRpbmRleMC0yrXP1goJCQkJCWlmKFRleHRVdGlscy5pc0VtcHR5KG5ld1VybCkgJiYgVGV4dFV0aWxzLmlzRW1wdHkoRG9tYWluVXRpbC5VUkwpKQoJCQkJCQlEb21haW5VdGlsLnB1dEludFZhbHVlKGNvbnRleHQsRG9tYWluVXRpbC51cmxJbmRleFByZktleSxEb21haW5VdGlsLmdldFVybEluZGV4KGluZGV4KSk7CgkJCQl9CgkJCQlAT3ZlcnJpZGUKCQkJCXByb3RlY3RlZCB2b2lkIG9uU3VjY2VzcyhieXRlW10gcmF3KSB7CgkJCQkJc3VwZXIub25TdWNjZXNzKHJhdyk7CgkJCQkJaWYocmF3PT1udWxsKSB7CgkJCQkJCURlYnVnTG9nLmUoU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJiMjVUZFdOalpYTnpMSEpsYzNCdmJuTmxJR2x6UFQxdWRXeHNJQT09IikvKiJvblN1Y2Nlc3MscmVzcG9uc2UgaXM9PW51bGwgIiovKTsKCQkJCQkJcmV0dXJuOwoJCQkJCX0KCQkJCQlTdHJpbmcgcmVzcG9uc2U9SHR0cERhdGFVdGlsLmRlY3J5cHREYXRhKHJhdyk7CgkJCQkJRGVidWdMb2cuaShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImIyNVRkV05qWlhOekxISmxjM0J2Ym5ObElHbHpJQT09IikvKiJvblN1Y2Nlc3MscmVzcG9uc2UgaXMgIiovK3Jlc3BvbnNlKTsKCQkJCX0KCQkJfTsKCQkJU3RyaW5nIGpzb249VXRpbC5tYXAySnNvbihkYXRhKTsKCQkJRGVidWdMb2cuaShTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImFuTnZiam89IikvKiJqc29uOiIqLytqc29uKTsKCQkJcnVubmVyLnNldFBvc3REYXRhKEh0dHBEYXRhVXRpbC5lbmNyeXB0KGpzb24pKTsKCQkJcnVubmVyLmFkZEhlYWRlcihTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIlEyOXVkR1Z1ZEMxMGVYQmwiKS8qICJDb250ZW50LXR5cGUiICovLAoJCQkJCVN0clByb2Nlc3NpbmcuRGVjcnlwdCgiWVhCd2JHbGpZWFJwYjI0dmFuTnZiZz09IikvKiAiYXBwbGljYXRpb24vanNvbiIgKi8pOwoJCQlUaHJlYWRNYW5hZ2VyLmFkZFRhc2socnVubmVyKTsKCQl9IGNhdGNoIChFeGNlcHRpb24gZSkgewoJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCX0KCX0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW5pdC5lbnYudXRpbC5UcmFja1V0aWwudHJhY2tfaHRtbDsK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/EventTrack</text>
