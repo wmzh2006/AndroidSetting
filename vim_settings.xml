@@ -21,6 +21,7 @@
         <mark key="." line="77" column="68" />
         <mark key="^" line="77" column="68" />
       </file>
+      <file name="E:/tools/android/sources/android-28/android/provider/ContactsContract.java" timestamp="1552382462352" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1552295432049">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -33,7 +34,7 @@
         <mark key="." line="0" column="13" />
       </file>
       <file name="/AndroidManifest.xml" timestamp="1552372299973" />
-      <file name="/a.dummy" timestamp="1550754150693">
+      <file name="/a.dummy" timestamp="1552382703366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/AndroidStudioProjects/teat/aeaa/src/main/res/values/styles.xml" timestamp="1552372755011">
@@ -124,12 +125,12 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552382359475">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="142" />
-        <mark key="]" line="37" column="141" />
-        <mark key="^" line="37" column="141" />
-        <mark key="." line="37" column="141" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552382926266">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="108" column="25" />
+        <mark key="]" line="94" column="69" />
+        <mark key="^" line="94" column="69" />
+        <mark key="." line="94" column="69" />
       </file>
       <file name="E:/Project/indo_demo/indo_libres/src/main/AndroidManifest.xml" timestamp="1548847841180">
         <mark key="[" line="5" column="0" />
@@ -299,11 +300,11 @@
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Contacts.java" timestamp="1552381986564">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Contacts.java" timestamp="1552382574917">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/MergeJar2/Rocket/app/src/main/java/com/notion/claim/rocket/App.java" timestamp="1551325727987">
         <mark key="[" line="10" column="27" />
@@ -749,9 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="22" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
-      <jump line="132" column="49" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
-      <jump line="135" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
       <jump line="145" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
       <jump line="24" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
       <jump line="292" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
@@ -849,16 +847,19 @@
       <jump line="47" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
       <jump line="37" column="112" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
       <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
+      <jump line="38" column="105" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
+      <jump line="94" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
+      <jump line="48" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TYPE_HOME</text>
+        <text>callHistory</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>TYPE_HOME</text>
+        <text>callHistory</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
@@ -870,43 +871,49 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">UGhvbmUuQUREKSkKICAgICAgICAgICAgICAgIENvbnRhY3RzIGluZm8gPSBuZXcgQ29udGFjdHMobnVtYmVyLCBuYW1lKTsKICAgICAgICAgICAgICAgIGNvbnRhY3RzLmFkZChpbmZvKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoY3Vyc29yICE9IG51bGwpIGN1cnNvci5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb250YWN0czsKICAgIH0K</text>
+        <text>public String getAddress() {
+        return address;
+    }
+
+    public String getEmail() {
+        return email;
+    }</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjMnCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEFkZHJlc3MoKSB7CiAgICAgICAgcmV0dXJuIGFkZHJlc3M7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRFbWFpbCgpIHsKICAgICAgICByZXR1cm4gZW1haWw7CiAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZpY2UobmV3IEludGVudCh0aGlzLCBjb20uaGFiZXIuY29sZXIuU2VydmljZWNvbGVyLmNsYXNzKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBlbWFpbDsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkNvbnRhY3RzeyIgKwogICAgICAgICAgICAgICAgInRlbD0nIiArIHRlbCArICdcJycgKwogICAgICAgICAgICAgICAgIiwgbmFtZT0nIiArIG5hbWUgKyAnXCcnICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">UGhvbmUuQUREKSkKICAgICAgICAgICAgICAgIENvbnRhY3RzIGluZm8gPSBuZXcgQ29udGFjdHMobnVtYmVyLCBuYW1lKTsKICAgICAgICAgICAgICAgIGNvbnRhY3RzLmFkZChpbmZvKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoY3Vyc29yICE9IG51bGwpIGN1cnNvci5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb250YWN0czsKICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICB0b29sczpjb250ZXh0PSIuYiI=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
