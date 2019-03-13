@@ -223,7 +223,7 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/res/values/strings.xml" timestamp="1552443740405">
+      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/src/main/res/values/strings.xml" timestamp="1552444880943">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -502,10 +502,10 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/build.gradle" timestamp="1551777909578">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
+      <file name="$USER_HOME$/Desktop/2048-master/2048/2048/build.gradle" timestamp="1552444943803">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
         <mark key="^" line="24" column="46" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/Tool.java" timestamp="1552311833442">
@@ -719,9 +719,12 @@
         <mark key="]" line="132" column="32" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" timestamp="1552442835306">
-        <mark key="'" line="3" column="32" />
-        <mark key="[" line="24" column="10" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" timestamp="1552444487986">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="11" />
       </file>
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
@@ -754,7 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
       <jump line="292" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
       <jump line="14" column="59" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/proguard-rules.pro" />
       <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/proguard-rules.pro" />
@@ -854,16 +856,17 @@
       <jump line="94" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
       <jump line="48" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
       <jump line="3" column="32" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" />
+      <jump line="25" column="21" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgcHVibGljIHN0aQo=</text>
+      <register name="&quot;" type="4">
+        <text>PhoneUtils</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>callHistory</text>
+        <text>PhoneUtils</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
