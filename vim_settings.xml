@@ -156,6 +156,13 @@
       <file name="$USER_HOME$/Desktop/2048-android/build.gradle" timestamp="1543220106046">
         <mark key="[" line="15" column="16" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" timestamp="1552449484507">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="68" column="70" />
+        <mark key="]" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+      </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
@@ -618,12 +625,12 @@
         <mark key="." line="30" column="39" />
         <mark key="^" line="30" column="52" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" timestamp="1552444487986">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" timestamp="1552449323019">
         <mark key="'" line="25" column="21" />
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
@@ -646,16 +653,11 @@
         <mark key="^" line="132" column="67" />
         <mark key="." line="132" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1552442354659">
+      <file name="/fragment.java" timestamp="1552448001916">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
-      <jump line="14" column="59" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/proguard-rules.pro" />
-      <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/proguard-rules.pro" />
-      <jump line="7" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
-      <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/proguard.cfg" />
       <jump line="14" column="30" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" />
       <jump line="3" column="50" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_31.txt" />
@@ -751,70 +753,72 @@
       <jump line="48" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
       <jump line="3" column="32" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" />
       <jump line="25" column="21" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" />
+      <jump line="9" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
+      <jump line="11" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
+      <jump line="10" column="45" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
+      <jump line="34" column="52" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
+      <jump line="35" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.myps.event.TrackUtil</text>
+        <text>getName</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.myps.event.TrackUtil</text>
+        <text>getName</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlMb2cuZSh0aGlzLmdldENsYXNzKCkuZ2V0U2ltcGxlTmFtZSgpLCAiRXZlbnQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wdXQoUHJvdG9jbEZpZWxkLkNBTExMT0dTX05BTUUsIGNhbGxMb2cuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgcHVibGljIHN0aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wdXQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text>public String getAddress() {
-        return address;
-    }
-
-    public String getEmail() {
-        return email;
-    }</text>
+      <register name="2" type="8">
+        <text>jsonArray
+jsonArray
+jsonArray
+jsonArray</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldEFkZHJlc3MoKSB7CiAgICAgICAgcmV0dXJuIGFkZHJlc3M7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRFbWFpbCgpIHsKICAgICAgICByZXR1cm4gZW1haWw7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTkFycmF5IGpzb25BcnJheSA9IG5ldyBKU09OQXJyYXkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBlbWFpbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkNvbnRhY3RzeyIgKwogICAgICAgICAgICAgICAgInRlbD0nIiArIHRlbCArICdcJycgKwogICAgICAgICAgICAgICAgIiwgbmFtZT0nIiArIG5hbWUgKyAnXCcnICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBKU09OQXJyYXkganNvbkFycmF5ID0gbmV3IEpTT05BcnJheSgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">UGhvbmUuQUREKSkKICAgICAgICAgICAgICAgIENvbnRhY3RzIGluZm8gPSBuZXcgQ29udGFjdHMobnVtYmVyLCBuYW1lKTsKICAgICAgICAgICAgICAgIGNvbnRhY3RzLmFkZChpbmZvKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoY3Vyc29yICE9IG51bGwpIGN1cnNvci5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb250YWN0czsKICAgIH0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6MS4xLjMnCg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uT2JqZWN0LnB1dAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
