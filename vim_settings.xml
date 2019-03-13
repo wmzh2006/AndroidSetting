@@ -156,12 +156,11 @@
       <file name="$USER_HOME$/Desktop/2048-android/build.gradle" timestamp="1543220106046">
         <mark key="[" line="15" column="16" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" timestamp="1552449484507">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" timestamp="1552451239182">
         <mark key="'" line="33" column="12" />
-        <mark key="[" line="68" column="70" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="11" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
@@ -272,6 +271,12 @@
         <mark key="]" line="10" column="49" />
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="49" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1551958284426">
+        <mark key="'" line="171" column="29" />
+        <mark key="[" line="173" column="40" />
+        <mark key="]" line="173" column="40" />
+        <mark key="." line="173" column="40" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" timestamp="1550483020834">
         <mark key="[" line="0" column="5" />
@@ -760,65 +765,65 @@
       <jump line="35" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0eVJlc291cmNlQnVuZGxlOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getName</text>
+        <text>PropertyResourceBundl</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wdXQoUHJvdG9jbEZpZWxkLkNBTExMT0dTX05BTUUsIGNhbGxMb2cuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wdXQoUHJvdG9jbEZpZWxkLk1FU1NBR0VTX1RZUEUsIG1lc3NhZ2UuZ2V0VHlwZSgpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wdXQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Qcm9wZXJ0eVJlc291cmNlQnVuZGxlOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="8">
-        <text>jsonArray
-jsonArray
-jsonArray
-jsonArray</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wdXQoamEpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdC5wdXQoKQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTkFycmF5IGpzb25BcnJheSA9IG5ldyBKU09OQXJyYXkoKTsK</text>
+      <register name="4" type="8">
+        <text>jsonArray
+jsonArray
+jsonArray
+jsonArray</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNPTkFycmF5IGpzb25BcnJheSA9IG5ldyBKU09OQXJyYXkoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OQXJyYXkganNvbkFycmF5ID0gbmV3IEpTT05BcnJheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uT2JqZWN0LnB1dAo=</text>
+        <text encoding="base64">ICAgICAgICBKU09OQXJyYXkganNvbkFycmF5ID0gbmV3IEpTT05BcnJheSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
