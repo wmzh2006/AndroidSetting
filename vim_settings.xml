@@ -71,12 +71,11 @@
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552556817321">
-        <mark key="'" line="57" column="32" />
-        <mark key="[" line="158" column="64" />
-        <mark key="]" line="158" column="64" />
-        <mark key="." line="158" column="64" />
-        <mark key="^" line="158" column="65" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552561415795">
+        <mark key="'" line="165" column="11" />
+        <mark key="[" line="165" column="92" />
+        <mark key="]" line="165" column="91" />
+        <mark key="." line="165" column="91" />
       </file>
       <file name="E:/Project/indo_demo/indo_libres/src/main/AndroidManifest.xml" timestamp="1548847841180">
         <mark key="[" line="5" column="0" />
@@ -468,8 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="10" filename="E:/Project/AD_SO_SDK_PACKAGE/build.bat" />
-      <jump line="53" column="4" filename="E:/Project/AD_SO_SDK_PACKAGE/build.bat" />
       <jump line="263" column="30" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/UpFileManager.java" />
       <jump line="150" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/upload/file/HttpRunnerUploadFile.java" />
       <jump line="17" column="58" filename="D:/StudioProjects/XXPermissions/XXPermissions/installandproccess/src/main/java/com/installer/process/AndroidProcesses.java" />
@@ -568,16 +565,18 @@
       <jump line="34" column="54" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" />
       <jump line="35" column="54" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" />
       <jump line="31" column="28" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/bala/bala/Notificationbala.java" />
+      <jump line="157" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
+      <jump line="158" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>strftime('%s', date('now', 'start of month', '-1 month'))</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>strftime('%s', date('now', 'start of month', '-1 month'))</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
@@ -589,28 +588,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBkYXRlc3RyID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoVGVsZXBob255LlNtcy5EQVRFKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBhZGRyZXNzID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuU3RydWN0dXJlZFBvc3RhbC5GT1JNQVRURURfQUREUkVTUykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2FuYWx5c2lzXzIwMTgwOTEzLmphcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBhZGRyZXNzID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuU3RydWN0dXJlZFBvc3RhbC5GT1JNQVRURURfQUREUkVTUykpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2FuYWx5c2lzXzIwMTgwOTEzLmphcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -619,13 +618,13 @@
         <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9TTVMiLz4K</text>
+        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gbWVzc2FnZXNUb0pzb24oY29udGV4dCwgcGhvbmUpOwogICAgICAgIGlmIChzdHIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9TTVMiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
