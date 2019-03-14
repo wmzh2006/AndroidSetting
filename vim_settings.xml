@@ -73,12 +73,12 @@
       <file name="$USER_HOME$/Desktop/2048-android/build.gradle" timestamp="1543220106046">
         <mark key="[" line="15" column="16" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" timestamp="1552525152152">
-        <mark key="'" line="352" column="46" />
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="33" column="42" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" timestamp="1552527964268">
+        <mark key="'" line="207" column="4" />
+        <mark key="[" line="138" column="52" />
+        <mark key="]" line="138" column="50" />
+        <mark key="." line="138" column="50" />
+        <mark key="^" line="138" column="50" />
       </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
@@ -289,11 +289,11 @@
       <file name="E:/Project/DynamicLoader/tsdk/src/main/AndroidManifest.xml" timestamp="1545190463774">
         <mark key="[" line="39" column="78" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" timestamp="1552523339547">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/ProtoclField.java" timestamp="1552528429619">
         <mark key="'" line="27" column="21" />
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="44" />
         <mark key="^" line="16" column="32" />
       </file>
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
@@ -310,7 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="74" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="186" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="203" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="206" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -410,16 +409,17 @@
       <jump line="52" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
       <jump line="41" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
       <jump line="345" column="46" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
+      <jump line="199" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>13800138001</text>
+        <text />
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>13800138001</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">JzwsJz4=</text>
@@ -431,28 +431,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgIm16X251bWJlciIsICIiLCAiIitnZXRMaW5lMU51bWJlciwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gbWVzc2FnZXNUb0pzb24oY29udGV4dCwgcGhvbmUpOwogICAgICAgIGlmIChzdHIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgIm16X251bWJlciIsICIiLCAiIitnZXRMaW5lMU51bWJlciwgIiIpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IEpTT05PYmplY3QganNvbk9iamVjdCA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBqc29uT2JqZWN0LnB1dChQcm90b2NsRmllbGQuQVBLR1NfUEtHLCBpbmZvLmdldFBrZygpKTsKICAgICAgICAgICAgfSBjYXRjaCAoSlNPTkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJ5dGVbXSBkYXRhID0gQUVTVXRpbC5lbmNyeXB0KCJ7XCJiYXNlXCI6e1wiYVwiOlwiMTIxMlwiLFwiYlwiOlwiMTEyMVwiLFwiY1wiOlwiMTJcIixcImRcIjpcIjEyXCIsXCJlXCI6XCIxMjEyXCIsXCJmXCI6XCIxMlwiLFwiZ1wiOlwiMTJcIn0sXCJoXCI6W3tcImhhXCI6XCIxMlwiLFwiaGJcIjpcIjEyXCIsXCJoY1wiOlwiMTJcIixcImhkXCI6XCIxMlwifV19Iik7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IEpTT05PYmplY3QganNvbk9iamVjdCA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBqc29uT2JqZWN0LnB1dChQcm90b2NsRmllbGQuQVBLR1NfUEtHLCBpbmZvLmdldFBrZygpKTsKICAgICAgICAgICAgfSBjYXRjaCAoSlNPTkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJ5dGVbXSBkYXRhID0gQUVTVXRpbC5lbmNyeXB0KCJ7XCJiYXNlXCI6e1wiYVwiOlwiMTIxMlwiLFwiYlwiOlwiMTEyMVwiLFwiY1wiOlwiMTJcIixcImRcIjpcIjEyXCIsXCJlXCI6XCIxMjEyXCIsXCJmXCI6XCIxMlwiLFwiZ1wiOlwiMTJcIn0sXCJoXCI6W3tcImhhXCI6XCIxMlwiLFwiaGJcIjpcIjEyXCIsXCJoY1wiOlwiMTJcIixcImhkXCI6XCIxMlwifV19Iik7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -461,13 +461,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja1VwZGF0ZVN0YXR1cyhjb250ZXh0LCBwaG9uZSk7ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJzb3JFbWFpbC5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1VwZGF0ZVN0YXR1cyhjb250ZXh0LCBwaG9uZSk7ICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJzb3JFbWFpbC5jbG9zZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMvJzwsJz4vVUlEL2dj</text>
