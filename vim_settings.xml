@@ -71,12 +71,12 @@
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552561648571">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552564344970">
         <mark key="'" line="165" column="11" />
-        <mark key="[" line="163" column="36" />
-        <mark key="]" line="163" column="37" />
-        <mark key="." line="163" column="37" />
-        <mark key="^" line="163" column="35" />
+        <mark key="[" line="165" column="74" />
+        <mark key="]" line="165" column="133" />
+        <mark key="." line="165" column="133" />
+        <mark key="^" line="165" column="133" />
       </file>
       <file name="E:/Project/indo_demo/indo_libres/src/main/AndroidManifest.xml" timestamp="1548847841180">
         <mark key="[" line="5" column="0" />
@@ -571,13 +571,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>strftime('%s', date('now', 'start of month', '-1 month'))</text>
+        <text encoding="base64">IGFuZCB0eXBlID0gPw==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>strftime('%s', date('now', 'start of month', '-1 month'))</text>
+        <text encoding="base64">IGFuZCB0eXBlID0gPw==</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
