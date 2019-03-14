@@ -71,7 +71,7 @@
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552523619452">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552549349562">
         <mark key="'" line="46" column="32" />
         <mark key="[" line="230" column="25" />
         <mark key="]" line="230" column="25" />
@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/Desktop/2048-android/build.gradle" timestamp="1543220106046">
         <mark key="[" line="15" column="16" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" timestamp="1552527964268">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" timestamp="1552549404000">
         <mark key="'" line="207" column="4" />
-        <mark key="[" line="138" column="52" />
-        <mark key="]" line="138" column="50" />
-        <mark key="." line="138" column="50" />
-        <mark key="^" line="138" column="50" />
+        <mark key="[" line="281" column="68" />
+        <mark key="]" line="281" column="68" />
+        <mark key="." line="281" column="68" />
+        <mark key="^" line="281" column="76" />
       </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
@@ -571,13 +571,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String channel</text>
+        <text>getAddress</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>String channel</text>
+        <text>getAddress</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
