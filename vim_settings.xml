@@ -57,10 +57,10 @@
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/hinfo.jar!/com/honor/claim/phoneinfo/Processor.class" timestamp="1552524876227" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1552014385238" />
-      <file name="D:/AndroidStudioProjects/teat/aeaa/src/main/AndroidManifest.xml" timestamp="1552533387031">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="D:/AndroidStudioProjects/teat/aeaa/src/main/AndroidManifest.xml" timestamp="1552534957354">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/DomainUtil.class" timestamp="1551948168356" />
       <file name="E:/Project/indo_demo/indo_demo/src/main/res/layout/activity_main.xml" timestamp="1548661448282">
@@ -185,6 +185,12 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
+      <file name="D:/AndroidStudioProjects/teat/aeaa/src/main/java/com/honor/claim/aeaa/App.java" timestamp="1552534933082">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="8" column="58" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="58" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
@@ -261,10 +267,10 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="D:/AndroidStudioProjects/teat/aeaa/build.gradle" timestamp="1552533506576">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="22" />
-        <mark key="." line="12" column="22" />
+      <file name="D:/AndroidStudioProjects/teat/aeaa/build.gradle" timestamp="1552534657324">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/util/TrackUtil.java" timestamp="1551964460715">
         <mark key="[" line="56" column="12" />
@@ -452,7 +458,7 @@
         <mark key="^" line="132" column="67" />
         <mark key="." line="132" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1552475110401">
+      <file name="/fragment.java" timestamp="1552534879629">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -560,13 +566,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.android.providers.helpserver.Notificationhelpserver</text>
+        <text>String channel</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.android.providers.helpserver.Notificationhelpserver</text>
+        <text>String channel</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
@@ -578,13 +584,13 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2FuYWx5c2lzXzIwMTgwOTEzLmphcicpCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -596,25 +602,25 @@
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9TTVMiLz4K</text>
+        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gbWVzc2FnZXNUb0pzb24oY29udGV4dCwgcGhvbmUpOwogICAgICAgIGlmIChzdHIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9TTVMiLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgIm16X251bWJlciIsICIiLCAiIitnZXRMaW5lMU51bWJlciwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gbWVzc2FnZXNUb0pzb24oY29udGV4dCwgcGhvbmUpOwogICAgICAgIGlmIChzdHIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgIm16X251bWJlciIsICIiLCAiIitnZXRMaW5lMU51bWJlciwgIiIpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEpTT05PYmplY3QganNvbk9iamVjdCA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBqc29uT2JqZWN0LnB1dChQcm90b2NsRmllbGQuQVBLR1NfUEtHLCBpbmZvLmdldFBrZygpKTsKICAgICAgICAgICAgfSBjYXRjaCAoSlNPTkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
