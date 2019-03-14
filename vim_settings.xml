@@ -71,12 +71,12 @@
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552549349562">
-        <mark key="'" line="46" column="32" />
-        <mark key="[" line="230" column="25" />
-        <mark key="]" line="230" column="25" />
-        <mark key="." line="230" column="25" />
-        <mark key="^" line="241" column="17" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552555988458">
+        <mark key="'" line="57" column="32" />
+        <mark key="[" line="158" column="64" />
+        <mark key="]" line="158" column="64" />
+        <mark key="." line="158" column="64" />
+        <mark key="^" line="158" column="65" />
       </file>
       <file name="E:/Project/indo_demo/indo_libres/src/main/AndroidManifest.xml" timestamp="1548847841180">
         <mark key="[" line="5" column="0" />
@@ -571,13 +571,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getTimes</text>
+        <text>null</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getTimes</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
@@ -589,43 +589,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2FuYWx5c2lzXzIwMTgwOTEzLmphcicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBhZGRyZXNzID0gY3Vyc29yLmdldFN0cmluZyhjdXJzb3IuZ2V0Q29sdW1uSW5kZXgoQ29udGFjdHNDb250cmFjdC5Db21tb25EYXRhS2luZHMuU3RydWN0dXJlZFBvc3RhbC5GT1JNQVRURURfQUREUkVTUykpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL2FuYWx5c2lzXzIwMTgwOTEzLmphcicpCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
+        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9TTVMiLz4K</text>
+        <text encoding="base64">CQkJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gbWVzc2FnZXNUb0pzb24oY29udGV4dCwgcGhvbmUpOwogICAgICAgIGlmIChzdHIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CSAgICAJTG9hZExpYnJhcnkubG9hZCh0aGlzLmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgIm16X251bWJlciIsICIiLCAiIitnZXRMaW5lMU51bWJlciwgIiIpOwo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9TTVMiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gbWVzc2FnZXNUb0pzb24oY29udGV4dCwgcGhvbmUpOwogICAgICAgIGlmIChzdHIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
