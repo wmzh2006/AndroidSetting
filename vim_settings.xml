@@ -61,12 +61,12 @@
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552982193040">
-        <mark key="'" line="181" column="11" />
-        <mark key="[" line="224" column="32" />
-        <mark key="]" line="224" column="42" />
-        <mark key="." line="224" column="42" />
-        <mark key="^" line="224" column="42" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552989104577">
+        <mark key="'" line="182" column="11" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="109" column="123" />
       </file>
       <file name="E:/Project/indo_demo/indo_libres/src/main/AndroidManifest.xml" timestamp="1548847841180">
         <mark key="[" line="5" column="0" />
@@ -218,6 +218,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="37" column="56" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/protocl/手机信息收集.txt" timestamp="1552989598927">
+        <mark key="[" line="60" column="48" />
+        <mark key="]" line="60" column="44" />
+        <mark key="^" line="60" column="42" />
+        <mark key="." line="60" column="44" />
       </file>
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
@@ -558,62 +564,62 @@
       <jump line="117" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/Processor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>context</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiVEFHIiwgImNhbGxuYW1lOiIgKyBjYWxsbmFtZSArICIsY2FsbE51bWJlcjoiICsgY2FsbE51bWJlciArICIsY2FsbFR5cGU6IiArIGNhbGxUeWUgKyAiLGNhbGxEYXRlOiIgKyBjYWxsRGF0ZSArICIsY2FsbER1cmF0aW9uOiIgKyBjYWxsRHVyYXRpb24pOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBob25lVXRpbHMudHJhY2soY29udGV4dCwgImNrX2V4IiwgIiIrIGVycm9yTXNnLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiVEFHIiwgImNhbGxuYW1lOiIgKyBjYWxsbmFtZSArICIsY2FsbE51bWJlcjoiICsgY2FsbE51bWJlciArICIsY2FsbFR5cGU6IiArIGNhbGxUeWUgKyAiLGNhbGxEYXRlOiIgKyBjYWxsRGF0ZSArICIsY2FsbER1cmF0aW9uOiIgKyBjYWxsRHVyYXRpb24pOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkNhbGxMb2d7IiArCiAgICAgICAgICAgICAgICAidHlwZT0iICsgdHlwZSArCiAgICAgICAgICAgICAgICAiLCBkYXRlPSIgKyBkYXRlICsKICAgICAgICAgICAgICAgICIsIGR1cmF0aW9uPSIgKyBkdXJhdGlvbiArCiAgICAgICAgICAgICAgICAiLCB0aW1lcz0iICsgdGltZXMgKwogICAgICAgICAgICAgICAgIiwgdGVsPSciICsgdGVsICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBuYW1lPSciICsgbmFtZSArICdcJycgKwogICAgICAgICAgICAgICAgJ30nOwogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiVEFHIiwgImNhbGxuYW1lOiIgKyBjYWxsbmFtZSArICIsY2FsbE51bWJlcjoiICsgY2FsbE51bWJlciArICIsY2FsbFR5cGU6IiArIGNhbGxUeWUgKyAiLGNhbGxEYXRlOiIgKyBjYWxsRGF0ZSArICIsY2FsbER1cmF0aW9uOiIgKyBjYWxsRHVyYXRpb24pOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkNhbGxMb2d7IiArCiAgICAgICAgICAgICAgICAidHlwZT0iICsgdHlwZSArCiAgICAgICAgICAgICAgICAiLCBkYXRlPSIgKyBkYXRlICsKICAgICAgICAgICAgICAgICIsIGR1cmF0aW9uPSIgKyBkdXJhdGlvbiArCiAgICAgICAgICAgICAgICAiLCB0aW1lcz0iICsgdGltZXMgKwogICAgICAgICAgICAgICAgIiwgdGVsPSciICsgdGVsICsgJ1wnJyArCiAgICAgICAgICAgICAgICAiLCBuYW1lPSciICsgbmFtZSArICdcJycgKwogICAgICAgICAgICAgICAgJ30nOwogICAgfQ==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoVGV4dFV0aWxzLmlzRW1wdHkocGhvbmVOdW1iZXIpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaG9uZU51bWJlciA9IFBob25lVXRpbHMuZ2V0UGhvbmVOdW1iZXIoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoVGV4dFV0aWxzLmlzRW1wdHkocGhvbmVOdW1iZXIpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJUCA9IGRhdGEub3B0U3RyaW5nKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYVhBPSIpLCAiIik7Ly9pcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaG9uZU51bWJlciA9IFBob25lVXRpbHMuZ2V0UGhvbmVOdW1iZXIoY29udGV4dCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU0F1dG9Db25maWcucGhvbmVOdW1iZXJfdG8gPSBkYXRhLm9wdFN0cmluZyhTdHJQcm9jZXNzaW5nLkRlY3J5cHQoImMyVnVaQT09IiksICIiKTsvL3NlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJUCA9IGRhdGEub3B0U3RyaW5nKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYVhBPSIpLCAiIik7Ly9pcAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
