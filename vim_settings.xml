@@ -61,12 +61,12 @@
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552915256821">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552982193040">
         <mark key="'" line="181" column="11" />
-        <mark key="[" line="109" column="110" />
-        <mark key="]" line="312" column="20" />
-        <mark key="." line="312" column="20" />
-        <mark key="^" line="302" column="38" />
+        <mark key="[" line="224" column="32" />
+        <mark key="]" line="224" column="42" />
+        <mark key="." line="224" column="42" />
+        <mark key="^" line="224" column="42" />
       </file>
       <file name="E:/Project/indo_demo/indo_libres/src/main/AndroidManifest.xml" timestamp="1548847841180">
         <mark key="[" line="5" column="0" />
@@ -234,10 +234,9 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1552981026870">
-        <mark key="'" line="173" column="29" />
-        <mark key="[" line="179" column="77" />
-        <mark key="]" line="179" column="77" />
-        <mark key="." line="179" column="77" />
+        <mark key="[" line="174" column="77" />
+        <mark key="]" line="174" column="77" />
+        <mark key="." line="174" column="77" />
         <mark key="^" line="123" column="12" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1552547132642">
@@ -253,7 +252,7 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1552912339954" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1552981970281" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1547700532240">
         <mark key="[" line="35" column="44" />
         <mark key="]" line="35" column="0" />
@@ -319,6 +318,7 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1552982113920" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/Tool.java" timestamp="1552311833442">
         <mark key="[" line="62" column="46" />
         <mark key="]" line="62" column="46" />
@@ -559,13 +559,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>context</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>Servicehelpserver</text>
