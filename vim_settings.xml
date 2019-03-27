@@ -53,7 +53,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/impl/util/ProcedureReport.java" timestamp="1553667883281" />
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" timestamp="1553683525624" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" timestamp="1553684666257" />
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
@@ -151,7 +151,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="24" column="34" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1553682249989">
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1553685006335">
         <mark key="[" line="67" column="30" />
         <mark key="]" line="67" column="15" />
         <mark key="^" line="67" column="15" />
@@ -195,6 +195,13 @@
         <mark key="." line="143" column="63" />
         <mark key="^" line="143" column="63" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1553685780562">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="63" column="43" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/proguard-rules.pro" timestamp="1547433920208">
         <mark key="[" line="21" column="0" />
       </file>
@@ -226,7 +233,7 @@
         <mark key="." line="174" column="77" />
         <mark key="^" line="123" column="12" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1553681415065">
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1553684962072">
         <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="76" />
         <mark key="." line="13" column="76" />
@@ -418,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="79" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="34" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewLogDefaultBean.java" />
       <jump line="162" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="170" column="36" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
@@ -518,16 +524,17 @@
       <jump line="708" column="12" filename="E:/tools/android/sources/android-23/android/telephony/SmsManager.java" />
       <jump line="14" column="41" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Constans.java" />
       <jump line="15" column="0" filename="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/Constans.java" />
+      <jump line="58" column="12" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>putExtra</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
@@ -539,19 +546,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCQlETFBsdWdpblVzZXIuZ2V0SW5zdGFuY2UodGhpcy5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSkuaGFuZGxlT3RoZXJFdmVudChpbnRlbnRNYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlNYXAuY29udGFpbnNLZXkoQ29uc3RhbnMuS0VZX05PVElGWSkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -560,22 +567,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCB2YWx1ZSA9IG9iamVjdE1hcC5nZXQoa2V5KTsKICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoa2V5LCAoU3RyaW5nKW9iamVjdE1hcC5nZXQoa2V5KSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbnZva2VTZGsoQ29udGV4dCBjb250ZXh0KSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgIGludm9rZVNkayhjb250ZXh0LCBudWxsKTsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaW52b2tlU2RrKENvbnRleHQgY29udGV4dCkgewogICAgICAgIAogICAgfQogICAgCiAgICBwcml2YXRlIHZvaWQgaW52b2tlU2RrKENvbnRleHQgY29udGV4dCkgdGhyb3dzIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8JCQlETFBsdWdpblVzZXIuZ2V0SW5zdGFuY2UodGhpcy5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSkuaGFuZGxlT3RoZXJFdmVudChpbnRlbnRNYXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ym9vbGVhbiBub3RpZnkpIHsKICAgICAgICBpZiAoY3R4ID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiWTI5dWRHVjRkQ0JwY3lCdWRXeHNJUT09IikpOwogICAgICAgIH0K</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlNYXAuY29udGFpbnNLZXkoQ29uc3RhbnMuS0VZX05PVElGWSkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
