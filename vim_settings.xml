@@ -57,6 +57,11 @@
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedInStream.java" timestamp="1547640888922">
         <mark key="[" line="10" column="55" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1553696007615">
+        <mark key="[" line="75" column="66" />
+        <mark key="]" line="75" column="66" />
+        <mark key="." line="75" column="66" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552989104577">
         <mark key="'" line="182" column="11" />
         <mark key="[" line="111" column="0" />
@@ -233,6 +238,11 @@
         <mark key="." line="174" column="77" />
         <mark key="^" line="123" column="12" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1553695817676">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1553684962072">
         <mark key="[" line="13" column="67" />
         <mark key="]" line="13" column="76" />
@@ -248,11 +258,10 @@
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/oasis/assistant/yo/wsb/adm.java" timestamp="1553682504088">
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="378" column="45" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/oasis/assistant/yo/wsb/adm.java" timestamp="1553696730346">
+        <mark key="[" line="340" column="9" />
+        <mark key="]" line="340" column="9" />
+        <mark key="." line="340" column="9" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/eve/tra/util/DomainUtil.java" timestamp="1551948273124">
         <mark key="'" line="0" column="0" />
@@ -533,14 +542,14 @@
       <jump line="58" column="12" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlOb3RpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNhdGNoIChJbnN0YW50aWF0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>putExtra</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
@@ -551,26 +560,26 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlOb3RpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGNhdGNoIChJbnN0YW50aWF0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjayA9IChIYW5kbGVyLkNhbGxiYWNrKSBjbGF6ei5uZXdJbnN0YW5jZSgpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENsYXNzPD8+IGNsYXp6ID0gbnVsbDsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -579,16 +588,16 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9iamVjdCB2YWx1ZSA9IG9iamVjdE1hcC5nZXQoa2V5KTsKICAgICAgICAgICAgICAgICAgICBpbnRlbnQucHV0RXh0cmEoa2V5LCAoU3RyaW5nKW9iamVjdE1hcC5nZXQoa2V5KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGF6eiA9IGRleENsYXNzTG9hZGVyLmxvYWRDbGFzcyhDT01fQV9CX1pfQSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQlOb3RpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCQlETFBsdWdpblVzZXIuZ2V0SW5zdGFuY2UodGhpcy5nZXRBcHBsaWNhdGlvbkNvbnRleHQoKSkuaGFuZGxlT3RoZXJFdmVudChpbnRlbnRNYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
