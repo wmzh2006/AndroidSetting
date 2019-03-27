@@ -92,6 +92,12 @@
         <mark key="]" line="75" column="66" />
         <mark key="." line="75" column="66" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/test/java/com/honor/claim/phoneinfo/ExampleUnitTest.java" timestamp="1553715115509">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="16" column="39" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/phoneinfo/src/main/java/com/honor/claim/phoneinfo/PhoneUtils.java" timestamp="1552989104577">
         <mark key="'" line="182" column="11" />
         <mark key="[" line="111" column="0" />
@@ -378,12 +384,12 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1553676394831">
         <mark key="[" line="167" column="41" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/NoService.java" timestamp="1553713361604">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="124" column="80" />
-        <mark key="]" line="124" column="78" />
-        <mark key="." line="124" column="78" />
-        <mark key="^" line="124" column="78" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/NoService.java" timestamp="1553714885244">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="124" column="37" />
+        <mark key="]" line="124" column="42" />
+        <mark key="." line="124" column="42" />
+        <mark key="^" line="124" column="42" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/taa/src/main/java/com/hunt/pilot/cao/taa/MainActivity.java" timestamp="1553655324668">
         <mark key="[" line="27" column="35" />
@@ -703,13 +709,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e.toString()</text>
+        <text>,</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e.toString()</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
@@ -720,14 +726,14 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29udGVudFRpdGxlKyIiKSsiIjsKICAgICAgICAgICAgU3RyaW5nIGNvZGUgPSBTbXNXcml0ZU9wVXRpbC5nZXRDb2RlRnJvbVNtcyhzZW5kZXIsIGNvbnRlbnRUZXh0KyIiKTsKICAgICAgICAgICAgTG9nLmUoIk5UIiwgInNlbmRlcjoiICsgc2VuZGVyICsgIiwgY29kZSIgKyBjb2RlKTsKICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShjb2RlKSkgewogICAgICAgICAgICAgICAgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkKG5ldyBDb2RlRGFvKHNlbmRlcixjb2RlLCB3aGVuKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBpZihjb250ZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJub3RpZnlfZXgiLCAiIiwgIiIrZS50b1N0cmluZygpLCAiIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZGVyID0gc2VuZGVyLnJlcGxhY2VBbGwoIltcXHMtXSIsICIiKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -739,25 +745,25 @@
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkKG5ldyBDb2RlRGFvKHNlbmRlcixjb2RlLCB3aGVuKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZSA9IFNtc1dyaXRlT3BVdGlsLmdldENvZGVGcm9tU21zKCxzbXNEYXRhLmdldENvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6aGVscHNlcnZlciI=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkKG5ldyBDb2RlRGFvKHNlbmRlcixjb2RlLCB3aGVuKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZSA9IFNtc1dyaXRlT3BVdGlsLmdldENvZGVGcm9tU21zKCxzbXNEYXRhLmdldENvbnRlbnQoKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGx1Z2luTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5sb2FkUGx1Z2luKG5ldyBGaWxlKGZpbGVQYXRoKSk7CiAgICAgICAgICAgIENsYXNzTG9hZGVyIGNsYXNzTG9hZGVyID0gUGx1Z2luTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5nZXRDbGFzc0xvYWRlcigpOwogICAgICAgICAgICBjbGF6eiA9IGNsYXNzTG9hZGVyLmxvYWRDbGFzcyhSZWxlYXNlLmNsYXNzTmFtZSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6aGVscHNlcnZlciI=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGx1Z2luTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5sb2FkUGx1Z2luKG5ldyBGaWxlKGZpbGVQYXRoKSk7CiAgICAgICAgICAgIENsYXNzTG9hZGVyIGNsYXNzTG9hZGVyID0gUGx1Z2luTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5nZXRDbGFzc0xvYWRlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
