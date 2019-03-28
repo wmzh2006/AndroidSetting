@@ -206,12 +206,11 @@
         <mark key="." line="143" column="63" />
         <mark key="^" line="143" column="63" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1553685780562">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="63" column="43" />
-        <mark key="." line="51" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1553767105312">
+        <mark key="[" line="53" column="78" />
+        <mark key="]" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+        <mark key="^" line="69" column="11" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/proguard-rules.pro" timestamp="1547433920208">
         <mark key="[" line="21" column="0" />
@@ -555,13 +554,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJkbF9tIiwgIml0IGlzIG5vZml0eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
@@ -572,14 +571,14 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y29udGVudFRpdGxlKyIiKSsiIjsKICAgICAgICAgICAgU3RyaW5nIGNvZGUgPSBTbXNXcml0ZU9wVXRpbC5nZXRDb2RlRnJvbVNtcyhzZW5kZXIsIGNvbnRlbnRUZXh0KyIiKTsKICAgICAgICAgICAgTG9nLmUoIk5UIiwgInNlbmRlcjoiICsgc2VuZGVyICsgIiwgY29kZSIgKyBjb2RlKTsKICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShjb2RlKSkgewogICAgICAgICAgICAgICAgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkKG5ldyBDb2RlRGFvKHNlbmRlcixjb2RlLCB3aGVuKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBpZihjb250ZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJub3RpZnlfZXgiLCAiIiwgIiIrZS50b1N0cmluZygpLCAiIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VuZGVyID0gc2VuZGVyLnJlcGxhY2VBbGwoIltcXHMtXSIsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZWhlbHBzZXJ2ZXJfYyhjb250ZXh0LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCBpbnRlbnQpOwogICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -590,26 +589,26 @@
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y29udGVudFRpdGxlKyIiKSsiIjsKICAgICAgICAgICAgU3RyaW5nIGNvZGUgPSBTbXNXcml0ZU9wVXRpbC5nZXRDb2RlRnJvbVNtcyhzZW5kZXIsIGNvbnRlbnRUZXh0KyIiKTsKICAgICAgICAgICAgTG9nLmUoIk5UIiwgInNlbmRlcjoiICsgc2VuZGVyICsgIiwgY29kZSIgKyBjb2RlKTsKICAgICAgICAgICAgaWYgKCFUZXh0VXRpbHMuaXNFbXB0eShjb2RlKSkgewogICAgICAgICAgICAgICAgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkKG5ldyBDb2RlRGFvKHNlbmRlcixjb2RlLCB3aGVuKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICBpZihjb250ZXh0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbi5vbkV2ZW50KGNvbnRleHQsICJub3RpZnlfZXgiLCAiIiwgIiIrZS50b1N0cmluZygpLCAiIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZGVyID0gc2VuZGVyLnJlcGxhY2VBbGwoIltcXHMtXSIsICIiKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkKG5ldyBDb2RlRGFvKHNlbmRlcixjb2RlLCB3aGVuKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29kZSA9IFNtc1dyaXRlT3BVdGlsLmdldENvZGVGcm9tU21zKCxzbXNEYXRhLmdldENvbnRlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6aGVscHNlcnZlciI=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkKG5ldyBDb2RlRGFvKHNlbmRlcixjb2RlLCB3aGVuKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
