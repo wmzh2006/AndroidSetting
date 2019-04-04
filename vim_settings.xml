@@ -194,11 +194,11 @@
         <mark key="." line="64" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/libs/rootsdk_dl-lib3-release.jar!/com/ecfudl2/requisite/PluginServiceRunner.class" timestamp="1553673949158" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554384384494">
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="65" column="29" />
-        <mark key="." line="65" column="29" />
-        <mark key="^" line="32" column="46" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554385412266">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/proguard-rules.txt" timestamp="1552447013882">
         <mark key="[" line="55" column="28" />
@@ -460,11 +460,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1554361298611">
-        <mark key="[" line="193" column="24" />
-        <mark key="]" line="193" column="22" />
-        <mark key="^" line="193" column="22" />
-        <mark key="." line="193" column="22" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1554385360260">
+        <mark key="[" line="192" column="62" />
+        <mark key="]" line="192" column="61" />
+        <mark key="^" line="192" column="61" />
+        <mark key="." line="192" column="61" />
       </file>
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
@@ -676,13 +676,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HostUtil.getRealContext(this)</text>
+        <text>Util.get_app_context()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>HostUtil.getRealContext(this)</text>
+        <text>Util.get_app_context()</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
