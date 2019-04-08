@@ -74,7 +74,7 @@
       <file name="/LLDB" timestamp="1553674261253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1554361578823" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" timestamp="1554695142246" />
       <file name="D:/AndroidStudioProjects/teat/aeaa/src/main/AndroidManifest.xml" timestamp="1552534957354">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="90" column="0" />
@@ -134,7 +134,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/EventTrack.class" timestamp="1554361680344" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/EventTrack.class" timestamp="1554695134808" />
       <file name="D:/AndroidStudioProjects/teat/aeaa/src/main/java/com/honor/claim/aeaa/MainActivity.java" timestamp="1552364567987">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -194,7 +194,7 @@
         <mark key="." line="64" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/libs/rootsdk_dl-lib3-release.jar!/com/ecfudl2/requisite/PluginServiceRunner.class" timestamp="1553673949158" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554385412266">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554693764844">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="32" column="26" />
         <mark key="." line="32" column="26" />
@@ -460,11 +460,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1554385360260">
-        <mark key="[" line="192" column="62" />
-        <mark key="]" line="192" column="61" />
-        <mark key="^" line="192" column="61" />
-        <mark key="." line="192" column="61" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1554695109779">
+        <mark key="[" line="196" column="62" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
@@ -477,7 +477,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1542101611515">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1554381735168">
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1554694446986">
         <mark key="'" line="35" column="54" />
         <mark key="[" line="62" column="66" />
         <mark key="]" line="62" column="67" />
@@ -541,7 +541,7 @@
         <mark key="^" line="64" column="13" />
         <mark key="." line="64" column="13" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/ecfudl2/LogcatAction.class" timestamp="1554361559278" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/ecfudl2/LogcatAction.class" timestamp="1554695130670" />
       <file name="E:/tools/android/sources/android-23/android/accessibilityservice/AccessibilityService.java" timestamp="1554194919213" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/ecfudl2/LogcatAction.java" timestamp="1551948522445">
         <mark key="[" line="113" column="66" />
@@ -676,13 +676,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Util.get_app_context()</text>
+        <text>context</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Util.get_app_context()</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
@@ -694,43 +694,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBVU1NEQ29udHJvbGxlci5jb250ZXh0ID0gZ2V0UmVhbENvbnRleHQoY29udGV4dCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQgPSBVdGlsLmdldF9hcHBfY29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQgaW5zdGFuY2VvZiBDb250ZXh0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQgPSBVdGlsLmdldF9hcHBfY29udGV4dCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQgaW5zdGFuY2VvZiBDb250ZXh0KSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRleHQgPT0gbnVsbCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
