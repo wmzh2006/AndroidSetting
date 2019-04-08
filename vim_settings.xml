@@ -195,10 +195,12 @@
         <mark key="." line="64" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/libs/rootsdk_dl-lib3-release.jar!/com/ecfudl2/requisite/PluginServiceRunner.class" timestamp="1553673949158" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554725575539">
-        <mark key="[" line="154" column="51" />
-        <mark key="]" line="154" column="51" />
-        <mark key="." line="154" column="51" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554731119594">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="131" column="97" />
+        <mark key="]" line="131" column="131" />
+        <mark key="." line="131" column="97" />
+        <mark key="^" line="131" column="96" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/proguard-rules.txt" timestamp="1552447013882">
         <mark key="[" line="55" column="28" />
@@ -594,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="155" column="76" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="150" column="32" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="265" column="87" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="281" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
@@ -694,64 +694,66 @@
       <jump line="350" column="57" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
       <jump line="351" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
       <jump line="349" column="86" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
+      <jump line="131" column="58" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
+      <jump line="146" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>&quot;com.bala.bala would like to send&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;com.bala.bala would like to send&quot;</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidWRfNSIsICIiLCAiIityZXNwb25zZSwgIiIrbXNnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidWRfMl8xIiwgIiIsICIiLCAiIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIm9uQWNjZXNzaWJpbGl0eUV2ZW50IiwgInNlbmQgMTIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIm9uQWNjZXNzaWJpbGl0eUV2ZW50IiwgInNlbmQgMTIiKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidWRfNSIsICIiLCAiIityZXNwb25zZSwgIiIrbXNnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidWRfNSIsICIiLCAiIityZXNwb25zZSwgIiIrbXNnKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VuZChVU1NEQ29udHJvbGxlci5nZXRSZWFsQ29udGV4dCh0aGlzKSwiMTIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidWRfMiIsICIiLCAiIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VuZChVU1NEQ29udHJvbGxlci5nZXRSZWFsQ29udGV4dCh0aGlzKSwiMTIiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidWRfMiIsICIiLCAiIiwgIiIpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuY29udGFpbnMoImNvbS5iYWxhLmJhbGEgd291bGQgbGlrZSB0byBzZW5kIGEgbWVzc2FnZSAiKSkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
