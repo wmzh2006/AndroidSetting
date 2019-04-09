@@ -195,12 +195,12 @@
         <mark key="." line="64" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/libs/rootsdk_dl-lib3-release.jar!/com/ecfudl2/requisite/PluginServiceRunner.class" timestamp="1553673949158" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554815802183">
-        <mark key="'" line="244" column="49" />
-        <mark key="[" line="219" column="41" />
-        <mark key="]" line="219" column="41" />
-        <mark key="." line="219" column="41" />
-        <mark key="^" line="217" column="56" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554816965860">
+        <mark key="'" line="239" column="0" />
+        <mark key="[" line="221" column="68" />
+        <mark key="]" line="221" column="68" />
+        <mark key="." line="221" column="68" />
+        <mark key="^" line="221" column="65" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/proguard-rules.txt" timestamp="1552447013882">
         <mark key="[" line="55" column="28" />
@@ -597,8 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="14" column="47" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/bala/bala/Accessibilitybala.java" />
       <jump line="52" column="50" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/bala/bala/Servicebala.java" />
       <jump line="37" column="0" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/bala/bala/Servicebala.java" />
       <jump line="37" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/PermissionUtils.java" />
@@ -697,22 +695,24 @@
       <jump line="146" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
       <jump line="238" column="87" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
       <jump line="237" column="49" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
+      <jump line="221" column="68" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
+      <jump line="239" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>event.getSource()</text>
+        <text>&quot;step:&quot;+step</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>event.getSource()</text>
+        <text>&quot;step:&quot;+step</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGVwKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRXZlbnQoY29udGV4dCwgInVkX3N1Y2NfNV8wIiwgIiIsICJwZXJmcm9tOiIgKyBoYWRQZXJmcm9tLCAic3RlcDoiK3N0ZXApOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
