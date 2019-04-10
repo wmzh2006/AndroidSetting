@@ -461,11 +461,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/UssdKeywordBeen.java" timestamp="1554896838862">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/UssdKeywordBeen.java" timestamp="1554897697016">
+        <mark key="[" line="80" column="11" />
+        <mark key="]" line="80" column="61" />
+        <mark key="." line="80" column="61" />
+        <mark key="^" line="80" column="61" />
       </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
@@ -708,64 +708,62 @@
       <jump line="239" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZih1c3NkQ29udGVudC4pCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvbkV2ZW50KGNvbnRleHQsICJ1ZF9zdWNjXzVfLTIiLCAiIiwgIiIsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nW10gc3RySW5jbHVkZUtleXdvcmRzID0gaW5jbHVkZUtleXdvcmRzLnNwbGl0KCJcXHwiKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZih1c3NkQ29udGVudC4pCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbmNsdWRlS2V5d29yZHMgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGlmIChjb250ZW50ID09IG51bGwpIHsKICAgICAgICAgICAgICAgIGNvbnRlbnQgPSAiIjsKICAgICAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbkV2ZW50KGNvbnRleHQsICJ1ZF9zdWNjXzVfLTIiLCAiIiwgIiIsICIiKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV4Y2x1ZGVLZXl3b3JkcyA9IGV4Y2x1ZGVLZXl3b3JkczsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>else{
-            
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdHJJbmNsdWRlS2V5d29yZHMgPSBpbmNsdWRlS2V5d29yZHMuc3BsaXQoIlxcfCIpOwogICAgICAgIHRoaXMuaW5jbHVkZUtleXdvcmRzID0gbmV3IEFycmF5TGlzdDxTdHJpbmc+KEFycmF5cy5hc0xpc3Qoc3RySW5jbHVkZUtleXdvcmRzKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBY2Nlc3NpYmlsaXR5Tm9kZUluZm8gcGFyZW50ID0gZXZlbnQuZ2V0U291cmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
