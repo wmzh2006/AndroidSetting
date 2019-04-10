@@ -195,12 +195,12 @@
         <mark key="." line="64" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/libs/rootsdk_dl-lib3-release.jar!/com/ecfudl2/requisite/PluginServiceRunner.class" timestamp="1553673949158" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554875737526">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554878174432">
         <mark key="'" line="245" column="0" />
-        <mark key="[" line="261" column="89" />
-        <mark key="]" line="217" column="38" />
-        <mark key="." line="217" column="38" />
-        <mark key="^" line="217" column="46" />
+        <mark key="[" line="398" column="33" />
+        <mark key="]" line="398" column="33" />
+        <mark key="." line="398" column="33" />
+        <mark key="^" line="398" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/proguard-rules.txt" timestamp="1552447013882">
         <mark key="[" line="55" column="28" />
@@ -700,13 +700,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;count:&quot;+childCount</text>
+        <text>0</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;count:&quot;+childCount</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
