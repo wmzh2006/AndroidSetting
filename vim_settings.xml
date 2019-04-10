@@ -195,12 +195,12 @@
         <mark key="." line="64" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/libs/rootsdk_dl-lib3-release.jar!/com/ecfudl2/requisite/PluginServiceRunner.class" timestamp="1553673949158" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554817660707">
-        <mark key="'" line="239" column="0" />
-        <mark key="[" line="221" column="68" />
-        <mark key="]" line="221" column="68" />
-        <mark key="." line="221" column="68" />
-        <mark key="^" line="221" column="65" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" timestamp="1554862791181">
+        <mark key="'" line="240" column="0" />
+        <mark key="[" line="222" column="41" />
+        <mark key="]" line="222" column="42" />
+        <mark key="^" line="216" column="45" />
+        <mark key="." line="222" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/2048/proguard-rules.txt" timestamp="1552447013882">
         <mark key="[" line="55" column="28" />
@@ -700,19 +700,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;step:&quot;+step</text>
+        <text>&quot;name:&quot; +component</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;step:&quot;+step</text>
+        <text>&quot;name:&quot; +component</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRXZlbnQoY29udGV4dCwgInVkX3N1Y2NfNV8wIiwgIiIsICJwZXJmcm9tOiIgKyBoYWRQZXJmcm9tLCAic3RlcDoiK3N0ZXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25FdmVudChjb250ZXh0LCAidWRfc3VjY181Xy0xIiwgIiIsICJuYW1lOiIgK2NvbXBvbmVudCwgIiIpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
