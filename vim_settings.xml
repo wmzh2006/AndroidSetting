@@ -120,7 +120,12 @@
       <file name="E:/Project/ZHooKDemo_AdmobTestA/.gitignore" timestamp="1541143408484">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1554100670329" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewDefaultBean.java" timestamp="1554971382714">
+        <mark key="[" line="231" column="13" />
+        <mark key="]" line="235" column="19" />
+        <mark key="^" line="235" column="19" />
+        <mark key="." line="235" column="19" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1554890937695">
         <mark key="[" line="0" column="0" />
       </file>
@@ -499,11 +504,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1554965543264">
-        <mark key="[" line="275" column="65" />
-        <mark key="]" line="275" column="60" />
-        <mark key="^" line="275" column="60" />
-        <mark key="." line="275" column="60" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1554972196079">
+        <mark key="[" line="269" column="63" />
+        <mark key="]" line="269" column="64" />
+        <mark key="^" line="268" column="47" />
+        <mark key="." line="269" column="64" />
       </file>
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
@@ -554,6 +559,7 @@
       <file name="D:/AndroidStudioProjects/teat/app/src/main/java/com/hault/awer/a.java" timestamp="1551866107580">
         <mark key="[" line="24" column="43" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/taa/src/main/AndroidManifest.xml" timestamp="1554971599212" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/test/decrtText.java" timestamp="1554954913250">
         <mark key="[" line="75" column="62" />
         <mark key="]" line="75" column="63" />
@@ -732,20 +738,20 @@
       <jump line="239" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/AcService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9ICJjb20uYmFsYS5iYWxhIGluZ2luIG1lbmdoYW50YXIgbWVzZWoga2VwYWRhIDM5MjcxLiwgSW5pIGFrYW4gbWVueWViYWJrYW4gYWthdW4gbXVkYWggYWxpaCBhbmRhIGRpa2VuYWthbiBjYWouLCBJbmdhdCBwaWxpaGFuIHNheWEsIEJhdGFsLCBIYW50YXIiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Unsubsribe</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>Unsubsribe</text>
       </register>
       <register name="/" type="4">
         <text>RESULT_ERROR_LIMIT_EXCEEDED</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9ICJjb20uYmFsYS5iYWxhIGluZ2luIG1lbmdoYW50YXIgbWVzZWoga2VwYWRhIDM5MjcxLiwgSW5pIGFrYW4gbWVueWViYWJrYW4gYWthdW4gbXVkYWggYWxpaCBhbmRhIGRpa2VuYWthbiBjYWouLCBJbmdhdCBwaWxpaGFuIHNheWEsIEJhdGFsLCBIYW50YXIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRVc3NkS2V5d29yZEJlZW4obmV3IFVzc2RLZXl3b3JkQmVlbigic3Vic2NyaWJlfFllcyIsICJVbnN1YnNjcmliZSIsICIxIiwgIlNlbmQiKSk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
