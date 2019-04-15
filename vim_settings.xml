@@ -58,6 +58,12 @@
       <file name="E:/AndroidStudioProjects/Project/testassets/src/main/assets/f" timestamp="1540893592988">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1555311073199">
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="43" column="55" />
+        <mark key="." line="43" column="55" />
+        <mark key="^" line="43" column="55" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/library/src/main/java/com/smshelper/SmsWriteOpUtil.java" timestamp="1548219337266">
         <mark key="[" line="153" column="18" />
       </file>
@@ -174,11 +180,11 @@
         <mark key="]" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1554953897738">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="36" />
-        <mark key="^" line="62" column="55" />
-        <mark key="." line="67" column="0" />
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1555310839012">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/eve/tra/util/TrackUtil.java" timestamp="1552016892932">
         <mark key="[" line="64" column="0" />
@@ -241,6 +247,7 @@
         <mark key="]" line="53" column="17" />
         <mark key="." line="53" column="17" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2019041514/README.txt" timestamp="1555311627094" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/msnserver/proguard-rules.pro" timestamp="1547433920208">
         <mark key="[" line="21" column="0" />
       </file>
@@ -341,10 +348,10 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/c0.java" timestamp="1554089164274">
-        <mark key="[" line="41" column="76" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/c0.java" timestamp="1555311135776">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/2048-master/2048/gradle/wrapper/gradle-wrapper.properties" timestamp="1550664379289">
         <mark key="[" line="5" column="68" />
@@ -370,10 +377,10 @@
       <file name="/RegExp Fragment (httpHook.java:2908).regexp" timestamp="1547543694686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/release/2019041111/README.txt" timestamp="1554954121249">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="E:/Project/DynamicLoader/tsdk/release/2019041111/README.txt" timestamp="1555311560600">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewLogDefaultBean.java" timestamp="1554695460231">
         <mark key="'" line="34" column="8" />
@@ -618,14 +625,14 @@
       <jump line="138" column="92" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">s8m5prTy06FzY6OhCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>RoMobiSdk</text>
       </register>
       <register name="/" type="4">
         <text>window</text>
@@ -637,43 +644,50 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">s8m5prTy06FzY6OhCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNOdWxsKCkgewogICAgICAgIHJldHVybiBpbmNsdWRlS2V5d29yZHMuaXNFbXB0eSgpIHx8IFRleHRVdGlscy5pc0VtcHR5KHNlbmRWYWx1ZSk7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5oYW8uY29tZXQucHJvLk5vdGlmaWNhdGlvbmhlbHBzZXJ2ZXI7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVc3NkS2V5d29yZEJlZW4oKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oYW8uY29tZXQucHJvLlJvTW9iaVNkazsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoaW5jbHVkZWtleXdvcmQuaXNFbXB0eSgpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gaXNOdWxsKCkgewogICAgICAgIHJldHVybiBpbmNsdWRlS2V5d29yZHMuaXNFbXB0eSgpIHx8IFRleHRVdGlscy5pc0VtcHR5KHNlbmRWYWx1ZSk7CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgZ2V0U2ltQ291bnRyeUlzbz10bS5nZXRTaW1Db3VudHJ5SXNvKCk7CQkJLy+3tbvYU0lNv6jM4bmpycy1xLn6vNK0+sLry/nQ6KOss6S2yMrHMrj219a3+yAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVc3NkS2V5d29yZEJlZW4oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVGV4dFV0aWxzLmlzRW1wdHkoYnV0dG9uTmFtZSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaW5jbHVkZWtleXdvcmQuaXNFbXB0eSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Servicehelpserver/Servicebala/gc</text>
