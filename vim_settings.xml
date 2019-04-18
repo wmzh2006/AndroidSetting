@@ -57,6 +57,7 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_lib/build.gradle" timestamp="1555579219503" />
       <file name="E:/Project/indo_demo/indo_demo/src/main/res/layout/activity_main.xml" timestamp="1548661448282">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -100,6 +101,11 @@
       </file>
       <file name="D:/StudioProjects/Video/app/proguard-rules.pro" timestamp="1555470846360">
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/settings.gradle" timestamp="1555579420019">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="D:/AndroidStudioProjects/teat/aeaa/src/main/java/com/honor/claim/aeaa/MainActivity.java" timestamp="1552364567987">
         <mark key="[" line="11" column="0" />
@@ -147,13 +153,18 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/NoService.java" timestamp="1555507383028">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="12" />
-        <mark key="." line="125" column="12" />
-        <mark key="^" line="74" column="13" />
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/NoService.java" timestamp="1555579657529">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="73" column="13" />
       </file>
-      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1555579047844" />
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1555579554402">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="0" column="14" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
@@ -189,12 +200,11 @@
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/java/com/honor/claim/sshell/MainActivity.java" timestamp="1555578737562">
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/java/com/honor/claim/sshell/MainActivity.java" timestamp="1555581099602">
         <mark key="'" line="25" column="57" />
-        <mark key="[" line="86" column="15" />
-        <mark key="]" line="85" column="33" />
-        <mark key="." line="85" column="33" />
-        <mark key="^" line="85" column="33" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="E:/Project/indo_demo/indo_demo/src/main/res/values/styles.xml" timestamp="1548664547227">
         <mark key="[" line="20" column="0" />
@@ -400,10 +410,11 @@
         <mark key="^" line="49" column="30" />
         <mark key="." line="49" column="30" />
       </file>
-      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1555578899281">
-        <mark key="[" line="171" column="27" />
-        <mark key="]" line="171" column="27" />
-        <mark key="." line="171" column="27" />
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1555579707217">
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="34" />
+        <mark key="." line="62" column="34" />
+        <mark key="^" line="62" column="33" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/ecfudl2/LogcatAction.java" timestamp="1551948522445">
         <mark key="[" line="113" column="66" />
@@ -525,14 +536,14 @@
       <jump line="23" column="57" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/java/com/honor/claim/sshell/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SystemSafeguard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SystemSafeguard</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>dialog</text>
@@ -544,45 +555,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93UGVybWlzc2lvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXRpZXMobmV3IEludGVudFtde25ldyBJbnRlbnQoU2V0dGluZ3MuQUNUSU9OX05PVElGSUNBVElPTl9MSVNURU5FUl9TRVRUSU5HUyksIG5ldyBJbnRlbnQodGhpcywgSGludEFjdGl2aXR5LmNsYXNzKX0pOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text>if (!hadNotificationAccess(getApplicationContext())) {
-           showPermission();
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpLmRpc21pc3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0QWN0aXZpdGllcyhuZXcgSW50ZW50W117bmV3IEludGVudChTZXR0aW5ncy5BQ1RJT05fTk9USUZJQ0FUSU9OX0xJU1RFTkVSX1NFVFRJTkdTKSwgbmV3IEludGVudCh0aGlzLCBIaW50QWN0aXZpdHkuY2xhc3MpfSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZy5CdWlsZGVyIGJ1aWxkZXI7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldE9uS2V5TGlzdGVuZXIobmV3IERpYWxvZ0ludGVyZmFjZS5PbktleUxpc3RlbmVyKCkgewoKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gb25LZXkoRGlhbG9nSW50ZXJmYWNlIGRpYWxvZ0ludGVyZmFjZSwgaW50IGksIEtleUV2ZW50IGtleUV2ZW50KSB7CiAgICAgICAgICAgICAgICBpZiAoaSAhPSA0KSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBbGVydERpYWxvZyBhbGVydERpYWxvZyAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDpsYWJlbD0iZXY=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyIG4gPSAoTm90aWZpY2F0aW9uTWFuYWdlcikgZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob25vci5jbGFpbS5waG9uZWluZm8uU01TTWVzc2FnZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShuZXcgSW50ZW50KFNldHRpbmdzLkFDVElPTl9OT1RJRklDQVRJT05fTElTVEVORVJfU0VUVElOR1MpKTsK</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyMy40LjAnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93UGVybWlzc2lvbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
