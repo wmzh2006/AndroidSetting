@@ -132,6 +132,11 @@
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
       </file>
+      <file name="D:/AndroidStudio/OpenCamera-master/app/src/main/res/layout/plugin_vf_barcodescanner_list_layout.xml" timestamp="1555646038872">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+      </file>
       <file name="$USER_HOME$/Desktop/MergeJar2/MergeJar2/build.gradle" timestamp="1550720372135">
         <mark key="[" line="9" column="52" />
         <mark key="]" line="9" column="53" />
@@ -171,6 +176,7 @@
       <file name="E:/Project/DynamicLoader/dl_middle/proguard-rules.pro" timestamp="1545794179291">
         <mark key="[" line="46" column="0" />
       </file>
+      <file name="D:/AndroidStudio/OpenCamera-master/app/src/main/java/com/almalence/plugins/vf/barcodescanner/result/ResultHandlerFactory.java" timestamp="1555646127746" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/test/build.gradle" timestamp="1541663780984">
         <mark key="[" line="8" column="31" />
       </file>
@@ -245,6 +251,7 @@
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
         <mark key="[" line="47" column="35" />
       </file>
+      <file name="D:/AndroidStudio/OpenCamera-master/app/src/main/java/com/almalence/plugins/vf/barcodescanner/BarcodeViewDialog.java" timestamp="1555646150899" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" timestamp="1555507551110">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -391,7 +398,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554948464687">
+      <file name="/Dummy.txt" timestamp="1555646017760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/f/c.java" timestamp="1546593958367">
@@ -536,14 +543,14 @@
       <jump line="23" column="57" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/java/com/honor/claim/sshell/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>dialog</text>
