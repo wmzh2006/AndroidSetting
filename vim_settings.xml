@@ -153,6 +153,9 @@
         <mark key="^" line="3" column="64" />
         <mark key="." line="3" column="64" />
       </file>
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/c.java" timestamp="1555741028083">
+        <mark key="[" line="14" column="35" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/sms-plugin-lib.jar!/com/smshelper/SmsWriteOpUtil.class" timestamp="1555679470479" />
       <file name="D:/StudioProjects/2048-android/2048-android/app/src/main/AndroidManifest.xml" timestamp="1542180030299">
         <mark key="[" line="3" column="0" />
@@ -478,6 +481,11 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1555740735272">
+        <mark key="[" line="817" column="50" />
+        <mark key="]" line="817" column="50" />
+        <mark key="." line="817" column="50" />
+      </file>
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
       </file>
@@ -613,19 +621,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>strRet</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>strRet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRCcm93c2VySW5mb1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>webView</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAganN0cmluZyBqc3RyaW5nUmV0ID0gKCplbnYpLT5OZXdTdHJpbmdVVEYoZW52LHN0clJldCk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
