@@ -211,6 +211,13 @@
         <mark key="^" line="19" column="96" />
         <mark key="." line="19" column="96" />
       </file>
+      <file name="D:/AndroidStudio/Demo/app/src/main/java/com/honor/claim/demo/WebviewAutoProcess.java" timestamp="1555919994408">
+        <mark key="'" line="691" column="46" />
+        <mark key="[" line="689" column="18" />
+        <mark key="]" line="689" column="28" />
+        <mark key="." line="689" column="28" />
+        <mark key="^" line="689" column="28" />
+      </file>
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1554085757646">
         <mark key="[" line="57" column="127" />
         <mark key="]" line="57" column="127" />
@@ -576,9 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1457" column="17" filename="E:/tools/android/sources/android-23/android/telephony/SmsManager.java" />
-      <jump line="275" column="16" filename="E:/tools/android/sources/android-23/android/telephony/SmsManager.java" />
-      <jump line="437" column="17" filename="E:/tools/android/sources/android-23/android/telephony/SmsManager.java" />
       <jump line="526" column="16" filename="E:/tools/android/sources/android-23/android/telephony/SmsManager.java" />
       <jump line="117" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/NoService.java" />
       <jump line="111" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/NoService.java" />
@@ -676,19 +680,22 @@
       <jump line="425" column="44" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="529" column="46" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="544" column="29" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="543" column="50" filename="D:/AndroidStudio/Demo/app/src/main/java/com/honor/claim/demo/WebviewAutoProcess.java" />
+      <jump line="689" column="26" filename="D:/AndroidStudio/Demo/app/src/main/java/com/honor/claim/demo/WebviewAutoProcess.java" />
+      <jump line="691" column="46" filename="D:/AndroidStudio/Demo/app/src/main/java/com/honor/claim/demo/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>30000;//</text>
+        <text>JSDebug</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>30000;//</text>
+        <text>JSDebug</text>
       </register>
       <register name="/" type="4">
-        <text>js</text>
+        <text>ssSo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAibm90aWZ5IiwgIiIsICIiK2NvbnRlbnRUZXh0KyI6Iitjb250ZW50VGl0bGUsICIiKTsK</text>
@@ -740,9 +747,9 @@
       </register>
     </registers>
     <search>
-      <last-search>js</last-search>
+      <last-search>ssSo</last-search>
       <last-offset />
-      <last-pattern>js</last-pattern>
+      <last-pattern>ssSo</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -750,10 +757,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRUFEX1NNU1w+</entry>
-        <entry encoding="base64">XDxSRUFEX0NPTlRBQ1RTXD4=</entry>
-        <entry encoding="base64">XDxSRUFEX0NBTExfTE9HXD4=</entry>
-        <entry>Servicehelpserver</entry>
         <entry>SULT_ERROR_RADIO_OFF</entry>
         <entry>get notify</entry>
         <entry>oncreate</entry>
@@ -770,6 +773,10 @@
         <entry>onRec</entry>
         <entry>onRecieveS</entry>
         <entry>js</entry>
+        <entry>onSource</entry>
+        <entry>onSS</entry>
+        <entry>ssso</entry>
+        <entry>ssSo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvKGFuZHJvaWRcLi4qKS9cPHVzZXItcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9IlwxIlwvPi9nYw==</entry>
