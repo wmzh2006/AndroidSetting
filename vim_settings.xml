@@ -507,6 +507,7 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1544582292587">
         <mark key="[" line="95" column="0" />
       </file>
+      <file name="D:/AndroidStudio/Demo/app/src/main/java/com/honor/claim/demo/WebviewLogDefaultBean.java" timestamp="1555924106820" />
       <file name="D:/AndroidStudioProjects/Solo/app/proguard-rules.pro" timestamp="1543478099735">
         <mark key="[" line="20" column="38" />
       </file>
@@ -579,6 +580,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/Demo/app/src/main/java/com/honor/claim/demo/JSAutoConfig.java" timestamp="1555924579816">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="39" />
       </file>
       <file name="/fragment.java" timestamp="1555902817229">
         <mark key="[" line="0" column="0" />
@@ -687,14 +693,14 @@
       <jump line="691" column="46" filename="D:/AndroidStudio/Demo/app/src/main/java/com/honor/claim/demo/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>com.impl_plugin.intf.StrProcessing.Decrypt(&quot;MjAxNzA4MTkxMjAwbA==&quot;)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>JSDebug</text>
+        <text>com.impl_plugin.intf.StrProcessing.Decrypt(&quot;MjAxNzA4MTkxMjAwbA==&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>ssSo</text>
