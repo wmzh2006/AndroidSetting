@@ -547,11 +547,11 @@
         <mark key="^" line="62" column="74" />
         <mark key="." line="62" column="74" />
       </file>
-      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1555679945775">
-        <mark key="[" line="163" column="34" />
-        <mark key="]" line="163" column="32" />
-        <mark key="^" line="163" column="32" />
-        <mark key="." line="163" column="32" />
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1555989635898">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="162" column="32" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="D:/AndroidStudio/eve_A_trace/build.gradle" timestamp="1555752513613">
         <mark key="[" line="13" column="17" />
@@ -694,13 +694,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.impl_plugin.intf.StrProcessing.Decrypt(&quot;MjAxNzA4MTkxMjAwbA==&quot;)</text>
+        <text>init</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.impl_plugin.intf.StrProcessing.Decrypt(&quot;MjAxNzA4MTkxMjAwbA==&quot;)</text>
+        <text>init</text>
       </register>
       <register name="/" type="4">
         <text>ssSo</text>
@@ -712,43 +712,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5pbml0LmVudiIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy9hcHBfbmFtZSIK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IG5ldyBUaHJlYWQoKSB7CiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIG5ldyBVcGxvYWRJbmZvVXRpbCgpLnVwbG9hZERldmljZUluZm8obmV3IFVwbG9hZERldmljZUluZm9MaXN0ZW5lcigpIHsgICAgLy8g1eK63LrEyrGjrLfFtb3X7rrzCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgZmluaXNoKGludCBjb2RlLCBTdHJpbmcgbXNnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFBsdWdpbkxvZy5yZWxlYXNlTG9nKGNvbS5pbXBsX3BsdWdpbi5pbnRmLlN0clByb2Nlc3NpbmcuRGVjcnlwdCgiZFhCc2IyRmtSR1YyYVdObFNXNW1ieUJqYjJSbElBPT0iKS8qInVwbG9hZERldmljZUluZm8gY29kZSAiKi8gKyBjb2RlICsgY29tLmltcGxfcGx1Z2luLmludGYuU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJMRzFsYzNOblpTQT0iKS8qIixtZXNzZ2UgIiovICsgbXNnKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LCBtQ3R4LCBtTWFwKTsKCiAgICAgICAgICAgICAgICBzd2l0Y2ggKFBob25lVXRpbC5nZXRTREtfSU5UKCkpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIDE3OgogICAgICAgICAgICAgICAgICAgIGNhc2UgMjI6CiAgICAgICAgICAgICAgICAgICAgICAgIC8vUmVwb3J0ZXIuZ2V0SW5zdGFuY2UoKS5yZXBvcnQobUN0eCwgUEhPTkVfVUlELCBQSE9ORV9DSUQsIFBIT05FX01JRCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfQogICAgICAgIH0uc3RhcnQoKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwubGlic2hlbGx1c2VyLlNoZWxsRXhlOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVudXNlZCIpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IG5ldyBUaHJlYWQoKSB7CiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIG5ldyBVcGxvYWRJbmZvVXRpbCgpLnVwbG9hZERldmljZUluZm8obmV3IFVwbG9hZERldmljZUluZm9MaXN0ZW5lcigpIHsgICAgLy8g1eK63LrEyrGjrLfFtb3X7rrzCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgZmluaXNoKGludCBjb2RlLCBTdHJpbmcgbXNnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFBsdWdpbkxvZy5yZWxlYXNlTG9nKGNvbS5pbXBsX3BsdWdpbi5pbnRmLlN0clByb2Nlc3NpbmcuRGVjcnlwdCgiZFhCc2IyRmtSR1YyYVdObFNXNW1ieUJqYjJSbElBPT0iKS8qInVwbG9hZERldmljZUluZm8gY29kZSAiKi8gKyBjb2RlICsgY29tLmltcGxfcGx1Z2luLmludGYuU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJMRzFsYzNOblpTQT0iKS8qIixtZXNzZ2UgIiovICsgbXNnKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LCBtQ3R4LCBtTWFwKTsKCiAgICAgICAgICAgICAgICBzd2l0Y2ggKFBob25lVXRpbC5nZXRTREtfSU5UKCkpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIDE3OgogICAgICAgICAgICAgICAgICAgIGNhc2UgMjI6CiAgICAgICAgICAgICAgICAgICAgICAgIC8vUmVwb3J0ZXIuZ2V0SW5zdGFuY2UoKS5yZXBvcnQobUN0eCwgUEhPTkVfVUlELCBQSE9ORV9DSUQsIFBIT05FX01JRCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfQogICAgICAgIH0uc3RhcnQoKTs=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwubGlic2hlbGx1c2VyLlNoZWxsRXhlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVudXNlZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
