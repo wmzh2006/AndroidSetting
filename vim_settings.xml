@@ -26,9 +26,6 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1556012417113">
-        <mark key="[" line="81" column="19" />
-      </file>
       <file name="/a.dummy" timestamp="1555862133320">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,6 +219,7 @@
         <mark key="^" line="19" column="96" />
         <mark key="." line="19" column="96" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/sms/SmsStoreManager.java" timestamp="1556090119956" />
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1554085757646">
         <mark key="[" line="57" column="127" />
         <mark key="]" line="57" column="127" />
@@ -361,7 +359,7 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1555324692213">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1556089489074">
         <mark key="[" line="886" column="44" />
         <mark key="]" line="886" column="45" />
         <mark key="." line="886" column="45" />
@@ -381,6 +379,7 @@
         <mark key="]" line="102" column="29" />
         <mark key="." line="102" column="29" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewPinBean.java" timestamp="1556089814683" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" timestamp="1555507551110">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -433,6 +432,11 @@
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/f/MsServiceTest.java" timestamp="1556089296150">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/eve/tra/util/HttpDataUtil.java" timestamp="1552113409848">
         <mark key="[" line="81" column="13" />
@@ -534,6 +538,7 @@
       <file name="/Dummy.txt" timestamp="1555991164785">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1556090263033" />
       <file name="D:/StudioProjects/Video/app/src/main/AndroidManifest.xml" timestamp="1555471064025">
         <mark key="[" line="49" column="30" />
         <mark key="]" line="49" column="30" />
@@ -710,13 +715,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>smsData.getContent()</text>
       </register>
       <register name="/" type="4">
         <text>ssSo</text>
@@ -728,7 +733,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -740,31 +745,31 @@
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
+        <text encoding="base64">aW1wb3J0IEFwcDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2RlZmluZSBORVdfS0VZX1dPUkQgICAgICAgICJYIiAgLy8gsdjQ682sWC1SZXF1ZXN0ZWQtV2l0aNK70fmzpCzJ2dK7uPa2vLvhyqew3Ao=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIG5hdGl2ZSBTdHJpbmcgYygpOwo=</text>
+        <text encoding="base64">I2RlZmluZSBORVdfS0VZX1dPUkQgICAgICAgICJYIiAgLy8gsdjQ682sWC1SZXF1ZXN0ZWQtV2l0aNK70fmzpCzJ2dK7uPa2vLvhyqew3Ao=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly5pZGVhL2xpYnJhcmllcwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgIG5hdGl2ZSBTdHJpbmcgYygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
