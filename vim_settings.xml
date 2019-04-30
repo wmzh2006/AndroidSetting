@@ -230,7 +230,10 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/str_def.c" timestamp="1556532102627" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/str_def.c" timestamp="1556617629544">
+        <mark key="'" line="144" column="42" />
+        <mark key="[" line="0" column="154" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/testloadso/src/androidTest/java/com/hunt/pilot/cao/testloadso/NetWorkUtilTest.java" timestamp="1539828422574">
         <mark key="[" line="9" column="33" />
       </file>
@@ -584,8 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="16" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
-      <jump line="23" column="23" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="33" column="41" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="48" column="33" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="49" column="37" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
@@ -684,6 +685,8 @@
       <jump line="170" column="41" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" />
       <jump line="177" column="0" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" />
       <jump line="4" column="70" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" />
+      <jump line="60" column="5" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/str_def.c" />
+      <jump line="144" column="42" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/str_def.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -696,7 +699,7 @@
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5Td2l0Y2hWYWx1ZVw+</text>
+        <text encoding="base64">XDxNRVRIT0RfdG9TdHJpbmdfdmFyX0RFRlw+</text>
       </register>
       <register name="0" type="4">
         <text>100 + index * runDelay</text>
@@ -748,9 +751,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5Td2l0Y2hWYWx1ZVw+</last-search>
+      <last-search encoding="base64">XDxNRVRIT0RfdG9TdHJpbmdfdmFyX0RFRlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5Td2l0Y2hWYWx1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxNRVRIT0RfdG9TdHJpbmdfdmFyX0RFRlw+</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -758,7 +761,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oncreate</entry>
         <entry>on</entry>
         <entry>onCreate</entry>
         <entry>RESULT_ERROR_LIMIT_EXCEEDED</entry>
@@ -778,6 +780,7 @@
         <entry>ssSo</entry>
         <entry encoding="base64">XDxnZXRNeUlubmVyU3RyX1NwZWNpYWxleGVcPg==</entry>
         <entry encoding="base64">XDxnZW5Td2l0Y2hWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxNRVRIT0RfdG9TdHJpbmdfdmFyX0RFRlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvKGFuZHJvaWRcLi4qKS9cPHVzZXItcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9IlwxIlwvPi9nYw==</entry>
