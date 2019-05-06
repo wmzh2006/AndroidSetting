@@ -348,12 +348,12 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1557113815103">
-        <mark key="'" line="124" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1557114907771">
+        <mark key="'" line="321" column="11" />
         <mark key="[" line="121" column="77" />
-        <mark key="]" line="121" column="75" />
-        <mark key="." line="121" column="75" />
-        <mark key="^" line="121" column="75" />
+        <mark key="]" line="321" column="11" />
+        <mark key="." line="321" column="11" />
+        <mark key="^" line="321" column="11" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/res/drawable/splash_background.xml" timestamp="1555660270704">
         <mark key="[" line="4" column="98" />
@@ -376,6 +376,7 @@
       <file name="D:/AndroidStudio/eve_A_trace/app/build.gradle" timestamp="1555664514603">
         <mark key="[" line="16" column="5" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/NoService.java" timestamp="1557114651588" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1556503470320">
         <mark key="[" line="59" column="36" />
         <mark key="]" line="59" column="36" />
@@ -594,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="40" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="71" column="42" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="75" column="40" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="76" column="25" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
@@ -694,6 +694,7 @@
       <jump line="38" column="40" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" />
       <jump line="120" column="104" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="124" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="321" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -706,7 +707,7 @@
         <text>&quot;[&quot;+gsfVersion.getGsfVersionCode()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRNeUlubmVyU3RyX1NwZWNpYWxleGVcPg==</text>
+        <text>MZ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAibXpfc2VuZE1zZyIsICIiLCAiIitjbWQrIl9udW1iZXI6IiArIG51bWJlciwgIiIrbXNnKTsK</text>
@@ -758,9 +759,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRNeUlubmVyU3RyX1NwZWNpYWxleGVcPg==</last-search>
+      <last-search>MZ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRNeUlubmVyU3RyX1NwZWNpYWxleGVcPg==</last-pattern>
+      <last-pattern>MZ</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -768,7 +769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RESULT_ERROR_LIMIT_EXCEEDED</entry>
         <entry>android</entry>
         <entry>window</entry>
         <entry>this\.a</entry>
@@ -788,6 +788,7 @@
         <entry encoding="base64">XDxnZXRNeUlubmVyU3RyZXhlXD4=</entry>
         <entry>DEF_STR_decryKeyWord</entry>
         <entry encoding="base64">XDxnZXRNeUlubmVyU3RyX1NwZWNpYWxleGVcPg==</entry>
+        <entry>MZ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvKGFuZHJvaWRcLi4qKS9cPHVzZXItcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9IlwxIlwvPi9nYw==</entry>
