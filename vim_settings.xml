@@ -348,12 +348,12 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1557126426400">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1557128155296">
         <mark key="'" line="321" column="11" />
-        <mark key="[" line="121" column="77" />
-        <mark key="]" line="321" column="11" />
-        <mark key="." line="321" column="11" />
-        <mark key="^" line="321" column="11" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="149" column="77" />
+        <mark key="." line="149" column="77" />
+        <mark key="^" line="149" column="77" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/res/drawable/splash_background.xml" timestamp="1555660270704">
         <mark key="[" line="4" column="98" />
@@ -399,6 +399,12 @@
         <mark key="]" line="43" column="55" />
         <mark key="^" line="43" column="55" />
         <mark key="." line="43" column="55" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/KEussd.java" timestamp="1557128168473">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/eve/tra/util/HttpDataUtil.java" timestamp="1552113409848">
         <mark key="[" line="81" column="13" />
@@ -467,11 +473,11 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1555037679054">
-        <mark key="[" line="294" column="15" />
-        <mark key="]" line="294" column="16" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1557128141323">
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="0" />
         <mark key="^" line="294" column="20" />
-        <mark key="." line="294" column="16" />
+        <mark key="." line="270" column="0" />
       </file>
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
@@ -539,12 +545,6 @@
         <mark key="^" line="54" column="38" />
         <mark key="." line="54" column="36" />
       </file>
-      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1556432837116">
-        <mark key="'" line="4" column="70" />
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="D:/AndroidStudio/eve_A_trace/build.gradle" timestamp="1555752513613">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="4" column="15" />
@@ -584,7 +584,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1556431242655">
+      <file name="/fragment.java" timestamp="1557127559963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/AndroidStudio/OpenCamera-master/app/src/main/jni/Application.mk" timestamp="1556098178616">
@@ -697,62 +697,62 @@
       <jump line="321" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;[&quot;+gsfVersion.getGsfVersionCode()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJlZmVyZW5jZS5QcmVmZXJlbmNlTWFuYWdlcjsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;[&quot;+gsfVersion.getGsfVersionCode()</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>MZ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAibXpfc2VuZE1zZyIsICIiLCAiIitjbWQrIl9udW1iZXI6IiArIG51bWJlciwgIiIrbXNnKTsK</text>
+        <text encoding="base64">ICAgICAgICBhZGRVc3NkS2V5d29yZEJlZW4obmV3IFVzc2RLZXl3b3JkQmVlbigiY2hhcmdlZCIsICIiLCAiNSIsICJTZW5kIikpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdzZlZlcnNpb24uZ2V0VmVuZGluZ1ZlcnNpb25Db2RlKCkrIiIsICIiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJlZmVyZW5jZS5QcmVmZXJlbmNlTWFuYWdlcjsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnc2ZWZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRVc3NkS2V5d29yZEJlZW4obmV3IFVzc2RLZXl3b3JkQmVlbigiY2hhcmdlZCIsICIiLCAiNSIsICJTZW5kIikpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JbmZvLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG0udmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb25JbmZvIGFwcGxpY2F0aW9uSW5mbyA9IHBtLmdldFBhY2thZ2VJbmZvKCJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zIiwgMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdzZlZlcnNpb24uZ2V0VmVuZGluZ1ZlcnNpb25Db2RlKCkrIiIsICIiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICBnc2ZWZXJzaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uY29tcGVudC5hb3Npc3QuYy5kOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JbmZvLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb21wZW50LmFvc2lzdC5jOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG0udmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
