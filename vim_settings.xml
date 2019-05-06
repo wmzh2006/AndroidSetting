@@ -348,11 +348,12 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1557042236627">
-        <mark key="[" line="886" column="44" />
-        <mark key="]" line="886" column="45" />
-        <mark key="." line="886" column="45" />
-        <mark key="^" line="886" column="45" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1557113815103">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="121" column="77" />
+        <mark key="]" line="121" column="75" />
+        <mark key="." line="121" column="75" />
+        <mark key="^" line="121" column="75" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/res/drawable/splash_background.xml" timestamp="1555660270704">
         <mark key="[" line="4" column="98" />
@@ -421,6 +422,11 @@
         <mark key="]" line="329" column="46" />
         <mark key="." line="329" column="46" />
         <mark key="^" line="329" column="46" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/GsfVersion.java" timestamp="1557113174630">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1556077418099">
         <mark key="[" line="4" column="16" />
@@ -588,8 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="37" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
-      <jump line="54" column="82" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="70" column="40" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="71" column="42" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
       <jump line="75" column="40" filename="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" />
@@ -688,16 +692,18 @@
       <jump line="37" column="40" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" />
       <jump line="117" column="0" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" />
       <jump line="38" column="40" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/cpp/jni-action.c" />
+      <jump line="120" column="104" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="124" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>&quot;[&quot;+gsfVersion.getGsfVersionCode()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;[&quot;+gsfVersion.getGsfVersionCode()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNeUlubmVyU3RyX1NwZWNpYWxleGVcPg==</text>
@@ -709,43 +715,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JbmZvLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdzZlZlcnNpb24uZ2V0VmVuZGluZ1ZlcnNpb25Db2RlKCkrIiIsICIiKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG0udmVyCg==</text>
+        <text encoding="base64">ICAgICAgICBnc2ZWZXJzaW9uCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb25JbmZvIGFwcGxpY2F0aW9uSW5mbyA9IHBtLmdldFBhY2thZ2VJbmZvKCJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zIiwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwbGljYXRpb25JbmZvLgo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG0udmVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb25JbmZvIGFwcGxpY2F0aW9uSW5mbyA9IHBtLmdldFBhY2thZ2VJbmZvKCJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zIiwgMCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uY29tcGVudC5hb3Npc3QuYy5kOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb21wZW50LmFvc2lzdC5jOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmFtZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiLz4K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uY29tcGVudC5hb3Npc3QuYy5kOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb21wZW50LmFvc2lzdC5jOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
