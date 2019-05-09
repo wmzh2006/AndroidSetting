@@ -639,6 +639,9 @@
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" timestamp="1557392079804">
+        <mark key="'" line="31" column="27" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2019032111/readme.txt" timestamp="1554095204051">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -657,7 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="42" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="170" column="33" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="395" column="216" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="483" column="52" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -757,6 +759,7 @@
       <jump line="512" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/common/2.0.0/f8e6dc3303a1f50ef69cf571e55e027852830dcd/common-2.0.0.jar!/com/umeng/commonsdk/UMConfigure.class" />
       <jump line="729" column="35" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="674" column="8" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="31" column="27" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -769,7 +772,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>captcha</text>
+        <text>SU</text>
       </register>
       <register name="0" type="4">
         <text>android:theme=&quot;@style/transparent&quot;</text>
@@ -821,9 +824,9 @@
       </register>
     </registers>
     <search>
-      <last-search>captcha</last-search>
+      <last-search>SU</last-search>
       <last-offset />
-      <last-pattern>captcha</last-pattern>
+      <last-pattern>SU</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -831,7 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onre</entry>
         <entry>onRec</entry>
         <entry>onRecieveS</entry>
         <entry>js</entry>
@@ -851,6 +853,7 @@
         <entry>inji</entry>
         <entry>injs</entry>
         <entry>captcha</entry>
+        <entry>SU</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvKGFuZHJvaWRcLi4qKS9cPHVzZXItcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9IlwxIlwvPi9nYw==</entry>
