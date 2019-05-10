@@ -136,10 +136,11 @@
         <mark key="^" line="11" column="54" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/AndroidStudio/canmera/app/src/main/AndroidManifest.xml" timestamp="1557468525047">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="D:/AndroidStudio/canmera/app/src/main/AndroidManifest.xml" timestamp="1557472753421">
+        <mark key="[" line="127" column="136" />
+        <mark key="]" line="127" column="134" />
+        <mark key="." line="127" column="134" />
+        <mark key="^" line="127" column="134" />
       </file>
       <file name="D:/StudioProjects/Video/app/proguard-rules.pro" timestamp="1555470846360">
         <mark key="[" line="21" column="0" />
@@ -399,10 +400,11 @@
         <mark key="." line="4" column="104" />
         <mark key="^" line="4" column="104" />
       </file>
-      <file name="D:/AndroidStudio/canmera/app/src/main/java/com/ardententhusi/astic/helper/App.java" timestamp="1557468630232">
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
+      <file name="D:/AndroidStudio/canmera/app/src/main/java/com/ardententhusi/astic/helper/App.java" timestamp="1557473145525">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="26" />
       </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
         <mark key="[" line="47" column="35" />
@@ -497,6 +499,13 @@
         <mark key="." line="329" column="46" />
         <mark key="^" line="329" column="46" />
       </file>
+      <file name="D:/AndroidStudio/canmera/app/src/main/java/com/ardententhusi/astic/helper/Main2Activity.java" timestamp="1557473019036">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/GsfVersion.java" timestamp="1557113174630">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="32" />
@@ -527,11 +536,10 @@
       <file name="E:/Project/DynamicLoader/androidstub/build.gradle" timestamp="1540871106432">
         <mark key="[" line="32" column="85" />
       </file>
-      <file name="D:/AndroidStudio/canmera/app/src/main/java/com/ardententhusi/astic/helper/StartService.java" timestamp="1557470624928">
+      <file name="D:/AndroidStudio/canmera/app/src/main/java/com/ardententhusi/astic/helper/StartService.java" timestamp="1557472106457">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-        <mark key="^" line="28" column="33" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/analyst/build.gradle" timestamp="1556110178718">
         <mark key="[" line="9" column="21" />
@@ -690,7 +698,7 @@
         <mark key="^" line="2" column="0" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/RunCondition.java" timestamp="1557387662717" />
-      <file name="/fragment.java" timestamp="1557468213817">
+      <file name="/fragment.java" timestamp="1557471927331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/AndroidStudio/OpenCamera-master/app/src/main/jni/Application.mk" timestamp="1556098178616">
@@ -701,7 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="52" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="540" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="711" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="63" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -801,16 +808,17 @@
       <jump line="322" column="14" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="141" column="21" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="890" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="23" column="29" filename="D:/AndroidStudio/canmera/app/src/main/java/com/ardententhusi/astic/helper/Main2Activity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNb2JjbGlja0FnZW50Lm9uRXZlbnQodGhpcywgImFwcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>104821</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>KE</text>
@@ -822,43 +830,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb2JjbGlja0FnZW50Lm9uRXZlbnQodGhpcywgImFwcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb2JjbGlja0FnZW50Lm9uUGF1c2UodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYW5kbGVyIGhhbmRsZXIgPSBuZXcgSGFuZGxlcih0aGlzKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSJjb20uYXJkZW50ZW50aHVzaS5hc3RpYy5oZWxwZXIuTWFpbkFjdGl2aXR5Ij4KICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuTEFVTkNIRVIiIC8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4KICAgICAgICA8L2FjdGl2aXR5Pg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKSAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZpY2UobmV3IEludGVudCh0aGlzLCBTdGFydFNlcnZpY2UuY2xhc3MpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFNlcnZpY2UobmV3IEludGVudCh0aGlzLCBTdGFydFNlcnZpY2UuY2xhc3MpKTsK</text>
+        <text encoding="base64">ICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpbmlzaCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
