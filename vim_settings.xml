@@ -276,6 +276,12 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
+      <file name="D:/AndroidStudio/MyApplication/app/build.gradle" timestamp="1557741493764">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+      </file>
       <file name="D:/AndroidStudio/canmera/app/libs/umeng-analytics-8.0.2.jar!/com/umeng/analytics/b.class" timestamp="1557476165611" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/build.gradle" timestamp="1557482083787">
         <mark key="[" line="7" column="32" />
@@ -366,9 +372,6 @@
         <mark key="]" line="28" column="13" />
         <mark key="^" line="28" column="13" />
         <mark key="." line="28" column="13" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/AndroidManifest.xml" timestamp="1557482119722">
-        <mark key="[" line="62" column="34" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/release/RealseConfig.java" timestamp="1557482732982">
         <mark key="[" line="2" column="9" />
@@ -512,6 +515,7 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1557741487222" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/libs/adsdk_rooksdk_lib.jar!/com/sdk/impl/util/ADRTSharedPreferencesUtil.class" timestamp="1557393529346" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/sshell/src/main/res/layout/activity_hint.xml" timestamp="1556109038206">
         <mark key="[" line="32" column="30" />
@@ -730,14 +734,14 @@
       <jump line="124" column="12" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCUxvZy5lKCJUQUciLCAibG9hZGVkIG9mZmVyISIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>application</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, &quot;&quot;, &quot;&quot;, jsContent</text>
+        <text>application</text>
       </register>
       <register name="/" type="4">
         <text>Js</text>
