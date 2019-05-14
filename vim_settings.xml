@@ -108,6 +108,7 @@
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
         <mark key="[" line="25" column="5" />
       </file>
+      <file name="D:/AndroidStudio/canmera/app/src/main/java/om/glaring/twilight/CActivity.java" timestamp="1557839420984" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1557752187466">
         <mark key="[" line="55" column="61" />
         <mark key="]" line="55" column="61" />
@@ -138,8 +139,8 @@
         <mark key="^" line="19" column="96" />
         <mark key="." line="19" column="96" />
       </file>
-      <file name="D:/AndroidStudio/canmera/app/build.gradle" timestamp="1557837256711">
-        <mark key="[" line="5" column="38" />
+      <file name="D:/AndroidStudio/canmera/app/build.gradle" timestamp="1557840042308">
+        <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="8" column="19" />
         <mark key="." line="5" column="38" />
@@ -456,6 +457,7 @@
         <mark key="^" line="87" column="79" />
         <mark key="." line="87" column="79" />
       </file>
+      <file name="/AndroidManifest.xml" timestamp="1557839270887" />
       <file name="D:/AndroidStudio/canmera/showservice/src/main/java/com/honor/claim/showservice/StartService.java" timestamp="1557367613283">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -497,10 +499,10 @@
         <mark key="^" line="14" column="73" />
         <mark key="." line="14" column="73" />
       </file>
-      <file name="D:/AndroidStudio/canmera/app/src/main/AndroidManifest.xml" timestamp="1557838113487">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="D:/AndroidStudio/canmera/app/src/main/AndroidManifest.xml" timestamp="1557839692657">
+        <mark key="[" line="61" column="26" />
+        <mark key="]" line="61" column="26" />
+        <mark key="." line="61" column="26" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/Demo/testwifi.iml" timestamp="1557805423705">
         <mark key="[" line="1" column="37" />
@@ -834,14 +836,14 @@
       <jump line="1" column="0" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/settings.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Servicehelper</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Js</text>
@@ -853,25 +855,25 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgPG1ldGEtZGF0YQogICAgICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmFjY2Vzc2liaWxpdHlzZXJ2aWNlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpyZXNvdXJjZT0iQHhtbC9hY2Nlc3NpYmlsaXR5IiAvPg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRhIGFuZHJvaWQ6c2NoZW1lPSJwYWNrYWdlIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+Cg==</text>
@@ -883,13 +885,13 @@
         <text encoding="base64">ICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRhIGFuZHJvaWQ6c2NoZW1lPSJwYWNrYWdlIi8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfT1dORVJfREFUQSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
