@@ -666,6 +666,12 @@
         <mark key="." line="34" column="38" />
         <mark key="^" line="34" column="31" />
       </file>
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/build.gradle" timestamp="1557928560041">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="4" />
+        <mark key="." line="75" column="4" />
+        <mark key="^" line="75" column="9" />
+      </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/Demo_X/src/main/java/com/xom/axz/LoneManager.java" timestamp="1541731139451">
         <mark key="[" line="103" column="9" />
       </file>
@@ -899,13 +905,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.bala.bala</text>
+        <text>println</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>println</text>
       </register>
       <register name="/" type="4">
         <text>KE</text>
@@ -916,45 +922,45 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>ll
-                                       + StrProcessing.Decrypt(&quot;5LiL6L29546v5aKD5o+S5Lu25byA5aeL&quot;)/*&quot;下载环境插件开始&quot;*/+url))</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICgiaGVsbG8iKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQlMb2cuZSgiVEFHIiwgImlzIHJvb3QK</text>
+      <register name="2" type="4">
+        <text>ll
+                                       + StrProcessing.Decrypt(&quot;5LiL6L29546v5aKD5o+S5Lu25byA5aeL&quot;)/*&quot;下载环境插件开始&quot;*/+url))</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiByZW1vdmVTdWNjZXNzID0gICFBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
+        <text encoding="base64">CQkJCQlMb2cuZSgiVEFHIiwgImlzIHJvb3QK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZCB0aHJlYWQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiByZW1vdmVTdWNjZXNzID0gICFBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZCB0aHJlYWQgPSBudWxsOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiBpc2luc3RhbGxlZCA9ICBBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiBpc2luc3RhbGxlZCA9ICBBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiBzdWNjZXNzID0gQXBwVXRpbC5yZW1vdmVBcHAoY29udGV4dCwgbnVsbCwgcGtnLCBudWxsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiBzdWNjZXNzID0gQXBwVXRpbC5yZW1vdmVBcHAoY29udGV4dCwgbnVsbCwgcGtnLCBudWxsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
