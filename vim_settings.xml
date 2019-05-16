@@ -711,6 +711,12 @@
         <mark key="^" line="42" column="98" />
         <mark key="." line="33" column="29" />
       </file>
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1557727817356">
+        <mark key="'" line="120" column="12" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/treacle/honeydew/c.java" timestamp="1557396726507" />
       <file name="D:/StudioProjects/Video/app/src/main/res/layout/activity_main.xml" timestamp="1555470821175">
         <mark key="[" line="9" column="8" />
@@ -784,6 +790,12 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1544582292587">
         <mark key="[" line="95" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1557987657094">
+        <mark key="'" line="345" column="0" />
+        <mark key="[" line="205" column="78" />
+        <mark key="]" line="205" column="78" />
+        <mark key="." line="205" column="78" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/proguard.cfg" timestamp="1557907741676">
         <mark key="[" line="46" column="62" />
       </file>
@@ -808,7 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="505" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="540" column="2090" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="575" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
       <jump line="651" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
@@ -908,6 +919,7 @@
       <jump line="1" column="0" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/settings.gradle" />
       <jump line="39" column="55" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/apps/feedback/lge/UninstallService.java" />
       <jump line="747" column="57" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
+      <jump line="345" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -920,7 +932,7 @@
         <text>println</text>
       </register>
       <register name="/" type="4">
-        <text>KE</text>
+        <text>getOptVal</text>
       </register>
       <register name="0" type="4">
         <text>com.bala.bala</text>
@@ -973,9 +985,9 @@
       </register>
     </registers>
     <search>
-      <last-search>KE</last-search>
+      <last-search>getOptVal</last-search>
       <last-offset />
-      <last-pattern>KE</last-pattern>
+      <last-pattern>getOptVal</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -983,7 +995,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRNeUlubmVyU3RyZXhlXD4=</entry>
         <entry>DEF_STR_decryKeyWord</entry>
         <entry encoding="base64">XDxnZXRNeUlubmVyU3RyX1NwZWNpYWxleGVcPg==</entry>
         <entry>set</entry>
@@ -1003,6 +1014,7 @@
         <entry>Js</entry>
         <entry encoding="base64">XDxjb21cPg==</entry>
         <entry>KE</entry>
+        <entry>getOptVal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXChhbmRyb2lkXC4uKlwpL1w8dXNlci1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iXDEiXC8+L2c=</entry>
