@@ -79,6 +79,11 @@
         <mark key="." line="28" column="43" />
         <mark key="^" line="23" column="23" />
       </file>
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/slothful/tortoise/NService.java" timestamp="1557991980388">
+        <mark key="[" line="108" column="27" />
+        <mark key="]" line="108" column="27" />
+        <mark key="." line="108" column="27" />
+      </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/LoggedOutStream.java" timestamp="1547640839202">
         <mark key="[" line="9" column="57" />
       </file>
@@ -358,6 +363,12 @@
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1556077418099">
         <mark key="[" line="4" column="16" />
       </file>
+      <file name="D:/AndroidStudio/canmera/app/src/main/java/com/sweet/spring/App.java" timestamp="1557309404613">
+        <mark key="'" line="12" column="99" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+      </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/testwifi/src/main/AndroidManifest.xml" timestamp="1557717395052">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="4" />
@@ -556,6 +567,12 @@
         <mark key="]" line="413" column="78" />
         <mark key="^" line="413" column="78" />
         <mark key="." line="413" column="78" />
+      </file>
+      <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/settings.gradle" timestamp="1557990975813">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1557482186503" />
       <file name="E:/AndroidStudioProjects/Project/cleanTool/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1557903803208" />
@@ -922,14 +939,14 @@
       <jump line="345" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.replaceAll(&quot;[\\s-]&quot;, &quot;&quot;);</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>.replaceAll(&quot;[\\s-]&quot;, &quot;&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>getOptVal</text>
@@ -941,44 +958,44 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOmpuaXRlc3R3ZWJ2aWV3Jwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgiaGVsbG8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text>ll
-                                       + StrProcessing.Decrypt(&quot;5LiL6L29546v5aKD5o+S5Lu25byA5aeL&quot;)/*&quot;下载环境插件开始&quot;*/+url))</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICgiaGVsbG8iKQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQlMb2cuZSgiVEFHIiwgImlzIHJvb3QK</text>
+      <register name="4" type="4">
+        <text>ll
+                                       + StrProcessing.Decrypt(&quot;5LiL6L29546v5aKD5o+S5Lu25byA5aeL&quot;)/*&quot;下载环境插件开始&quot;*/+url))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiByZW1vdmVTdWNjZXNzID0gICFBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
+        <text encoding="base64">CQkJCQlMb2cuZSgiVEFHIiwgImlzIHJvb3QK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZCB0aHJlYWQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiByZW1vdmVTdWNjZXNzID0gICFBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFRocmVhZCB0aHJlYWQgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiBpc2luc3RhbGxlZCA9ICBBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYm9vbGVhbiBpc2luc3RhbGxlZCA9ICBBcHBVdGlsLmlzSW5zdGFsbGVkKGNvbnRleHQsIHBrZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
