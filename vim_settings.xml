@@ -345,6 +345,7 @@
         <mark key="^" line="18" column="34" />
         <mark key="." line="18" column="34" />
       </file>
+      <file name="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/services/CDUSSDService.java" timestamp="1558079743517" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1556077418099">
         <mark key="[" line="4" column="16" />
       </file>
@@ -475,7 +476,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558009888960">
+      <file name="/fragment.java" timestamp="1558077132196">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/res/layout/activity_main.xml" timestamp="1540888895929">
@@ -486,6 +487,12 @@
         <mark key="]" line="87" column="79" />
         <mark key="^" line="87" column="79" />
         <mark key="." line="87" column="79" />
+      </file>
+      <file name="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" timestamp="1558079575736">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="32" column="77" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/AndroidStudio/canmera/showservice/src/main/java/com/honor/claim/showservice/StartService.java" timestamp="1557367613283">
         <mark key="[" line="10" column="0" />
@@ -809,13 +816,20 @@
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/proguard.cfg" timestamp="1557907741676">
         <mark key="[" line="46" column="62" />
       </file>
+      <file name="D:/ussdinterceptor-master1/app/build.gradle" timestamp="1558077195082">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="D:/AndroidStudio/OpenCamera-master/local.properties" timestamp="1556097419813">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="18" />
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="D:/ussdinterceptor-master1/app/src/main/AndroidManifest.xml" timestamp="1558076641994" />
+      <file name="D:/ussdinterceptor-master1/app/src/main/AndroidManifest.xml" timestamp="1558078793241">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/testwifi/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1558007701254">
         <mark key="'" line="36" column="7" />
         <mark key="[" line="33" column="97" />
@@ -831,9 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="865" column="17" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" />
-      <jump line="10" column="99" filename="D:/AndroidStudio/canmera/app/src/main/java/com/sweet/spring/App.java" />
-      <jump line="28" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/common/2.0.0/f8e6dc3303a1f50ef69cf571e55e027852830dcd/common-2.0.0.jar!/com/umeng/commonsdk/UMConfigure.class" />
       <jump line="246" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/common/2.0.0/f8e6dc3303a1f50ef69cf571e55e027852830dcd/common-2.0.0.jar!/com/umeng/commonsdk/UMConfigure.class" />
       <jump line="252" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/common/2.0.0/f8e6dc3303a1f50ef69cf571e55e027852830dcd/common-2.0.0.jar!/com/umeng/commonsdk/UMConfigure.class" />
       <jump line="261" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.umsdk/common/2.0.0/f8e6dc3303a1f50ef69cf571e55e027852830dcd/common-2.0.0.jar!/com/umeng/commonsdk/UMConfigure.class" />
@@ -931,16 +942,19 @@
       <jump line="563" column="0" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="17" column="0" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/testwifi/src/main/java/com/honor/claim/testwifi/MainActivity.java" />
       <jump line="35" column="7" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/testwifi/src/main/java/com/honor/claim/testwifi/MainActivity.java" />
+      <jump line="38" column="8" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
+      <jump line="26" column="76" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
+      <jump line="15" column="0" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aHR0cDovL29mLm9reWVzbW9iaS5jb20vcmVkaXJlY3Q/dWlkPTg0RDYwQTBEMDBFNTM0OTJBNTA2RjU4REZDMDA3M0VERUYxQUU1QTA2REUyREVEMCZzb3VyY2VpZD0yMzAw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICBsb2NhbFNlcnZpY2UgPSAoQ0RVU1NEU2VydmljZS4pIHNlcnZpY2U7Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cDovL29mLm9reWVzbW9iaS5jb20vcmVkaXJlY3Q/dWlkPTg0RDYwQTBEMDBFNTM0OTJBNTA2RjU4REZDMDA3M0VERUYxQUU1QTA2REUyREVEMCZzb3VyY2VpZD0yMzAw</text>
+        <text>AUDIO_SERVICE</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
@@ -952,43 +966,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBsb2NhbFNlcnZpY2UgPSAoQ0RVU1NEU2VydmljZS4pIHNlcnZpY2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8V2Vidmlld0Jhc2VCZWFuPiBvZmZlcmxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2aWNlID0gOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFdvcmtXYXRjaGRvZyhhdXRvV2Vidmlld0Jhc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmluZGVyIGJpbmRlciA9ICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/bXlwaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGFyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICB0b29sczpjb250ZXh0PSIuTWFpbiIg</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/P215cGluKCk7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/P215cGluKCk7Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0JvdHRvbT0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
