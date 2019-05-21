@@ -94,6 +94,12 @@
       <file name="D:/AndroidStudioProjects/PrizeClaw/app/proguard-rules.pro" timestamp="1542963386820">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/InstalledPackages.java" timestamp="1558410879528">
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="71" />
+        <mark key="^" line="15" column="71" />
+        <mark key="." line="15" column="71" />
+      </file>
       <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/java/com/web/WebViewUtil.java" timestamp="1545832920475">
         <mark key="[" line="47" column="35" />
       </file>
@@ -201,6 +207,7 @@
         <mark key="." line="1" column="37" />
       </file>
       <file name="D:/StudioProjects/CameraKit/camerakit-android/camerakit/src/main/java/com/wonderkiln/camerakit/CameraView.java" timestamp="1558167987552" />
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" timestamp="1558410963259" />
       <file name="D:/StudioProjects/gpjsauto/jnitestwebview/src/main/java/com/bigmac/icecream/c.java" timestamp="1558409680226" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/2048/build.gradle" timestamp="1558340055495" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/assets/ofzo" timestamp="1558084466049">
@@ -262,6 +269,12 @@
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/com/play_impl/lib/cid/ChannelUtil.java" timestamp="1540971951604">
         <mark key="[" line="60" column="144" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/USSDController.java" timestamp="1558410852347">
+        <mark key="[" line="210" column="24" />
+        <mark key="]" line="211" column="28" />
+        <mark key="." line="211" column="28" />
+        <mark key="^" line="211" column="28" />
       </file>
       <file name="/fragment.m" timestamp="1545965889141">
         <mark key="[" line="0" column="0" />
@@ -420,13 +433,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lea</text>
+        <text encoding="base64">a3VndWEg</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>lea</text>
+        <text encoding="base64">a3VndWEg</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
