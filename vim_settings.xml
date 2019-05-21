@@ -51,8 +51,11 @@
         <mark key="[" line="15" column="16" />
       </file>
       <file name="D:/StudioProjects/gpjsauto/gradle/wrapper/gradle-wrapper.properties" timestamp="1558340333116" />
-      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1541665062873">
-        <mark key="[" line="25" column="5" />
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1558420335946">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1557906249266">
         <mark key="[" line="193" column="0" />
@@ -139,6 +142,11 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
+      <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/AppSizeUtils.java" timestamp="1558420586317">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1556077418099">
         <mark key="[" line="4" column="16" />
       </file>
@@ -168,7 +176,7 @@
       <file name="E:/Project/NetWork_lib/app/src/main/java/com/network/tool/MobileNetworkType.java" timestamp="1539677505535">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1558345593812">
+      <file name="/fragment.java" timestamp="1558419009764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/res/layout/activity_main.xml" timestamp="1540888895929">
@@ -432,14 +440,14 @@
       <jump line="15" column="0" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">a3VndWEg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">a3VndWEg</text>
+        <text>.;</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
@@ -451,47 +459,47 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zbG90aGZ1bC50b3J0b2lzZS5TZGs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5NKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKSAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zbG90aGZ1bC50b3J0b2lzZS5TZGs7Cg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>content</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5NKQo=</text>
+      </register>
+      <register name="5" type="4">
         <text>---------------------
     作者：Shawn_Dut
     来源：CSDN
     原文：https://blog.csdn.net/self_study/article/details/50186435 
     版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
-      <register name="s" type="4">
-        <text>content</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Li4uCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Li4uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFja2FnZU5hbWUgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLlJlcXVpcmVzQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFja2FnZU5hbWUgPSAiIjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
