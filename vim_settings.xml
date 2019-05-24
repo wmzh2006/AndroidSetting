@@ -372,7 +372,7 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="D:/StudioProjects/gpjsauto/sshell/src/main/java/com/anrwo/abwoy/MSplashActivity.java" timestamp="1558686246431">
+      <file name="D:/StudioProjects/gpjsauto/sshell/src/main/java/com/anrwo/abwoy/MSplashActivity.java" timestamp="1558694116529">
         <mark key="[" line="54" column="36" />
         <mark key="]" line="54" column="36" />
         <mark key="^" line="54" column="36" />
@@ -1011,10 +1011,11 @@
         <mark key="^" line="55" column="62" />
         <mark key="." line="55" column="61" />
       </file>
-      <file name="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/NotificationPermission.java" timestamp="1558691510956">
-        <mark key="[" line="28" column="55" />
-        <mark key="]" line="28" column="55" />
-        <mark key="." line="28" column="55" />
+      <file name="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/NotificationPermission.java" timestamp="1558694159757">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="41" />
       </file>
       <file name="D:/StudioProjects/CameraKit/camerakit-android/app/src/main/java/com/camerakit/app/MainActivity.java" timestamp="1558168335577">
         <mark key="[" line="25" column="0" />
@@ -1131,14 +1132,14 @@
       <jump line="15" column="0" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ob25vci5jbGFpbS5zc2hlbGwuUjsK</text>
+      <register name="&quot;" type="4">
+        <text>getApplicationContext()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.anrwo.abwoy.HintActivity</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
