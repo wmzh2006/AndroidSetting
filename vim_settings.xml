@@ -189,10 +189,11 @@
         <mark key="]" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="D:/StudioProjects/gpjsauto/sshell/src/main/java/com/anrwo/abwoy/HintActivity.java" timestamp="1558754325671">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="D:/StudioProjects/gpjsauto/sshell/src/main/java/com/anrwo/abwoy/HintActivity.java" timestamp="1558755276140">
+        <mark key="[" line="59" column="41" />
+        <mark key="]" line="60" column="129" />
+        <mark key="." line="60" column="129" />
+        <mark key="^" line="60" column="129" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/assets/ofzo" timestamp="1558084466049">
         <mark key="[" line="0" column="104" />
@@ -208,8 +209,8 @@
         <mark key="^" line="21" column="118" />
         <mark key="." line="21" column="92" />
       </file>
-      <file name="D:/StudioProjects/gpjsauto/demo/build.gradle" timestamp="1558687594358">
-        <mark key="[" line="41" column="30" />
+      <file name="D:/StudioProjects/gpjsauto/demo/build.gradle" timestamp="1558755359782">
+        <mark key="[" line="41" column="53" />
         <mark key="]" line="41" column="31" />
         <mark key="." line="41" column="31" />
       </file>
@@ -231,8 +232,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/StudioProjects/gpjsauto/sshell/src/main/res/layout/activity_hint.xml" timestamp="1558753593419" />
-      <file name="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1558687514658" />
+      <file name="D:/StudioProjects/gpjsauto/sshell/src/main/res/layout/activity_hint.xml" timestamp="1558755035624" />
+      <file name="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1558755781289" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/demo2/src/main/AndroidManifest.xml" timestamp="1558422734413">
         <mark key="[" line="3" column="65" />
       </file>
@@ -424,13 +425,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIERyYXdhYmxlIGRyYXdhYmxlID0gbmV3IEQK</text>
+        <text encoding="base64">ICAgICAgICBpbkxMLmFkZFZpZXcoKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
@@ -442,43 +443,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIERyYXdhYmxlIGRyYXdhYmxlID0gbmV3IEQK</text>
+        <text encoding="base64">ICAgICAgICBpbkxMLmFkZFZpZXcoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpY29uLnNldEltYWdlRHJhd2FibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuZHJhd2FibGUuRHJhd2FibGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIERyYXdhYmxlIGRyYXdhYmxlID0gbmV3IEQK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRQYXJhbXMuYWRkUnVsZShSZWxhdGl2ZUxheW91dC5waW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICBpY29uLnNldEltYWdlRHJhd2FibGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRQYXJhbXMuc2V0TGF5b3V0RGlyZWN0aW9uKFJlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRQYXJhbXMuYWRkUnVsZShSZWxhdGl2KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
