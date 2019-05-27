@@ -681,10 +681,11 @@
         <mark key="]" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="D:/StudioProjects/gpjsauto/component/build.gradle" timestamp="1558949469628">
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="22" />
-        <mark key="." line="9" column="24" />
+      <file name="D:/StudioProjects/gpjsauto/component/build.gradle" timestamp="1558959562954">
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="59" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/hao/comet/pro/adm.java" timestamp="1554093900730">
         <mark key="[" line="413" column="93" />
@@ -1020,7 +1021,7 @@
         <mark key="." line="211" column="28" />
         <mark key="^" line="211" column="28" />
       </file>
-      <file name="D:/StudioProjects/gpjsauto/component/src/main/res/values/public.xml" timestamp="1558957957559">
+      <file name="D:/StudioProjects/gpjsauto/component/src/main/res/values/public.xml" timestamp="1558959572209">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="68" />
@@ -1230,14 +1231,14 @@
       <jump line="190" column="26" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0ic3R5bGUiIG5hbWU9Ik5vdFRpbGVUcmFuc2x1Y2VudCIgaWQ9IiIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>variant.getMergeResourcesProvider()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0x7f0c00a1</text>
+        <text>variant.getMergeResourcesProvider()</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
@@ -1249,19 +1250,23 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0ic3R5bGUiIG5hbWU9Ik5vdFRpbGVUcmFuc2x1Y2VudCIgaWQ9IiIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0iZHJhd2FibGUiIG5hbWU9InBlX29wZW4iIGlkPSIweDdmZjAwMDAxIiAvPgo=</text>
+      <register name="2" type="4">
+        <text>---------------------
+        作者：ceabie
+来源：CSDN
+原文：https://blog.csdn.net/ceabie/article/details/50867791 
+版权声明：本文为博主原创文章，转载请附上博文链接！</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0ic3R5bGUiIG5hbWU9Ik5vdFRpbGVUcmFuc2x1Y2VudCIgaWQ9IiIgLz4K</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -1270,22 +1275,22 @@
         <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0iZHJhd2FibGUiIG5hbWU9InBlX29wZW4iIGlkPSIweDdmZjAwMDAxIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5iaWdtb3VzZXQud2VhdGhlcmZvcmVjYXN0LmFjdGl2aXRpZXMxLlI7Cg==</text>
+        <text encoding="base64">ICAgIDwK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5iaWdtb3VzZXQud2VhdGhlcmZvcmVjYXN0LmFjdGl2aXRpZXMxLlI7Cg==</text>
+        <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0iZHJhd2FibGUiIG5hbWU9InBlX29wZW4iIGlkPSIweDdmZjAwMDAxIiAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ob25vci5jbGFpbS5zc2hlbGwuUjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5iaWdtb3VzZXQud2VhdGhlcmZvcmVjYXN0LmFjdGl2aXRpZXMxLlI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5iaWdtb3VzZXQud2VhdGhlcmZvcmVjYXN0LmFjdGl2aXRpZXMxLlI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nbGl0dGVyLkdsYW1vdXJyb2NrLlNkazsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5ob25vci5jbGFpbS5zc2hlbGwuUjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
