@@ -493,7 +493,11 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/jni/util.c" timestamp="1559129355616" />
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/jni/util.c" timestamp="1559129802461">
+        <mark key="[" line="818" column="50" />
+        <mark key="]" line="818" column="50" />
+        <mark key="." line="818" column="50" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1557909334801">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="41" />
@@ -1136,13 +1140,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x-requested-with</text>
+        <text>&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>x-requested-with</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
