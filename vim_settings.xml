@@ -588,6 +588,11 @@
         <mark key="." line="34" column="38" />
         <mark key="^" line="34" column="31" />
       </file>
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/web/WebViewUtil.java" timestamp="1559131295213">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1557750006097">
         <mark key="[" line="62" column="47" />
         <mark key="]" line="62" column="47" />
@@ -956,11 +961,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1559128422909">
-        <mark key="[" line="45" column="46" />
-        <mark key="]" line="45" column="41" />
-        <mark key="." line="45" column="41" />
-        <mark key="^" line="45" column="41" />
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1559131589758">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
       </file>
       <file name="D:/AndroidStudio/eve_A_trace/build.gradle" timestamp="1555752513613">
         <mark key="[" line="13" column="17" />
@@ -1140,65 +1145,61 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">c3VjY2VzcyA=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">c3VjY2VzcyA=</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8JCWV4dHJhSGVhZGVycy5wdXQoIngtcmVxdWVzdGVkLXdpdGgiLCAiIik7Cg==</text>
+      <register name="0" type="4">
+        <text>!(&quot;1&quot;).equals(WebViewUtil.getInstance(mContext).resultWVchange)</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl3ZWJ2aWV3LnNldEgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl3ZWJ2aWV3Lgo=</text>
+        <text encoding="base64">CQlleHRyYUhlYWRlcnMucHV0KCJhY2NlcHQtcmFuZ2VzLWJ5IiwgIjAiKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC5vcy5CdWlsZC5WRVJTSU9OLlJFTEVBU0UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTU9VTlRfVU5NT1VOVF9GSUxFU1lTVEVNUyIvPgo=</text>
+        <text encoding="base64">CQlleHRyYUhlYWRlcnMucHV0KCJ4LXJlcXVlc3RlZC13aXRoIiwgIiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9MT0dTIi8+Cg==</text>
+        <text encoding="base64">CQl3ZWJ2aWV3LnNldEgK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3ZWJ2aWV3Lgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>---------------------
-        作者：ceabie
-来源：CSDN
-原文：https://blog.csdn.net/ceabie/article/details/50867791 
-版权声明：本文为博主原创文章，转载请附上博文链接！</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZC5vcy5CdWlsZC5WRVJTSU9OLlJFTEVBU0UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0ic3R5bGUiIG5hbWU9Ik5vdFRpbGVUcmFuc2x1Y2VudCIgaWQ9IiIgLz4K</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTU9VTlRfVU5NT1VOVF9GSUxFU1lTVEVNUyIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwdWJsaWMgdHlwZT0iZHJhd2FibGUiIG5hbWU9InBlX29wZW4iIGlkPSIweDdmZjAwMDAxIiAvPgo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9MT0dTIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
