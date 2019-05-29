@@ -418,8 +418,11 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1559127402449">
-        <mark key="[" line="36" column="27" />
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1559128344143">
+        <mark key="[" line="40" column="44" />
+        <mark key="]" line="40" column="44" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="40" column="44" />
       </file>
       <file name="D:/AndroidStudio/MyApplication/app/build.gradle" timestamp="1557741493764">
         <mark key="[" line="0" column="27" />
@@ -490,6 +493,7 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="23" />
       </file>
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/jni/util.c" timestamp="1559129355616" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/release/RealseConfig.java" timestamp="1557909334801">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="41" />
@@ -715,7 +719,7 @@
         <mark key="^" line="116" column="101" />
         <mark key="." line="116" column="101" />
       </file>
-      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/web/AutoWebview.java" timestamp="1559125164155">
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/web/AutoWebview.java" timestamp="1559128129357">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -948,6 +952,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1559128422909">
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="41" />
+        <mark key="." line="45" column="41" />
+        <mark key="^" line="45" column="41" />
+      </file>
       <file name="D:/AndroidStudio/eve_A_trace/build.gradle" timestamp="1555752513613">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="4" column="15" />
@@ -1125,20 +1135,20 @@
       <jump line="831" column="41" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl3ZWJ2aWV3LnNldEgK</text>
+      <register name="&quot;" type="4">
+        <text>x-requested-with</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>NService</text>
+        <text>x-requested-with</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBmaW5hbCBzdGF0aWMgU3RyaW5nIEtFWV9SRUxFQVNFID0gY29tLmltcGxfcGx1Z2luLmludGYuU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJjSEk9IikvKiJwciIqLzsJLy9hbmRyb2lkILDmsb4K</text>
+        <text encoding="base64">Ly8JCWV4dHJhSGVhZGVycy5wdXQoIngtcmVxdWVzdGVkLXdpdGgiLCAiIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
