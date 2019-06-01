@@ -68,6 +68,9 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" timestamp="1559378411798">
+        <mark key="'" line="314" column="68" />
+      </file>
       <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/sanding/airconde/c.java" timestamp="1559273395285" />
       <file name="E:/Project/gpjsauto/.gitignore" timestamp="1559123650226">
         <mark key="[" line="83" column="15" />
@@ -165,8 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/testwifi/src/main/java/com/honor/claim/testwifi/MainActivity.java" />
-      <jump line="35" column="7" filename="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/testwifi/src/main/java/com/honor/claim/testwifi/MainActivity.java" />
       <jump line="38" column="8" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
       <jump line="26" column="76" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
       <jump line="15" column="0" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
@@ -265,6 +266,8 @@
       <jump line="11176" column="6" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="11766" column="19" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="11763" column="26" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
+      <jump line="343" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" />
+      <jump line="314" column="68" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -277,7 +280,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>com.sanding.airconde.cg</text>
+        <text>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KG9rICYmIHJldCAhPSAyKSA/ICIxIiA6ICIwIg==</text>
@@ -329,9 +332,9 @@
       </register>
     </registers>
     <search>
-      <last-search>com.sanding.airconde.cg</last-search>
+      <last-search>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</last-search>
       <last-offset />
-      <last-pattern>com.sanding.airconde.cg</last-pattern>
+      <last-pattern>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attr</entry>
         <entry>att</entry>
         <entry>acc</entry>
         <entry>Acc</entry>
@@ -359,6 +361,7 @@
         <entry>com.sanding.airconde.l</entry>
         <entry>cg</entry>
         <entry>com.sanding.airconde.cg</entry>
+        <entry>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXChhbmRyb2lkXC4uKlwpL1w8dXNlci1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iXDEiXC8+L2c=</entry>
