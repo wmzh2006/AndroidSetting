@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1559273479229">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Project/magiccamera/gradle/wrapper/gradle-wrapper.properties" timestamp="1559202717411" />
       <file name="/LLDB" timestamp="1559271576934">
         <mark key="[" line="0" column="0" />
@@ -78,7 +75,7 @@
       <file name="/Dummy.txt" timestamp="1559298847275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1559295278237">
+      <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1559380073806">
         <mark key="[" line="24" column="25" />
         <mark key="]" line="24" column="26" />
         <mark key="^" line="24" column="27" />
@@ -108,9 +105,6 @@
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1559271258991" />
       <file name="$USER_HOME$/AppData/Local/Temp/rOOTSDK_Plugin_onlyjsauto-release8509761583925861615.aar1614485771968244495/classes.jar!/com/slothful/tortoise/Sdk.class" timestamp="1559202891822" />
-      <file name="E:/Project/gpjsauto/demo/src/main/AndroidManifest.xml" timestamp="1559272165030">
-        <mark key="[" line="6" column="78" />
-      </file>
       <file name="E:/Project/magiccamera/app/proguard-rules.pro" timestamp="1559204176084" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/sanding/airconde/Sdk.java" timestamp="1559273528979" />
       <file name="E:/Project/gpjsauto/jnitestwebview/build.gradle" timestamp="1559204660202" />
@@ -271,13 +265,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>debug</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</text>
