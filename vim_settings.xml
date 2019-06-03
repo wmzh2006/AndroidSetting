@@ -116,7 +116,7 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1559548584729">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1559554106179">
         <mark key="'" line="211" column="42" />
         <mark key="^" line="217" column="106" />
       </file>
@@ -142,7 +142,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559381648907">
+      <file name="/Dummy.txt" timestamp="1559554010175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1559380073806">
@@ -226,8 +226,8 @@
         <mark key="]" line="0" column="104" />
         <mark key="." line="0" column="104" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" timestamp="1559544042574">
-        <mark key="'" line="358" column="37" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" timestamp="1559554087863">
+        <mark key="'" line="537" column="36" />
       </file>
       <file name="E:/Project/magiccamera/app/proguard-rules.pro" timestamp="1559204176084" />
       <file name="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1558687478975">
@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5683" column="49" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5684" column="38" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5685" column="37" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5686" column="42" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -469,6 +468,7 @@
       <jump line="211" column="42" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="78" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="97" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
+      <jump line="537" column="36" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -481,7 +481,7 @@
         <text encoding="base64">Y29udGV4dCA=</text>
       </register>
       <register name="/" type="4">
-        <text>js</text>
+        <text>Rm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCJjb250ZXh0IGlzIG51bGwiKTsK</text>
@@ -533,9 +533,9 @@
       </register>
     </registers>
     <search>
-      <last-search>js</last-search>
+      <last-search>Rm</last-search>
       <last-offset />
-      <last-pattern>js</last-pattern>
+      <last-pattern>Rm</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -543,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getOptVal</entry>
         <entry>getPhone</entry>
         <entry encoding="base64">LT4gYWI=</entry>
         <entry>ab</entry>
@@ -563,6 +562,7 @@
         <entry>jscontent</entry>
         <entry>jsContent</entry>
         <entry>js</entry>
+        <entry>Rm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXChhbmRyb2lkXC4uKlwpL1w8dXNlci1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iXDEiXC8+L2c=</entry>
