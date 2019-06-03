@@ -65,6 +65,13 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1559527786139">
+        <mark key="'" line="830" column="74" />
+        <mark key="[" line="122" column="9" />
+        <mark key="]" line="127" column="69" />
+        <mark key="." line="127" column="69" />
+        <mark key="^" line="127" column="69" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" timestamp="1559378411798">
         <mark key="'" line="314" column="68" />
       </file>
@@ -96,6 +103,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyUtil.java" timestamp="1559124072207" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyUtil.java" timestamp="1559202035226">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="27" column="86" />
+        <mark key="]" line="27" column="101" />
+        <mark key="^" line="27" column="101" />
+        <mark key="." line="27" column="101" />
+      </file>
       <file name="E:/Project/gpjsauto/gradle/wrapper/gradle-wrapper.properties" timestamp="1559202712123" />
       <file name="D:/AndroidStudio/canmera/app/src/main/AndroidManifest.xml" timestamp="1559293679348">
         <mark key="[" line="11" column="23" />
@@ -105,6 +119,9 @@
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1559271258991" />
       <file name="$USER_HOME$/AppData/Local/Temp/rOOTSDK_Plugin_onlyjsauto-release8509761583925861615.aar1614485771968244495/classes.jar!/com/slothful/tortoise/Sdk.class" timestamp="1559202891822" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" timestamp="1559527485158">
+        <mark key="'" line="12" column="33" />
+      </file>
       <file name="E:/Project/magiccamera/app/proguard-rules.pro" timestamp="1559204176084" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/sanding/airconde/Sdk.java" timestamp="1559273528979" />
       <file name="E:/Project/gpjsauto/jnitestwebview/build.gradle" timestamp="1559204660202" />
@@ -162,10 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
-      <jump line="26" column="76" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
-      <jump line="15" column="0" filename="D:/ussdinterceptor-master1/app/src/main/java/com/codedemigod/activities/MainActivity.java" />
-      <jump line="744" column="11" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="925" column="23" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="926" column="12" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="927" column="19" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -262,6 +275,10 @@
       <jump line="11763" column="26" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="343" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" />
       <jump line="314" column="68" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" />
+      <jump line="12" column="33" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
+      <jump line="679" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="829" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="830" column="74" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +291,7 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</text>
+        <text>^\\d+\\s*,\\s*\\d+$</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KG9rICYmIHJldCAhPSAyKSA/ICIxIiA6ICIwIg==</text>
@@ -326,9 +343,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</last-search>
+      <last-search>^\\d+\\s*,\\s*\\d+$</last-search>
       <last-offset />
-      <last-pattern>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</last-pattern>
+      <last-pattern>^\\d+\\s*,\\s*\\d+$</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -336,9 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry>att</entry>
-        <entry>acc</entry>
-        <entry>Acc</entry>
         <entry>getJs</entry>
         <entry>Js</entry>
         <entry encoding="base64">XDxjb21cPg==</entry>
@@ -356,6 +370,9 @@
         <entry>cg</entry>
         <entry>com.sanding.airconde.cg</entry>
         <entry>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</entry>
+        <entry>VN</entry>
+        <entry>cap_parserfail</entry>
+        <entry>^\\d+\\s*,\\s*\\d+$</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXChhbmRyb2lkXC4uKlwpL1w8dXNlci1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iXDEiXC8+L2c=</entry>
