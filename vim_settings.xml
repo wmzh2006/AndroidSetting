@@ -65,12 +65,12 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1559528767106">
-        <mark key="'" line="59" column="7" />
-        <mark key="[" line="122" column="9" />
-        <mark key="]" line="127" column="69" />
-        <mark key="." line="127" column="69" />
-        <mark key="^" line="127" column="69" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1559548584729">
+        <mark key="'" line="211" column="42" />
+        <mark key="[" line="218" column="90" />
+        <mark key="]" line="218" column="90" />
+        <mark key="." line="218" column="90" />
+        <mark key="^" line="217" column="106" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" timestamp="1559378411798">
         <mark key="'" line="314" column="68" />
@@ -99,6 +99,12 @@
         <mark key="]" line="30" column="57" />
         <mark key="." line="30" column="57" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.txt" timestamp="1559548626042">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1559202481683">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,6 +115,12 @@
         <mark key="]" line="27" column="101" />
         <mark key="^" line="27" column="101" />
         <mark key="." line="27" column="101" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/CrUtil.java" timestamp="1559547984470">
+        <mark key="[" line="88" column="26" />
+        <mark key="]" line="88" column="27" />
+        <mark key="." line="88" column="27" />
+        <mark key="^" line="87" column="43" />
       </file>
       <file name="E:/Project/gpjsauto/gradle/wrapper/gradle-wrapper.properties" timestamp="1559202712123" />
       <file name="D:/AndroidStudio/canmera/app/src/main/AndroidManifest.xml" timestamp="1559293679348">
@@ -179,16 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="41" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyUtil.java" />
-      <jump line="831" column="41" filename="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="121" column="43" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="107" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="27" column="105" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyUtil.java" />
-      <jump line="10" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyUtil.java" />
-      <jump line="119" column="33" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="5677" column="34" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="5678" column="37" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="5679" column="41" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5681" column="57" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5682" column="58" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5683" column="49" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -279,73 +281,83 @@
       <jump line="994" column="43" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
       <jump line="38" column="37" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
       <jump line="358" column="37" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
+      <jump line="855" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="940" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="941" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="942" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="11" column="11" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="178" column="74" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="205" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="207" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="209" column="45" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="211" column="42" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>RP</text>
+        <text>js</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">KG9rICYmIHJldCAhPSAyKSA/ICIxIiA6ICIwIg==</text>
+        <text>1002.mj</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfU01TIi8+Cg==</text>
+        <text encoding="base64">b2V2ZXJnZXR1cC5wcm8K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uU0VORF9TTVMiIC8+Cg==</text>
+        <text encoding="base64">anNfQ29udGVudCA9IG1XZWJ2aWV3X0JlYW4uZ2V0anNfQ2xpY2tTdWJzY3JpYmUoKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8K</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfU01TIi8+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906OhCg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uU0VORF9TTVMiIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgINStzsSjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9uaXV6YWl3ZW5qaWUvYXJ0aWNsZS9kZXRhaWxzLzgwNzcxNjM1IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIMC01LSjukNTRE4K</text>
+        <text encoding="base64">ICAgILDmyKjJ+cP3o7qxvs7Ezqqyqdb31K20tM7E1cKjrNeq1NjH67i9yc+yqc7EwbS906OhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgINf31d+jum5pdXphaXdlbmppZQo=</text>
+        <text encoding="base64">ICAgINStzsSjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9uaXV6YWl3ZW5qaWUvYXJ0aWNsZS9kZXRhaWxzLzgwNzcxNjM1IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgIMC01LSjukNTRE4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPCg==</text>
+        <text encoding="base64">ICAgINf31d+jum5pdXphaXdlbmppZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/dialog/build/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>RP</last-search>
+      <last-search>js</last-search>
       <last-offset />
-      <last-pattern>RP</last-pattern>
+      <last-pattern>js</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -353,10 +365,7 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21cPg==</entry>
-        <entry>KE</entry>
         <entry>getOptVal</entry>
-        <entry>js</entry>
         <entry>getPhone</entry>
         <entry encoding="base64">LT4gYWI=</entry>
         <entry>ab</entry>
@@ -373,6 +382,9 @@
         <entry>^\\d+\\s*,\\s*\\d+$</entry>
         <entry>class</entry>
         <entry>RP</entry>
+        <entry>jscontent</entry>
+        <entry>jsContent</entry>
+        <entry>js</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXChhbmRyb2lkXC4uKlwpL1w8dXNlci1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iXDEiXC8+L2c=</entry>
