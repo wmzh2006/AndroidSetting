@@ -227,8 +227,8 @@
         <mark key="]" line="0" column="104" />
         <mark key="." line="0" column="104" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" timestamp="1559705735559">
-        <mark key="'" line="597" column="3" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" timestamp="1559721336961">
+        <mark key="'" line="80" column="17" />
       </file>
       <file name="E:/Project/magiccamera/app/proguard-rules.pro" timestamp="1559204176084" />
       <file name="D:/StudioProjects/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1558687478975">
@@ -370,10 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5698" column="42" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="5699" column="31" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="5700" column="25" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="5701" column="26" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5702" column="28" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5703" column="25" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5704" column="30" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -470,6 +466,10 @@
       <jump line="272" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
       <jump line="364" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
       <jump line="597" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
+      <jump line="1181" column="33" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
+      <jump line="1184" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
+      <jump line="6" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
+      <jump line="80" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/release/mapping.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -482,7 +482,7 @@
         <text encoding="base64">Y29udGV4dCA=</text>
       </register>
       <register name="/" type="4">
-        <text>IRO</text>
+        <text>MFS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE51bGxQb2ludGVyRXhjZXB0aW9uKCJjb250ZXh0IGlzIG51bGwiKTsK</text>
@@ -534,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>IRO</last-search>
+      <last-search>MFS</last-search>
       <last-offset />
-      <last-pattern>IRO</last-pattern>
+      <last-pattern>MFS</last-pattern>
       <last-replace>build</last-replace>
       <last-substitute>dialog</last-substitute>
       <last-dir>1</last-dir>
@@ -544,8 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com.sanding.airconde</entry>
-        <entry>com.sanding.airconde.ab</entry>
         <entry>com.sanding.airconde.MFS</entry>
         <entry>com.sanding.airconde.l</entry>
         <entry>cg</entry>
@@ -564,6 +562,8 @@
         <entry>HgBk</entry>
         <entry>IP</entry>
         <entry>IRO</entry>
+        <entry>mfs</entry>
+        <entry>MFS</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXChhbmRyb2lkXC4uKlwpL1w8dXNlci1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iXDEiXC8+L2c=</entry>
