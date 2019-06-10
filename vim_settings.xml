@@ -99,11 +99,11 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1560169076451">
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="85" column="6" />
-        <mark key="." line="85" column="6" />
-        <mark key="^" line="85" column="6" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1560169929654">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1558420335946">
         <mark key="[" line="3" column="19" />
@@ -1135,14 +1135,14 @@
       <jump line="37" column="24" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return new File(context.getDir(OUTPUT_DIR, 0), String.format(OUTPUT_FILE, fileName)).exists();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>return new File(context.getDir(OUTPUT_DIR, 0), String.format(OUTPUT_FILE, fileName)).exists();</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>com\.lib\.util\.</text>
@@ -1154,46 +1154,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkhhbmRsZXJMZWFrIikKICAgIHByaXZhdGUgc3RhdGljIEhhbmRsZXIgaGFuZGxlciA9IG5ldyBIYW5kbGVyKCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZU1lc3NhZ2UoTWVzc2FnZSBtc2cpIHsKICAgICAgICAgICAgc3dpdGNoIChtc2cud2hhdCkgewogICAgICAgICAgICAgICAgY2FzZSAxMDA6CiAgICAgICAgICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0ID0gKENvbnRleHQpIG1zZy5vYmo7CiAgICAgICAgICAgICAgICAgICAgbG9hZGVyKGNvbnRleHQsIENJRCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Ow==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIAogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBoYW5kbGVNZXNzYWdlKE1lc3NhZ2UgbXNnKSB7CiAgICAgICAgTG9nLmUoIlRBRyIsICJoYW5kbGVNZXNzYWdlLi4uLiIpOwogICAgICAgIHN3aXRjaCAobXNnLndoYXQpIHsKICAgICAgICAgICAgY2FzZSAxMDA6CiAgICAgICAgICAgICAgICBDb250ZXh0IGNvbnRleHQgPSAoQ29udGV4dCkgbXNnLm9iajsKICAgICAgICAgICAgICAgIGxvYWRlcihjb250ZXh0LCBDSUQpOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0=</text>
+        <text encoding="base64">ICBNZXNzYWdlIG1lc3NhZ2UgPSBNZXNzYWdlLm9idGFpbigpOwogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2Uud2hhdCA9IDEwMDsKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLm9iaiA9IGNvbnRleHQ7CiAgICAgICAgICAgICAgICAgICAgaGFuZGxlci5zZW5kTWVzc2FnZShtZXNzYWdlKTs=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuaGFuZGxlTWVzc2FnZShtc2cpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBpZiAoaXNFeGlzdChjb250ZXh0LCBJTlBVVF9GSUxFKSkgewogICAgICAgICAgICAgICAgbG9hZGVyKGNvbnRleHQsIENJRCk7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIYW5kbGVyIGhhbmRsZXIgPSBuZXcgSGFuZGxlcihMb29wZXIuZ2V0TWFpbkxvb3BlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQuc3RhcnQoKTsK</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
