@@ -12,6 +12,9 @@
       <mapping pattern="keyinfo" type="PLAIN_TEXT" />
       <mapping pattern="dex" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="100_2019061015" type="PLAIN_TEXT" />
+      <mapping pattern="2019061016" type="PLAIN_TEXT" />
+      <mapping pattern="2019061015" type="PLAIN_TEXT" />
       <mapping ext="dex" type="Smali" />
     </extensionMap>
   </component>

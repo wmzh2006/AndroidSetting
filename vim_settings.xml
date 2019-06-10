@@ -252,11 +252,11 @@
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1560136729477">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="57" column="50" />
-        <mark key="." line="36" column="55" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1560156597201">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="D:/StudioProjects/DayorNight/BLCS/app/src/main/java/blcs/lwb/utils/manager/FramentManages.java" timestamp="1558344317723">
         <mark key="[" line="271" column="8" />
@@ -684,12 +684,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1560148301814">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1560155587595">
         <mark key="'" line="93" column="52" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="109" column="13" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="104" column="17" />
+        <mark key="]" line="104" column="16" />
+        <mark key="." line="104" column="16" />
+        <mark key="^" line="104" column="16" />
       </file>
       <file name="D:/StudioProjects/ClearCache/ClearCache/app/src/main/AndroidManifest.xml" timestamp="1558360257621">
         <mark key="[" line="6" column="22" />
@@ -1321,20 +1321,20 @@
       <jump line="84" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGVuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>com\.lib\.util\.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZyb20gemlwVHJlZShmaWxlKFN0cmluZy5mb3JtYXQoIiVzXFwlcyIsIGxpYnNfcGFyZW50X2RpciwgImxpYnNcXHJvb3RzZGtfaW1wbF9wbHVnaW5fbGliLmphciIpKSkK</text>
+      <register name="0" type="4">
+        <text>&quot;${JAR_OUT_DIR}/dex_${JAR_VERSION}.dex&quot;</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -1345,38 +1345,38 @@
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgQ29weUFzc2VydEphclRvRmlsZShDb250ZXh0IGNvbnRleHQsIFN0cmluZyBmaWxlbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBkZXMpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICAvL8ihtcPXytS0zsS8/rXEyuTI68H3CiAgICAgICAgICAgIAogICAgICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IGNvbnRleHQuZ2V0QXNzZXRzKCkub3BlbihmaWxlbmFtZSk7CiAgICAgICAgICAgIEZpbGVPdXRwdXRTdHJlYW0gZmlsZU91dHB1dFN0cmVhbSA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGZpbGUpOwogICAgICAgICAgICBieXRlIGJ1ZmZlcltdID0gbmV3IGJ5dGVbMTAyNF07CiAgICAgICAgICAgIGludCBsZW4gPSAwOwogICAgICAgICAgICB3aGlsZSAoKGxlbiA9IGlucHV0U3RyZWFtLnJlYWQoYnVmZmVyKSkgIT0gMCkgewogICAgICAgICAgICAgICAgZmlsZU91dHB1dFN0cmVhbS53cml0ZShidWZmZXIsIDAsIGxlbik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW5wdXRTdHJlYW0uY2xvc2UoKTsKICAgICAgICAgICAgZmlsZU91dHB1dFN0cmVhbS5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgY2F0Y2ggYmxvY2sKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS5jcmVhdGVOZXdGaWxlKCk7IC8vtLS9qCIvbW50L3NkY2FyZC90ZXN0ZGV4LmphciIgzsS8/go=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlucHV0RmlsZS5jbG9zZSgpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoRW52aXJvbm1lbnQuZ2V0RXh0ZXJuYWxTdG9yYWdlRGlyZWN0b3J5KCkuZ2V0UGF0aCgpCiAgICAgICAgICAgICAgICAgICAgKyBGaWxlLnNlcGFyYXRvciArIGRlcyk7CiAgICAgICAgICAgIGlmIChmaWxlLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBsZW4gPSBpcy5hdmFpbGFibGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9GaWxlLnNlcGFyYXRvciAgV2luZG93cyBcICAgbGludXggLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBtaV9sZW5ndGggPSBzZWVkLmxlbmd0aCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wYXRoICAgICIvbW50L3NkY2FyZC90ZXN0ZGV4LmphciIgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ5dGVbXSBkYXRlID0gbmV3IGJ5dGVbbGVuXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy+3tbvYIEZpbGUgo6y78cihzeKyv7TmtKLEv8K8vLQgU0RDYXJkCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHdoaWxlICgobGVuID0gaXMucmVhZCgpKSAhPSAtMSkgewogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGVuIC8gbWlfbGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtaV9sZW5ndGg7IGorKykgewoKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT3V0cHV0U3RyZWFtIG9zID0gbmV3IEZpbGVPdXRwdXRTdHJlYW0ob3V0cHV0RGlyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
