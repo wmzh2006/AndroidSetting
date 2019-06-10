@@ -10,6 +10,7 @@
       <mapping pattern="MY_Umobile" type="PLAIN_TEXT" />
       <mapping pattern="ofzo" type="PLAIN_TEXT" />
       <mapping pattern="keyinfo" type="PLAIN_TEXT" />
+      <mapping pattern="dex" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping ext="dex" type="Smali" />
     </extensionMap>
