@@ -99,11 +99,11 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1560164871754">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="18" />
-        <mark key="^" line="34" column="18" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1560165824204">
+        <mark key="[" line="48" column="50" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+        <mark key="^" line="43" column="12" />
       </file>
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/src/main/java/com/installer/process/PackageInfo.java" timestamp="1558420335946">
         <mark key="[" line="3" column="19" />
@@ -1033,7 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5777" column="55" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5778" column="52" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5779" column="46" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5780" column="45" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1133,16 +1132,17 @@
       <jump line="84" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="131" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="135" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
+      <jump line="37" column="24" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FkZXIoY29udGV4dCwgY2lkKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>com\.lib\.util\.</text>
@@ -1153,47 +1153,47 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHByaXZhdGUgQ2FsbGJhY2sgY2FsbGJhY2sgPSBuZXcgQ2FsbGJhY2soKSB7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FkZXIoY29udGV4dCwgY2lkKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBoYW5kbGVyID0gCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRocmVhZCA9IG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgY29weUZpbGUoY29udGV4dCwgSU5QVVRfRklMRSk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICB0aHJlYWQuc3RhcnQoKTs=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text>proguard</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQgY29udGV4dCA9IG1zZy47Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+        <text encoding="base64">IHByaXZhdGUgQ2FsbGJhY2sgY2FsbGJhY2sgPSBuZXcgQ2FsbGJhY2soKSB7CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBoYW5kbGVyID0gCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+      <register name="6" type="4">
+        <text>proguard</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX2luaXQgPSBjbHNfc2RrLmdldE1ldGhvZCgiaW5pdCIsIENvbnRleHQuY2xhc3MsIFN0cmluZy5jbGFzcyk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xhc3M8Pz4gY2xzX3NkayA9IGNsLmxvYWRDbGFzcygiY29tLmNvbG9yZnVsLmdvbGRzcGluay5TZGsiKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
