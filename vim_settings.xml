@@ -658,12 +658,12 @@
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1560218234929">
-        <mark key="'" line="548" column="16" />
-        <mark key="[" line="119" column="29" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1560245506241">
+        <mark key="'" line="382" column="57" />
+        <mark key="[" line="651" column="13" />
         <mark key="]" line="119" column="29" />
         <mark key="." line="119" column="29" />
-        <mark key="^" line="882" column="25" />
+        <mark key="^" line="883" column="25" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/KEussd.java" timestamp="1557128168473">
         <mark key="[" line="4" column="0" />
@@ -1027,8 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5778" column="52" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="5779" column="46" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5780" column="45" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5781" column="54" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5782" column="43" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1127,6 +1125,8 @@
       <jump line="131" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="135" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="37" column="24" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" />
+      <jump line="218" column="106" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="382" column="57" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1139,7 +1139,7 @@
         <text>LoggerService</text>
       </register>
       <register name="/" type="4">
-        <text>com\.lib\.util\.</text>
+        <text>shouldOverrideUrlLoading</text>
       </register>
       <register name="0" type="4">
         <text>new File(context.getDir(OUTPUT_DIR, 0), String.format(OUTPUT_FILE, fileName));</text>
@@ -1195,9 +1195,9 @@
       </register>
     </registers>
     <search>
-      <last-search>com\.lib\.util\.</last-search>
+      <last-search>shouldOverrideUrlLoading</last-search>
       <last-offset />
-      <last-pattern>com\.lib\.util\.</last-pattern>
+      <last-pattern>shouldOverrideUrlLoading</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1205,8 +1205,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com.sanding.airconde.cg</entry>
-        <entry>Z2V0UHJlZmVycmVkRGF0YVN1YnNjcmlwdGlvbg==</entry>
         <entry>VN</entry>
         <entry>cap_parserfail</entry>
         <entry>^\\d+\\s*,\\s*\\d+$</entry>
@@ -1225,6 +1223,8 @@
         <entry>com.lib.util.</entry>
         <entry>com\\.lib\\.util\\.</entry>
         <entry>com\.lib\.util\.</entry>
+        <entry>request</entry>
+        <entry>shouldOverrideUrlLoading</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
