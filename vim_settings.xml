@@ -437,6 +437,12 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/DCB.java" timestamp="1561518494993">
+        <mark key="[" line="51" column="73" />
+        <mark key="]" line="51" column="77" />
+        <mark key="." line="51" column="77" />
+        <mark key="^" line="51" column="65" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/init/env/Main.java" timestamp="1553701905055">
         <mark key="[" line="174" column="77" />
         <mark key="]" line="174" column="77" />
@@ -1127,66 +1133,66 @@
       <jump line="382" column="57" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb2xvcmZ1bC5nb2xkc3BpbmsuU2RrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>+e.toString()</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e.aar</text>
+        <text>+e.toString()</text>
       </register>
       <register name="/" type="4">
         <text>shouldOverrideUrlLoading</text>
       </register>
-      <register name="0" type="4">
-        <text>new File(context.getDir(OUTPUT_DIR, 0), String.format(OUTPUT_FILE, fileName));</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAiZGNiX3JlcWVzdF9lcnIiLCIiLCIiLCAiIitlLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb2xvcmZ1bC5nb2xkc3BpbmsuU2RrOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXRoLnJhbmRvbSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jb2xvcmZ1bC5nb2xkc3BpbmsuU2RrOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naWJvbi5raXRlcnR5LlNkazsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5naWJvbi5raXRlcnR5LlNkazsK</text>
+      </register>
+      <register name="5" type="4">
         <text>设置混淆
 -keep class com.colorful.goldspink.**{*;}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0IGNvbnRleHQgPSAoQ29udGV4dCkgbXNnLm9iajsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlYWQuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb250ZXh0IGNvbnRleHQgPSAoQ29udGV4dCkgbXNnLm9iajsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWQuc3RhcnQoKTsK</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkhhbmRsZXJMZWFrIikKICAgIHByaXZhdGUgc3RhdGljIEhhbmRsZXIgaGFuZGxlciA9IG5ldyBIYW5kbGVyKCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZU1lc3NhZ2UoTWVzc2FnZSBtc2cpIHsKICAgICAgICAgICAgc3dpdGNoIChtc2cud2hhdCkgewogICAgICAgICAgICAgICAgY2FzZSAxMDA6CiAgICAgICAgICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0ID0gKENvbnRleHQpIG1zZy5vYmo7CiAgICAgICAgICAgICAgICAgICAgbG9hZGVyKGNvbnRleHQsIENJRCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBNZXNzYWdlIG1lc3NhZ2UgPSBNZXNzYWdlLm9idGFpbigpOwogICAgICAgICAgICAgICAgICAgIG1lc3NhZ2Uud2hhdCA9IDEwMDsKICAgICAgICAgICAgICAgICAgICBtZXNzYWdlLm9iaiA9IGNvbnRleHQ7CiAgICAgICAgICAgICAgICAgICAgaGFuZGxlci5zZW5kTWVzc2FnZShtZXNzYWdlKTs=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkhhbmRsZXJMZWFrIikKICAgIHByaXZhdGUgc3RhdGljIEhhbmRsZXIgaGFuZGxlciA9IG5ldyBIYW5kbGVyKCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZU1lc3NhZ2UoTWVzc2FnZSBtc2cpIHsKICAgICAgICAgICAgc3dpdGNoIChtc2cud2hhdCkgewogICAgICAgICAgICAgICAgY2FzZSAxMDA6CiAgICAgICAgICAgICAgICAgICAgQ29udGV4dCBjb250ZXh0ID0gKENvbnRleHQpIG1zZy5vYmo7CiAgICAgICAgICAgICAgICAgICAgbG9hZGVyKGNvbnRleHQsIENJRCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Ow==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
