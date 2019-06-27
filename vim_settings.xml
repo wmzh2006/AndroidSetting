@@ -760,12 +760,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1561639281601">
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1561640508591">
         <mark key="'" line="143" column="50" />
-        <mark key="[" line="477" column="58" />
-        <mark key="]" line="477" column="56" />
-        <mark key="^" line="477" column="56" />
-        <mark key="." line="477" column="56" />
+        <mark key="[" line="477" column="62" />
+        <mark key="]" line="477" column="62" />
+        <mark key="^" line="477" column="62" />
+        <mark key="." line="477" column="62" />
       </file>
       <file name="D:/AndroidStudio/canmera/showservice/src/main/AndroidManifest.xml" timestamp="1557367496395">
         <mark key="[" line="18" column="34" />
@@ -1155,14 +1155,14 @@
       <jump line="165" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/DCB.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXIgPSAiMCIrbnVtYmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>findStr</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>rel.trim()</text>
+        <text>findStr</text>
       </register>
       <register name="/" type="4">
         <text>62818</text>
