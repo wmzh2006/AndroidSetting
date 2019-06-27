@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/com/test/ExampleTest.java" timestamp="1554969162471">
@@ -83,6 +83,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561605669963">
+        <mark key="[" line="744" column="95" />
+        <mark key="]" line="744" column="97" />
+        <mark key="^" line="744" column="97" />
+        <mark key="." line="744" column="97" />
       </file>
       <file name="/LLDB" timestamp="1560132636938">
         <mark key="[" line="0" column="0" />
@@ -754,11 +760,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1561552496402">
-        <mark key="[" line="82" column="29" />
-        <mark key="]" line="82" column="29" />
-        <mark key="^" line="82" column="44" />
-        <mark key="." line="82" column="29" />
+      <file name="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" timestamp="1561604931073">
+        <mark key="'" line="143" column="50" />
+        <mark key="[" line="793" column="5" />
+        <mark key="]" line="793" column="5" />
+        <mark key="^" line="793" column="5" />
+        <mark key="." line="793" column="5" />
       </file>
       <file name="D:/AndroidStudio/canmera/showservice/src/main/AndroidManifest.xml" timestamp="1557367496395">
         <mark key="[" line="18" column="34" />
@@ -957,6 +964,12 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="16" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1561605394420">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="180" column="4" />
+        <mark key="^" line="180" column="4" />
+        <mark key="." line="180" column="4" />
+      </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/.gitignore" timestamp="1556011749583">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="4" column="0" />
@@ -1034,7 +1047,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5795" column="38" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5796" column="37" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5797" column="37" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="5798" column="50" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1134,16 +1146,17 @@
       <jump line="133" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="138" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="180" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="143" column="50" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Accept-Length-by</text>
+        <text encoding="base64">Imh0dHA6Ly81Mi4yMjEuNy4zNDo4MDg3L3Ntcy93ZWJ2aWV3bG9ncz9teXI9MTEwJm15dj1PSyI=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Accept-Length-by</text>
+        <text encoding="base64">Imh0dHA6Ly81Mi4yMjEuNy4zNDo4MDg3L3Ntcy93ZWJ2aWV3bG9ncz9teXI9MTEwJm15dj1PSyI=</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
