@@ -194,6 +194,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/eve_trace.jar!/com/eve/tra/util/EventTrack.class" timestamp="1561693357881" />
       <file name="D:/StudioProjects/XposedHook/AndroidProcesses/installandproccess/build.gradle" timestamp="1558431203657">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="26" />
@@ -736,6 +737,12 @@
         <mark key="." line="73" column="60" />
         <mark key="^" line="73" column="60" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/bean/WebviewLogDefaultBean.java" timestamp="1561693541745">
+        <mark key="[" line="54" column="144" />
+        <mark key="]" line="54" column="150" />
+        <mark key="^" line="54" column="150" />
+        <mark key="." line="54" column="150" />
+      </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/treacle/honeydew/Sdk.java" timestamp="1557994699946">
         <mark key="[" line="33" column="28" />
         <mark key="]" line="33" column="29" />
@@ -898,7 +905,8 @@
         <mark key="." line="127" column="79" />
         <mark key="^" line="127" column="79" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1561690866041">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1561693181731">
+        <mark key="'" line="825" column="44" />
         <mark key="[" line="461" column="174" />
         <mark key="]" line="461" column="174" />
         <mark key="." line="461" column="174" />
@@ -1058,9 +1066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5800" column="35" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="5801" column="35" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
-      <jump line="1" column="61" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="8" column="39" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="9" column="40" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="14" column="31" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1158,22 +1163,25 @@
       <jump line="175" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/DCB.java" />
       <jump line="173" column="22" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/DCB.java" />
       <jump line="165" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/DCB.java" />
+      <jump line="466" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="824" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="825" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>http://root.koapkmobi.com/pgm/rt/dg</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>62818</text>
+        <text encoding="base64">XDxvdHBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UGhvbmVOdW1iZXIxMjMoKSB7CiAgICAgICAgU3RyaW5nIHJlc3VsdCA9IERDQi5nZXRPcGVyYXRvcihudWxsLCAiNjI4MTM4Mzc5MjEyMyIpOwogICAgICAgIEFzc2VydC5hc3NlcnROdWxsKHJlc3VsdCk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>http://root.koapkmobi.com/pgm/rt/dg</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -1225,9 +1233,9 @@
       </register>
     </registers>
     <search>
-      <last-search>62818</last-search>
+      <last-search encoding="base64">XDxvdHBcPg==</last-search>
       <last-offset />
-      <last-pattern>62818</last-pattern>
+      <last-pattern encoding="base64">XDxvdHBcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1235,9 +1243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>js</entry>
-        <entry>Rm</entry>
-        <entry>NV</entry>
         <entry>HgBk</entry>
         <entry>IP</entry>
         <entry>IRO</entry>
@@ -1255,6 +1260,9 @@
         <entry>62816</entry>
         <entry>62855</entry>
         <entry>62818</entry>
+        <entry>opt</entry>
+        <entry encoding="base64">XDxvcHRcPg==</entry>
+        <entry encoding="base64">XDxvdHBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
