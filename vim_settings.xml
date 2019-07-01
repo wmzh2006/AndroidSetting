@@ -85,10 +85,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561967955562">
-        <mark key="[" line="168" column="16" />
-        <mark key="]" line="170" column="29" />
-        <mark key="." line="170" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561969360757">
+        <mark key="[" line="187" column="18" />
+        <mark key="]" line="186" column="21" />
+        <mark key="." line="186" column="21" />
+        <mark key="^" line="186" column="21" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561777032669">
         <mark key="[" line="744" column="95" />
@@ -1079,6 +1080,7 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/jni/util.c" timestamp="1561969096051" />
     </filemarks>
     <jumps>
       <jump line="9" column="40" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1183,20 +1185,20 @@
       <jump line="124" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcbiIK</text>
+      <register name="&quot;" type="4">
+        <text>OLD_PACKAGE_NAME</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>OLD_PACKAGE_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdHBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgaXNSZXBsYWNlID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgIGRlZiBjQ2xhc3NOYW1lID0gT0xEX1BBQ0tBR0VfTkFNRS5yZXBsYWNlQWxsKCJcXC4iLCAiXyIpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
