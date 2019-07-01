@@ -36,6 +36,7 @@
       <file name="/a.dummy" timestamp="1560159256010">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/HostUtil.java" timestamp="1561968200252" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoConfig.java" timestamp="1557995382929">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="36" />
@@ -84,11 +85,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561966264930">
-        <mark key="[" line="173" column="20" />
-        <mark key="]" line="173" column="26" />
-        <mark key="^" line="173" column="26" />
-        <mark key="." line="173" column="26" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561967955562">
+        <mark key="[" line="168" column="16" />
+        <mark key="]" line="170" column="29" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561777032669">
         <mark key="[" line="744" column="95" />
@@ -190,10 +190,10 @@
         <mark key="." line="10" column="46" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1559725612482">
-        <mark key="[" line="110" column="24" />
-        <mark key="]" line="110" column="24" />
-        <mark key="^" line="110" column="24" />
-        <mark key="." line="110" column="24" />
+        <mark key="[" line="111" column="24" />
+        <mark key="]" line="111" column="24" />
+        <mark key="^" line="111" column="24" />
+        <mark key="." line="111" column="24" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1560233578772">
         <mark key="[" line="3" column="0" />
@@ -281,7 +281,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1560133022520">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1561968347163">
         <mark key="[" line="21" column="9" />
       </file>
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/2048/src/main/java/com/tcpoa/twozerogame/AppApplication.java" timestamp="1558443921479">
@@ -639,12 +639,6 @@
         <mark key="^" line="17" column="76" />
         <mark key="." line="17" column="74" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1560323224696">
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/dcloader/src/main/res/layout/activity_main.xml" timestamp="1554088599143">
         <mark key="[" line="4" column="50" />
         <mark key="]" line="9" column="26" />
@@ -688,6 +682,7 @@
         <mark key="." line="119" column="29" />
         <mark key="^" line="887" column="25" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/newint/oake/Sdk.java" timestamp="1561968337919" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/KEussd.java" timestamp="1557128168473">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1188,14 +1183,14 @@
       <jump line="124" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>line.replaceAll(regPkName, regNewPkName)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcbiIK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>line.replaceAll(regPkName, regNewPkName)</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdHBcPg==</text>
@@ -1207,51 +1202,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRXcml0ZXIuY2xvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcbiIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text>if (isReplace) {
-            def printWriter = newFile.newPrintWrite()
-            printWriter.write(lines)
-            printWriter.flush()
-            printWriter.close()
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihsaW5lKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbGluZXMgPSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihuZXdMaW5lKQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbmV3RmlsZSA9IGl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBuZXdGaWxlID0gaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIG5ld0xpbmUgPSBsaW5lLnJlcGxhY2VBbGwocmVnUGtOYW1lLCByZWdOZXdQa05hbWUpCiAgICAgICAgICAgIGxpbmVzICs9IG5ld0xpbmUKICAgICAgICAgICAgbGluZXMgKz0gIlxuIgo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3RmlsZS53cml0ZShsaW5lcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3RmlsZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld0ZpbGUud3JpdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZUZpbGUocHJvZ3VhcmRGaWxlLCBsaW5lcykK</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
