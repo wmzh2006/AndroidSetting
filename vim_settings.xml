@@ -630,11 +630,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561981253362">
-        <mark key="[" line="226" column="19" />
-        <mark key="]" line="226" column="19" />
-        <mark key="." line="226" column="19" />
-        <mark key="^" line="226" column="19" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561981923544">
+        <mark key="[" line="231" column="24" />
+        <mark key="]" line="231" column="22" />
+        <mark key="." line="231" column="22" />
+        <mark key="^" line="231" column="22" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561980567225">
         <mark key="'" line="132" column="20" />
@@ -1189,19 +1189,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>project(':dynamicsdk').getProjectDir().getAbsolutePath() + '/src/main/jniLibs/armeabi-v7a'</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>project(':dynamicsdk').getProjectDir().getAbsolutePath() + '/src/main/jniLibs/armeabi-v7a'</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcbiIK</text>
+      <register name="0" type="4">
+        <text>project(':dynamicsdk').getProjectDir().getAbsolutePath() + '/src/main/jniLibs/armeabi-v7a'</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
