@@ -320,7 +320,7 @@
         <mark key="." line="172" column="16" />
         <mark key="^" line="172" column="16" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1558772705683">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1561975100094">
         <mark key="[" line="37" column="123" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1561627659699">
@@ -629,17 +629,18 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561971981016">
-        <mark key="[" line="97" column="15" />
-        <mark key="]" line="97" column="16" />
-        <mark key="." line="97" column="16" />
-        <mark key="^" line="205" column="19" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1561974755441">
+        <mark key="[" line="211" column="7" />
+        <mark key="]" line="210" column="25" />
+        <mark key="." line="210" column="25" />
+        <mark key="^" line="210" column="25" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561777032669">
-        <mark key="[" line="744" column="95" />
-        <mark key="]" line="744" column="97" />
-        <mark key="^" line="744" column="97" />
-        <mark key="." line="744" column="97" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561975724295">
+        <mark key="'" line="132" column="20" />
+        <mark key="[" line="131" column="47" />
+        <mark key="]" line="132" column="20" />
+        <mark key="^" line="132" column="20" />
+        <mark key="." line="132" column="20" />
       </file>
       <file name="D:/StudioProjects/ClearCache/ClearCache/app/src/main/AndroidManifest.xml" timestamp="1558360257621">
         <mark key="[" line="6" column="22" />
@@ -1084,7 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="40" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="14" column="31" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="17" column="31" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="11626" column="28" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1184,19 +1184,20 @@
       <jump line="824" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="825" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="124" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="132" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>command</text>
+        <text>mUrl</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>command</text>
+        <text>mUrl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdHBcPg==</text>
+        <text>default</text>
       </register>
       <register name="0" type="4">
         <text>E:\\Project\\gpjsauto\\rOOTSDK_Plugin_onlyjsauto\\src\\main\\jni\\</text>
@@ -1205,55 +1206,60 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmRMaW5lICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgY29tbWFuZExpbmUgW2NvcHldIAo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNlTmFtZQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvcHlUbygpCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGl0KQo=</text>
+        <text encoding="base64">ICAgIGNvbW1hbmRMaW5lICdkaXInCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHV0aWwucmVhZExpbmVzKCkuIHsK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcbiIK</text>
+      <register name="6" type="8">
+        <text>def
+def
+def
+def
+def
+def</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICBpc1JlcGxhY2UgPSBmYWxzZQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihuZXdMaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNSZXBsYWNlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdHBcPg==</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdHBcPg==</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1261,7 +1267,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HgBk</entry>
         <entry>IP</entry>
         <entry>IRO</entry>
         <entry>mfs</entry>
@@ -1281,6 +1286,7 @@
         <entry>opt</entry>
         <entry encoding="base64">XDxvcHRcPg==</entry>
         <entry encoding="base64">XDxvdHBcPg==</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
