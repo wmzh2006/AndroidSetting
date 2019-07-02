@@ -84,11 +84,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562072196405">
-        <mark key="[" line="79" column="43" />
-        <mark key="]" line="79" column="53" />
-        <mark key="^" line="79" column="53" />
-        <mark key="." line="79" column="53" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562073636576">
+        <mark key="'" line="312" column="5" />
+        <mark key="[" line="79" column="55" />
+        <mark key="]" line="79" column="55" />
+        <mark key="^" line="79" column="70" />
+        <mark key="." line="79" column="55" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561980567225">
         <mark key="'" line="132" column="20" />
@@ -308,7 +309,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/cofig.json" timestamp="1562071809402" />
+      <file name="E:/Project/gpjsauto/cofig.json" timestamp="1562073261276" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/KeyUtil.java" timestamp="1554984491894">
         <mark key="[" line="19" column="101" />
         <mark key="]" line="19" column="96" />
@@ -1008,11 +1009,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562072823274">
-        <mark key="[" line="48" column="7" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562073359890">
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/androidTest/java/f/DCBTest.java" timestamp="1561625911791">
         <mark key="[" line="58" column="58" />
@@ -1085,7 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="31" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="11626" column="28" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="568" column="30" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="656" column="20" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1185,19 +1185,20 @@
       <jump line="124" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="132" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="56" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="311" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uZmlndXJhdGlvbnMg</text>
+        <text>, buildAndCopySo</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uZmlndXJhdGlvbnMg</text>
+        <text>, buildAndCopySo</text>
       </register>
       <register name="/" type="4">
-        <text>rePackageName</text>
+        <text>buildAndCopySo</text>
       </register>
       <register name="0" type="4">
         <text>com.colorful.goldspink.c.d</text>
@@ -1211,50 +1212,50 @@
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEpzb25TbHVycGVyIHNsdXJwZXIgPSBuZXcgSnNvblNsdXJwZXIoKQogICAgUGF0aHMuZ2V0KCdyZXNvdXJjZXMvcmVwb3J0Lmpzb24nKS53aXRoUmVhZGVyIHsgcmVhZGVyIC0+CiAgICAgICAgZGVmIGNvbmZpZyA9IHNsdXJwZXIucGFyc2UocmVhZGVyKQogICAgICAgIExJY29uZmlnLmdldEF0KCJsbiIpCiAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2plY3QuYWZ0ZXJFdmFsdWF0ZSB7Cg==</text>
+        <text encoding="base64">ICAga2tra2tra2trayAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN0b3JlUGFjYWtnZU5hbWUubXVzdFJ1bkFmdGVyIGV4cG9ydEVuY3J5Cg==</text>
+        <text encoding="base64">cHJvamVjdC5iZWZvcmVFdmFsdWF0ZSB7CiAgCgp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBvcnREZXguZGVwZW5kc09uIGNsZWFuU2RrLCBidW5kbGVTZGssIHNhdmVDb25maWcK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBidW5kbGVTZGsubXVzdFJ1bkFmdGVyIGNsZWFuU2RrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHV0LnRvU3RyaW5nKCkpCiAgICBwdy5mbHVzaCgpCiAgICBwdy5jbG9zZSgpCn0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcC5wdXQoImtleSIsIEVOQ1JZX0RFWF9LRVkpCg==</text>
+        <text encoding="base64">ICAgIHByb2plY3QuYWZ0ZXJFdmFsdWF0ZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcC5wdXQoImxuIiwgTElCTkFNRSkK</text>
+        <text encoding="base64">ICAgICAgICByZXN0b3JlUGFjYWtnZU5hbWUubXVzdFJ1bkFmdGVyIGV4cG9ydEVuY3J5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>rePackageName</last-search>
+      <last-search>buildAndCopySo</last-search>
       <last-offset />
-      <last-pattern>rePackageName</last-pattern>
+      <last-pattern>buildAndCopySo</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1262,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mfs</entry>
         <entry>MFS</entry>
         <entry>com.lib.util.</entry>
         <entry>com\\.lib\\.util\\.</entry>
@@ -1282,6 +1282,7 @@
         <entry>default</entry>
         <entry>restore</entry>
         <entry>rePackageName</entry>
+        <entry>buildAndCopySo</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
