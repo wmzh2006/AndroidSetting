@@ -348,10 +348,11 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1562036925866">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1562037879260">
+        <mark key="[" line="45" column="27" />
+        <mark key="]" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="E:/Project/DynamicLoader/dcloader/src/main/res/layout/activity_main.xml" timestamp="1554088599143">
         <mark key="[" line="4" column="50" />
@@ -635,11 +636,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562036813220">
-        <mark key="[" line="196" column="47" />
-        <mark key="]" line="198" column="53" />
-        <mark key="." line="198" column="53" />
-        <mark key="^" line="198" column="53" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562037663956">
+        <mark key="[" line="175" column="51" />
+        <mark key="]" line="175" column="52" />
+        <mark key="." line="175" column="52" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561980567225">
         <mark key="'" line="132" column="20" />
@@ -1182,65 +1182,65 @@
       <jump line="132" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I86o0L4gYWYK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>cClassName</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
-      <register name="0" type="4">
-        <text>project(':dynamicsdk').getProjectDir().getAbsolutePath() + '/src/main/jniLibs/armeabi-v7a'</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZWYgbWF0Y2hlciA9IGxpbmUgPX4gLy4qKCR7cmVnUGtOYW1lfSkuKi8K</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I86o0L4gYWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmJkLnRtbXQuKip7Kjt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9IGxpbmUKICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcbiIK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmNzLmFiMS5iZC50bW10Lioqeyo7fQo=</text>
+        <text encoding="base64">LXJlcGFja2FnZWNsYXNzZXMgdGFzayAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG86cmVQYWNrYWdlTmFtZScK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I86o0L4gYmYK</text>
+        <text encoding="base64">LXJlcGFja2FnZWNsYXNzZXMgdGFzayAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG86cmVQYWNrYWdlTmFtZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKYXZhX2NvbV9uZXdpbnRfb2FrZV9jX2QK</text>
+        <text encoding="base64">LXJlcGFja2FnZWNsYXNzZXMgdGFzayAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG86cmVQYWNrYWdlTmFtZScK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGZmLmdldCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgaXQK</text>
+        <text encoding="base64">I86o0L4gYWYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGYuZWFjaCB7Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmJkLnRtbXQuKip7Kjt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
