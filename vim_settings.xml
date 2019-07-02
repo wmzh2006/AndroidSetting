@@ -84,11 +84,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562062360786">
-        <mark key="[" line="147" column="18" />
-        <mark key="]" line="147" column="18" />
-        <mark key="." line="147" column="18" />
-        <mark key="^" line="151" column="25" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562068830424">
+        <mark key="[" line="142" column="9" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1561980567225">
         <mark key="'" line="132" column="20" />
@@ -1187,16 +1186,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN0b3JlUGFjYWtnZU5hbWUuZG8K</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>rePackageName</text>
       </register>
       <register name="0" type="4">
         <text>com.colorful.goldspink.c.d</text>
@@ -1205,7 +1204,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXN0b3JlUGFjYWtnZU5hbWUuZG8K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -1217,7 +1216,7 @@
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3RvcmVQYWNha2dlTmFtZS5tdXN0UnVuQWZ0ZXIgZXhwb3J0RW5jcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -1226,34 +1225,34 @@
         <text encoding="base64">ICAgIHJlc3RvcmVQYWNha2dlTmFtZS5tdXN0UnVuQWZ0ZXIgZXhwb3J0RW5jcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcmVwbGFjZVBhY2thZ2VOYW1lKE5FV19QQUNLQUdFX05BTUUsIE9MRF9QQUNLQUdFX05BTUUpCg==</text>
+        <text encoding="base64">ICAgIHJlc3RvcmVQYWNha2dlTmFtZS5tdXN0UnVuQWZ0ZXIgZXhwb3J0RW5jcnkK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb2plY3QuYQo=</text>
+        <text encoding="base64">Ly8gICAgcmVwbGFjZVBhY2thZ2VOYW1lKE5FV19QQUNLQUdFX05BTUUsIE9MRF9QQUNLQUdFX05BTUUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2plY3QuYQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIjIyMjIyMjIyMjIisgbmV3TGluZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIjIyMiK25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIjIyMjIyMjIyMjIisgbmV3TGluZSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>rePackageName</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>rePackageName</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1261,8 +1260,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IP</entry>
-        <entry>IRO</entry>
         <entry>mfs</entry>
         <entry>MFS</entry>
         <entry>com.lib.util.</entry>
@@ -1281,6 +1278,8 @@
         <entry encoding="base64">XDxvcHRcPg==</entry>
         <entry encoding="base64">XDxvdHBcPg==</entry>
         <entry>default</entry>
+        <entry>restore</entry>
+        <entry>rePackageName</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
