@@ -619,12 +619,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562244836648">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562246490187">
         <mark key="'" line="185" column="0" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="164" column="7" />
-        <mark key="." line="164" column="0" />
+        <mark key="[" line="115" column="55" />
+        <mark key="]" line="347" column="39" />
+        <mark key="^" line="347" column="38" />
+        <mark key="." line="347" column="39" />
       </file>
       <file name="D:/StudioProjects/ClearCache/ClearCache/app/src/main/AndroidManifest.xml" timestamp="1558360257621">
         <mark key="[" line="6" column="22" />
@@ -680,7 +680,6 @@
         <mark key="^" line="41" column="36" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/tst/oara/BroadcastConstants.java" timestamp="1562245660480" />
       <file name="D:/StudioProjects/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/release/README.txt" timestamp="1557134769478">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="1" />
@@ -1167,13 +1166,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>, 'buildSo'</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>, 'buildSo'</text>
       </register>
       <register name="/" type="4">
         <text>buildAndCopySo</text>
