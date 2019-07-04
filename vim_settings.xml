@@ -558,12 +558,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562245689373">
-        <mark key="'" line="105" column="47" />
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="68" column="31" />
-        <mark key="." line="68" column="31" />
-        <mark key="^" line="67" column="16" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562248256946">
+        <mark key="'" line="125" column="47" />
+        <mark key="[" line="75" column="33" />
+        <mark key="]" line="75" column="32" />
+        <mark key="." line="75" column="32" />
+        <mark key="^" line="75" column="32" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/oaught/licke/wao/adm.java" timestamp="1555663234551">
         <mark key="[" line="420" column="250" />
@@ -1166,37 +1166,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'buildSo'</text>
+        <text>OLD_PACKAGE_NAME</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>, 'buildSo'</text>
+        <text>OLD_PACKAGE_NAME</text>
       </register>
       <register name="/" type="4">
         <text>buildAndCopySo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgcmVzdG9yZVBhY2FrZ2VOYW1lLm11c3RSdW5BZnRlciBidW5kbGVTZGsK</text>
+        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSBmaWxlVHJlZShkaXI6ICdzcmMvbWFpbicsIGluY2x1ZGVzOiBbJyoqLyouamF2YScsICcqKi8qLnhtbCddKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
+        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSBmaWxlVHJlZShkaXI6ICdzcmMvbWFpbicsIGluY2x1ZGVzOiBbJyoqLyouamF2YScsICcqKi8qLnhtbCddKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -1205,25 +1205,25 @@
         <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ua2x3ay5pZ2hmLnZnbHYubGRocWFxLmMuZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcGxhY2VQYWNrYWdlTmFtZShORVdfUEFDS0FHRV9OQU1FLCBPTERfUEFDS0FHRV9OQU1FKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ua2x3ay5pZ2hmLnZnbHYubGRocWFxLmMuZDsK</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aXBvcnQgc3RhdGljIGNvbS5lanJvaGIuaGR0emIubWRtdGZ5LmMuZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHJlcGxhY2VQYWNrYWdlTmFtZShORVdfUEFDS0FHRV9OQU1FLCBPTERfUEFDS0FHRV9OQU1FKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
