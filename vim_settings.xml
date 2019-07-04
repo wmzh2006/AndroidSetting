@@ -618,12 +618,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562241531008">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562242325530">
         <mark key="'" line="185" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="120" column="38" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="95" column="1" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="D:/StudioProjects/ClearCache/ClearCache/app/src/main/AndroidManifest.xml" timestamp="1558360257621">
         <mark key="[" line="6" column="22" />
@@ -1166,13 +1166,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEpzb25TbHVycGVyIGpzb24gPSBuZXcgSnNvblNsdXJwZXIoKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>buildAndCopySo</text>
@@ -1184,12 +1184,27 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEpzb25TbHVycGVyIGpzb24gPSBuZXcgSnNvblNsdXJwZXIoKQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CmV4dCB7CiAgICBKQVJfTkFNRSA9ICdzZGsnCiAgICBKQVJfVkVSU0lPTiA9IHNka1ZlcnNpb24oKQogICAgSkFSX09VVF9ESVIgPSAiJHtwcm9qZWN0RGlyfVxccmVsZWFzZSIKICAgIEpBUl9JTlBVVCA9ICdidWlsZC9pbnRlcm1lZGlhdGVzL2J1bmRsZXMvcmVsZWFzZS9jbGFzc2Vzcy5qYXInCiAgICBDTEFTU19ESVIgPSAnYnVpbGRcXGludGVybWVkaWF0ZXNcXGNsYXNzZXNcXHJlbGVhc2UnCn0=</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oc2IudG9TdHJpbmcoKSkK</text>
+      </register>
+      <register name="s" type="4">
+        <text>content</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEpzb25TbHVycGVyIGpzb24gPSBuZXcgSnNvblNsdXJwZXIoKQo=</text>
+      </register>
+      <register name="5" type="4">
         <text>//ext {
 //    JAR_NAME = 'sdk'
 //    JAR_VERSION = sdkVersion()
@@ -1198,38 +1213,23 @@
 //    CLASS_DIR = 'build\\intermediates\\classes\\release'
 //}</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgYnVpbGRBbmRDb3B5U28ubXVzdFJ1bkFmdGVyIGV4cG9ydEVuY3J5Cg==</text>
-      </register>
-      <register name="s" type="4">
-        <text>content</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgaWYgKG9sZE5hbWUgPT0gbnVsbCkgewogICAgICAgIHJldHVybjsKICAgIH0=</text>
-      </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIj8/P6iuPz8/PyIpOwo=</text>
+        <text encoding="base64">Ly8gICAgYnVpbGRBbmRDb3B5U28ubXVzdFJ1bkFmdGVyIGV4cG9ydEVuY3J5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCB3b3JkbGVuID0gZ2V0UmFuZ2UobWF4LCBtaW4pCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgaWYgKG9sZE5hbWUgPT0gbnVsbCkgewogICAgICAgIHJldHVybjsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIj8/P6iuPz8/PyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
