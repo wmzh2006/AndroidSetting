@@ -641,12 +641,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562316322823">
-        <mark key="'" line="131" column="45" />
-        <mark key="[" line="130" column="24" />
-        <mark key="]" line="130" column="24" />
-        <mark key="^" line="130" column="26" />
-        <mark key="." line="130" column="24" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562317209472">
+        <mark key="'" line="130" column="3" />
+        <mark key="[" line="131" column="36" />
+        <mark key="]" line="133" column="75" />
+        <mark key="^" line="133" column="75" />
+        <mark key="." line="133" column="75" />
       </file>
       <file name="D:/StudioProjects/ClearCache/ClearCache/app/src/main/AndroidManifest.xml" timestamp="1558360257621">
         <mark key="[" line="6" column="22" />
@@ -1109,7 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11176" column="6" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="11766" column="19" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="11763" column="26" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="343" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/android/providers/certinstaller/com/ImsiUtil.class" />
@@ -1209,22 +1208,23 @@
       <jump line="185" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="113" column="7" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="131" column="45" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="130" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xlYW5TZGssIA==</text>
+        <text>o</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xlYW5TZGssIA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>buildAndCopySo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigiIyMjIyMiKQo=</text>
+      <register name="0" type="4">
+        <text>rePackageName</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
