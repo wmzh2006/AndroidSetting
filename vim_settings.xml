@@ -241,12 +241,13 @@
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="39" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1562061598980">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="43" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="43" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1562296309092">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="46" />
+        <mark key="." line="12" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_impl_plugin_lib.jar!/com/impl_plugin/intf/StrProcessing.class" timestamp="1562296446684" />
       <file name="D:/AndroidStudio/canmera/app/src/main/res/layout/activity_main2.xml" timestamp="1559027909244">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="14" />
@@ -319,9 +320,6 @@
         <mark key="." line="172" column="16" />
         <mark key="^" line="172" column="16" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1562227627726">
-        <mark key="[" line="37" column="123" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1561627659699">
         <mark key="[" line="62" column="47" />
         <mark key="]" line="62" column="47" />
@@ -382,6 +380,13 @@
         <mark key="]" line="49" column="31" />
         <mark key="^" line="49" column="31" />
         <mark key="." line="49" column="31" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1562296228774">
+        <mark key="'" line="180" column="32" />
+        <mark key="[" line="655" column="13" />
+        <mark key="]" line="119" column="29" />
+        <mark key="." line="119" column="29" />
+        <mark key="^" line="887" column="25" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/KEussd.java" timestamp="1557128168473">
         <mark key="[" line="4" column="0" />
@@ -619,12 +624,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562248684210">
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="115" column="55" />
-        <mark key="]" line="347" column="39" />
-        <mark key="^" line="347" column="38" />
-        <mark key="." line="347" column="39" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562296582631">
+        <mark key="'" line="190" column="0" />
+        <mark key="[" line="133" column="20" />
+        <mark key="]" line="133" column="18" />
+        <mark key="." line="133" column="18" />
+        <mark key="^" line="133" column="18" />
       </file>
       <file name="D:/StudioProjects/ClearCache/ClearCache/app/src/main/AndroidManifest.xml" timestamp="1558360257621">
         <mark key="[" line="6" column="22" />
@@ -668,7 +673,7 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1559725612482">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1562296493583">
         <mark key="[" line="111" column="24" />
         <mark key="]" line="111" column="24" />
         <mark key="^" line="111" column="24" />
@@ -1171,14 +1176,14 @@
       <jump line="185" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbXBsX3BsdWdpbi5pbnRmLioK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>buildAndCopySo</text>
@@ -1190,28 +1195,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5FV19QQUNLQUdFX05BTUUgPSAiY29tLnRzdC5vYXJhMSIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbXBsX3BsdWdpbi5pbnRmLioK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBJTlBVVF9GSUxFID0gIjEwMCI7Cg==</text>
+        <text encoding="base64">ICAgIE5FV19QQUNLQUdFX05BTUUgPSAiY29tLnRzdC5vYXJhMSIK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBJTlBVVF9GSUxFID0gIjEwMCI7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSBmaWxlVHJlZShkaXI6ICdzcmMvbWFpbicsIGluY2x1ZGVzOiBbJyoqLyouamF2YScsICcqKi8qLnhtbCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
+        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSBmaWxlVHJlZShkaXI6ICdzcmMvbWFpbicsIGluY2x1ZGVzOiBbJyoqLyouamF2YScsICcqKi8qLnhtbCddKQo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -1220,16 +1225,16 @@
         <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ua2x3ay5pZ2hmLnZnbHYubGRocWFxLmMuZDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
