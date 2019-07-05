@@ -563,12 +563,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562291017815">
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562297411749">
         <mark key="'" line="159" column="47" />
-        <mark key="[" line="97" column="14" />
-        <mark key="]" line="97" column="14" />
-        <mark key="." line="97" column="14" />
-        <mark key="^" line="78" column="13" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/oaught/licke/wao/adm.java" timestamp="1555663234551">
         <mark key="[" line="420" column="250" />
@@ -624,12 +623,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562296582631">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="133" column="20" />
-        <mark key="]" line="133" column="18" />
-        <mark key="." line="133" column="18" />
-        <mark key="^" line="133" column="18" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562297443381">
+        <mark key="'" line="113" column="7" />
+        <mark key="[" line="113" column="7" />
+        <mark key="]" line="113" column="12" />
+        <mark key="." line="113" column="12" />
+        <mark key="^" line="113" column="12" />
       </file>
       <file name="D:/StudioProjects/ClearCache/ClearCache/app/src/main/AndroidManifest.xml" timestamp="1558360257621">
         <mark key="[" line="6" column="22" />
@@ -1074,7 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10843" column="0" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="14" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="11176" column="6" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
       <jump line="11766" column="19" filename="E:/Project/gpjsauto/demo/build/outputs/mapping/debug/mapping.txt" />
@@ -1174,16 +1172,17 @@
       <jump line="186" column="43" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="189" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="185" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="113" column="7" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbXBsX3BsdWdpbi5pbnRmLioK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>buildAndCopySo</text>
@@ -1195,43 +1194,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbXBsX3BsdWdpbi5pbnRmLioK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5FV19QQUNLQUdFX05BTUUgPSAiY29tLnRzdC5vYXJhMSIK</text>
+        <text encoding="base64">ICAgIGlmIChJU0FVVE8pIHsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBJTlBVVF9GSUxFID0gIjEwMCI7Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbXBsX3BsdWdpbi5pbnRmLioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSBmaWxlVHJlZShkaXI6ICdzcmMvbWFpbicsIGluY2x1ZGVzOiBbJyoqLyouamF2YScsICcqKi8qLnhtbCddKQo=</text>
+        <text encoding="base64">ICAgIE5FV19QQUNLQUdFX05BTUUgPSAiY29tLnRzdC5vYXJhMSIK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBJTlBVVF9GSUxFID0gIjEwMCI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVUcmVlIHRyZWUgPSBmaWxlVHJlZShkaXI6ICdzcmMvbWFpbicsIGluY2x1ZGVzOiBbJyoqLyouamF2YScsICcqKi8qLnhtbCddKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5jaWNhZGEubm9jaXkuU2RrOwo=</text>
