@@ -52,11 +52,12 @@
         <mark key="^" line="24" column="29" />
         <mark key="." line="44" column="42" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562400847573">
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562401539391">
         <mark key="'" line="102" column="8" />
-        <mark key="[" line="32" column="85" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+        <mark key="[" line="281" column="24" />
+        <mark key="]" line="281" column="24" />
+        <mark key="." line="281" column="24" />
+        <mark key="^" line="281" column="23" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562398838688">
         <mark key="'" line="198" column="45" />
@@ -221,13 +222,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDpkeW5hbWljc2RrOmV4cG9ydEFBUg==</text>
+        <text>.tasks</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDpkeW5hbWljc2RrOmV4cG9ydEFBUg==</text>
+        <text>.tasks</text>
       </register>
       <register name="/" type="4">
         <text>into</text>
@@ -245,40 +246,42 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0QUFSLmRlcGVuZHNPbiBzdWJwcm9qZWN0cy5idWlsZAo=</text>
+        <text encoding="base64">VGFzayB0YXNrID0gcHJvamVjdCgiOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8iKS5nZXRUYXNrcygpLmdldEJ5TmFtZSgiIikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8nKS50YXNrKCkK</text>
+      <register name="3" type="4">
+        <text>.tasks.each {
+    println(&quot;~~~~~~~~~&quot;+it.getName())
+}</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRhc2sgY29weUZpbGUgPSBwcm9qZWN0KCI6ck9PVFNES19QbHVnaW5fb25seWpzYXV0byIpLmdldFRhc2tzKCkuZ2V0QnlOYW1lKCJjb3B5RmlsZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0QUFSLmRlcGVuZHNPbiBzdWJwcm9qZWN0cy5idWlsZAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8nKS50YXNrKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIFRhc2sgY29weUZpbGUgPSBwcm9qZWN0KCI6ck9PVFNES19QbHVnaW5fb25seWpzYXV0byIpLmdldFRhc2tzKCkuZ2V0QnlOYW1lKCJjb3B5RmlsZSIpCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvamVjdHMuZWFjaCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50c3Qub2FyYS5TZGs7Cg==</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
