@@ -83,9 +83,6 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562603485048">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -151,9 +148,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" timestamp="1562413182978">
-        <mark key="[" line="0" column="104" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/tst/oara/Sdk.java" timestamp="1562248579487">
         <mark key="'" line="20" column="28" />
         <mark key="[" line="107" column="31" />
@@ -192,6 +186,11 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/ecfudl2/LogcatAction.java" timestamp="1562740431439">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1562318597514">
         <mark key="[" line="136" column="44" />
         <mark key="]" line="136" column="44" />
@@ -203,11 +202,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1562231386959">
-        <mark key="[" line="140" column="123" />
-        <mark key="]" line="139" column="36" />
-        <mark key="^" line="139" column="36" />
-        <mark key="." line="139" column="36" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1562740570161">
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="69" column="35" />
+        <mark key="^" line="69" column="35" />
+        <mark key="." line="69" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.txt" timestamp="1562588345348">
         <mark key="'" line="0" column="20" />
@@ -215,9 +214,6 @@
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="47" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c0.java" timestamp="1562227627726">
-        <mark key="[" line="37" column="123" />
       </file>
     </filemarks>
     <jumps>
@@ -324,13 +320,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFRocm93YWJsZSgpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>addAssetPath</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>450</text>
@@ -342,46 +338,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFRocm93YWJsZSgpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFRocm93YWJsZSgpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBob3N0QXBwUGFja2FnZXMuYWRkKCJjb20uaHVudC5waWxvdC5jYW8ubXNuc2VydmVyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZmFjZWJvb2suaW50ZXJuYWwucGMuYy5kOwo=</text>
+        <text encoding="base64">ICAgICAgICBob3N0QXBwUGFja2FnZXMuYWRkKCJjb20uaHVudC5waWxvdC5jYW8ubXNuc2VydmVyIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZmFjZWJvb2suaW50ZXJuYWwuLmMuZDsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZmFjZWJvb2suaW50ZXJuYWwucGMuYy5kOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZmFjZWJvb2suaW50ZXJuYWwuLmMuZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCVN0cmluZyBqcyA9IEZpbGVVdGlsLnJlYWRBc3NGaWxlKGNvbnRleHQsIGRhdGFbMl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCVN0cmluZyBqcyA9IEZpbGVVdGlsLnJlYWRBc3NGaWxlKGNvbnRleHQsIGRhdGFbMl0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VGFzayB0YXNrID0gcHJvamVjdCgiOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8iKS5nZXRUYXNrcygpLmdldEJ5TmFtZSgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
