@@ -25,6 +25,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/cofig.json" timestamp="1562838839607" />
       <file name="E:/Project/Cammer/app/src/main/AndroidManifest.xml" timestamp="1561706605759">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -64,6 +65,12 @@
         <mark key="]" line="0" column="43" />
         <mark key="^" line="0" column="64" />
         <mark key="." line="0" column="43" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1562838340956">
+        <mark key="'" line="182" column="32" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -173,16 +180,22 @@
         <mark key="^" line="136" column="86" />
         <mark key="." line="136" column="44" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1562837998854">
-        <mark key="[" line="67" column="20" />
-        <mark key="]" line="67" column="20" />
-        <mark key="." line="67" column="20" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1562839118376">
+        <mark key="[" line="63" column="60" />
+        <mark key="]" line="63" column="60" />
+        <mark key="." line="63" column="60" />
+        <mark key="^" line="159" column="14" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1562740570161">
         <mark key="[" line="69" column="35" />
         <mark key="]" line="69" column="35" />
         <mark key="^" line="69" column="35" />
         <mark key="." line="69" column="35" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoConfig.java" timestamp="1562838205709">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -289,64 +302,64 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LogcatAction</text>
+        <text>RealseConfig.libname,</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LogcatAction</text>
+        <text>RealseConfig.libname,</text>
       </register>
       <register name="/" type="4">
         <text>450</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRhc2sgYmIgPSBwcm9qZWN0LnRhc2tzLmdldEJ5TmFtZSgiQkIiKQo=</text>
+        <text encoding="base64">CQkJCQlTZGsub25FdmVudChjb250ZXh0LCAiZl9jX2NfYWYiLCAiIiwgIiIrcmVzdWx0V1ZjaGFuZ2UsICIiKyhpczY0Yml0ID8gIjY0IiA6ICIzMiIpKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNPbiBDQwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCk7IAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnByb2plY3QoJ2R5bmFtaWNzZGsnKSB7CiAgICB0YXNrIEJCKGRlcGVuZHNPbjogJzpyT09UU0RLX1BsdWdpbl9vbmx5anNhdXRvOkFBJykgPDwgewogICAgICAgIHByaW50bG4gInRhc2sgQkIiCiAgICB9Cn0KCnByb2plY3QoInJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8iKSB7CiAgICB0YXNrIEFBIDw8IHsKICAgICAgICBwcmludGxuICd0YXNrIEFBJwogICAgfQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gaXNVcGxvYWQgPSBmYWxzZTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnRhc2sgdGFza1goZGVwZW5kc09uOiAnOmR5bmFtaWNzZGs6dGFza1knKSA8PCB7CiAgICBwcmludGxuICd0YXNrWCcKfQoKcHJvamVjdCgnZHluYW1pY3NkaycpIHsKICAgIHRhc2sgdGFza1kgPDwgewogICAgICAgIHByaW50bG4gJ3Rhc2tZJwogICAgfQp9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgYm9vbGVhbiBvc2luZm8gPSBmYWxzZTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNPbiBDQwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJvamVjdCgnck9PVFNES19QbHVnaW5fb25seWpzYXV0bycpIHsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CnByb2plY3QoJ2R5bmFtaWNzZGsnKSB7CiAgICB0YXNrIEJCKGRlcGVuZHNPbjogJzpyT09UU0RLX1BsdWdpbl9vbmx5anNhdXRvOkFBJykgPDwgewogICAgICAgIHByaW50bG4gInRhc2sgQkIiCiAgICB9Cn0KCnByb2plY3QoInJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8iKSB7CiAgICB0YXNrIEFBIDw8IHsKICAgICAgICBwcmludGxuICd0YXNrIEFBJwogICAgfQp9</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CnRhc2sgQUEgPDwgewogICAgcHJpbnRsbigiIyMjIyMjIyMjIyMgICAgQUFBQSIpCn0=</text>
+        <text encoding="base64">CnRhc2sgdGFza1goZGVwZW5kc09uOiAnOmR5bmFtaWNzZGs6dGFza1knKSA8PCB7CiAgICBwcmludGxuICd0YXNrWCcKfQoKcHJvamVjdCgnZHluYW1pY3NkaycpIHsKICAgIHRhc2sgdGFza1kgPDwgewogICAgICAgIHByaW50bG4gJ3Rhc2tZJwogICAgfQp9</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dGFzayBCQiAgPDwgewogICBwcmludGxuICJCQkJCQkJCQkJCQkJCQkJCQiIKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJiLm11c3RSdW5BZnRlciBhYQo=</text>
+        <text encoding="base64">cHJvamVjdCgnck9PVFNES19QbHVnaW5fb25seWpzYXV0bycpIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNPbiBiYiwgYWEK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnRhc2sgQUEgPDwgewogICAgcHJpbnRsbigiIyMjIyMjIyMjIyMgICAgQUFBQSIpCn0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
