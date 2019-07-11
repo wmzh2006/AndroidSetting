@@ -9,19 +9,18 @@
         <mark key="^" line="62" column="66" />
         <mark key="." line="62" column="47" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/jni/Android.mk" timestamp="1562837420138" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/jni/Android.mk" timestamp="1562870193508" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ES" timestamp="1562596700725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562869339896">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1562870742495">
         <mark key="'" line="136" column="24" />
-        <mark key="[" line="318" column="28" />
-        <mark key="]" line="318" column="29" />
-        <mark key="." line="318" column="29" />
-        <mark key="^" line="317" column="68" />
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="0" />
+        <mark key="." line="382" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/buildAAR.bat" timestamp="1562842953247">
         <mark key="[" line="0" column="0" />
@@ -313,44 +312,38 @@
       <jump line="762" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/jni/util.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNWV9MSUJfTkFNRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwcmludGxuICIjIyMjIyMjIyMjIyMjIyMjIyMjc2xlZXAgMTBzISIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBuZXdMaW5lID0gIiNkZWZpbmUgTVlfTElCX05BTUUgXCJsaWIke0xJQk5BTUV9LnNvXCIiCiAgICAgICAgICAgICAgICBsaW5lcyArPSBuZXdMaW5lCiAgICAgICAgICAgICAgICBsaW5lcyArPSAiXG4iCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>lines += line
-                lines += &quot;\n&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text>def strClassName = matcher.group(1)
-//                println(&quot;cl:&quot; + strClassName)
-                def newLine = line.replaceAll(strClassName, cNewClassName)
-//            println(newLine)
-                lines += newLine
-                lines += &quot;\n&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGNvcHkgewogICAgICAgICAgICBkZWYgc29QYXRoID0gcHJvamVjdC5nZXRQcm9qZWN0RGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCkrIi9zcmMvbWFpbi9qbmlMaWJzL2FybWVhYmktdjdhIgogICAgICAgICAgICBGaWxlVHJlZSB0cmVlID0gZmlsZVRyZWUoZGlyOiBzb1BhdGgsIGluY2x1ZGVzOiBbJyoqLyouc28nXSkKICAgICAgICAgICAgZm9yIChkZWYgZmYgOiB0cmVlLmZpbGVzKSB7CiAgICAgICAgICAgICAgICBkZWxldGUgZmYKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZnJvbSAnbGlicy9hcm1lYWJpLXY3YScKICAgICAgICAgICAgaW50byBzb1BhdGgKICAgICAgICAgICAgcmVuYW1lKCJsaWIuKlxcLnNvIiwgImxpYiR7TElCTkFNRX0uc28iKQogICAgICAgIH0=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -358,18 +351,14 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>task testPrint {
-    testPrint.doLast {
-//        println &quot;${encodeBase64(OFFER_URL)}//$OFFER_URL&quot;
-    }
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXRpbC5leGlzdHMoKSkgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -377,11 +366,12 @@
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cgp0YXNrIGJhc2U2NCB7CiAgICBkZWYgdGV4dCA9ICJZV0ZoWVdFPSIKLy8gICAgcHJpbnRsbigiYmJiYmIiLmJ5dGVzLmVuY29kZUJhc2U2NCgpKQp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsZWFuU2RrLm11c3RSdW5BZnRlciB0YXMK</text>
+      <register name="9" type="4">
+        <text>lines += line
+                lines += &quot;\n&quot;</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
