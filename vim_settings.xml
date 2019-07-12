@@ -42,12 +42,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1562838340956">
-        <mark key="'" line="182" column="32" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -153,11 +147,12 @@
         <mark key="." line="74" column="24" />
         <mark key="^" line="802" column="43" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1562415927132">
-        <mark key="[" line="709" column="8" />
-        <mark key="]" line="709" column="8" />
-        <mark key="^" line="709" column="29" />
-        <mark key="." line="709" column="8" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1562891945287">
+        <mark key="'" line="997" column="0" />
+        <mark key="[" line="752" column="0" />
+        <mark key="]" line="955" column="26" />
+        <mark key="^" line="955" column="26" />
+        <mark key="." line="955" column="26" />
       </file>
       <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1562397981584">
         <mark key="[" line="44" column="44" />
@@ -176,11 +171,12 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" timestamp="1562889837087">
-        <mark key="[" line="2" column="109" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" timestamp="1562892059415">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="107" />
+        <mark key="]" line="3" column="108" />
+        <mark key="." line="3" column="108" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1562865042135">
         <mark key="[" line="82" column="0" />
@@ -218,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
-      <jump line="37" column="24" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/colorful/goldspink/Sdk.java" />
-      <jump line="218" column="106" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="382" column="57" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="139" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="187" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -318,19 +311,22 @@
       <jump line="762" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/jni/util.c" />
       <jump line="244" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="260" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="700" column="27" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="933" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="0" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIA==</text>
+        <text>#</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmIA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNWV9MSUJfTkFNRVw+</text>
+        <text>JSCALL</text>
       </register>
       <register name="0" type="4">
         <text>def newLine</text>
@@ -385,9 +381,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNWV9MSUJfTkFNRVw+</last-search>
+      <last-search>JSCALL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNWV9MSUJfTkFNRVw+</last-pattern>
+      <last-pattern>JSCALL</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
@@ -395,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>over</entry>
         <entry>load</entry>
         <entry>62811</entry>
         <entry>62816</entry>
@@ -415,6 +410,7 @@
         <entry>println</entry>
         <entry encoding="base64">XDxMSUJOQU1FXD4=</entry>
         <entry encoding="base64">XDxNWV9MSUJfTkFNRVw+</entry>
+        <entry>JSCALL</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
