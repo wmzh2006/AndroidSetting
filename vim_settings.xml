@@ -36,12 +36,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1562855287031">
-        <mark key="'" line="26" column="35" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -91,6 +85,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="E:/Project/Twer/app/src/main/java/com/baeao/camow/twer/App.java" timestamp="1562913533236">
+        <mark key="[" line="9" column="102" />
+        <mark key="]" line="9" column="102" />
+        <mark key="^" line="9" column="99" />
+        <mark key="." line="9" column="102" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1562243881497">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -128,6 +128,11 @@
         <mark key="]" line="1" column="36" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="E:/Project/Twer/app/src/main/AndroidManifest.xml" timestamp="1562913486410">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/enhyc/g53ci5uzwhya/wxtazeu/BroadcastConstants.java" timestamp="1562117277798">
         <mark key="[" line="9" column="18" />
@@ -211,6 +216,9 @@
         <mark key="]" line="69" column="35" />
         <mark key="^" line="69" column="35" />
         <mark key="." line="69" column="35" />
+      </file>
+      <file name="/fragment.java" timestamp="1562913458899">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -317,13 +325,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>appId</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>appId</text>
       </register>
       <register name="/" type="4">
         <text>JSCALL</text>
@@ -335,7 +343,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gbmV3TGluZQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9Ii5BcHAiCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -347,34 +355,34 @@
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gIlxuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gbmV3TGluZQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gIlxuIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
