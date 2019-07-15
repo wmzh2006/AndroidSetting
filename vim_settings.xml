@@ -68,6 +68,9 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" timestamp="1563197691294">
+        <mark key="'" line="18" column="38" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1563162341044">
         <mark key="[" line="111" column="24" />
         <mark key="]" line="111" column="24" />
@@ -254,12 +257,12 @@
         <mark key="." line="249" column="0" />
         <mark key="^" line="249" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563196454663">
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563198091998">
         <mark key="'" line="242" column="16" />
-        <mark key="[" line="287" column="10" />
-        <mark key="]" line="287" column="9" />
-        <mark key="." line="287" column="9" />
-        <mark key="^" line="287" column="9" />
+        <mark key="[" line="291" column="66" />
+        <mark key="]" line="291" column="62" />
+        <mark key="." line="291" column="62" />
+        <mark key="^" line="291" column="62" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1562662767812">
         <mark key="[" line="9" column="20" />
@@ -289,16 +292,12 @@
         <mark key="^" line="69" column="35" />
         <mark key="." line="69" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1563180548704">
+      <file name="/fragment.java" timestamp="1563197637037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/normal/Init.class" timestamp="1563178288648" />
     </filemarks>
     <jumps>
-      <jump line="188" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="431" column="180" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="433" column="77" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="475" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="476" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="477" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="559" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -395,10 +394,14 @@
       <jump line="42" column="21" filename="E:/Project/Twer/app/src/main/java/com/baeao/camow/twer/App.java" />
       <jump line="221" column="104" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="237" column="16" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
+      <jump line="83" column="39" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" />
+      <jump line="74" column="47" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" />
+      <jump line="17" column="38" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" />
+      <jump line="18" column="38" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
+        <text encoding="base64">ICAgIGRlZiBvcmdpbk5hbWUgPSByIi4qXGJcdypDb25zdGFudHMuKiIK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -407,7 +410,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW5lc1w+</text>
+        <text encoding="base64">XDxjaGdDb25zdGFudHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpZW5zICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
@@ -416,37 +419,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
+        <text encoding="base64">ICAgIGRlZiBvcmdpbk5hbWUgPSByIi4qXGJcdypDb25zdGFudHMuKiIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKi4qIiwgIlx0cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1RJTUUgPSAke0tFWV9USU1FfTsiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
@@ -455,24 +458,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKi4qIiwgIlx0cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1NEID0gJHtLRVlfU0R9OyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKi4qIiwgIlx0cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1RJTUUgPSAke0tFWV9USU1FfTsiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW5lc1w+</last-search>
+      <last-search encoding="base64">XDxjaGdDb25zdGFudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW5lc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGdDb25zdGFudHNcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>62816</entry>
         <entry>62855</entry>
         <entry>62818</entry>
         <entry>opt</entry>
@@ -492,6 +494,7 @@
         <entry>JSCALL</entry>
         <entry>mine</entry>
         <entry encoding="base64">XDxsaW5lc1w+</entry>
+        <entry encoding="base64">XDxjaGdDb25zdGFudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
