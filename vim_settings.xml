@@ -55,12 +55,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/Project/Twer/app/src/main/java/com/baeao/camow/twer/App.java" timestamp="1563171431767">
-        <mark key="'" line="42" column="21" />
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="21" />
-        <mark key="^" line="42" column="21" />
-        <mark key="." line="42" column="21" />
+      <file name="E:/Project/Twer/app/src/main/java/com/baeao/camow/twer/App.java" timestamp="1563176580126">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/colorful/goldspink/Sdk.java" timestamp="1562243881497">
         <mark key="[" line="24" column="0" />
@@ -128,6 +126,7 @@
         <mark key="]" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
+      <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/common/AdWrap.class" timestamp="1563176942968" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" timestamp="1562892059415">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="107" />
@@ -169,9 +168,11 @@
         <mark key="." line="65" column="60" />
         <mark key="^" line="163" column="14" />
       </file>
+      <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907091843.jar!/com/mobikok/rtb/wrap/zero/ZeroService.class" timestamp="1563176690251" />
       <file name="/fragment.java" timestamp="1562913458899">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/normal/Init.class" timestamp="1563176932881" />
     </filemarks>
     <jumps>
       <jump line="139" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -276,8 +277,8 @@
       <jump line="42" column="21" filename="E:/Project/Twer/app/src/main/java/com/baeao/camow/twer/App.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -295,46 +296,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">582d5265717565737465642d57697468Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIiIgKyBoZXhTdHJpbmdUb1N0cmluZygiNTgyZDUyNjU3MTc1NjU3Mzc0NjU2NDJkNTc2OTc0NjgiKSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nIE1ZX0RFRkFVTFRfSlMgPSBjb20uaW1wbF9wbHVnaW4uaW50Zi5TdHJQcm9jZXNzaW5nLkRlY3J5cHQoIlpYWmxjaTV0Y2c9PSIpLyoiZXZlci5tciIqLzsKLy8gICAgICAgICAgICAgICAgU3RyaW5nIGpzRmlsZU5hbWUgPSBjb20ubGliLnV0aWwuU3RyUHJvY2Vzc2luZy5FbmNyeXB0KE1ZX0RFRkFVTFRfSlMsIDIpLypXbGhhYkdOcE5YUmpaejA5Ki87CgovKiAgICAgICAgICAgICAgICBTdHJpbmcgTVlfREVGQVVMVF9KUyA9IFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiV2xoYWJHTnBOWFJqWnowOSIpOwogICAgICAgICAgICAgICAgU3RyaW5nIGpzRmlsZU5hbWUgPSBTdHJQcm9jZXNzaW5nLkVuY3J5cHQoTVlfREVGQVVMVF9KUywgMikqLy8qVjJ4b1lXSkhUbkJPV0ZKcVdub3dPUT09Ki8vKjsqLwoKICAgICAgICAgICAgICAgIFN0cmluZyBqc0ZpbGVOYW1lID0ibWR2MjAxOTcxMjExMSI7Cgo+Pj4+Pj4+IC5yNjA2OQ==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBIRVhfU1RSX1BPT0wgPSAiMDEyMzQ1Njc4OUFCQ0RFRiI7CgogICAgcHVibGljIHN0YXRpYyBieXRlW10gaGV4U3RyaW5nVG9CeXRlcyhTdHJpbmcgaGV4U3RyaW5nKSB7CiAgICAgICAgaWYgKGhleFN0cmluZyA9PSBudWxsIHx8IGhleFN0cmluZy5lcXVhbHMoIiIpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICBoZXhTdHJpbmcgPSBoZXhTdHJpbmcudG9VcHBlckNhc2UoKTsKICAgICAgICBpbnQgbGVuZ3RoID0gaGV4U3RyaW5nLmxlbmd0aCgpIC8gMjsKICAgICAgICBjaGFyW10gaGV4Q2hhcnMgPSBoZXhTdHJpbmcudG9DaGFyQXJyYXkoKTsKICAgICAgICBieXRlW10gZCA9IG5ldyBieXRlW2xlbmd0aF07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBsZW5ndGg7IGkrKykgewogICAgICAgICAgICBpbnQgcG9zID0gaSAqIDI7CiAgICAgICAgICAgIGJ5dGUgaCA9IGNoYXJUb0J5dGUoaGV4Q2hhcnNbcG9zXSk7CiAgICAgICAgICAgIGRbaV0gPSAoYnl0ZSkgKChoIDw8IDQpIHwgY2hhclRvQnl0ZShoZXhDaGFyc1twb3MgKyAxXSkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gZDsKICAgIH0KCgogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgaGV4U3RyaW5nVG9TdHJpbmcoU3RyaW5nIGhleFN0cmluZykgewogICAgICAgIGJ5dGVbXSBieXRlcyA9IGhleFN0cmluZ1RvQnl0ZXMoaGV4U3RyaW5nKTsKICAgICAgICBpZiAoYnl0ZXMgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbmV3IFN0cmluZyhieXRlcyk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGJ5dGUgY2hhclRvQnl0ZShjaGFyIGMpIHsKICAgICAgICByZXR1cm4gKGJ5dGUpIEhFWF9TVFJfUE9PTC5pbmRleE9mKGMpOwogICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">582d5265717565737465642d57697468Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBqc0ZpbGVOYW1lID0gY29tLmxpYi51dGlsLlN0clByb2Nlc3NpbmcuRW5jcnlwdChNWV9ERUZBVUxUX0pTLCAyKS8qV2xoYWJHTnBOWFJqWnowOSovOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBNWV9ERUZBVUxUX0pTID0gY29tLmltcGxfcGx1Z2luLmludGYuU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJaWFpsY2k1dGNnPT0iKS8qImV2ZXIubXIiKi87Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3RyaW5nIE1ZX0RFRkFVTFRfSlMgPSBjb20uaW1wbF9wbHVnaW4uaW50Zi5TdHJQcm9jZXNzaW5nLkRlY3J5cHQoIlpYWmxjaTV0Y2c9PSIpLyoiZXZlci5tciIqLzsKLy8gICAgICAgICAgICAgICAgU3RyaW5nIGpzRmlsZU5hbWUgPSBjb20ubGliLnV0aWwuU3RyUHJvY2Vzc2luZy5FbmNyeXB0KE1ZX0RFRkFVTFRfSlMsIDIpLypXbGhhYkdOcE5YUmpaejA5Ki87CgovKiAgICAgICAgICAgICAgICBTdHJpbmcgTVlfREVGQVVMVF9KUyA9IFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiV2xoYWJHTnBOWFJqWnowOSIpOwogICAgICAgICAgICAgICAgU3RyaW5nIGpzRmlsZU5hbWUgPSBTdHJQcm9jZXNzaW5nLkVuY3J5cHQoTVlfREVGQVVMVF9KUywgMikqLy8qVjJ4b1lXSkhUbkJPV0ZKcVdub3dPUT09Ki8vKjsqLwoKICAgICAgICAgICAgICAgIFN0cmluZyBqc0ZpbGVOYW1lID0ibWR2MjAxOTcxMjExMSI7Cgo+Pj4+Pj4+IC5yNjA2OQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fHx8fHx8fCAucjYwNjEK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBqc0ZpbGVOYW1lID0gY29tLmxpYi51dGlsLlN0clByb2Nlc3NpbmcuRW5jcnlwdChNWV9ERUZBVUxUX0pTLCAyKS8qV2xoYWJHTnBOWFJqWnowOSovOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBqc0ZpbGVOYW1lID0ibWR2MjAxOTcxMjExMSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBNWV9ERUZBVUxUX0pTID0gY29tLmltcGxfcGx1Z2luLmludGYuU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJaWFpsY2k1dGNnPT0iKS8qImV2ZXIubXIiKi87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
