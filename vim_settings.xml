@@ -74,6 +74,12 @@
         <mark key="^" line="111" column="24" />
         <mark key="." line="111" column="24" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qjohy/gwrrf/chgConstants.java" timestamp="1563195613750">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/enhyc/g53ci5uzwhya/wxtazeu/Sdk.java" timestamp="1562075077353">
         <mark key="[" line="76" column="49" />
         <mark key="]" line="76" column="49" />
@@ -133,7 +139,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/cofig.json" timestamp="1563193908312" />
       <file name="E:/Project/Cammer/app/src/main/AndroidManifest.xml" timestamp="1561706605759">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -249,12 +254,12 @@
         <mark key="." line="249" column="0" />
         <mark key="^" line="249" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563194207576">
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563195594790">
         <mark key="'" line="242" column="16" />
-        <mark key="[" line="227" column="79" />
-        <mark key="]" line="227" column="82" />
-        <mark key="." line="227" column="82" />
-        <mark key="^" line="227" column="82" />
+        <mark key="[" line="221" column="60" />
+        <mark key="]" line="223" column="66" />
+        <mark key="." line="223" column="66" />
+        <mark key="^" line="223" column="66" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1562662767812">
         <mark key="[" line="9" column="20" />
@@ -392,14 +397,14 @@
       <jump line="237" column="16" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SD</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>SD</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lc1w+</text>
@@ -411,7 +416,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -423,7 +428,7 @@
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -432,25 +437,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKi4qIiwgIlx0cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1RJTUUgPSAke0tFWV9USU1FfTsiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKi4qIiwgIlx0cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1RJTUUgPSAke0tFWV9USU1FfTsiKQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKi4qIiwgIlx0cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1NEID0gJHtLRVlfU0R9OyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKi4qIiwgIlx0cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1NEID0gJHtLRVlfU0R9OyIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
