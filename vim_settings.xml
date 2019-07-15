@@ -257,12 +257,12 @@
         <mark key="." line="249" column="0" />
         <mark key="^" line="249" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563199042209">
-        <mark key="'" line="243" column="16" />
-        <mark key="[" line="172" column="54" />
-        <mark key="]" line="176" column="4" />
-        <mark key="." line="176" column="4" />
-        <mark key="^" line="176" column="4" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563199184503">
+        <mark key="'" line="244" column="16" />
+        <mark key="[" line="202" column="69" />
+        <mark key="]" line="203" column="48" />
+        <mark key="." line="203" column="48" />
+        <mark key="^" line="203" column="48" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1562662767812">
         <mark key="[" line="9" column="20" />
@@ -401,7 +401,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuIGNscwo=</text>
+        <text encoding="base64">ICAgIGRlZiBuZXdfY2xzX3ByZQo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -419,28 +419,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuIGNscwo=</text>
+        <text encoding="base64">ICAgIGRlZiBuZXdfY2xzX3ByZQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcmdpbk5hbWUgPSByIi4qXGJcdypDb25zdGFudHMuKiIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIGNscwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBvcmdpbk5hbWUgPSByIi4qXGJcdypDb25zdGFudHMuKiIK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -449,7 +449,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
@@ -458,7 +458,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
