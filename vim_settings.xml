@@ -236,11 +236,12 @@
         <mark key="." line="107" column="31" />
         <mark key="^" line="74" column="79" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563241976327">
-        <mark key="'" line="317" column="0" />
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563244344006">
+        <mark key="'" line="321" column="0" />
+        <mark key="[" line="304" column="47" />
+        <mark key="]" line="304" column="45" />
+        <mark key="." line="304" column="45" />
+        <mark key="^" line="304" column="45" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1562662767812">
         <mark key="[" line="9" column="20" />
@@ -379,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gIiMjIyMke30iCg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -397,46 +398,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gIiMjIyMke30iCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKGNsYXNzX25hbWUsICIke05FV19DTFNfUFJFRklYfV8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihjb25zdGFudHNNYXRoZXIuZ3JvdXAoKSkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZihsaW5lLmNvbnRhaW5zKCkpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBuZXdfY2xzX3ByZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gIlxuIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuIGNscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZXMucmVwbGFjZUFsbChjbGFzc19uYW1lLCApCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBvcmdpbk5hbWUgPSByIi4qXGJcdypDb25zdGFudHMuKiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZS5yZXBsYWNlQWxsKCIuKlxcLlxcd0NvbnN0YW50c30iLCAiJHtORVdfQ0xTX1BSRUZJWH1Db25zdGFudHMiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICJcdHB1YmxpYyBzdGF0aWMgZmluYWwgS0VZX1NEID0gXCIke0tFWV9TRH1cIjtcbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2UgaWYoY2xhc3NfbmFtZS5jb250YWlucygiU2RrIikpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY2xhc3NfbmFtZS5jb250YWlucygiQ29uc3RhbnRzIikpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
