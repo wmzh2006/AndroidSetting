@@ -236,11 +236,11 @@
         <mark key="." line="107" column="31" />
         <mark key="^" line="74" column="79" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563247752536">
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="." line="298" column="0" />
-        <mark key="^" line="301" column="52" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563248948663">
+        <mark key="[" line="294" column="49" />
+        <mark key="]" line="294" column="50" />
+        <mark key="^" line="294" column="51" />
+        <mark key="." line="294" column="50" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1562662767812">
         <mark key="[" line="9" column="20" />
@@ -378,14 +378,14 @@
       <jump line="300" column="12" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgY2xhc3NfbmFtZSA9IGl0Lm5hbWUuc3BsaXQoIlxcLiIpWzBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Constants</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGdDb25zdGFudHNcPg==</text>
@@ -397,46 +397,48 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgY2xhc3NfbmFtZSA9IGl0Lm5hbWUuc3BsaXQoIlxcLiIpWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4gY2xzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xzLmVhY2ggeyBrZXl3b3JkIC0+Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>else {
+            tempLine = rLine    
+        }</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuICIjIyNyZXBsYWNlOiAiICsgbGluZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUNsYXNzTmFtZShsaW5lcywgbGluZSkK</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyArPSAiXG4iCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmb3IoZGVmIGNsIDogc2MpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIHRlbXBMaW5lID0gIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaW5lcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gbGluZQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gY29uc3RhbnRzTWF0aGVyLmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUgPSAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGlmKGk9PTApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICIke05FV19DTFNfUFJFRklYfUNvbnN0YW50cyIgKyBjb25zdGFudHNNYXRoZXIuZ3JvdXAoMSkKICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2UgaWYgKGkgPT0gMSAmJiBjb3VudCA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSBjb25zdGFudHNNYXRoZXIuZ3JvdXAoMSkrIiR7TkVXX0NMU19QUkVGSVh9Q29uc3RhbnRzIgogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYoaSA9PSAxICYmIGNvdW50ID09IDMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9IGNvbnN0YW50c01hdGhlci5ncm91cCgxKSsiJHtORVdfQ0xTX1BSRUZJWH1Db25zdGFudHMiICsgY29uc3RhbnRzTWF0aGVyLmdyb3VwKDIpCiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgY2xhc3NfbmFtZSA9IGl0Lm5hbWUuc3BsaXQoIlxcLiIpWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
