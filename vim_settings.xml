@@ -56,18 +56,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1562855287031">
-        <mark key="'" line="26" column="35" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1563162059912">
-        <mark key="'" line="182" column="32" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-      </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -248,11 +236,11 @@
         <mark key="." line="107" column="31" />
         <mark key="^" line="74" column="79" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563245320775">
-        <mark key="'" line="292" column="0" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="25" />
-        <mark key="." line="320" column="0" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563247752536">
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
+        <mark key="^" line="301" column="52" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/build.gradle" timestamp="1562662767812">
         <mark key="[" line="9" column="20" />
@@ -288,7 +276,6 @@
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/normal/Init.class" timestamp="1563178288648" />
     </filemarks>
     <jumps>
-      <jump line="577" column="39" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="48" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="133" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="138" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -384,20 +371,21 @@
       <jump line="74" column="47" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" />
       <jump line="17" column="38" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" />
       <jump line="18" column="38" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dzxtyd/ntyrz/sguvhn/chgSdk.java" />
-      <jump line="300" column="65" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="315" column="0" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="306" column="41" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="292" column="0" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
+      <jump line="307" column="46" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
+      <jump line="300" column="12" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSAiXG4iCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY2xhc3NfbmFtZSA9IGl0Lm5hbWUuc3BsaXQoIlxcLiIpWzBdCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>Constants</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGdDb25zdGFudHNcPg==</text>
@@ -409,19 +397,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSAiXG4iCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY2xhc3NfbmFtZSA9IGl0Lm5hbWUuc3BsaXQoIlxcLiIpWzBdCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gIiMjI3JlcGxhY2U6ICIgKyBsaW5lcwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4gY2xzCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSAiXG4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -430,25 +418,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUNsYXNzTmFtZShsaW5lcywgbGluZSkK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBmb3IoZGVmIGNsIDogc2MpIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSAgCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsaW5lcwo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gIiMjIyMke30iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gY29uc3RhbnRzTWF0aGVyLmcgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihjb25zdGFudHNNYXRoZXIuZ3JvdXAoKSkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGlmKGk9PTApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9ICIke05FV19DTFNfUFJFRklYfUNvbnN0YW50cyIgKyBjb25zdGFudHNNYXRoZXIuZ3JvdXAoMSkKICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2UgaWYgKGkgPT0gMSAmJiBjb3VudCA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSBjb25zdGFudHNNYXRoZXIuZ3JvdXAoMSkrIiR7TkVXX0NMU19QUkVGSVh9Q29uc3RhbnRzIgogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYoaSA9PSAxICYmIGNvdW50ID09IDMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzICs9IGNvbnN0YW50c01hdGhlci5ncm91cCgxKSsiJHtORVdfQ0xTX1BSRUZJWH1Db25zdGFudHMiICsgY29uc3RhbnRzTWF0aGVyLmdyb3VwKDIpCiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
