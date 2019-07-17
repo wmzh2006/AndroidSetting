@@ -42,11 +42,12 @@
         <mark key="." line="74" column="47" />
         <mark key="^" line="74" column="53" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1563330325480">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1563332370150">
+        <mark key="'" line="133" column="14" />
+        <mark key="[" line="170" column="37" />
+        <mark key="]" line="170" column="37" />
+        <mark key="." line="170" column="37" />
+        <mark key="^" line="170" column="39" />
       </file>
       <file name="E:/Project/gpjsauto/buildAAR.bat" timestamp="1563266061535">
         <mark key="[" line="0" column="98" />
@@ -323,11 +324,6 @@
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/normal/Init.class" timestamp="1563178288648" />
     </filemarks>
     <jumps>
-      <jump line="466" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="824" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="825" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="124" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="132" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="56" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="311" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="17" column="28" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/tst/oara/Sdk.java" />
@@ -363,7 +359,6 @@
       <jump line="25" column="35" filename="E:/Project/gpjsauto/build.gradle" />
       <jump line="86" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="122" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="170" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="202" column="50" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="211" column="6" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="295" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -423,19 +418,25 @@
       <jump line="348" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="165" column="41" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="176" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="170" column="37" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="194" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="441" column="14" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="498" column="6" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="129" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="133" column="14" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>Please</text>
+        <text>depends</text>
       </register>
       <register name="0" type="4">
         <text>Please set the JAVA_HOME variable in your environment to match the
@@ -527,9 +528,9 @@ set CMD_LINE_ARGS=%*
       </register>
     </registers>
     <search>
-      <last-search>Please</last-search>
+      <last-search>depends</last-search>
       <last-offset />
-      <last-pattern>Please</last-pattern>
+      <last-pattern>depends</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
@@ -537,8 +538,6 @@ set CMD_LINE_ARGS=%*
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdHBcPg==</entry>
-        <entry>default</entry>
         <entry>restore</entry>
         <entry>rePackageName</entry>
         <entry>buildAndCopySo</entry>
@@ -557,6 +556,8 @@ set CMD_LINE_ARGS=%*
         <entry encoding="base64">XDxvbGRQa2dOYW1lXD4=</entry>
         <entry>please</entry>
         <entry>Please</entry>
+        <entry>depend</entry>
+        <entry>depends</entry>
       </history-search>
       <history-cmd>
         <entry>d 43,48</entry>
