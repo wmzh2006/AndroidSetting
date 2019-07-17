@@ -142,6 +142,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/DLLibTest/src/main/java/com/ecfudl/dynamicload/sample/mainhost/MainActivity2.java" timestamp="1563369439008">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="E:/Project/Twer/app/src/main/java/com/baeao/camow/twer/App.java" timestamp="1563178220919">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -254,10 +259,11 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="44" column="26" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1563344200414">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="38" column="43" />
-        <mark key="." line="38" column="43" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1563369501719">
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="37" />
+        <mark key="." line="53" column="37" />
+        <mark key="^" line="53" column="37" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1563345026817">
         <mark key="[" line="0" column="16" />
@@ -444,13 +450,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pluginFolder+&quot;/test.apk&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pluginFolder+&quot;/test.apk&quot;</text>
       </register>
       <register name="/" type="4">
         <text>On</text>
@@ -462,46 +468,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QUBAV216aDI1MjExMzZAQAo=</text>
+        <text encoding="base64">ICAgIAlTdHJpbmcgZmlsZVBhdGggPSBwbHVnaW5Gb2xkZXIgKyAiLyIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">QUBAV216aDI1MjExMzZAQAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb20udmZrbGMuYXJoZG9xLmNwbWl1LllqdnZTZGsuaW5pdC5pbml0KGNvbnRleHQsICIxMDQ5MjEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb20udmZrbGMuYXJoZG9xLmNwbWl1LllqdnZTZGsuaW5pdC5pbml0KGNvbnRleHQsICIxMDQ5MjEiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICB3diA9ICJBIisK</text>
+        <text encoding="base64">ICAgICAgICAgICBpZigpCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlldy5sb2FkVXJsKHVybC8qLGV4dHJhSGVhZGVycyovKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICB3diA9ICJBIisK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy5sb2FkVXJsKHVybC8qLGV4dHJhSGVhZGVycyovKTsK</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBkZWYgb3V0cHV0RGlyID0gbmV3IEZpbGUoJHtKQVJfT1VUX0RJUn0pCiAgICAgICAgaWYgKCFvdXRwdXREaXIuZXhpc3RzKCkpIHsKICAgICAgICAgICAgb3V0cHV0RGlyLm1rZGlycygpCiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJRXZlbnRUcmFjay50cmFja19odG1sKGNvbnRleHQsIGFwcFZlcnNpb24sIGNoYW5uZWxJRCwgbWVyY2hhbnRJRCwgZXh0cmEsIGV2ZW50QmVhbik7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBkZWYgb3V0cHV0RGlyID0gbmV3IEZpbGUoJHtKQVJfT1VUX0RJUn0pCiAgICAgICAgaWYgKCFvdXRwdXREaXIuZXhpc3RzKCkpIHsKICAgICAgICAgICAgb3V0cHV0RGlyLm1rZGlycygpCiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
