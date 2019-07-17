@@ -42,12 +42,11 @@
         <mark key="." line="74" column="47" />
         <mark key="^" line="74" column="53" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1563266216870">
-        <mark key="'" line="351" column="0" />
-        <mark key="[" line="151" column="35" />
-        <mark key="]" line="152" column="29" />
-        <mark key="." line="152" column="29" />
-        <mark key="^" line="152" column="29" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1563330325480">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/buildAAR.bat" timestamp="1563266061535">
         <mark key="[" line="0" column="98" />
@@ -66,6 +65,18 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1562855287031">
+        <mark key="'" line="26" column="35" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1563329723070">
+        <mark key="'" line="183" column="32" />
+        <mark key="[" line="141" column="47" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -312,8 +323,6 @@
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/normal/Init.class" timestamp="1563178288648" />
     </filemarks>
     <jumps>
-      <jump line="173" column="22" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/DCB.java" />
-      <jump line="165" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/DCB.java" />
       <jump line="466" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="824" column="43" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="825" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -412,16 +421,18 @@
       <jump line="289" column="26" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="364" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="348" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="165" column="41" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="176" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>厖</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>厖</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>Please</text>
@@ -470,34 +481,34 @@ set CMD_LINE_ARGS=%*
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJRXZlbnRUcmFjay50cmFja19odG1sKGNvbnRleHQsIGFwcFZlcnNpb24sIGNoYW5uZWxJRCwgbWVyY2hhbnRJRCwgZXh0cmEsIGV2ZW50QmVhbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBkZWYgb3V0cHV0RGlyID0gbmV3IEZpbGUoJHtKQVJfT1VUX0RJUn0pCiAgICAgICAgaWYgKCFvdXRwdXREaXIuZXhpc3RzKCkpIHsKICAgICAgICAgICAgb3V0cHV0RGlyLm1rZGlycygpCiAgICAgICAgfQ==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdMaW5lID0gbmV3TGluZS5yZXBsYWNlQWxsKCkK</text>
+        <text encoding="base64">CQkJRXZlbnRUcmFjay50cmFja19odG1sKGNvbnRleHQsIGFwcFZlcnNpb24sIGNoYW5uZWxJRCwgbWVyY2hhbnRJRCwgZXh0cmEsIGV2ZW50QmVhbik7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdMaW5lID0gbmV3TGluZS5yZXBsYWNlQWxsKCkK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldEFic29sdXRlRmlsZSgpLmdldEFic29sdXRlUGF0aCgpKyIvJHtORVdfQ0xTX1BSRUZJWH1TZXJ2aWNlLmphdmEiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -506,7 +517,7 @@ set CMD_LINE_ARGS=%*
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldEFic29sdXRlRmlsZSgpLmdldEFic29sdXRlUGF0aCgpKyIvJHtORVdfQ0xTX1BSRUZJWH1TZGsuamF2YSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldEFic29sdXRlRmlsZSgpLmdldEFic29sdXRlUGF0aCgpKyIvJHtORVdfQ0xTX1BSRUZJWH1TZXJ2aWNlLmphdmEiKSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
