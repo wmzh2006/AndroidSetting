@@ -42,12 +42,12 @@
         <mark key="." line="74" column="47" />
         <mark key="^" line="74" column="53" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1563332370150">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1563345830014">
         <mark key="'" line="133" column="14" />
-        <mark key="[" line="170" column="37" />
-        <mark key="]" line="170" column="37" />
-        <mark key="." line="170" column="37" />
-        <mark key="^" line="170" column="39" />
+        <mark key="[" line="425" column="91" />
+        <mark key="]" line="425" column="88" />
+        <mark key="." line="425" column="88" />
+        <mark key="^" line="425" column="88" />
       </file>
       <file name="E:/Project/gpjsauto/buildAAR.bat" timestamp="1563266061535">
         <mark key="[" line="0" column="98" />
@@ -66,13 +66,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1563343437328">
-        <mark key="'" line="189" column="32" />
-        <mark key="[" line="144" column="34" />
-        <mark key="]" line="144" column="34" />
-        <mark key="." line="144" column="34" />
-        <mark key="^" line="144" column="34" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -191,7 +184,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1563192452046" />
       <file name="E:/Project/Twer/app/src/main/AndroidManifest.xml" timestamp="1563183032561">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -251,10 +243,8 @@
         <mark key="]" line="38" column="43" />
         <mark key="." line="38" column="43" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1563265981866">
-        <mark key="]" line="2" column="88" />
-        <mark key="^" line="2" column="98" />
-        <mark key="." line="2" column="88" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1563345026817">
+        <mark key="[" line="0" column="16" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/build.gradle" timestamp="1562616516188">
         <mark key="[" line="7" column="36" />
@@ -262,6 +252,12 @@
         <mark key="." line="7" column="29" />
       </file>
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/common/AdWrap.class" timestamp="1563177888676" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/sdk_app_communicate_keys_linux.java" timestamp="1563345372379">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ofzo" timestamp="1562892059415">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="107" />
@@ -299,12 +295,13 @@
         <mark key="." line="140" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1563343766679">
-        <mark key="[" line="80" column="20" />
-        <mark key="]" line="80" column="20" />
-        <mark key="." line="80" column="20" />
-        <mark key="^" line="80" column="20" />
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="81" column="20" />
+        <mark key="." line="81" column="20" />
+        <mark key="^" line="81" column="20" />
       </file>
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907091843.jar!/com/mobikok/rtb/wrap/zero/ZeroService.class" timestamp="1563176690251" />
+      <file name="E:/Project/gpjsauto/sdk_app_communicate_keys_linux.java" timestamp="1563346285210" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1562740570161">
         <mark key="[" line="69" column="35" />
         <mark key="]" line="69" column="35" />
@@ -426,13 +423,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>depends</text>
@@ -444,46 +441,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb20udmZrbGMuYXJoZG9xLmNwbWl1LllqdnZTZGsuaW5pdC5pbml0KGNvbnRleHQsICIxMDQ5MjEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb20udmZrbGMuYXJoZG9xLmNwbWl1LllqdnZTZGsuaW5pdC5pbml0KGNvbnRleHQsICIxMDQ5MjEiKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICB3diA9ICJBIisK</text>
+        <text encoding="base64">ICAgICAgICAgICBpZigpCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlldy5sb2FkVXJsKHVybC8qLGV4dHJhSGVhZGVycyovKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICB3diA9ICJBIisK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy5sb2FkVXJsKHVybC8qLGV4dHJhSGVhZGVycyovKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBkZWYgb3V0cHV0RGlyID0gbmV3IEZpbGUoJHtKQVJfT1VUX0RJUn0pCiAgICAgICAgaWYgKCFvdXRwdXREaXIuZXhpc3RzKCkpIHsKICAgICAgICAgICAgb3V0cHV0RGlyLm1rZGlycygpCiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJRXZlbnRUcmFjay50cmFja19odG1sKGNvbnRleHQsIGFwcFZlcnNpb24sIGNoYW5uZWxJRCwgbWVyY2hhbnRJRCwgZXh0cmEsIGV2ZW50QmVhbik7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBkZWYgb3V0cHV0RGlyID0gbmV3IEZpbGUoJHtKQVJfT1VUX0RJUn0pCiAgICAgICAgaWYgKCFvdXRwdXREaXIuZXhpc3RzKCkpIHsKICAgICAgICAgICAgb3V0cHV0RGlyLm1rZGlycygpCiAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJRXZlbnRUcmFjay50cmFja19odG1sKGNvbnRleHQsIGFwcFZlcnNpb24sIGNoYW5uZWxJRCwgbWVyY2hhbnRJRCwgZXh0cmEsIGV2ZW50QmVhbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdMaW5lID0gbmV3TGluZS5yZXBsYWNlQWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//g</text>
