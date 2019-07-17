@@ -62,6 +62,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/LLDB" timestamp="1563369738781">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/EA" timestamp="1562889868535">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -259,11 +262,11 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="44" column="26" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1563369501719">
-        <mark key="[" line="53" column="30" />
-        <mark key="]" line="53" column="37" />
-        <mark key="." line="53" column="37" />
-        <mark key="^" line="53" column="37" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1563370266270">
+        <mark key="[" line="213" column="56" />
+        <mark key="]" line="213" column="67" />
+        <mark key="." line="213" column="67" />
+        <mark key="^" line="213" column="67" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1563345026817">
         <mark key="[" line="0" column="16" />
@@ -450,13 +453,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pluginFolder+&quot;/test.apk&quot;</text>
+        <text>context</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>pluginFolder+&quot;/test.apk&quot;</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>On</text>
