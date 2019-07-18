@@ -149,6 +149,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/base/BaseContext.java" timestamp="1563436035952" />
       <file name="E:/Project/Twer/app/src/main/java/com/baeao/camow/twer/Utils.java" timestamp="1563183545079">
         <mark key="[" line="52" column="30" />
         <mark key="]" line="52" column="31" />
@@ -179,6 +180,12 @@
         <mark key="." line="74" column="24" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/eve/tra/util/EventTrack.class" timestamp="1563264429518" />
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/MainActivity.java" timestamp="1563436484151">
+        <mark key="[" line="33" column="78" />
+        <mark key="]" line="33" column="78" />
+        <mark key="^" line="33" column="78" />
+        <mark key="." line="33" column="78" />
+      </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1563371300991">
         <mark key="[" line="237" column="74" />
         <mark key="]" line="237" column="71" />
@@ -300,6 +307,12 @@
         <mark key="^" line="76" column="50" />
         <mark key="." line="76" column="49" />
       </file>
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/BaseContext.java" timestamp="1563436449855">
+        <mark key="[" line="122" column="42" />
+        <mark key="]" line="122" column="45" />
+        <mark key="." line="122" column="45" />
+        <mark key="^" line="122" column="45" />
+      </file>
       <file name="E:/Project/gpjsauto/buildAAR.cmd" timestamp="1562385608688">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="43" />
@@ -322,6 +335,12 @@
         <mark key="[" line="31" column="28" />
         <mark key="]" line="31" column="28" />
         <mark key="." line="31" column="28" />
+      </file>
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/Reflect.java" timestamp="1563436552372">
+        <mark key="'" line="471" column="123" />
+        <mark key="[" line="550" column="66" />
+        <mark key="]" line="550" column="66" />
+        <mark key="." line="550" column="66" />
       </file>
       <file name="E:/Project/Twer/app/src/androidTest/java/com/baeao/camow/twer/ExampleInstrumentedTest.java" timestamp="1563171843393">
         <mark key="[" line="27" column="0" />
@@ -368,6 +387,7 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="44" column="26" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/DL-lib3/src/com/ecfudl2/agent/PluginInstrumentation.java" timestamp="1563435459726" />
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/common/AdWrap.class" timestamp="1563177888676" />
       <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1563266332230">
         <mark key="'" line="288" column="26" />
@@ -393,7 +413,7 @@
         <mark key="^" line="81" column="20" />
       </file>
       <file name="E:/Project/gpjsauto/sdk_app_communicate_keys_linux.java" timestamp="1563346285210" />
-      <file name="/fragment.java" timestamp="1563371054507">
+      <file name="/fragment.java" timestamp="1563436132019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/Twer/app/libs/RTB-SDK-V1.0.0-201907121638.jar!/com/mobikok/rtb/wrap/normal/Init.class" timestamp="1563178288648" />
@@ -404,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="177" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="201" column="45" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="1570" column="15" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
@@ -504,19 +523,20 @@
       <jump line="659" column="118" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="661" column="141" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="667" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="471" column="123" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/Reflect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</text>
+        <text>com\.ecfudl\.utils\.</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">V2ViVmlld1V0aWwuZ2V0SW5zdGFuY2UobUNvbnRleHQpLnJlc3VsdFdWY2hhbmdlIA==</text>
@@ -525,63 +545,77 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAvKiDIw0pELUdVSc7et6i/tLW9ztKjumVuZCAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
+      <register name="2" type="4">
+        <text>/* 让JD-GUI无法看到我：start */
+        FileOutputStream fos = null;
+        try {
+            if (fos != null) {
+                fos = new FileOutputStream(&quot;&quot;);
+                fos.flush();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (fos != null) fos.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IDxhY3Rpdml0eSBhbmRyb2lkOm5hbWU9Ii5NYWluQWN0aXZpdHkiPgogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIgLz4KCiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvYWN0aXZpdHk+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuc3RhcnRBY3Rpdml0eShuZXdJbnRlbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlbnQgbmV3SW50ZW50ID0gbmV3IEludGVudDYvKkJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTiovKSB7Ly8g1eLA77K7yse24NPgtcSjrNTasLLXsLDmz8LKx7vhyMPL/LHg0uuxqLTto6y1q8rHvNPU2LDmsb7I57n7suW8/tPDwcvQwrDmsb61xGFwacTHw7TNrNH5u+G9+MC0tcSjrMv50tTSqtPDwt+8rcf4t9bF0LbPssWyu7vhscDAo6OsamFybm8yMDE1MDcyMAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">KGludGVudCk7CiAgICAgICAgbmV3SW50ZW50LnB1dEV4dHJhKFNlbmRlckNvbmZpZy5LRVlfREVMSVZFUl9QQUNLQUdFTkFNRSwgcGx1Z2luLmdldFBhY2thZ2VOYW1lKCkpOwogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gMQ==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAlTdHJpbmcgZmlsZVBhdGggPSBwbHVnaW5Gb2xkZXIgKyAiLyIK</text>
+        <text encoding="base64">T3V0cHV0U3RyZWFtIGZvcyA9IG51bGw7dHJ5IHtpZiAoZm9zICE9IG51bGwpIHtmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbSgiIik7Zm9zLmZsdXNoKCk7fQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7ZS5wcmludFN0YWNrVHJhY2UoKTt9IGZpbmFsbHkge3RyeSB7aWYgKGZvcyAhPSBudWxsKWZvcy5jbG9zZSgpO30gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHtlLnByaW50U3RhY2tUcmFjZSgpO319LyogyMNKRC1HVUnO3reov7S1vc7So7plbmQgKi8K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QUBAV216aDI1MjExMzZAQAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUudG9TdHJpbmcoKS5jb250YWlucygicmVxdWlyZXMgdGhlIEZMQUdfQUNUSVZJVFlfTkVXX1RBU0sgZmxhZyIpKXsKICAgICAgICAgICAgICAgIEludGVudCBuZXdJbnRlbnQgPSBuZXcgSW50ZW50KGludGVudCk7CiAgICAgICAgICAgICAgICBuZXdJbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwogICAgICAgICAgICAgICAgbmV3SW50ZW50LnB1dEV4dHJhKFNlbmRlckNvbmZpZy5LRVlfREVMSVZFUl9QQUNLQUdFTkFNRSwgcGx1Z2luLmdldFBhY2thZ2VOYW1lKCkpOwogICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vYW5kcm9pZC51dGlsLkFuZHJvaWRSdW50aW1lRXhjZXB0aW9uOiBDYWxsaW5nIHN0YXJ0QWN0aXZpdHkoKSBmcm9tIG91dHNpZGUgb2YgYW4gQWN0aXZpdHkgIGNvbnRleHQgcmVxdWlyZXMgdGhlIEZMQUdfQUNUSVZJVFlfTkVXX1RBU0sgZmxhZy4gSXMgdGhpcyByZWFsbHkgd2hhdCB5b3Ugd2FudD8KICAgICAgICAgICAgLy8gVE9ETzogaGFuZGxlIGV4Y2VwdGlvbgogICAgICAgIH0KCgoKCiAgICAgICAgLyogyMNKRC1HVUnO3reov7S1vc7So7pzdGFydCAqL0ZpbGU=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/com\.lib\.util\.//g</text>
+        <text>%s /com\.ecfudl\.utils\.//gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</last-search>
+      <last-search>com\.ecfudl\.utils\.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</last-pattern>
+      <last-pattern>com\.ecfudl\.utils\.</last-pattern>
       <last-replace />
-      <last-substitute>com\.lib\.util\.</last-substitute>
+      <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NEW_PACKAGE_NAME</entry>
         <entry>into</entry>
         <entry>clearCache</entry>
         <entry>450</entry>
@@ -601,9 +635,9 @@
         <entry>on</entry>
         <entry>On</entry>
         <entry encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</entry>
+        <entry>com\.ecfudl\.utils\.</entry>
       </history-search>
       <history-cmd>
-        <entry>d 43,48</entry>
         <entry>43, 48 d</entry>
         <entry>.,$ y</entry>
         <entry>y.,$</entry>
@@ -623,6 +657,7 @@
         <entry>%s/com\\.lib\\.util\\.//gc</entry>
         <entry>%s/com\.lib\.util\.//gc</entry>
         <entry>%s/com\.lib\.util\.//g</entry>
+        <entry>%s /com\.ecfudl\.utils\.//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
