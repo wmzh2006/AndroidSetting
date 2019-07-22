@@ -119,10 +119,12 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.txt" timestamp="1563760299369">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.txt" timestamp="1563762000730">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/tst/oara/BroadcastConstants.java" timestamp="1562248524809">
         <mark key="[" line="9" column="35" />
@@ -323,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="45" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="1570" column="15" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
       <jump line="1592" column="10" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
       <jump line="1633" column="10" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
@@ -423,10 +424,19 @@
       <jump line="667" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="471" column="123" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/Reflect.java" />
       <jump line="86" column="56" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/MainActivity.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="8">
+        <text>c
+c
+c
+c
+c
+c
+c
+c
+c</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -435,7 +445,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>com\.ecfudl\.utils\.</text>
+        <text encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">V2ViVmlld1V0aWwuZ2V0SW5zdGFuY2UobUNvbnRleHQpLnJlc3VsdFdWY2hhbmdlIA==</text>
@@ -443,13 +453,27 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKiDIw0pELUdVSc7et6i/tLW9ztKjumVuZCAqLwo=</text>
+      <register name="1" type="8">
+        <text>c
+c
+c
+c
+c
+c
+c
+c
+c</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvKiDIw0pELUdVSc7et6i/tLW9ztKjumVuZCAqLwo=</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
+      </register>
+      <register name="3" type="4">
         <text>/* 让JD-GUI无法看到我：start */
         FileOutputStream fos = null;
         try {
@@ -467,55 +491,48 @@
             }
         }</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuc3RhcnRBY3Rpdml0eShuZXdJbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuc3RhcnRBY3Rpdml0eShuZXdJbnRlbnQpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlbnQgbmV3SW50ZW50ID0gbmV3IEludGVudDYvKkJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTiovKSB7Ly8g1eLA77K7yse24NPgtcSjrNTasLLXsLDmz8LKx7vhyMPL/LHg0uuxqLTto6y1q8rHvNPU2LDmsb7I57n7suW8/tPDwcvQwrDmsb61xGFwacTHw7TNrNH5u+G9+MC0tcSjrMv50tTSqtPDwt+8rcf4t9bF0LbPssWyu7vhscDAo6OsamFybm8yMDE1MDcyMAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KGludGVudCk7CiAgICAgICAgbmV3SW50ZW50LnB1dEV4dHJhKFNlbmRlckNvbmZpZy5LRVlfREVMSVZFUl9QQUNLQUdFTkFNRSwgcGx1Z2luLmdldFBhY2thZ2VOYW1lKCkpOwogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gMQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlbnQgbmV3SW50ZW50ID0gbmV3IEludGVudDYvKkJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTiovKSB7Ly8g1eLA77K7yse24NPgtcSjrNTasLLXsLDmz8LKx7vhyMPL/LHg0uuxqLTto6y1q8rHvNPU2LDmsb7I57n7suW8/tPDwcvQwrDmsb61xGFwacTHw7TNrNH5u+G9+MC0tcSjrMv50tTSqtPDwt+8rcf4t9bF0LbPssWyu7vhscDAo6OsamFybm8yMDE1MDcyMAo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">T3V0cHV0U3RyZWFtIGZvcyA9IG51bGw7dHJ5IHtpZiAoZm9zICE9IG51bGwpIHtmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbSgiIik7Zm9zLmZsdXNoKCk7fQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7ZS5wcmludFN0YWNrVHJhY2UoKTt9IGZpbmFsbHkge3RyeSB7aWYgKGZvcyAhPSBudWxsKWZvcy5jbG9zZSgpO30gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHtlLnByaW50U3RhY2tUcmFjZSgpO319LyogyMNKRC1HVUnO3reov7S1vc7So7plbmQgKi8K</text>
+      <register name="8" type="4">
+        <text encoding="base64">KGludGVudCk7CiAgICAgICAgbmV3SW50ZW50LnB1dEV4dHJhKFNlbmRlckNvbmZpZy5LRVlfREVMSVZFUl9QQUNLQUdFTkFNRSwgcGx1Z2luLmdldFBhY2thZ2VOYW1lKCkpOwogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gMQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGUudG9TdHJpbmcoKS5jb250YWlucygicmVxdWlyZXMgdGhlIEZMQUdfQUNUSVZJVFlfTkVXX1RBU0sgZmxhZyIpKXsKICAgICAgICAgICAgICAgIEludGVudCBuZXdJbnRlbnQgPSBuZXcgSW50ZW50KGludGVudCk7CiAgICAgICAgICAgICAgICBuZXdJbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwogICAgICAgICAgICAgICAgbmV3SW50ZW50LnB1dEV4dHJhKFNlbmRlckNvbmZpZy5LRVlfREVMSVZFUl9QQUNLQUdFTkFNRSwgcGx1Z2luLmdldFBhY2thZ2VOYW1lKCkpOwogICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vYW5kcm9pZC51dGlsLkFuZHJvaWRSdW50aW1lRXhjZXB0aW9uOiBDYWxsaW5nIHN0YXJ0QWN0aXZpdHkoKSBmcm9tIG91dHNpZGUgb2YgYW4gQWN0aXZpdHkgIGNvbnRleHQgcmVxdWlyZXMgdGhlIEZMQUdfQUNUSVZJVFlfTkVXX1RBU0sgZmxhZy4gSXMgdGhpcyByZWFsbHkgd2hhdCB5b3Ugd2FudD8KICAgICAgICAgICAgLy8gVE9ETzogaGFuZGxlIGV4Y2VwdGlvbgogICAgICAgIH0KCgoKCiAgICAgICAgLyogyMNKRC1HVUnO3reov7S1vc7So7pzdGFydCAqL0ZpbGU=</text>
+      <register name="9" type="2">
+        <text encoding="base64">T3V0cHV0U3RyZWFtIGZvcyA9IG51bGw7dHJ5IHtpZiAoZm9zICE9IG51bGwpIHtmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbSgiIik7Zm9zLmZsdXNoKCk7fQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7ZS5wcmludFN0YWNrVHJhY2UoKTt9IGZpbmFsbHkge3RyeSB7aWYgKGZvcyAhPSBudWxsKWZvcy5jbG9zZSgpO30gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHtlLnByaW50U3RhY2tUcmFjZSgpO319LyogyMNKRC1HVUnO3reov7S1vc7So7plbmQgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>%s /com\.ecfudl\.utils\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search>com\.ecfudl\.utils\.</last-search>
+      <last-search encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</last-search>
       <last-offset />
-      <last-pattern>com\.ecfudl\.utils\.</last-pattern>
+      <last-pattern encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>into</entry>
         <entry>clearCache</entry>
         <entry>450</entry>
         <entry>println</entry>
@@ -535,6 +552,7 @@
         <entry>On</entry>
         <entry encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</entry>
         <entry>com\.ecfudl\.utils\.</entry>
+        <entry encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ y</entry>
