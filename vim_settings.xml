@@ -65,12 +65,12 @@
       <file name="/LLDB" timestamp="1563369738781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1563861053840">
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1563862277209">
         <mark key="'" line="37" column="31" />
-        <mark key="[" line="97" column="40" />
-        <mark key="]" line="97" column="40" />
-        <mark key="." line="97" column="40" />
-        <mark key="^" line="97" column="42" />
+        <mark key="[" line="106" column="66" />
+        <mark key="]" line="106" column="66" />
+        <mark key="." line="106" column="66" />
+        <mark key="^" line="93" column="24" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -160,8 +160,8 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1563861471329">
-        <mark key="[" line="61" column="27" />
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1563861515915">
+        <mark key="[" line="62" column="0" />
         <mark key="]" line="61" column="27" />
         <mark key="." line="61" column="27" />
         <mark key="^" line="68" column="34" />
@@ -262,6 +262,11 @@
         <mark key="]" line="237" column="71" />
         <mark key="." line="237" column="71" />
         <mark key="^" line="237" column="71" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2019072314/README.txt" timestamp="1563862456465">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1563345026817">
         <mark key="[" line="0" column="16" />
@@ -428,14 +433,14 @@
       <jump line="37" column="31" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5JTlRFUk5FVCIvPgo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>不</text>
       </register>
       <register name="/" type="4">
         <text>eve_a_trace</text>
@@ -447,54 +452,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LWxpYnJhcnlqYXJzIGxpYnMvZXZlX3RyYWNlLmphcgo=</text>
+        <text encoding="base64">PHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5JTlRFUk5FVCIvPgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
+        <text encoding="base64">PHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5SRUFEX1BIT05FX1NUQVRFIi8+Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
+        <text encoding="base64">Ly8gICAgZnJvbSB6aXBUcmVlKGZpbGUocHJvamVjdC5wcm9qZWN0RGlyLmFic29sdXRlUGF0aCArICJcXGxpYnNcXHJxX2h3X3YwMS5qYXIiICkpCi8vICAgIGZyb20gemlwVHJlZShmaWxlKHByb2plY3QucHJvamVjdERpci5hYnNvbHV0ZVBhdGggKyAiXFxsaWJzXFxldmVfYV90cmFjZS5qYXIiICkpCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20gemlwVHJlZShmaWxlKE9SR0lOQUxfSkFSX1BBVEgpKQogICAgZXhjbHVkZSgnKiovQnVpbGRDb25maWcuY2xhc3MnLCAnKiovTWFpbkFjdGl2aXR5LmNsYXNzJykKICAgIGJhc2VOYW1lICIke0pBUl9OQU1FfS0ke0pBUl9WRVJTSU9OfSIKLy8gICAgYmFzZU5hbWUgIiR7SkFSX1BST0dVQVJEX05BTUV9LSR7SkFSX1ZFUlNJT059IgogICAgZGVzdGluYXRpb25EaXIgZmlsZShKQVJfREVTS19ESVIpCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmRlcGVuZGVuY2llcyB7Ci8vICAgIGltcGxlbWVudGF0aW9uIGZpbGVUcmVlKGRpcjogJ2xpYnMnLCBpbmNsdWRlOiBbJyouamFyJ10pCgogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2LjAuMC1iZXRhMScKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicKICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydW5uZXI6MC41JwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6Mi4yLjInCn0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">LWxpYnJhcnlqYXJzIGxpYnMvZXZlX3RyYWNlLmphcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KGNvbnRleHQsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="8">
-        <text>c
-c
-c
-c
-c
-c
-c
-c
-c</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiDIw0pELUdVSc7et6i/tLW9ztKjumVuZCAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /com\.ecfudl\.utils\.//g</text>
