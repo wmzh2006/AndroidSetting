@@ -65,23 +65,12 @@
       <file name="/LLDB" timestamp="1563369738781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1563853714401">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="104" column="77" />
-        <mark key="." line="22" column="26" />
-      </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1562855287031">
-        <mark key="'" line="26" column="35" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1563430119124">
-        <mark key="'" line="667" column="29" />
-        <mark key="[" line="649" column="0" />
-        <mark key="]" line="649" column="0" />
-        <mark key="." line="649" column="0" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1563861053840">
+        <mark key="'" line="37" column="31" />
+        <mark key="[" line="97" column="40" />
+        <mark key="]" line="97" column="40" />
+        <mark key="." line="97" column="40" />
+        <mark key="^" line="97" column="42" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -112,6 +101,11 @@
         <mark key="]" line="76" column="49" />
         <mark key="^" line="76" column="50" />
         <mark key="." line="76" column="49" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/dfs/jjs/sjfs/sf/a/adm.java" timestamp="1563860924108">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/BaseContext.java" timestamp="1563439144296">
         <mark key="[" line="118" column="15" />
@@ -166,20 +160,17 @@
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1563852824197">
-        <mark key="[" line="68" column="33" />
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1563861471329">
+        <mark key="[" line="61" column="27" />
+        <mark key="]" line="61" column="27" />
+        <mark key="." line="61" column="27" />
+        <mark key="^" line="68" column="34" />
       </file>
       <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/App.java" timestamp="1563439063991">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="6" column="41" />
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
-      </file>
-      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/Reflect.java" timestamp="1563436552372">
-        <mark key="'" line="471" column="123" />
-        <mark key="[" line="550" column="66" />
-        <mark key="]" line="550" column="66" />
-        <mark key="." line="550" column="66" />
       </file>
       <file name="E:/Project/Twer/app/src/androidTest/java/com/baeao/camow/twer/ExampleInstrumentedTest.java" timestamp="1563171843393">
         <mark key="[" line="27" column="0" />
@@ -335,9 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1570" column="15" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
-      <jump line="1592" column="10" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
-      <jump line="1633" column="10" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
       <jump line="1640" column="11" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
       <jump line="113" column="0" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="109" column="80" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
@@ -435,19 +423,22 @@
       <jump line="471" column="123" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/Reflect.java" />
       <jump line="86" column="56" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/MainActivity.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.txt" />
+      <jump line="97" column="39" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="96" column="65" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="37" column="31" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fal</text>
+        <text>a</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>fal</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</text>
+        <text>eve_a_trace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZG0uZ2V0SW5zdGFuY2UoKS5pbml0KGNvbnRleHQsICIxMDQ5NjMiKTsKICAgICAgICBULmluaXQoY29udGV4dCwgIiIpOwo=</text>
@@ -456,12 +447,42 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0KGNvbnRleHQsIG51bGwpOwo=</text>
+        <text encoding="base64">LWxpYnJhcnlqYXJzIGxpYnMvZXZlX3RyYWNlLmphcgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
+      </register>
+      <register name="s" type="4">
+        <text>content</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmRlcGVuZGVuY2llcyB7Ci8vICAgIGltcGxlbWVudGF0aW9uIGZpbGVUcmVlKGRpcjogJ2xpYnMnLCBpbmNsdWRlOiBbJyouamFyJ10pCgogICAgaW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI2LjAuMC1iZXRhMScKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnanVuaXQ6anVuaXQ6NC4xMicKICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydW5uZXI6MC41JwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6Mi4yLjInCn0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0KGNvbnRleHQsIG51bGwpOwo=</text>
+      </register>
+      <register name="w" type="4">
+        <text>proguard</text>
+      </register>
+      <register name="8" type="8">
         <text>c
 c
 c
@@ -472,70 +493,24 @@ c
 c
 c</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAvKiDIw0pELUdVSc7et6i/tLW9ztKjumVuZCAqLwo=</text>
-      </register>
-      <register name="s" type="4">
-        <text>content</text>
-      </register>
-      <register name="4" type="4">
-        <text>/* 让JD-GUI无法看到我：start */
-        FileOutputStream fos = null;
-        try {
-            if (fos != null) {
-                fos = new FileOutputStream(&quot;&quot;);
-                fos.flush();
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
-            try {
-                if (fos != null) fos.close();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuc3RhcnRBY3Rpdml0eShuZXdJbnRlbnQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="w" type="4">
-        <text>proguard</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlbnQgbmV3SW50ZW50ID0gbmV3IEludGVudDYvKkJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTiovKSB7Ly8g1eLA77K7yse24NPgtcSjrNTasLLXsLDmz8LKx7vhyMPL/LHg0uuxqLTto6y1q8rHvNPU2LDmsb7I57n7suW8/tPDwcvQwrDmsb61xGFwacTHw7TNrNH5u+G9+MC0tcSjrMv50tTSqtPDwt+8rcf4t9bF0LbPssWyu7vhscDAo6OsamFybm8yMDE1MDcyMAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">KGludGVudCk7CiAgICAgICAgbmV3SW50ZW50LnB1dEV4dHJhKFNlbmRlckNvbmZpZy5LRVlfREVMSVZFUl9QQUNLQUdFTkFNRSwgcGx1Z2luLmdldFBhY2thZ2VOYW1lKCkpOwogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gMQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s /com\.ecfudl\.utils\.//g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</last-search>
+      <last-search>eve_a_trace</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</last-pattern>
+      <last-pattern>eve_a_trace</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>clearCache</entry>
         <entry>450</entry>
         <entry>println</entry>
         <entry encoding="base64">XDxMSUJOQU1FXD4=</entry>
@@ -555,6 +530,7 @@ c</text>
         <entry encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</entry>
         <entry>com\.ecfudl\.utils\.</entry>
         <entry encoding="base64">XDxjbk5mYjJ0YlFXTmpaWEIwWFZ0VU1GMWllVnN2WkdGMFlTOWhjSEF2WTI5dExtRnVaSEp2YVdRdVkyaHliMjFsTFRJdlltRnpaUzVoY0d0ZFw+</entry>
+        <entry>eve_a_trace</entry>
       </history-search>
       <history-cmd>
         <entry>.,$ y</entry>
