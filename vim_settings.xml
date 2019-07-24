@@ -9,6 +9,13 @@
         <mark key="^" line="62" column="66" />
         <mark key="." line="62" column="47" />
       </file>
+      <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/build.gradle" timestamp="1563960621952">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
       <file name="/a.dummy" timestamp="1563853051751">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,6 +24,12 @@
         <mark key="]" line="41" column="96" />
         <mark key="." line="41" column="96" />
         <mark key="^" line="41" column="96" />
+      </file>
+      <file name="E:/Project/Gradle_transform/build.gradle" timestamp="1563960048114">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="73" />
+        <mark key="^" line="13" column="73" />
+        <mark key="." line="13" column="73" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ES" timestamp="1562596700725">
         <mark key="[" line="0" column="0" />
@@ -132,6 +145,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="35" />
       </file>
+      <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/resources/META-INF/gradle-plugins/com.test.gradle.properties" timestamp="1563959249530">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.regexp" timestamp="1563434941986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="161" />
@@ -153,6 +172,12 @@
         <mark key="]" line="38" column="21" />
         <mark key="^" line="38" column="21" />
         <mark key="." line="38" column="21" />
+      </file>
+      <file name="E:/Project/Gradle_transform/app/build.gradle" timestamp="1563960153182">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="E:/Project/gpjsauto/de/src/main/AndroidManifest.xml" timestamp="1563371018933">
         <mark key="[" line="7" column="7" />
@@ -184,6 +209,11 @@
         <mark key="^" line="26" column="86" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyPlugin.groovy" timestamp="1563959335573">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLogic.java" timestamp="1562662661539">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="54" column="53" />
@@ -203,7 +233,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/dfs/jjs/sjfs/sf/RoMobiSdk.java" timestamp="1563852139692" />
       <file name="E:/Project/Twer/app/src/main/AndroidManifest.xml" timestamp="1563183032561">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -337,8 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1640" column="11" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api/org/gradle/api/Project.java" />
-      <jump line="113" column="0" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="109" column="80" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="100" column="8" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="104" column="24" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
@@ -437,16 +464,18 @@
       <jump line="97" column="39" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
       <jump line="96" column="65" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
       <jump line="37" column="31" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="0" column="0" filename="E:/Project/Gradle_transform/my_replugin_host_gradle/build.gradle" />
+      <jump line="33" column="0" filename="E:/Project/Gradle_transform/my_replugin_host_gradle/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pgm/rt/pg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>lg.myrockyad.com</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>eve_a_trace</text>
@@ -458,49 +487,49 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5JTlRFUk5FVCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5SRUFEX1BIT05FX1NUQVRFIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgZnJvbSB6aXBUcmVlKGZpbGUocHJvamVjdC5wcm9qZWN0RGlyLmFic29sdXRlUGF0aCArICJcXGxpYnNcXHJxX2h3X3YwMS5qYXIiICkpCi8vICAgIGZyb20gemlwVHJlZShmaWxlKHByb2plY3QucHJvamVjdERpci5hYnNvbHV0ZVBhdGggKyAiXFxsaWJzXFxldmVfYV90cmFjZS5qYXIiICkpCg==</text>
+        <text encoding="base64">ICAgcmVwb3NpdG9yeSh1cmw6IHVybCgnZTovcmVwbycpKQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gemlwVHJlZShmaWxlKE9SR0lOQUxfSkFSX1BBVEgpKQogICAgZXhjbHVkZSgnKiovQnVpbGRDb25maWcuY2xhc3MnLCAnKiovTWFpbkFjdGl2aXR5LmNsYXNzJykKICAgIGJhc2VOYW1lICIke0pBUl9OQU1FfS0ke0pBUl9WRVJTSU9OfSIKLy8gICAgYmFzZU5hbWUgIiR7SkFSX1BST0dVQVJEX05BTUV9LSR7SkFSX1ZFUlNJT059IgogICAgZGVzdGluYXRpb25EaXIgZmlsZShKQVJfREVTS19ESVIpCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmFuZHJvaWQubGlicmFyeScKCmFuZHJvaWQgewogICAgY29tcGlsZVNka1ZlcnNpb24gMjgKCgoKICAgIGRlZmF1bHRDb25maWcgewogICAgICAgIG1pblNka1ZlcnNpb24gMTQKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uIDI4CiAgICAgICAgdmVyc2lvbkNvZGUgMQogICAgICAgIHZlcnNpb25OYW1lICIxLjAiCgogICAgICAgIHRlc3RJbnN0cnVtZW50YXRpb25SdW5uZXIgImFuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXRSdW5uZXIiCgogICAgfQoKICAgIGJ1aWxkVHlwZXMgewogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBtaW5pZnlFbmFibGVkIGZhbHNlCiAgICAgICAgICAgIHByb2d1YXJkRmlsZXMgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgncHJvZ3VhcmQtYW5kcm9pZC50eHQnKSwgJ3Byb2d1YXJkLXJ1bGVzLnBybycKICAgICAgICB9CiAgICB9Cgp9CgpkZXBlbmRlbmNpZXMgewogICAgaW1wbGVtZW50YXRpb24gZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6IFsnKi5qYXInXSkKCiAgICBpbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjguMC4wJwogICAgdGVzdEltcGxlbWVudGF0aW9uICdqdW5pdDpqdW5pdDo0LjEyJwogICAgYW5kcm9pZFRlc3RJbXBsZW1lbnRhdGlvbiAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjoxLjAuMicKICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOjMuMC4yJwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LWxpYnJhcnlqYXJzIGxpYnMvZXZlX3RyYWNlLmphcgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
+        <text encoding="base64">PHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5JTlRFUk5FVCIvPgo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb25OdWxsCg==</text>
+        <text encoding="base64">PHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5SRUFEX1BIT05FX1NUQVRFIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk5vbk51bGw7Cg==</text>
+        <text encoding="base64">Ly8gICAgZnJvbSB6aXBUcmVlKGZpbGUocHJvamVjdC5wcm9qZWN0RGlyLmFic29sdXRlUGF0aCArICJcXGxpYnNcXHJxX2h3X3YwMS5qYXIiICkpCi8vICAgIGZyb20gemlwVHJlZShmaWxlKHByb2plY3QucHJvamVjdERpci5hYnNvbHV0ZVBhdGggKyAiXFxsaWJzXFxldmVfYV90cmFjZS5qYXIiICkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s /com\.ecfudl\.utils\.//g</text>
+        <text>% d</text>
       </register>
     </registers>
     <search>
@@ -536,7 +565,6 @@
         <entry>eve_a_trace</entry>
       </history-search>
       <history-cmd>
-        <entry>.,$ y</entry>
         <entry>y.,$</entry>
         <entry>% s/LogUtil/Log/gc</entry>
         <entry>%s/\\t//gc</entry>
@@ -556,6 +584,7 @@
         <entry>%s/com\.lib\.util\.//g</entry>
         <entry>%s /com\.ecfudl\.utils\.//gc</entry>
         <entry>%s /com\.ecfudl\.utils\.//g</entry>
+        <entry>% d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
