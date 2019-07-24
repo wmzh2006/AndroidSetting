@@ -31,6 +31,12 @@
         <mark key="^" line="13" column="73" />
         <mark key="." line="13" column="73" />
       </file>
+      <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyClassTransform.java" timestamp="1563960848865">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="23" column="15" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/assets/ES" timestamp="1562596700725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -361,7 +367,7 @@
         <mark key="^" line="55" column="123" />
         <mark key="." line="55" column="123" />
       </file>
-      <file name="/fragment.java" timestamp="1563439026542">
+      <file name="/fragment.java" timestamp="1563960732765">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -468,14 +474,14 @@
       <jump line="33" column="0" filename="E:/Project/Gradle_transform/my_replugin_host_gradle/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>eve_a_trace</text>
