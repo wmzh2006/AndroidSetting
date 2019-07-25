@@ -85,12 +85,19 @@
       <file name="/LLDB" timestamp="1563369738781">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/Gradle_transform/app/src/main/java/com/baeao/camow/gradle_transform/MainActivity.java" timestamp="1564025716382" />
       <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1563862277209">
         <mark key="'" line="37" column="31" />
         <mark key="[" line="106" column="66" />
         <mark key="]" line="106" column="66" />
         <mark key="." line="106" column="66" />
         <mark key="^" line="93" column="24" />
+      </file>
+      <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyInjects.groovy" timestamp="1564026094284">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+        <mark key="^" line="37" column="35" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -240,6 +247,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/dfs/jjs/sjfs/sf/RoMobiSdk.java" timestamp="1563852139692" />
       <file name="E:/Project/Twer/app/src/main/AndroidManifest.xml" timestamp="1563183032561">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -298,6 +306,13 @@
         <mark key="]" line="44" column="26" />
         <mark key="^" line="44" column="26" />
         <mark key="." line="44" column="26" />
+      </file>
+      <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyClassTransform.groovy" timestamp="1564024994203">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="74" column="38" />
+        <mark key="]" line="74" column="42" />
+        <mark key="." line="74" column="42" />
+        <mark key="^" line="74" column="42" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1563371300991">
         <mark key="[" line="237" column="74" />
@@ -368,12 +383,11 @@
         <mark key="^" line="55" column="123" />
         <mark key="." line="55" column="123" />
       </file>
-      <file name="/fragment.java" timestamp="1563960732765">
+      <file name="/fragment.java" timestamp="1564025009712">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="24" filename="E:/Project/zHooKDemoOK_JniTestWeb/src/main/jni/util.c" />
       <jump line="0" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_39.txt" />
       <jump line="249" column="0" filename="E:/Project/gpjsauto/jnitestwebview/src/main/jni/util.c" />
       <jump line="44" column="39" filename="E:/Project/gpjsauto/jnitestwebview/src/main/jni/util.c" />
@@ -473,67 +487,68 @@
       <jump line="33" column="0" filename="E:/Project/Gradle_transform/my_replugin_host_gradle/build.gradle" />
       <jump line="7" column="0" filename="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyClassTransform.java" />
       <jump line="8" column="0" filename="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyClassTransform.java" />
+      <jump line="75" column="4" filename="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyClassTransform.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>gradle_transform</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>gradle_transform</text>
       </register>
       <register name="/" type="4">
         <text>eve_a_trace</text>
       </register>
-      <register name="0" type="4">
-        <text>pgm/rt/pg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuICI9PT09PT09PT09PT09PT09PT10byBlbnRlciB0cmFuc2Zvcm09PT09PT09PT09PT09PT09Igo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci50cmFuc2Zvcm0odHJhbnNmb3JtSW52b2NhdGlvbik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLlByb2plY3QK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci50cmFuc2Zvcm0odHJhbnNmb3JtSW52b2NhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci50cmFuc2Zvcm0odHJhbnNmb3JtSW52b2NhdGlvbik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cm9qZWN0LmV4dGVuc2lvbnMuY3JlYXRlKCJ0ZXN0Q3JlYXRlSmF2YUNvbmZpZyIsIE15UGx1Z2luVGVzdENsYXNzKQogICAgICAgIGlmIChwcm9qZWN0LnBsdWdpbnMuaGFzUGx1Z2luKEFwcFBsdWdpbikpIHsKICAgICAgICAgICAgYW5kcm9pZC5hcHBsaWNhdGlvblZhcmlhbnRzLmFsbCB7IHZhcmlhbnQgLT4KICAgICAgICAgICAgICAgIGRlZiB2YXJpYW50RGF0YSA9IHZhcmlhbnQudmFyaWFudERhdGEKICAgICAgICAgICAgICAgIGRlZiBzY29wZSA9IHZhcmlhbnREYXRhLnNjb3BlCgogICAgICAgICAgICAgICAgZGVmIGNvbmZpZyA9IHByb2plY3QuZXh0ZW5zaW9ucy5nZXRCeU5hbWUoInRlc3RDcmVhdGVKYXZhQ29uZmlnIikKICAgICAgICAgICAgICAgIGRlZiBjcmVhdGVUYXNrID0gcHJvamVjdC50YXNrKGNyZWF0ZVRhc2tOYW1lKQogICAgICAgICAgICAgICAgY3JlYXRlVGFzay5kb0xhc3QgewogICAgICAgICAgICAgICAgICAgIGNyZWF0ZUphdmVUZXN0KHZhcmlhbnQsIGNvbmZpZykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFN0cmluZyBnZW5lcmF0ZUJ1aWxkQ29uZmlnVGFza05hbWUgPSB2YXJpYW50LmdldFZhcmlhbnREYXRhKCkuZ2V0U2NvcGUoKS5nZXQKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci50cmFuc2Zvcm0odHJhbnNmb3JtSW52b2NhdGlvbik7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZGVmIHZhcmlhbnREYXRhID0gdmFyaWFudC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cm9qZWN0LmV4dGVuc2lvbnMuY3JlYXRlKCJ0ZXN0Q3JlYXRlSmF2YUNvbmZpZyIsIE15UGx1Z2luVGVzdENsYXNzKQogICAgICAgIGlmIChwcm9qZWN0LnBsdWdpbnMuaGFzUGx1Z2luKEFwcFBsdWdpbikpIHsKICAgICAgICAgICAgYW5kcm9pZC5hcHBsaWNhdGlvblZhcmlhbnRzLmFsbCB7IHZhcmlhbnQgLT4KICAgICAgICAgICAgICAgIGRlZiB2YXJpYW50RGF0YSA9IHZhcmlhbnQudmFyaWFudERhdGEKICAgICAgICAgICAgICAgIGRlZiBzY29wZSA9IHZhcmlhbnREYXRhLnNjb3BlCgogICAgICAgICAgICAgICAgZGVmIGNvbmZpZyA9IHByb2plY3QuZXh0ZW5zaW9ucy5nZXRCeU5hbWUoInRlc3RDcmVhdGVKYXZhQ29uZmlnIikKICAgICAgICAgICAgICAgIGRlZiBjcmVhdGVUYXNrID0gcHJvamVjdC50YXNrKGNyZWF0ZVRhc2tOYW1lKQogICAgICAgICAgICAgICAgY3JlYXRlVGFzay5kb0xhc3QgewogICAgICAgICAgICAgICAgICAgIGNyZWF0ZUphdmVUZXN0KHZhcmlhbnQsIGNvbmZpZykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFN0cmluZyBnZW5lcmF0ZUJ1aWxkQ29uZmlnVGFza05hbWUgPSB2YXJpYW50LmdldFZhcmlhbnREYXRhKCkuZ2V0U2NvcGUoKS5nZXQKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgcmVwb3NpdG9yeSh1cmw6IHVybCgnZTovcmVwbycpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZGVmIHZhcmlhbnREYXRhID0gdmFyaWFudC4K</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
