@@ -55,12 +55,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1564472737321">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1564487297549">
         <mark key="'" line="190" column="97" />
-        <mark key="[" line="392" column="48" />
-        <mark key="]" line="392" column="48" />
-        <mark key="." line="392" column="48" />
-        <mark key="^" line="392" column="51" />
+        <mark key="[" line="393" column="89" />
+        <mark key="]" line="393" column="89" />
+        <mark key="." line="393" column="89" />
+        <mark key="^" line="393" column="47" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -97,7 +97,7 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1564485885416" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1564487385784" />
       <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/BaseContext.java" timestamp="1563439144296">
         <mark key="[" line="118" column="15" />
         <mark key="]" line="118" column="15" />
@@ -271,11 +271,11 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1564485905204">
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1564487399198">
         <mark key="'" line="199" column="78" />
-        <mark key="[" line="190" column="36" />
-        <mark key="]" line="190" column="36" />
-        <mark key="." line="190" column="36" />
+        <mark key="[" line="190" column="54" />
+        <mark key="]" line="190" column="55" />
+        <mark key="." line="190" column="55" />
         <mark key="^" line="200" column="17" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2019072314/README.txt" timestamp="1563862456465">
@@ -458,13 +458,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">IHx8IG1zZy5zdGFydHNXaXRoKCJVbnNhZmUiKSk=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IHx8IG1zZy5zdGFydHNXaXRoKCJVbnNhZmUiKSk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxORVdfS0VZX1dPUkRcPg==</text>
@@ -476,46 +476,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobVdlYnZpZXdfQmVhbi5pc0xvZ0JlYW4oKSkgewo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiLm9uRXZlbnQobUNvbnRleHQsICJjbSIsICIiK2NtLnNvdXJjZUlkKCksICJsaW5lOiIrY20ubGluZU51bWJlcigpLCAiIitjbS5tZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCUxvZy5kKCJNeUFwcGxpY2F0aW9uIiwgY20ubWVzc2FnZSgpICsgIiAtLSBGcm9tIGxpbmUgIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGIub25FdmVudChtQ29udGV4dCwgImNtIiwgIiIrY20uc291cmNlSWQoKSwgImxpbmU6IitjbS5saW5lTnVtYmVyKCksICIiK2NtLm1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLm9uQ29uc29sZU1lc3NhZ2UoY20pOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgsObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6EK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI5ODI2MjkvYXJ0aWNsZS9kZXRhaWxzLzgyMTE2NjQ2IAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
