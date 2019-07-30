@@ -321,11 +321,10 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1563371300991">
-        <mark key="[" line="237" column="74" />
-        <mark key="]" line="237" column="71" />
-        <mark key="." line="237" column="71" />
-        <mark key="^" line="237" column="71" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1564450096100">
+        <mark key="[" line="193" column="145" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2019072314/README.txt" timestamp="1563862456465">
         <mark key="[" line="14" column="0" />
@@ -506,13 +505,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">VmlldyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPRkZFUl9VUkxcPg==</text>
@@ -524,47 +523,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAucjYwOTQK</text>
+        <text encoding="base64">ICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zIGxheW91dFBhcmFtcyA9IG5ldyBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PDw8PDw8PCAubWluZQoJcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTk9USUZJQ0FUSU9OX0FDVElPTiA9ICJjb20uZmNiby5lam56IjsKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9OTyA9ICI0MDk5IjsKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9TRCA9ICI4NjUxNiI7CglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBLRVlfVElNRSA9ICIyODkyNzIiOwp8fHx8fHx8IC5yNjA5MAoJcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTk9USUZJQ0FUSU9OX0FDVElPTiA9ICJjb20uYml1eC5wa2Flbi5icnh0IjsKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9OTyA9ICI5MzEwIjsKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9TRCA9ICI1Mjg3NCI7CglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBLRVlfVElNRSA9ICI3ODc4MTAiOwo9PT09PT09</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFtZUxheW91dC5hCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZUxheW91dC5hZGRWaWV3KHdlYlZpZXcsIG5ldyBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zKFZpZXdHcm91cC5MYXlvdXRQYXJhbXMuTUFUQ0hfUEFSRU5ULCBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zLk1BVENIX1BBUkVOVCkpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text>||||||| .r6090
-	public static final String NOTIFICATION_ACTION = &quot;com.biux.pkaen.brxt&quot;;
-	public static final String KEY_NO = &quot;9310&quot;;
-	public static final String KEY_SD = &quot;52874&quot;;
-	public static final String KEY_TIME = &quot;787810&quot;;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PT09PT09PQoJcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTk9USUZJQ0FUSU9OX0FDVElPTiA9ICJjb20uZmtnbS5pcG9kIjsKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9OTyA9ICI4Nzk4IjsKCXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9TRCA9ICI2OTUwNCI7CglwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBLRVlfVElNRSA9ICI3MjkyMDEiOwo+Pj4+Pj4+IC5yNjA5NA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
