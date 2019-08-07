@@ -34,6 +34,11 @@
         <mark key="." line="74" column="47" />
         <mark key="^" line="74" column="53" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1565154334141">
+        <mark key="[" line="444" column="9" />
+        <mark key="]" line="364" column="0" />
+        <mark key="." line="364" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/buildAAR.bat" timestamp="1563266061535">
         <mark key="[" line="0" column="98" />
         <mark key="]" line="0" column="98" />
@@ -98,7 +103,7 @@
         <mark key="^" line="76" column="50" />
         <mark key="." line="76" column="49" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1564992838868" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1565154418761" />
       <file name="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/BaseContext.java" timestamp="1563439144296">
         <mark key="[" line="118" column="15" />
         <mark key="]" line="118" column="15" />
@@ -183,6 +188,13 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="72" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/jni/Application.mk" timestamp="1565154345960">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1565154072184" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/Protect.class" timestamp="1564470603114" />
       <file name="E:/Project/Magic/app/src/main/java/com/irone/taomue/magic/StartService.java" timestamp="1564474534376">
         <mark key="[" line="11" column="42" />
@@ -253,19 +265,13 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/jni/util.c" timestamp="1564985574393">
-        <mark key="[" line="82" column="33" />
-        <mark key="]" line="82" column="38" />
-        <mark key="." line="82" column="38" />
-        <mark key="^" line="82" column="38" />
-      </file>
       <file name="E:/Project/gpjsauto/de/src/main/java/f/d.java" timestamp="1563371125846">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="50" />
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1564454872659">
+      <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1565154442219">
         <mark key="[" line="44" column="25" />
         <mark key="]" line="44" column="26" />
         <mark key="^" line="44" column="26" />
@@ -277,7 +283,7 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1564994078482">
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1565154426155">
         <mark key="'" line="203" column="78" />
         <mark key="[" line="200" column="63" />
         <mark key="]" line="200" column="66" />
@@ -314,10 +320,10 @@
         <mark key="^" line="249" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1565146821539">
-        <mark key="[" line="124" column="47" />
-        <mark key="]" line="124" column="46" />
-        <mark key="^" line="124" column="46" />
-        <mark key="." line="124" column="46" />
+        <mark key="[" line="123" column="47" />
+        <mark key="]" line="123" column="46" />
+        <mark key="^" line="123" column="46" />
+        <mark key="." line="123" column="46" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1564992563643">
         <mark key="[" line="177" column="0" />
@@ -351,7 +357,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/jni/Application.mk" timestamp="1565151603881">
+      <file name="E:/Project/gpjsauto/jnitestwebview/src/main/jni/Application.mk" timestamp="1565152832501">
         <mark key="[" line="1" column="36" />
       </file>
     </filemarks>
@@ -459,13 +465,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/*&quot;&quot;*/&quot;com.android.browser&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>/*&quot;&quot;*/&quot;com.android.browser&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SubscriptionManager</text>
