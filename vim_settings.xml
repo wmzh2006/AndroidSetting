@@ -54,7 +54,7 @@
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1565424509544" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1565426710843" />
       <file name="E:/Project/gpjsauto/local.properties" timestamp="1565263062495" />
       <file name="E:/Project/gpjsauto/jnitestwebview/CMakeLists.txt" timestamp="1565234575808" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyPoints.java" timestamp="1565420843643">
@@ -90,11 +90,11 @@
         <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/rOOTSDK_Plugin_onlyjsauto-release2352467705402170097.aar4202016953005962528/classes.jar!/com/fhyc/vuyq/cwor/di.class" timestamp="1565183073252" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1565422572487">
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="75" column="48" />
-        <mark key="." line="75" column="48" />
-        <mark key="^" line="75" column="48" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1565427124623">
+        <mark key="[" line="81" column="79" />
+        <mark key="]" line="81" column="79" />
+        <mark key="." line="81" column="79" />
+        <mark key="^" line="81" column="79" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/Protect.class" timestamp="1564470603114" />
       <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyPlugin.groovy" timestamp="1564023186100">
@@ -117,11 +117,11 @@
         <mark key="^" line="71" column="66" />
         <mark key="." line="71" column="63" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1565424519167">
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1565426727458">
         <mark key="'" line="204" column="78" />
-        <mark key="[" line="189" column="30" />
-        <mark key="]" line="189" column="27" />
-        <mark key="." line="189" column="27" />
+        <mark key="[" line="189" column="36" />
+        <mark key="]" line="189" column="36" />
+        <mark key="." line="189" column="36" />
         <mark key="^" line="189" column="27" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1564379841380">
@@ -186,12 +186,12 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/c.java" timestamp="1565318528624">
         <mark key="[" line="14" column="50" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1565424324659">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1565426184745">
         <mark key="'" line="518" column="94" />
-        <mark key="[" line="519" column="37" />
-        <mark key="]" line="519" column="37" />
-        <mark key="." line="519" column="37" />
-        <mark key="^" line="519" column="36" />
+        <mark key="[" line="513" column="38" />
+        <mark key="]" line="513" column="56" />
+        <mark key="." line="513" column="56" />
+        <mark key="^" line="513" column="56" />
       </file>
       <file name="E:/Project/gpjsauto/jnitestwebview/src/main/jni/Android.mk" timestamp="1565233206315" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/BaseContext.java" timestamp="1565231399144" />
@@ -410,69 +410,66 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>WebViewUtil.getInstance(mContext).resultWVchange</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>.init</text>
       </register>
       <register name="/" type="4">
         <text>destory</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2V5UG9pbnRzLm9uRXZlbnQobUNvbnRleHQsICI1IiwgIiIrdXJsKTsK</text>
+      <register name="0" type="4">
+        <text>WebViewUtil.getInstance(mContext).resultWVchange</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZSAqPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlZ2luUnVuT2ZmZXIoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZSAqPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb20udHBndG8udHBzZ3QucWpmcXcuUWtxU2RrLmluaXQK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text>if (){
-            
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL7XItchzb7SmwO3N6rPJCg==</text>
       </register>
       <register name="5" type="4">
-        <text>try {
-                Thread.sleep(500);
-            } catch (Exception ignore) {
-            }</text>
+        <text encoding="base64">ICAgICAgICBpbnQgTUFYX1NMRUVQID0gNjAwOwogICAgICAgIGludCBiYXNlID0gNTA7CiAgICAgICAgZG8gewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKGJhc2UpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gaWdub3JlKSB7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGJhc2UgKj0gMjsKICAgICAgICAgICAgTG9nLmUoInRhZyIsICJ3YWl0IHNvIHByb2Nlc3MiKTsKICAgICAgICB9IHdoaWxlIChXZWJWaWV3VXRpbC5nZXRJbnN0YW5jZShtQ29udGV4dCkucmVzdWx0V1ZjaGFuZ2UgPT0gbnVsbCAmJiBiYXNlIDwgTUFYX1NMRUVQKTs=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBLZXlQb2ludHMub25FdmVudChtQ29udGV4dCwgIjQiLCAiIittV2Vidmlld19CZWFuLmdldHVybF9Mb2FkUGFnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZSAqPSAyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgS2V5UG9pbnRzLm9uRXZlbnQobUNvbnRleHQsICIzX2V4IiwgIiIrZS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZSAqPSAyOwo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFdlYlZpZXdVdGlsLmdldEluc3RhbmNlKG1Db250ZXh0KS5yZXN1bHRXVmNoYW5nZSA9PSBudWxsKXsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDUwMCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gaWdub3JlKSB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+        <text>if (){
+            
+        }</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
