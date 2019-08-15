@@ -60,11 +60,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/libs/hinfo.jar!/com/honor/claim/phoneinfo/Processor.class" timestamp="1565321180606" />
-      <file name="E:/Project/gpjsauto/demo/src/androidTest/java/com/honor/claim/testwifi/ExampleInstrumentedTest.java" timestamp="1564716892793">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="40" />
-        <mark key="^" line="31" column="40" />
+      <file name="E:/Project/gpjsauto/demo/src/androidTest/java/com/honor/claim/testwifi/ExampleInstrumentedTest.java" timestamp="1565839129968">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="35" />
+        <mark key="^" line="36" column="35" />
       </file>
       <file name="/util.c" timestamp="1565248284840" />
       <file name="E:/Project/Gradle_transform/my_replugin_host_gradle/src/main/groovy/com/ljq/myreplugin/gradle/MyInjects.groovy" timestamp="1564036413362">
@@ -534,11 +534,12 @@
         <mark key="." line="128" column="41" />
         <mark key="^" line="128" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/test/java/com/honor/claim/testwifi/ExampleUnitTest.java" timestamp="1565835852129">
-        <mark key="[" line="502" column="35" />
-        <mark key="]" line="502" column="35" />
-        <mark key="." line="502" column="35" />
-        <mark key="^" line="502" column="7" />
+      <file name="E:/Project/gpjsauto/demo/src/test/java/com/honor/claim/testwifi/ExampleUnitTest.java" timestamp="1565838698896">
+        <mark key="'" line="25" column="62" />
+        <mark key="[" line="529" column="9" />
+        <mark key="]" line="530" column="22" />
+        <mark key="^" line="530" column="22" />
+        <mark key="." line="530" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_48.txt" timestamp="1564468600133">
         <mark key="[" line="2" column="31" />
@@ -563,7 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="659" column="118" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="661" column="141" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="667" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="471" column="123" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/Reflect.java" />
@@ -663,16 +663,17 @@
       <jump line="390" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="197" column="7" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
       <jump line="216" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
+      <jump line="25" column="62" filename="E:/Project/gpjsauto/demo/src/test/java/com/honor/claim/testwifi/ExampleUnitTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HashSet</text>
+        <text>balck</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>HashSet</text>
+        <text>balck</text>
       </register>
       <register name="/" type="4">
         <text>overried</text>
@@ -684,43 +685,43 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9ucyA9IFNvcnQK</text>
+        <text encoding="base64">ICAgICAgICBSdW5uCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVnZXggPSAiLipDaHJvbWUvKFtcZFwuXSspIjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0ubWF0Y2hlcygpICsgIjp2ZXJzaW9uICIgKyB2ZXJzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbWV0ZXJpemVkLlBhcmFtZXRlciAK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmxvYWRVcmwoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModmVyc2lvbiwgIjc2LjAuMzgwOS44OSIpOwo=</text>
+        <text encoding="base64">ICAgICAgIHN0YXRpYyBTdHJpbmcgdmVyc2lvbiA9IG51bGw7IAo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9ucyA9IFNvcnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBhc3NlcnRFcXVhbHMobS5ncm91cCgxKSwgIjc2LjAuMzgwOS44OSIpOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0ubWF0Y2hlcygpICsgIjp2ZXJzaW9uICIgKyB2ZXJzaW9uKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
