@@ -54,6 +54,11 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="42" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/nqjqq/brwqt/JtdiService.java" timestamp="1566206258302">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/wvmnpi/sgzkl/chgSdk.java" timestamp="1563193677910">
         <mark key="[" line="74" column="47" />
         <mark key="]" line="74" column="47" />
@@ -126,7 +131,7 @@
         <mark key="^" line="76" column="50" />
         <mark key="." line="76" column="49" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1566203889485" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1566206325341" />
       <file name="E:/web/app/build.gradle" timestamp="1565960256877">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="29" />
@@ -195,6 +200,11 @@
         <mark key="]" line="14" column="56" />
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="56" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/giosl/xucr/BviService.java" timestamp="1566206886188">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/de/src/main/AndroidManifest.xml" timestamp="1563371018933">
         <mark key="[" line="7" column="7" />
@@ -377,7 +387,7 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="23" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1566203905916">
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1566206334471">
         <mark key="'" line="97" column="78" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -562,8 +572,8 @@
       <jump line="236" column="105" filename="E:/web/app/src/main/java/com/weimeijing/web/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>soTotalNameStr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -581,46 +591,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4X3dlYlZpZXcubG9hZFVybChnb1VybCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleF93ZWJWaWV3Lgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgb25TdGFydENvbW1hbmQoSW50ZW50IGludGVudCwgaW50IGZsYWdzLCBpbnQgc3RhcnRJZCkgewogICAgICAgIHJldHVybiBzdXBlci5vblN0YXJ0Q29tbWFuZChpbnRlbnQsIGZsYWdzLCBzdGFydElkKTsKICAgIH0=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3Yi5yZW1vdmVBbGxWaWV3cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3Yi5hZGRhdXRvUHJvY2Vzcy5pbml0V2ViVmlldygpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBvblN0YXJ0Q29tbWFuZChJbnRlbnQgaW50ZW50LCBpbnQgZmxhZ3MsIGludCBzdGFydElkKSB7CiAgICAgICAgaW50IHJldCA9IHN1cGVyLm9uU3RhcnRDb21tYW5kKGludGVudCwgZmxhZ3MsIHN0YXJ0SWQpOwovLyAgICAgICAgTG9nLmUoIndhbmdoYW5nIiwgdGhpcy5oYXNoQ29kZSgpICsgICIgb25TdGFydENvbW1hbmQgIisgdGhpcyk7CiAgICAgICAgcmV0dXJuIHJldDsKICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRvV2Vidmlldy5zaG93TVl3ZWJ2aWV3KEFfVVJMX05BTUUwLGNvbnRleHRBY3Rpdml0eSx0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4X3dlYlZpZXcubG9hZFVybChnb1VybCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBX1VSTF9OQU1FMCA9IGV0LjsK</text>
+        <text encoding="base64">ICAgICAgICBpbmRleF93ZWJWaWV3Lgo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25SaWdodD0iQCtpZC9vcGVuIgo=</text>
+        <text encoding="base64">ICAgICAgICB3Yi5yZW1vdmVBbGxWaWV3cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
