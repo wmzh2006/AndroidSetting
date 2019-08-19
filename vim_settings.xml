@@ -435,6 +435,13 @@
         <mark key="." line="128" column="41" />
         <mark key="^" line="128" column="41" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1566212163740">
+        <mark key="'" line="872" column="16" />
+        <mark key="[" line="870" column="127" />
+        <mark key="]" line="870" column="115" />
+        <mark key="." line="870" column="115" />
+        <mark key="^" line="870" column="115" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/f/MsService.java" timestamp="1565337031565">
         <mark key="[" line="69" column="35" />
         <mark key="]" line="69" column="35" />
@@ -470,9 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="123" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/Reflect.java" />
-      <jump line="86" column="56" filename="E:/Project/gpjsauto/jnitestwebview/src/main/java/com/dc/my/jnitest/MainActivity.java" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_44.txt" />
       <jump line="97" column="39" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
       <jump line="96" column="65" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
       <jump line="37" column="31" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
@@ -570,40 +574,43 @@
       <jump line="25" column="62" filename="E:/Project/gpjsauto/demo/src/test/java/com/honor/claim/testwifi/ExampleUnitTest.java" />
       <jump line="975" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="236" column="105" filename="E:/web/app/src/main/java/com/weimeijing/web/MainActivity.java" />
+      <jump line="739" column="32" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="840" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="850" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+errorMsg</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>soTotalNameStr</text>
+        <text>+errorMsg</text>
       </register>
       <register name="/" type="4">
-        <text>overried</text>
+        <text>getG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9hcHBseSBwbHVnaW46ICdjb20uYW5kcm9pZC5hcHBsaWNhdGlvbicK</text>
+        <text encoding="base64">CQkJCSAgICBMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgImdwUmVzdWx0IiwgIiIsICIiK2NvZGUsICIiK2Vycm9yTXNnKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSAgICBMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgbSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgb25TdGFydENvbW1hbmQoSW50ZW50IGludGVudCwgaW50IGZsYWdzLCBpbnQgc3RhcnRJZCkgewogICAgICAgIHJldHVybiBzdXBlci5vblN0YXJ0Q29tbWFuZChpbnRlbnQsIGZsYWdzLCBzdGFydElkKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQlzdXBlci5vbkZhaWxlZChjb2RlLCBlcnJvck1zZyk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlzdXBlci5vblN1Y2Nlc3MocmF3KTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -612,34 +619,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBvblN0YXJ0Q29tbWFuZChJbnRlbnQgaW50ZW50LCBpbnQgZmxhZ3MsIGludCBzdGFydElkKSB7CiAgICAgICAgaW50IHJldCA9IHN1cGVyLm9uU3RhcnRDb21tYW5kKGludGVudCwgZmxhZ3MsIHN0YXJ0SWQpOwovLyAgICAgICAgTG9nLmUoIndhbmdoYW5nIiwgdGhpcy5oYXNoQ29kZSgpICsgICIgb25TdGFydENvbW1hbmQgIisgdGhpcyk7CiAgICAgICAgcmV0dXJuIHJldDsKICAgIH0=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgb25TdGFydENvbW1hbmQoSW50ZW50IGludGVudCwgaW50IGZsYWdzLCBpbnQgc3RhcnRJZCkgewogICAgICAgIHJldHVybiBzdXBlci5vblN0YXJ0Q29tbWFuZChpbnRlbnQsIGZsYWdzLCBzdGFydElkKTsKICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4X3dlYlZpZXcubG9hZFVybChnb1VybCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleF93ZWJWaWV3Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBvblN0YXJ0Q29tbWFuZChJbnRlbnQgaW50ZW50LCBpbnQgZmxhZ3MsIGludCBzdGFydElkKSB7CiAgICAgICAgaW50IHJldCA9IHN1cGVyLm9uU3RhcnRDb21tYW5kKGludGVudCwgZmxhZ3MsIHN0YXJ0SWQpOwovLyAgICAgICAgTG9nLmUoIndhbmdoYW5nIiwgdGhpcy5oYXNoQ29kZSgpICsgICIgb25TdGFydENvbW1hbmQgIisgdGhpcyk7CiAgICAgICAgcmV0dXJuIHJldDsKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3Yi5yZW1vdmVBbGxWaWV3cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4X3dlYlZpZXcubG9hZFVybChnb1VybCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
       </register>
     </registers>
     <search>
-      <last-search>overried</last-search>
+      <last-search>getG</last-search>
       <last-offset />
-      <last-pattern>overried</last-pattern>
+      <last-pattern>getG</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -647,7 +654,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WebChromeClient</entry>
         <entry>jsContent</entry>
         <entry>getJs</entry>
         <entry>Lemon_Plugin</entry>
@@ -667,6 +673,7 @@
         <entry>destory</entry>
         <entry>onPageStart</entry>
         <entry>overried</entry>
+        <entry>getG</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
