@@ -47,11 +47,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core/org/gradle/api/tasks/Copy.java" timestamp="1566291309923" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo2/build.gradle" timestamp="1566280277838" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1566299953973">
-        <mark key="'" line="753" column="63" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1566360109617">
+        <mark key="'" line="752" column="20" />
+        <mark key="[" line="836" column="65" />
+        <mark key="]" line="836" column="65" />
+        <mark key="." line="836" column="65" />
+        <mark key="^" line="830" column="80" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/f/c0.java" timestamp="1566287432812" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/src/main/java/com/android/providers/certinstaller/com/HttpRunner.java" timestamp="1566273148206" />
@@ -104,12 +105,6 @@
       <file name="/Dummy.txt" timestamp="1565959144380">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1565929390249">
-        <mark key="'" line="1002" column="4" />
-        <mark key="[" line="562" column="93" />
-        <mark key="]" line="726" column="17" />
-        <mark key="." line="726" column="17" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/eve_trace/build.gradle" timestamp="1566291848426">
         <mark key="[" line="30" column="36" />
         <mark key="]" line="30" column="36" />
@@ -141,10 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="71" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="257" column="36" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="386" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="32" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="190" column="97" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="607" column="41" filename="E:/Project/gpjsauto/jnitestwebview/src/main/jni/util.c" />
       <jump line="706" column="21" filename="E:/Project/gpjsauto/jnitestwebview/src/main/jni/util.c" />
@@ -241,22 +232,26 @@
       <jump line="779" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="777" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="778" column="63" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="837" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="753" column="63" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="754" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="752" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+captchaId</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>+captchaId</text>
       </register>
       <register name="/" type="4">
         <text>otp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWEgPSAiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDk7IFNNLUE1MDVGTiBCdWlsZC9QUFIxLjE4MDYxMC4wMTE7V3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS83MS4wLjM1NzguOTkgTW9iaWxlIFNhZmFyaS81MzcuMzYiOwo=</text>
+        <text encoding="base64">CQkJCQlMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgImdwUmVzdWx0IiwgIiIrY2FwdGNoYUlkLCAiIitnQ2FwdGNoYSwgIiIpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
