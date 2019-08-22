@@ -49,6 +49,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/happymoc/src/main/AndroidManifest.xml" timestamp="1566463527023" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/dfs/jjs/sjfs/sf/T.java" timestamp="1563852346265">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="26" />
@@ -383,6 +384,12 @@
       <file name="/Dummy.txt" timestamp="1566390822581">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/happymoc/src/main/java/com/diowa/orbose/happymoc/MainService.java" timestamp="1566463249267">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+      </file>
       <file name="E:/Project/gpjsauto/de/src/main/java/f/d.java" timestamp="1563371125846">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="50" />
@@ -421,6 +428,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/happymoc/build.gradle" timestamp="1566462989134">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="E:/Project/Magic/app/src/main/java/com/irone/taomue/magic/App.java" timestamp="1564474421090">
         <mark key="[" line="10" column="28" />
@@ -600,14 +612,14 @@
       <jump line="181" column="26" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ntext</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LogcatAction</text>
+        <text>ntext</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -631,33 +643,31 @@
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text>if (!JSAutoConfig.openLog) {
-							JSAutoConfig.openLog = true;
-						}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleVBvaW50cy5vbkV2ZW50KG1Db250ZXh0LCAib25SRXJyb3IiLCBtQ3VycmVudFdWRmVlZGJhY2spOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBLZXlQb2ludHMub25FdmVudChtQ29udGV4dCwgIjQiLCAiIiArIG1XZWJ2aWV3X0JlYW4uZ2V0dXJsX0xvYWRQYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBLZXlQb2ludHMub25FdmVudChtQ29udGV4dCwgIjgiLCAiIiArIG1XZWJ2aWV3X0JlYW4uZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLktleVBvaW50czsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
