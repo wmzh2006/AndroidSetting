@@ -246,10 +246,10 @@
         <mark key="^" line="41" column="96" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1566453743706">
-        <mark key="[" line="539" column="0" />
-        <mark key="]" line="539" column="0" />
-        <mark key="^" line="84" column="20" />
-        <mark key="." line="539" column="0" />
+        <mark key="[" line="540" column="0" />
+        <mark key="]" line="540" column="0" />
+        <mark key="^" line="85" column="20" />
+        <mark key="." line="540" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1565322537109">
         <mark key="[" line="120" column="70" />
@@ -446,7 +446,7 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566563452418">
+      <file name="/Dummy.txt" timestamp="1566639272989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/happymoc/src/main/java/com/diowa/orbose/happymoc/MainService.java" timestamp="1566463249267">
@@ -670,7 +670,7 @@
         <text encoding="base64">b3BlbkxvZyA=</text>
       </register>
       <register name="/" type="4">
-        <text>overurl</text>
+        <text>inter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQlKU0F1dG9Db25maWcub3BlbkxvZyA9IGpzb24ub3B0SW50KFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYkc5biIpLCAwKSA9PSAxOy8vbG9nCg==</text>
@@ -725,9 +725,9 @@
       </register>
     </registers>
     <search>
-      <last-search>overurl</last-search>
-      <last-offset />
-      <last-pattern>overurl</last-pattern>
+      <last-search>inter</last-search>
+      <last-offset>isShouldIntercept</last-offset>
+      <last-pattern>inter</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -735,7 +735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>WebviewAutoProcess</entry>
         <entry encoding="base64">XDxjaGVja0ZpbmlzaEJ5VXJsXD4=</entry>
         <entry>beginload</entry>
         <entry>begignLoad</entry>
@@ -755,6 +754,7 @@
         <entry>initWebView</entry>
         <entry>onPageStart</entry>
         <entry>overurl</entry>
+        <entry>inter</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
