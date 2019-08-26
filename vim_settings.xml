@@ -273,8 +273,8 @@
         <mark key="." line="41" column="96" />
         <mark key="^" line="41" column="96" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1566789709279">
-        <mark key="'" line="214" column="8" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1566821375625">
+        <mark key="'" line="544" column="22" />
         <mark key="[" line="205" column="22" />
         <mark key="]" line="205" column="22" />
         <mark key="^" line="196" column="30" />
@@ -684,7 +684,6 @@
       <jump line="482" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="483" column="53" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="492" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="544" column="53" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="555" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="596" column="68" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="609" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -697,6 +696,7 @@
       <jump line="203" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="204" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="213" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="544" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -709,7 +709,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>inter</text>
+        <text>workInner</text>
       </register>
       <register name="0" type="4">
         <text>shouldInterceptRequest</text>
@@ -764,9 +764,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inter</last-search>
-      <last-offset>isShouldIntercept</last-offset>
-      <last-pattern>inter</last-pattern>
+      <last-search>workInner</last-search>
+      <last-offset />
+      <last-pattern>workInner</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -774,8 +774,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja0ZpbmlzaEJ5VXJsXD4=</entry>
-        <entry>beginload</entry>
         <entry>begignLoad</entry>
         <entry encoding="base64">XDxiZWdpbkxvYWRcPg==</entry>
         <entry>destory</entry>
@@ -794,6 +792,8 @@
         <entry>onPageStart</entry>
         <entry>overurl</entry>
         <entry>inter</entry>
+        <entry>workInter</entry>
+        <entry>workInner</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
