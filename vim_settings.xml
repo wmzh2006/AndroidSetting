@@ -260,11 +260,12 @@
         <mark key="." line="41" column="96" />
         <mark key="^" line="41" column="96" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1566640989257">
-        <mark key="[" line="147" column="19" />
-        <mark key="]" line="147" column="19" />
-        <mark key="^" line="72" column="20" />
-        <mark key="." line="147" column="19" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1566788523843">
+        <mark key="'" line="140" column="53" />
+        <mark key="[" line="206" column="82" />
+        <mark key="]" line="206" column="82" />
+        <mark key="^" line="206" column="82" />
+        <mark key="." line="206" column="82" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1565322537109">
         <mark key="[" line="120" column="70" />
@@ -572,12 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="840" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="850" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="678" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="679" column="10" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="33" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_lib/build.gradle" />
-      <jump line="209" column="26" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="921" column="28" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="394" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="401" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -672,22 +667,28 @@
       <jump line="108" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="176" column="70" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="195" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="148" column="65" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="151" column="51" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="152" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="153" column="51" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="164" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="139" column="53" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.myps.util.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
       </register>
       <register name="0" type="4">
-        <text>useMyHttpSend</text>
+        <text>shouldInterceptRequest</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
