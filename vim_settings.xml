@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1566800087435" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/gradle.properties" timestamp="1566281264699">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -25,6 +26,11 @@
         <mark key="]" line="17" column="26" />
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="26" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1566799938814">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1566549631025">
         <mark key="[" line="3" column="23" />
@@ -249,6 +255,7 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/zomz/omaz/moao/PluginUtil.java" timestamp="1566799924985" />
       <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1566379753473">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="41" />
@@ -310,6 +317,7 @@
         <mark key="." line="0" column="98" />
         <mark key="^" line="0" column="107" />
       </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/jp/wamo/amo/dcloader/MainActivity.java" timestamp="1566800024382" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/build.gradle" timestamp="1566552330017">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="24" />
@@ -675,8 +683,8 @@
       <jump line="213" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXhtaW5kLmRiLlNhY0luaXQ7Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -694,37 +702,37 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tYXhtaW5kLmRiLlNhY0luaXQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQlMb2cuZSgidGFnIiwgIm9wZW5sb2c6ICIgKyBKU0F1dG9Db25maWcub3BlbkxvZyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkJCQkJCQlMb2cuZSgidGFnIiwgIm9wZW5sb2c6ICIgKyBKU0F1dG9Db25maWcub3BlbkxvZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAibm90aWZ5IiwgInNpemU6IisgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuc2l6ZSgpLCAiY29kZToiK2NvZGUrIixudToiK3NlbmRlciwgIiIrY29udGVudFRleHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChjb250ZXh0LCAibm90aWZ5IiwgInNpemU6IisgU21zU3RvcmVNYW5hZ2VyLmdldEluc3RhbmNlKCkuc2l6ZSgpLCAiY29kZToiK2NvZGUrIixudToiK3NlbmRlciwgIiIrY29udGVudFRleHQpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
@@ -733,7 +741,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQliZWdpbkxvYWQodmlldywgalNjICk7CgkJCQkJCS8vCQlNc1NlcnZpY2Uub25FdmVudChtQ29udGV4dCwgImluanMiLCAiIiArIHVybCwgIiIsICIiKTsKCQkJCQkJCQltV2Vidmlld19CZWFuLm9uT3RoZXJFdmVudChtQ29udGV4dCwgdmlldywgdXJsLCJpbmpzIiwgdXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
