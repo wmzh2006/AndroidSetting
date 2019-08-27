@@ -64,11 +64,11 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="40" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/f/MsService.java" timestamp="1566563459694">
-        <mark key="[" line="962" column="7" />
-        <mark key="]" line="962" column="40" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/f/MsService.java" timestamp="1566893339735">
+        <mark key="[" line="962" column="32" />
+        <mark key="]" line="962" column="32" />
         <mark key="^" line="962" column="40" />
-        <mark key="." line="962" column="40" />
+        <mark key="." line="962" column="32" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1562643870953">
         <mark key="[" line="12" column="26" />
@@ -254,10 +254,10 @@
         <mark key="." line="29" column="56" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1566892161851">
-        <mark key="[" line="512" column="70" />
-        <mark key="]" line="512" column="65" />
-        <mark key="." line="512" column="65" />
-        <mark key="^" line="512" column="65" />
+        <mark key="[" line="510" column="70" />
+        <mark key="]" line="510" column="65" />
+        <mark key="." line="510" column="65" />
+        <mark key="^" line="510" column="65" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/dfs/jjs/sjfs/sf/adm.java" timestamp="1566784870541">
         <mark key="^" line="377" column="111" />
@@ -722,14 +722,14 @@
       <jump line="544" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MsService</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>gCaptcha</text>
+        <text>MsService</text>
       </register>
       <register name="/" type="4">
         <text>workInner</text>
