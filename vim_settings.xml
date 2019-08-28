@@ -127,6 +127,9 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1566975664102">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1566642750734">
         <mark key="[" line="117" column="51" />
       </file>
@@ -413,7 +416,7 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1566974816623">
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1566976157650">
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
@@ -469,6 +472,11 @@
         <mark key="]" line="5" column="26" />
         <mark key="^" line="5" column="26" />
         <mark key="." line="5" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.txt" timestamp="1566976887232">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/Project/Twer/app/src/main/AndroidManifest.xml" timestamp="1563183032561">
         <mark key="[" line="40" column="0" />
@@ -582,6 +590,12 @@
         <mark key="]" line="327" column="50" />
         <mark key="^" line="327" column="50" />
         <mark key="." line="327" column="50" />
+      </file>
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/AutoWebview.java" timestamp="1566976373516">
+        <mark key="[" line="94" column="66" />
+        <mark key="]" line="94" column="64" />
+        <mark key="^" line="94" column="64" />
+        <mark key="." line="94" column="64" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1566810977370">
         <mark key="[" line="122" column="121" />
@@ -724,7 +738,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -742,46 +756,54 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCgkJsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obhSZXjStsi7obm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIGJ5LXNhsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCgkJ1K3OxMG0vdOjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8yODg0NDk0Ny9hcnRpY2xlL2RldGFpbHMvNzUyODQ1NDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQk4NTA2MTEK</text>
+      <register name="3" type="4">
+        <text>HTTP/1.1 200 OK
+X-Powered-By: JSP/2.2
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Set-Cookie: JSESSIONID=70269c01a4ba68ba82fd40f8ee2f.ins1; Path=/ish; HttpOnly
+Content-Language: zh-CN
+Content-Type: text/html;charset=utf-8
+Date: Wed, 28 Aug 2019 06:56:16 GMT
+Content-Length: 42028</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCgkJsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obhSZXjStsi7obm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIGJ5LXNhsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCgkJ1K3OxMG0vdOjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8yODg0NDk0Ny9hcnRpY2xlL2RldGFpbHMvNzUyODQ1NDUK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQk4NTA2MTEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluLnJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWEgPSAiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMC4wOyBBTkUtTFgxIEJ1aWxkL0hVQVdFSUFORS1MWDE7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNzYuMC4zODA5LjExMSBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
