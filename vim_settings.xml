@@ -46,11 +46,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/androidTest/java/com/honor/claim/testwifi/ExampleInstrumentedTest.java" timestamp="1566966252531">
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="57" column="43" />
-        <mark key="." line="57" column="43" />
-        <mark key="^" line="57" column="43" />
+      <file name="E:/Project/gpjsauto/demo/src/androidTest/java/com/honor/claim/testwifi/ExampleInstrumentedTest.java" timestamp="1566971923358">
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="56" column="48" />
+        <mark key="." line="56" column="48" />
+        <mark key="^" line="72" column="29" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
         <mark key="[" line="42" column="0" />
@@ -620,8 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="778" column="63" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="837" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="753" column="63" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="754" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="752" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto2/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -720,67 +718,69 @@
       <jump line="204" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="213" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="544" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="57" column="45" filename="E:/Project/gpjsauto/demo/src/androidTest/java/com/honor/claim/testwifi/ExampleInstrumentedTest.java" />
+      <jump line="47" column="8" filename="E:/Project/gpjsauto/demo/src/androidTest/java/com/honor/claim/testwifi/ExampleInstrumentedTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>p</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>workInner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWEgPSAiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDYuMC4xOyBBU1VTX1owMExEIEJ1aWxkL01NQjI5UDsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS83Ni4wLjM4MDkuMTExIE1vYmlsZSBTYWZhcmkvNTM3LjM2IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoInRhZyIsICIiICsgdWEpOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlXZWJWaWV3VXRpbC5vbkV2ZW50KGNvbnRleHQsICJncF9yc24iLCAiIiwgYWN0aW9uLCBnQ2FwdGNoYSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlNc1NlcnZpY2UuCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQltV2Vidmlld19CZWFuLm9uT3RoZXJFdmVudChtQ29udGV4dCwgbnVsbCwgYWN0aW9uLCAiZ19yZXNwIiwgIiIraWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluLnJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCW1XZWJ2aWV3X0JlYW4ub25PdGhlckV2ZW50KG1Db250ZXh0LCBudWxsLCBhY3Rpb24sICJnX3Jlc3AiLCAiIitpZCk7CQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdWEgPSAiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMC4wOyBBTkUtTFgxIEJ1aWxkL0hVQVdFSUFORS1MWDE7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvNzYuMC4zODA5LjExMSBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlpZCA9IGlkIC5yZXBsYWNlKCJPS3wiLCAiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdXJsID0gU3RyaW5nLmZvcm1hdCh1cmwsIHJlc3VsdCA9PSAxID8gInJlcG9ydGdvb2QiIDogInJlcG9ydGJhZCIpCg==</text>
+        <text encoding="base64">CQlXZWJWaWV3VXRpbC5vbkV2ZW50KGNvbnRleHQsICJncF9yc24iLCAiIiwgYWN0aW9uLCBnQ2FwdGNoYSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlNc1NlcnZpY2UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtV2Vidmlld19CZWFuLm9uT3RoZXJFdmVudChtQ29udGV4dCwgdmlldywgdXJsLCJpbmpzIiwgdXJsKTsK</text>
+        <text encoding="base64">CQltV2Vidmlld19CZWFuLm9uT3RoZXJFdmVudChtQ29udGV4dCwgbnVsbCwgYWN0aW9uLCAiZ19yZXNwIiwgIiIraWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
