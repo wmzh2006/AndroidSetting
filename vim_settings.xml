@@ -269,11 +269,12 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1566977862946">
-        <mark key="'" line="151" column="122" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="41" />
-        <mark key="." line="65" column="0" />
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1567050506345">
+        <mark key="'" line="151" column="42" />
+        <mark key="[" line="69" column="68" />
+        <mark key="]" line="69" column="68" />
+        <mark key="." line="69" column="68" />
+        <mark key="^" line="69" column="66" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo2/src/test/java/com/hunt/pilot/cao/demo2/ExampleUnitTest.java" timestamp="1566891807588">
         <mark key="[" line="22" column="37" />
@@ -339,10 +340,11 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1566876726347">
-        <mark key="[" line="331" column="0" />
-        <mark key="]" line="331" column="0" />
-        <mark key="." line="331" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1567050425216">
+        <mark key="[" line="151" column="32" />
+        <mark key="]" line="151" column="32" />
+        <mark key="." line="151" column="32" />
+        <mark key="^" line="151" column="89" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qjohy/gwrrf/chgConstants.java" timestamp="1563195613750">
         <mark key="[" line="6" column="24" />
@@ -409,12 +411,12 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1567046930908">
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1567050656655">
         <mark key="'" line="163" column="31" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="163" column="31" />
-        <mark key="." line="163" column="31" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
         <mark key="^" line="163" column="31" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/HttpRunner.java" timestamp="1566977910667">
         <mark key="[" line="269" column="43" />
@@ -729,25 +731,25 @@
       <jump line="47" column="8" filename="E:/Project/gpjsauto/demo/src/androidTest/java/com/honor/claim/testwifi/ExampleInstrumentedTest.java" />
       <jump line="167" column="53" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="137" column="85" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" />
-      <jump line="151" column="122" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" />
       <jump line="169" column="8" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
       <jump line="187" column="40" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
       <jump line="177" column="38" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
       <jump line="176" column="26" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
       <jump line="163" column="31" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
+      <jump line="151" column="42" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;https://m.lvmama.com/login.htm?service=https%3A%2F%2Fm.lvmama.com%2Fwebapp%2Fmy%2Fmain&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldERhdGFiYXNlRW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;https://m.lvmama.com/login.htm?service=https%3A%2F%2Fm.lvmama.com%2Fwebapp%2Fmy%2Fmain&quot;</text>
+        <text>iWebChromeClient</text>
       </register>
       <register name="/" type="4">
-        <text>setNeedInitialFocus</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmxvYWRVcmwoImh0dHBzOi8vbS5sdm1hbWEuY29tL2xvZ2luLmh0bT9zZXJ2aWNlPWh0dHBzJTNBJTJGJTJGbS5sdm1hbWEuY29tJTJGd2ViYXBwJTJGbXklMkZtYWluIik7Cg==</text>
@@ -756,63 +758,55 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmdldFNldHRpbmdzKCkuc2V0Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldERhdGFiYXNlRW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFwcENhY2hlRW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLgo=</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldENhY2hlTW9kZShXZWJTZXR0aW5ncy5MT0FEX05PX0NBQ0hFKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldAo=</text>
+        <text encoding="base64">CQlTdHJpbmcgY2FjaGVEaXIgPSBjb250ZXh0LmdldENhY2hlRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCk7ICAvLyCyu9aqtcDT0MO708OjrLvYzbfK1MrUO7bg0+C1xMno1sMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldERhdGFiYXNlUGF0aChjYWNoZURpcik7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFwcENhY2hlUGF0aChjYWNoZURpcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFsbG93RmlsZUFjY2Vzcyh0cnVlKTsK</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="4">
-        <text>HTTP/1.1 200 OK
-X-Powered-By: JSP/2.2
-Cache-Control: no-cache, no-store
-Pragma: no-cache
-Set-Cookie: JSESSIONID=70269c01a4ba68ba82fd40f8ee2f.ins1; Path=/ish; HttpOnly
-Content-Language: zh-CN
-Content-Type: text/html;charset=utf-8
-Date: Wed, 28 Aug 2019 06:56:16 GMT
-Content-Length: 42028</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFsbG93Q29udGVudEFjY2Vzcyh0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFJlbmRlclByaW9yaXR5KFdlYlNldHRpbmdzLlJlbmRlclByaW9yaXR5LkhJR0gpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
       </register>
     </registers>
     <search>
-      <last-search>setNeedInitialFocus</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>setNeedInitialFocus</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -820,7 +814,6 @@ Content-Length: 42028</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25zb2xlbG9nXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry>initWebView</entry>
         <entry>onPageStart</entry>
@@ -840,6 +833,7 @@ Content-Length: 42028</text>
         <entry>setJavaScriptCanOpenWindowsAutomatically</entry>
         <entry>setDomStorageEnabled</entry>
         <entry>setNeedInitialFocus</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
