@@ -408,11 +408,12 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1566986861092">
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1567044574197">
         <mark key="'" line="169" column="8" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+        <mark key="[" line="162" column="55" />
+        <mark key="]" line="162" column="55" />
+        <mark key="." line="162" column="55" />
+        <mark key="^" line="182" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/HttpRunner.java" timestamp="1566977910667">
         <mark key="[" line="269" column="43" />
@@ -736,16 +737,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.gov.cn/</text>
+        <text>MIXED_CONTENT_COMPATIBILITY_MODE</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.gov.cn/</text>
+        <text>MIXED_CONTENT_COMPATIBILITY_MODE</text>
       </register>
       <register name="/" type="4">
-        <text>setLayoutAlgorithm</text>
+        <text>setAllowUniversalAccessFromFileURLs(true)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCAgU3RyaW5nIEFfVVJMX05BTUUgPSAgICJodHRwOi8vbWFpbC4xMDA4Ni5jbi8iOy8vImh0dHA6Ly9vYS5hZHl1bi5jb20vaW5kZXguaHRtbCI7Ly8iaHR0cDovL21haWwuMTAwODYuY24vZGVmYXVsdC5odG1sI2lwYWQiOwo=</text>
@@ -754,19 +755,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldAo=</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -774,7 +775,13 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="4">
         <text>HTTP/1.1 200 OK
 X-Powered-By: JSP/2.2
 Cache-Control: no-cache, no-store
@@ -785,32 +792,26 @@ Content-Type: text/html;charset=utf-8
 Date: Wed, 28 Aug 2019 06:56:16 GMT
 Content-Length: 42028</text>
       </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCgkJsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obhSZXjStsi7obm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIGJ5LXNhsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCgkJ1K3OxMG0vdOjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8yODg0NDk0Ny9hcnRpY2xlL2RldGFpbHMvNzUyODQ1NDUK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk4NTA2MTEK</text>
+        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCgkJsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obhSZXjStsi7obm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIGJ5LXNhsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCgkJ1K3OxMG0vdOjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8yODg0NDk0Ny9hcnRpY2xlL2RldGFpbHMvNzUyODQ1NDUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQk4NTA2MTEK</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
       </register>
     </registers>
     <search>
-      <last-search>setLayoutAlgorithm</last-search>
+      <last-search>setAllowUniversalAccessFromFileURLs(true)</last-search>
       <last-offset />
-      <last-pattern>setLayoutAlgorithm</last-pattern>
+      <last-pattern>setAllowUniversalAccessFromFileURLs(true)</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -818,7 +819,6 @@ Content-Length: 42028</text>
     </search>
     <history>
       <history-search>
-        <entry>init</entry>
         <entry>getWebview</entry>
         <entry>getJS_Content</entry>
         <entry>print</entry>
@@ -838,6 +838,7 @@ Content-Length: 42028</text>
         <entry>hook</entry>
         <entry>setDomStorageEnabled</entry>
         <entry>setLayoutAlgorithm</entry>
+        <entry>setAllowUniversalAccessFromFileURLs(true)</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
