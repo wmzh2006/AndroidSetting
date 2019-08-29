@@ -228,10 +228,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1567048775459">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1567049365045">
+        <mark key="[" line="101" column="48" />
+        <mark key="]" line="102" column="35" />
+        <mark key="." line="102" column="35" />
+        <mark key="^" line="102" column="35" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/happymoc/build.gradle" timestamp="1566462989134">
         <mark key="[" line="3" column="21" />
@@ -736,20 +737,20 @@
       <jump line="163" column="31" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmdldFNldHRpbmdzKCkuc2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;https://m.lvmama.com/login.htm?service=https%3A%2F%2Fm.lvmama.com%2Fwebapp%2Fmy%2Fmain&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;http://www.baid&quot;</text>
+        <text>&quot;https://m.lvmama.com/login.htm?service=https%3A%2F%2Fm.lvmama.com%2Fwebapp%2Fmy%2Fmain&quot;</text>
       </register>
       <register name="/" type="4">
         <text>setNeedInitialFocus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCAgU3RyaW5nIEFfVVJMX05BTUUgPSAgICJodHRwOi8vbWFpbC4xMDA4Ni5jbi8iOy8vImh0dHA6Ly9vYS5hZHl1bi5jb20vaW5kZXguaHRtbCI7Ly8iaHR0cDovL21haWwuMTAwODYuY24vZGVmYXVsdC5odG1sI2lwYWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmxvYWRVcmwoImh0dHBzOi8vbS5sdm1hbWEuY29tL2xvZ2luLmh0bT9zZXJ2aWNlPWh0dHBzJTNBJTJGJTJGbS5sdm1hbWEuY29tJTJGd2ViYXBwJTJGbXklMkZtYWluIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
