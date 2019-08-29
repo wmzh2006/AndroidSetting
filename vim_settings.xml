@@ -228,10 +228,10 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1566641307572">
-        <mark key="[" line="84" column="36" />
-        <mark key="]" line="84" column="36" />
-        <mark key="." line="84" column="36" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1567048775459">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/happymoc/build.gradle" timestamp="1566462989134">
         <mark key="[" line="3" column="21" />
@@ -737,13 +737,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmdldFNldHRpbmdzKCkuc2V0Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>renderPriority</text>
+        <text>&quot;http://www.baid&quot;</text>
       </register>
       <register name="/" type="4">
         <text>setNeedInitialFocus</text>
@@ -755,28 +755,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3ZWJWaWV3LmdldFNldHRpbmdzKCkuc2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldAo=</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLgo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -784,7 +784,13 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>proguard</text>
+      </register>
+      <register name="8" type="4">
         <text>HTTP/1.1 200 OK
 X-Powered-By: JSP/2.2
 Cache-Control: no-cache, no-store
@@ -795,14 +801,8 @@ Content-Type: text/html;charset=utf-8
 Date: Wed, 28 Aug 2019 06:56:16 GMT
 Content-Length: 42028</text>
       </register>
-      <register name="w" type="4">
-        <text>proguard</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCgkJsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obhSZXjStsi7obm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIGJ5LXNhsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCgkJ1K3OxMG0vdOjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8yODg0NDk0Ny9hcnRpY2xlL2RldGFpbHMvNzUyODQ1NDUK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
