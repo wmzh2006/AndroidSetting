@@ -408,12 +408,12 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1567044574197">
-        <mark key="'" line="169" column="8" />
-        <mark key="[" line="162" column="55" />
-        <mark key="]" line="162" column="55" />
-        <mark key="." line="162" column="55" />
-        <mark key="^" line="182" column="0" />
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1567046930908">
+        <mark key="'" line="163" column="31" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="163" column="31" />
+        <mark key="." line="163" column="31" />
+        <mark key="^" line="163" column="31" />
       </file>
       <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/HttpRunner.java" timestamp="1566977910667">
         <mark key="[" line="269" column="43" />
@@ -634,10 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="83" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="304" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="100" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="376" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="449" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="496" column="70" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -734,19 +730,23 @@
       <jump line="137" column="85" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" />
       <jump line="151" column="122" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" />
       <jump line="169" column="8" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
+      <jump line="187" column="40" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
+      <jump line="177" column="38" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
+      <jump line="176" column="26" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
+      <jump line="163" column="31" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MIXED_CONTENT_COMPATIBILITY_MODE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MIXED_CONTENT_COMPATIBILITY_MODE</text>
+        <text>renderPriority</text>
       </register>
       <register name="/" type="4">
-        <text>setAllowUniversalAccessFromFileURLs(true)</text>
+        <text>setNeedInitialFocus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCAgU3RyaW5nIEFfVVJMX05BTUUgPSAgICJodHRwOi8vbWFpbC4xMDA4Ni5jbi8iOy8vImh0dHA6Ly9vYS5hZHl1bi5jb20vaW5kZXguaHRtbCI7Ly8iaHR0cDovL21haWwuMTAwODYuY24vZGVmYXVsdC5odG1sI2lwYWQiOwo=</text>
@@ -755,25 +755,25 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldAo=</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldAo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -781,7 +781,10 @@
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>HTTP/1.1 200 OK
 X-Powered-By: JSP/2.2
 Cache-Control: no-cache, no-store
@@ -792,26 +795,23 @@ Content-Type: text/html;charset=utf-8
 Date: Wed, 28 Aug 2019 06:56:16 GMT
 Content-Length: 42028</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
-      </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCgkJsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obhSZXjStsi7obm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIGJ5LXNhsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCgkJ1K3OxMG0vdOjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8yODg0NDk0Ny9hcnRpY2xlL2RldGFpbHMvNzUyODQ1NDUK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldFVzZVdpZGVWaWV3UG9ydCh0cnVlKTsvL8no1sO0y8r00NSjrL/JyM7S4rHIwP3L9bfFoaO088rTzbzEo8q9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk4NTA2MTEK</text>
+        <text encoding="base64">IKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCgkJsObIqMn5w/ejurG+zsTOqkNTRE6yqdb3obhSZXjStsi7obm1xNSttLTOxNXCo6zX8dGtQ0MgNC4wIGJ5LXNhsObIqNCt0umjrNeq1NjH67i9yc/Urc7Es/a0psG0vdO8sLG+yfnD96GjCgkJ1K3OxMG0vdOjumh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV8yODg0NDk0Ny9hcnRpY2xlL2RldGFpbHMvNzUyODQ1NDUK</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
       </register>
     </registers>
     <search>
-      <last-search>setAllowUniversalAccessFromFileURLs(true)</last-search>
+      <last-search>setNeedInitialFocus</last-search>
       <last-offset />
-      <last-pattern>setAllowUniversalAccessFromFileURLs(true)</last-pattern>
+      <last-pattern>setNeedInitialFocus</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -819,13 +819,6 @@ Content-Length: 42028</text>
     </search>
     <history>
       <history-search>
-        <entry>getWebview</entry>
-        <entry>getJS_Content</entry>
-        <entry>print</entry>
-        <entry>onPageFinish</entry>
-        <entry>shouldOverride</entry>
-        <entry encoding="base64">XDxnZXRDYXB0Y2hhUmVzdWx0XD4=</entry>
-        <entry encoding="base64">XDxnZXRjYXB0Y2hhXD4=</entry>
         <entry encoding="base64">XDxjb25zb2xlbG9nXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry>initWebView</entry>
@@ -836,9 +829,16 @@ Content-Length: 42028</text>
         <entry>workInner</entry>
         <entry>isShould</entry>
         <entry>hook</entry>
-        <entry>setDomStorageEnabled</entry>
         <entry>setLayoutAlgorithm</entry>
         <entry>setAllowUniversalAccessFromFileURLs(true)</entry>
+        <entry>setLoadWithOverviewMode</entry>
+        <entry>setUseWideViewPort</entry>
+        <entry>setSupportZoom</entry>
+        <entry>setDisplayZoomControls</entry>
+        <entry>setSupportMultipleWindows</entry>
+        <entry>setJavaScriptCanOpenWindowsAutomatically</entry>
+        <entry>setDomStorageEnabled</entry>
+        <entry>setNeedInitialFocus</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
