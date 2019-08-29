@@ -583,7 +583,7 @@
         <mark key="^" line="169" column="77" />
         <mark key="." line="169" column="78" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1566811234057">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1567041692735">
         <mark key="[" line="327" column="50" />
         <mark key="]" line="327" column="50" />
         <mark key="^" line="327" column="50" />
@@ -745,7 +745,7 @@
         <text>.gov.cn/</text>
       </register>
       <register name="/" type="4">
-        <text>setDomStorageEnabled</text>
+        <text>setLayoutAlgorithm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCAgU3RyaW5nIEFfVVJMX05BTUUgPSAgICJodHRwOi8vbWFpbC4xMDA4Ni5jbi8iOy8vImh0dHA6Ly9vYS5hZHl1bi5jb20vaW5kZXguaHRtbCI7Ly8iaHR0cDovL21haWwuMTAwODYuY24vZGVmYXVsdC5odG1sI2lwYWQiOwo=</text>
@@ -808,9 +808,9 @@ Content-Length: 42028</text>
       </register>
     </registers>
     <search>
-      <last-search>setDomStorageEnabled</last-search>
+      <last-search>setLayoutAlgorithm</last-search>
       <last-offset />
-      <last-pattern>setDomStorageEnabled</last-pattern>
+      <last-pattern>setLayoutAlgorithm</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -818,7 +818,6 @@ Content-Length: 42028</text>
     </search>
     <history>
       <history-search>
-        <entry>initWebview</entry>
         <entry>init</entry>
         <entry>getWebview</entry>
         <entry>getJS_Content</entry>
@@ -838,6 +837,7 @@ Content-Length: 42028</text>
         <entry>isShould</entry>
         <entry>hook</entry>
         <entry>setDomStorageEnabled</entry>
+        <entry>setLayoutAlgorithm</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
