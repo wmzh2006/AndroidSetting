@@ -270,7 +270,7 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1567051290777">
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1567086253520">
         <mark key="'" line="151" column="42" />
         <mark key="[" line="69" column="63" />
         <mark key="]" line="69" column="63" />
@@ -288,13 +288,6 @@
         <mark key="]" line="41" column="96" />
         <mark key="." line="41" column="96" />
         <mark key="^" line="41" column="96" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1566821375625">
-        <mark key="'" line="544" column="22" />
-        <mark key="[" line="205" column="22" />
-        <mark key="]" line="205" column="22" />
-        <mark key="^" line="196" column="30" />
-        <mark key="." line="205" column="22" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1565322537109">
         <mark key="[" line="120" column="70" />
@@ -412,10 +405,11 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1567050836483">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebViewUtil.java" timestamp="1567086177656">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+        <mark key="^" line="184" column="18" />
       </file>
       <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/HttpRunner.java" timestamp="1566977910667">
         <mark key="[" line="269" column="43" />
@@ -739,8 +733,8 @@
       <jump line="654" column="62" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://www.taobao.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl3ZWJWaWV3LmdldAo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -757,47 +751,47 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LGV4dHJhSGVhZGVycyk7Ci8vCQl3ZWJ2aWV3LmxvYWRVcmwobVdlYnZpZXdfQmVhbi5nZXR1cmxfTG9hZFBhZ2UoKSxleHRyYUhlYWRlcnMpOwo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQl3ZWJWaWV3LmdldAo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldERhdGFiYXNlRW5hYmxlZCh0cnVlKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LGV4dHJhSGVhZGVycyk7Ci8vCQl3ZWJ2aWV3LmxvYWRVcmwobVdlYnZpZXdfQmVhbi5nZXR1cmxfTG9hZFBhZ2UoKSxleHRyYUhlYWRlcnMpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFwcENhY2hlRW5hYmxlZCh0cnVlKTsK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldERhdGFiYXNlRW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldENhY2hlTW9kZShXZWJTZXR0aW5ncy5MT0FEX05PX0NBQ0hFKTsK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFwcENhY2hlRW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTdHJpbmcgY2FjaGVEaXIgPSBjb250ZXh0LmdldENhY2hlRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCk7ICAvLyCyu9aqtcDT0MO708OjrLvYzbfK1MrUO7bg0+C1xMno1sMK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldENhY2hlTW9kZShXZWJTZXR0aW5ncy5MT0FEX05PX0NBQ0hFKTsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldERhdGFiYXNlUGF0aChjYWNoZURpcik7Cg==</text>
+        <text encoding="base64">CQlTdHJpbmcgY2FjaGVEaXIgPSBjb250ZXh0LmdldENhY2hlRGlyKCkuZ2V0QWJzb2x1dGVQYXRoKCk7ICAvLyCyu9aqtcDT0MO708OjrLvYzbfK1MrUO7bg0+C1xMno1sMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFwcENhY2hlUGF0aChjYWNoZURpcik7Cg==</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldERhdGFiYXNlUGF0aChjYWNoZURpcik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFsbG93RmlsZUFjY2Vzcyh0cnVlKTsK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFwcENhY2hlUGF0aChjYWNoZURpcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFsbG93Q29udGVudEFjY2Vzcyh0cnVlKTsK</text>
+        <text encoding="base64">CQl3ZWJTZXR0aW5nLnNldEFsbG93RmlsZUFjY2Vzcyh0cnVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
