@@ -275,6 +275,12 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
       </file>
+      <file name="806fe968-6c48-4c0c-a8a7-a7b97f66be26/consoles/Connection" timestamp="1567153494568">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewAutoProcess.java" timestamp="1567086253520">
         <mark key="'" line="151" column="42" />
         <mark key="[" line="69" column="63" />
@@ -747,14 +753,14 @@
       <jump line="654" column="62" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+      <register name="&quot;" type="4">
+        <text>main</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>https://www.taobao.com</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>should</text>
