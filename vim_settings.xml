@@ -483,11 +483,12 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567234258189">
-        <mark key="[" line="84" column="99" />
-        <mark key="]" line="84" column="97" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="84" column="97" />
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567235216691">
+        <mark key="'" line="119" column="15" />
+        <mark key="[" line="107" column="23" />
+        <mark key="]" line="107" column="22" />
+        <mark key="^" line="107" column="22" />
+        <mark key="." line="107" column="22" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/res/layout/activity_main.xml" timestamp="1564454724094">
         <mark key="[" line="8" column="0" />
@@ -665,11 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="53" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="327" column="10" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="332" column="10" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="403" column="10" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="419" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="421" column="9" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="60" column="6" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="183" column="26" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
@@ -765,6 +761,11 @@
       <jump line="653" column="50" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="654" column="62" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="765" column="32" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/f/MsService.java" />
+      <jump line="123" column="63" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="84" column="38" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="114" column="24" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="118" column="14" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="119" column="15" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -777,7 +778,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>should</text>
+        <text encoding="base64">XDxKQVJfREVTS19ESVJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGZpbmFsIFN0cmluZyBBX1VSTF9OQU1FID0gImh0dHBzOi8vd3d3LmpkLmNvbS8/Y3U9dHJ1ZSZ1dG1fc291cmNlPWJhaWR1LXBpbnpodWFuJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj10XzI4ODU1MTA5NV9iYWlkdXBpbnpodWFuJnV0bV90ZXJtPTBmM2QzMGM4ZGJhNzQ1OWJiNTJmMmViNWViYThhYzdkXzBfOTYwNmJiZTk3NTMyNDdjMWI4ZmJjMDgxMjNiZDg0ZTkiOwo=</text>
@@ -832,9 +833,9 @@
       </register>
     </registers>
     <search>
-      <last-search>should</last-search>
+      <last-search encoding="base64">XDxKQVJfREVTS19ESVJcPg==</last-search>
       <last-offset />
-      <last-pattern>should</last-pattern>
+      <last-pattern encoding="base64">XDxKQVJfREVTS19ESVJcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -842,8 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onPageStart</entry>
-        <entry>overurl</entry>
         <entry>inter</entry>
         <entry>workInter</entry>
         <entry>workInner</entry>
@@ -862,6 +861,8 @@
         <entry>init</entry>
         <entry>shuold</entry>
         <entry>should</entry>
+        <entry>exportProguardJar</entry>
+        <entry encoding="base64">XDxKQVJfREVTS19ESVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
