@@ -483,12 +483,12 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567235216691">
-        <mark key="'" line="119" column="15" />
-        <mark key="[" line="107" column="23" />
-        <mark key="]" line="107" column="22" />
-        <mark key="^" line="107" column="22" />
-        <mark key="." line="107" column="22" />
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567236218540">
+        <mark key="'" line="124" column="15" />
+        <mark key="[" line="118" column="9" />
+        <mark key="]" line="118" column="20" />
+        <mark key="^" line="118" column="20" />
+        <mark key="." line="118" column="20" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/res/layout/activity_main.xml" timestamp="1564454724094">
         <mark key="[" line="8" column="0" />
@@ -666,22 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="9" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="60" column="6" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="183" column="26" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="202" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="211" column="10" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="215" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="225" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="269" column="18" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="276" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="280" column="18" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="292" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="305" column="22" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="309" column="18" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="326" column="10" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="331" column="10" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="354" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="357" column="22" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="361" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="377" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
@@ -761,51 +745,67 @@
       <jump line="653" column="50" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="654" column="62" filename="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="765" column="32" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/f/MsService.java" />
-      <jump line="123" column="63" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="84" column="38" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="114" column="24" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
-      <jump line="118" column="14" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="119" column="15" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="88" column="43" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="115" column="16" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="56" column="4" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="60" column="31" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="113" column="22" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="59" column="4" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="121" column="0" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="34" column="26" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="112" column="59" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="28" column="54" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="33" column="32" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="58" column="4" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="87" column="26" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="111" column="13" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="117" column="24" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="118" column="46" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="122" column="14" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="123" column="15" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>bn</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>bn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKQVJfREVTS19ESVJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbmFsIFN0cmluZyBBX1VSTF9OQU1FID0gImh0dHBzOi8vd3d3LmpkLmNvbS8/Y3U9dHJ1ZSZ1dG1fc291cmNlPWJhaWR1LXBpbnpodWFuJnV0bV9tZWRpdW09Y3BjJnV0bV9jYW1wYWlnbj10XzI4ODU1MTA5NV9iYWlkdXBpbnpodWFuJnV0bV90ZXJtPTBmM2QzMGM4ZGJhNzQ1OWJiNTJmMmViNWViYThhYzdkXzBfOTYwNmJiZTk3NTMyNDdjMWI4ZmJjMDgxMjNiZDg0ZTkiOwo=</text>
+      <register name="0" type="4">
+        <text>&quot;${JAR_NAME}-${JAR_VERSION}&quot;</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8vdGFzayBhcGtCdWlsKHR5cGU6IEV4ZWMpIHsKLy8gICAgZGVmIGNtZFBhdGggPSBwcm9qZWN0LnJvb3REaXIucGFyZW50ICsgIlxcQURfU09fU0RLX1BBQ0tBR0VcXGJ1aWxkLmJhdCIKLy8gICAgY29tbWFuZExpbmUgJ2NtZCcsICcvYycsICIke2NtZFBhdGh9IiwgIiR7cGtnTmFtZX0iCi8vICAgIHN0YW5kYXJkT3V0cHV0ID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCi8vICAgIGV4dC5vdXB1dCA9IHsKLy8gICAgICAgIHJldHVybiBzdGFuZGFyZE91dHB1dC50b1N0cmluZygpOwovLyAgICB9Ci8vfQovLwovL2J1aWxkc2NyaXB0IHsKLy8KLy8gICAgcmVwb3NpdG9yaWVzIHsKLy8gICAgICAgIGdvb2dsZSgpCi8vICAgICAgICBqY2VudGVyKCkKLy8gICAgfQovLyAgICBkZXBlbmRlbmNpZXMgewovLyAgICAgICAgY2xhc3NwYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My4wLjEnCi8vCi8vCi8vICAgICAgICAvLyBOT1RFOiBEbyBub3QgcGxhY2UgeW91ciBhcHBsaWNhdGlvbiBkZXBlbmRlbmNpZXMgaGVyZTsgdGhleSBiZWxvbmcKLy8gICAgICAgIC8vIGluIHRoZSBpbmRpdmlkdWFsIG1vZHVsZSBidWlsZC5ncmFkbGUgZmlsZXMKLy8gICAgfQovL30=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJhc3NlTmFtZSAiJHtibn0iCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYm4pCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vdGFzayBhcGtCdWlsKHR5cGU6IEV4ZWMpIHsKLy8gICAgZGVmIGNtZFBhdGggPSBwcm9qZWN0LnJvb3REaXIucGFyZW50ICsgIlxcQURfU09fU0RLX1BBQ0tBR0VcXGJ1aWxkLmJhdCIKLy8gICAgY29tbWFuZExpbmUgJ2NtZCcsICcvYycsICIke2NtZFBhdGh9IiwgIiR7cGtnTmFtZX0iCi8vICAgIHN0YW5kYXJkT3V0cHV0ID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCi8vICAgIGV4dC5vdXB1dCA9IHsKLy8gICAgICAgIHJldHVybiBzdGFuZGFyZE91dHB1dC50b1N0cmluZygpOwovLyAgICB9Ci8vfQovLwovL2J1aWxkc2NyaXB0IHsKLy8KLy8gICAgcmVwb3NpdG9yaWVzIHsKLy8gICAgICAgIGdvb2dsZSgpCi8vICAgICAgICBqY2VudGVyKCkKLy8gICAgfQovLyAgICBkZXBlbmRlbmNpZXMgewovLyAgICAgICAgY2xhc3NwYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My4wLjEnCi8vCi8vCi8vICAgICAgICAvLyBOT1RFOiBEbyBub3QgcGxhY2UgeW91ciBhcHBsaWNhdGlvbiBkZXBlbmRlbmNpZXMgaGVyZTsgdGhleSBiZWxvbmcKLy8gICAgICAgIC8vIGluIHRoZSBpbmRpdmlkdWFsIG1vZHVsZSBidWlsZC5ncmFkbGUgZmlsZXMKLy8gICAgfQovL30=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
@@ -814,10 +814,10 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
@@ -826,7 +826,7 @@
         <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
@@ -843,10 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inter</entry>
-        <entry>workInter</entry>
-        <entry>workInner</entry>
-        <entry>isShould</entry>
         <entry>hook</entry>
         <entry>setLayoutAlgorithm</entry>
         <entry>setAllowUniversalAccessFromFileURLs(true)</entry>
@@ -862,6 +858,10 @@
         <entry>shuold</entry>
         <entry>should</entry>
         <entry>exportProguardJar</entry>
+        <entry encoding="base64">XDxBUEtfTkFNRVw+</entry>
+        <entry encoding="base64">XDxKQVJfTkFNRVw+</entry>
+        <entry encoding="base64">XDxPUkdJTkFMX0pBUl9QQVRIXD4=</entry>
+        <entry>libs</entry>
         <entry encoding="base64">XDxKQVJfREVTS19ESVJcPg==</entry>
       </history-search>
       <history-cmd>
