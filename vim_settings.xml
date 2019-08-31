@@ -31,7 +31,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1566549631025">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1567237246792">
+        <mark key="'" line="521" column="0" />
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
@@ -50,10 +51,10 @@
         <mark key="^" line="72" column="29" />
       </file>
       <file name="E:/Project/DynamicLoader/build.gradle" timestamp="1567232681127">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="10" column="53" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1567233936915">
         <mark key="[" line="26" column="0" />
@@ -483,12 +484,12 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567236218540">
-        <mark key="'" line="124" column="15" />
-        <mark key="[" line="118" column="9" />
-        <mark key="]" line="118" column="20" />
-        <mark key="^" line="118" column="20" />
-        <mark key="." line="118" column="20" />
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567237425597">
+        <mark key="'" line="63" column="22" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="185" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/res/layout/activity_main.xml" timestamp="1564454724094">
         <mark key="[" line="8" column="0" />
@@ -542,12 +543,6 @@
         <mark key="]" line="7" column="50" />
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
-      </file>
-      <file name="E:/Project/gpjsauto/diywebview/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1567051486033">
-        <mark key="'" line="654" column="62" />
-        <mark key="[" line="670" column="0" />
-        <mark key="]" line="670" column="0" />
-        <mark key="." line="670" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1566964445581">
         <mark key="[" line="3" column="23" />
@@ -666,9 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="22" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="361" column="14" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="377" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="382" column="8" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="383" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="384" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
@@ -766,19 +758,22 @@
       <jump line="118" column="46" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="122" column="14" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="123" column="15" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="61" column="4" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="63" column="22" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
+      <jump line="521" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bn</text>
+        <text encoding="base64">CmdyYWRsZS5idWlsZEZpbmlzaGVkewogICAgZGVmIG91dERpciA9IGZpbGUoIiR7QVBLX0RFU1RfRElSfSIpCiAgICBpZiAob3V0RGlyLnNpemUoKSA9PSAwKSB7CiAgICAgICAgb3V0RGlyLnMKICAgIH0KfQ==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>bn</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKQVJfREVTS19ESVJcPg==</text>
+        <text>gradle</text>
       </register>
       <register name="0" type="4">
         <text>&quot;${JAR_NAME}-${JAR_VERSION}&quot;</text>
@@ -786,56 +781,56 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhc3NlTmFtZSAiJHtibn0iCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmdyYWRsZS5idWlsZEZpbmlzaGVkewogICAgZGVmIG91dERpciA9IGZpbGUoIiR7QVBLX0RFU1RfRElSfSIpCiAgICBpZiAob3V0RGlyLnNpemUoKSA9PSAwKSB7CiAgICAgICAgb3V0RGlyLnMKICAgIH0KfQ==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYm4pCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vdGFzayBhcGtCdWlsKHR5cGU6IEV4ZWMpIHsKLy8gICAgZGVmIGNtZFBhdGggPSBwcm9qZWN0LnJvb3REaXIucGFyZW50ICsgIlxcQURfU09fU0RLX1BBQ0tBR0VcXGJ1aWxkLmJhdCIKLy8gICAgY29tbWFuZExpbmUgJ2NtZCcsICcvYycsICIke2NtZFBhdGh9IiwgIiR7cGtnTmFtZX0iCi8vICAgIHN0YW5kYXJkT3V0cHV0ID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCi8vICAgIGV4dC5vdXB1dCA9IHsKLy8gICAgICAgIHJldHVybiBzdGFuZGFyZE91dHB1dC50b1N0cmluZygpOwovLyAgICB9Ci8vfQovLwovL2J1aWxkc2NyaXB0IHsKLy8KLy8gICAgcmVwb3NpdG9yaWVzIHsKLy8gICAgICAgIGdvb2dsZSgpCi8vICAgICAgICBqY2VudGVyKCkKLy8gICAgfQovLyAgICBkZXBlbmRlbmNpZXMgewovLyAgICAgICAgY2xhc3NwYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My4wLjEnCi8vCi8vCi8vICAgICAgICAvLyBOT1RFOiBEbyBub3QgcGxhY2UgeW91ciBhcHBsaWNhdGlvbiBkZXBlbmRlbmNpZXMgaGVyZTsgdGhleSBiZWxvbmcKLy8gICAgICAgIC8vIGluIHRoZSBpbmRpdmlkdWFsIG1vZHVsZSBidWlsZC5ncmFkbGUgZmlsZXMKLy8gICAgfQovL30=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGl0LmRvTGFzdHsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgIGJhc3NlTmFtZSAiJHtibn0iCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYm4pCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ci8vdGFzayBhcGtCdWlsKHR5cGU6IEV4ZWMpIHsKLy8gICAgZGVmIGNtZFBhdGggPSBwcm9qZWN0LnJvb3REaXIucGFyZW50ICsgIlxcQURfU09fU0RLX1BBQ0tBR0VcXGJ1aWxkLmJhdCIKLy8gICAgY29tbWFuZExpbmUgJ2NtZCcsICcvYycsICIke2NtZFBhdGh9IiwgIiR7cGtnTmFtZX0iCi8vICAgIHN0YW5kYXJkT3V0cHV0ID0gbmV3IEJ5dGVBcnJheU91dHB1dFN0cmVhbSgpCi8vICAgIGV4dC5vdXB1dCA9IHsKLy8gICAgICAgIHJldHVybiBzdGFuZGFyZE91dHB1dC50b1N0cmluZygpOwovLyAgICB9Ci8vfQovLwovL2J1aWxkc2NyaXB0IHsKLy8KLy8gICAgcmVwb3NpdG9yaWVzIHsKLy8gICAgICAgIGdvb2dsZSgpCi8vICAgICAgICBqY2VudGVyKCkKLy8gICAgfQovLyAgICBkZXBlbmRlbmNpZXMgewovLyAgICAgICAgY2xhc3NwYXRoICdjb20uYW5kcm9pZC50b29scy5idWlsZDpncmFkbGU6My4wLjEnCi8vCi8vCi8vICAgICAgICAvLyBOT1RFOiBEbyBub3QgcGxhY2UgeW91ciBhcHBsaWNhdGlvbiBkZXBlbmRlbmNpZXMgaGVyZTsgdGhleSBiZWxvbmcKLy8gICAgICAgIC8vIGluIHRoZSBpbmRpdmlkdWFsIG1vZHVsZSBidWlsZC5ncmFkbGUgZmlsZXMKLy8gICAgfQovL30=</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKQVJfREVTS19ESVJcPg==</last-search>
+      <last-search>gradle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKQVJfREVTS19ESVJcPg==</last-pattern>
+      <last-pattern>gradle</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -843,8 +838,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hook</entry>
-        <entry>setLayoutAlgorithm</entry>
         <entry>setAllowUniversalAccessFromFileURLs(true)</entry>
         <entry>setLoadWithOverviewMode</entry>
         <entry>setUseWideViewPort</entry>
@@ -863,6 +856,8 @@
         <entry encoding="base64">XDxPUkdJTkFMX0pBUl9QQVRIXD4=</entry>
         <entry>libs</entry>
         <entry encoding="base64">XDxKQVJfREVTS19ESVJcPg==</entry>
+        <entry encoding="base64">XDxBUEtfREVTVF9ESVJcPg==</entry>
+        <entry>gradle</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
