@@ -49,10 +49,10 @@
         <mark key="." line="56" column="48" />
         <mark key="^" line="72" column="29" />
       </file>
-      <file name="E:/Project/DynamicLoader/build.gradle" timestamp="1567224072486">
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
+      <file name="E:/Project/DynamicLoader/build.gradle" timestamp="1567232681127">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="53" />
       </file>
       <file name="D:/StudioProjects/XposedHook/XposedHook/app/src/main/java/com/example/xposedhook/HookLoader.java" timestamp="1562660403195">
@@ -480,7 +480,12 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567223945349" />
+      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567232598878">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="116" column="22" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/demo/src/main/res/layout/activity_main.xml" timestamp="1564454724094">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="5" column="26" />
@@ -760,13 +765,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ProGuardTask</text>
+        <text encoding="base64">dHlwZTpwcm9ndWFyZC5ncmFkbGUuUHJvR3VhcmRUYXNrLCA=</text>
       </register>
       <register name="/" type="4">
         <text>should</text>
@@ -778,25 +783,25 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ25ldC5zZi5wcm9ndWFyZDpwcm9ndWFyZC1ncmFkbGU6NS4yLjEnCg==</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
@@ -814,10 +819,10 @@
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHByb2d1YXJkLmdyYWRsZS5Qcm9HdWFyZFRhc2sK</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
