@@ -756,7 +756,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>1100</text>
+        <text>503</text>
       </register>
       <register name="0" type="4">
         <text>&quot;${JAR_NAME}-${JAR_VERSION}&quot;</text>
@@ -814,9 +814,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1100</last-search>
+      <last-search>503</last-search>
       <last-offset />
-      <last-pattern>1100</last-pattern>
+      <last-pattern>503</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -824,7 +824,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setLoadWithOverviewMode</entry>
         <entry>setUseWideViewPort</entry>
         <entry>setSupportZoom</entry>
         <entry>setDisplayZoomControls</entry>
@@ -844,6 +843,7 @@
         <entry encoding="base64">XDxBUEtfREVTVF9ESVJcPg==</entry>
         <entry>gradle</entry>
         <entry>1100</entry>
+        <entry>503</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
