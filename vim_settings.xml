@@ -93,6 +93,12 @@
         <mark key="^" line="73" column="53" />
         <mark key="." line="69" column="63" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1567761283702">
+        <mark key="[" line="44" column="80" />
+        <mark key="]" line="44" column="101" />
+        <mark key="." line="44" column="101" />
+        <mark key="^" line="44" column="101" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1566559995273">
         <mark key="[" line="169" column="53" />
         <mark key="]" line="172" column="0" />
@@ -108,12 +114,12 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1567760155780">
-        <mark key="'" line="52" column="13" />
-        <mark key="[" line="399" column="88" />
-        <mark key="]" line="399" column="88" />
-        <mark key="." line="399" column="88" />
-        <mark key="^" line="399" column="88" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1567760321014">
+        <mark key="'" line="51" column="13" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="619" column="75" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo/src/main/java/com/awareq/uickheal/MainActivity.java" timestamp="1567491728278">
         <mark key="[" line="5" column="0" />
@@ -141,11 +147,12 @@
         <mark key="]" line="122" column="12" />
         <mark key="." line="122" column="12" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" timestamp="1567739355156">
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="57" />
-        <mark key="^" line="28" column="57" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" timestamp="1567760797380">
+        <mark key="'" line="95" column="84" />
+        <mark key="[" line="253" column="88" />
+        <mark key="]" line="253" column="88" />
+        <mark key="." line="253" column="88" />
+        <mark key="^" line="253" column="88" />
       </file>
       <file name="E:/Project/DynamicLoader/settings.gradle" timestamp="1566800758890">
         <mark key="[" line="2" column="19" />
@@ -180,10 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="26" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
-      <jump line="152" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="285" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="557" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="558" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="553" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="547" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -280,22 +283,26 @@
       <jump line="49" column="1" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="276" column="97" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="52" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="69" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" />
+      <jump line="57" column="111" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" />
+      <jump line="48" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" />
+      <jump line="94" column="84" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>WebviewAutoProcess</text>
+        <text encoding="base64">XDxudWxsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>sms_shouldOverrideUrlLoading</text>
+        <text>WebviewInterceptRequest</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -319,7 +326,7 @@
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -337,19 +344,19 @@
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CQkvKglNYXA8U3RyaW5nLCBTdHJpbmc+ICAgcmVxdWVzdEhlYWRlcnMgID0gcmVxdWVzdC5nZXRSZXF1ZXN0SGVhZGVycygpOwoJCQlpZiAocmVxdWVzdEhlYWRlcnMgIT0gbnVsbCAmJiByZXF1ZXN0SGVhZGVycy5jb250YWluc0tleSgiSW5wdXRTdHJlYW0iKSkgeyAvLyDV4rj2ysfO0sPHyejWw7XEsrvKx9XmtcS07c7zCgkJCQlKU0RlYnVnTG9nLncoICJpc29rX25vdF9vblJlY2VpdmVkRXJyb3I9Iit1cmwpOwoJCQkJV2Vidmlld0ludGVyY2VwdFJlcXVlc3QuY2hlY2szeHhVcmwodXJsKTsJCQkJCQkvLyDQ6NKqyKW19LzHwrwKCQkJCXJldHVybjsKCQkJfWVsc2Ugeyov</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
       </register>
     </registers>
     <search>
-      <last-search>WebviewAutoProcess</last-search>
+      <last-search encoding="base64">XDxudWxsXD4=</last-search>
       <last-offset />
-      <last-pattern>WebviewAutoProcess</last-pattern>
+      <last-pattern encoding="base64">XDxudWxsXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setJavaScriptCanOpenWindowsAutomatically</entry>
         <entry>setDomStorageEnabled</entry>
         <entry>setNeedInitialFocus</entry>
         <entry>init</entry>
@@ -377,6 +383,7 @@
         <entry>onProgressChanged</entry>
         <entry encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</entry>
         <entry>WebviewAutoProcess</entry>
+        <entry encoding="base64">XDxudWxsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
