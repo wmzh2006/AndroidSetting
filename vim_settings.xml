@@ -108,12 +108,12 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1567759365581">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1567760155780">
         <mark key="'" line="52" column="13" />
-        <mark key="[" line="613" column="9" />
-        <mark key="]" line="416" column="16" />
-        <mark key="." line="416" column="16" />
-        <mark key="^" line="416" column="16" />
+        <mark key="[" line="399" column="88" />
+        <mark key="]" line="399" column="88" />
+        <mark key="." line="399" column="88" />
+        <mark key="^" line="399" column="88" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo/src/main/java/com/awareq/uickheal/MainActivity.java" timestamp="1567491728278">
         <mark key="[" line="5" column="0" />
@@ -283,19 +283,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MsService</text>
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>MsService</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>WebviewAutoProcess</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;javascript:window.android.ssSo(window.location.href,document.getElementsByTagName('html')[0].innerHTML)</text>
+        <text>sms_shouldOverrideUrlLoading</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
@@ -307,7 +307,7 @@
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -319,7 +319,7 @@
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -330,17 +330,17 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQkvKglNYXA8U3RyaW5nLCBTdHJpbmc+ICAgcmVxdWVzdEhlYWRlcnMgID0gcmVxdWVzdC5nZXRSZXF1ZXN0SGVhZGVycygpOwoJCQlpZiAocmVxdWVzdEhlYWRlcnMgIT0gbnVsbCAmJiByZXF1ZXN0SGVhZGVycy5jb250YWluc0tleSgiSW5wdXRTdHJlYW0iKSkgeyAvLyDV4rj2ysfO0sPHyejWw7XEsrvKx9XmtcS07c7zCgkJCQlKU0RlYnVnTG9nLncoICJpc29rX25vdF9vblJlY2VpdmVkRXJyb3I9Iit1cmwpOwoJCQkJV2Vidmlld0ludGVyY2VwdFJlcXVlc3QuY2hlY2szeHhVcmwodXJsKTsJCQkJCQkvLyDQ6NKqyKW19LzHwrwKCQkJCXJldHVybjsKCQkJfWVsc2Ugeyov</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHVybCA9IHJlcXVlc3QuZ2V0VXJsKCkudG9TdHJpbmcoKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CQkvKglNYXA8U3RyaW5nLCBTdHJpbmc+ICAgcmVxdWVzdEhlYWRlcnMgID0gcmVxdWVzdC5nZXRSZXF1ZXN0SGVhZGVycygpOwoJCQlpZiAocmVxdWVzdEhlYWRlcnMgIT0gbnVsbCAmJiByZXF1ZXN0SGVhZGVycy5jb250YWluc0tleSgiSW5wdXRTdHJlYW0iKSkgeyAvLyDV4rj2ysfO0sPHyejWw7XEsrvKx9XmtcS07c7zCgkJCQlKU0RlYnVnTG9nLncoICJpc29rX25vdF9vblJlY2VpdmVkRXJyb3I9Iit1cmwpOwoJCQkJV2Vidmlld0ludGVyY2VwdFJlcXVlc3QuY2hlY2szeHhVcmwodXJsKTsJCQkJCQkvLyDQ6NKqyKW19LzHwrwKCQkJCXJldHVybjsKCQkJfWVsc2Ugeyov</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
