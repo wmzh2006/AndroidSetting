@@ -108,6 +108,13 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1567753149196">
+        <mark key="'" line="166" column="38" />
+        <mark key="[" line="151" column="32" />
+        <mark key="]" line="151" column="32" />
+        <mark key="." line="151" column="32" />
+        <mark key="^" line="151" column="89" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo/src/main/java/com/awareq/uickheal/MainActivity.java" timestamp="1567491728278">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -145,12 +152,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1567241408024">
-        <mark key="'" line="63" column="22" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.txt" timestamp="1566977667025">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -179,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="384" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="385" column="4" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
       <jump line="402" column="10" filename="E:/Project/gpjsauto/dynamicsdk/build.gradle" />
@@ -279,6 +279,7 @@
       <jump line="63" column="22" filename="E:/Project/DynamicLoader/dl_middle/build.gradle" />
       <jump line="521" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="106" column="42" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/maxmind/db/a.java" />
+      <jump line="166" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,7 +292,7 @@
         <text>JSAutoConfig.useMyHttpSend</text>
       </register>
       <register name="/" type="4">
-        <text>503</text>
+        <text>onProgressChanged</text>
       </register>
       <register name="0" type="4">
         <text>&quot;${JAR_NAME}-${JAR_VERSION}&quot;</text>
@@ -346,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>503</last-search>
+      <last-search>onProgressChanged</last-search>
       <last-offset />
-      <last-pattern>503</last-pattern>
+      <last-pattern>onProgressChanged</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -356,8 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setUseWideViewPort</entry>
-        <entry>setSupportZoom</entry>
         <entry>setDisplayZoomControls</entry>
         <entry>setSupportMultipleWindows</entry>
         <entry>setJavaScriptCanOpenWindowsAutomatically</entry>
@@ -376,6 +375,8 @@
         <entry>gradle</entry>
         <entry>1100</entry>
         <entry>503</entry>
+        <entry>WebChromClient</entry>
+        <entry>onProgressChanged</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
