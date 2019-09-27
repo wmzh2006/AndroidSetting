@@ -82,9 +82,6 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="/GP_ClassData_Find.java" timestamp="1569217749011">
-        <mark key="'" line="33" column="26" />
-      </file>
       <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/hook/app/GmsApp.java" timestamp="1568794761042">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -189,10 +186,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/Project/sbgp/jnitest/app/src/main/jni/apkdexclassloader.c" timestamp="1568799890492">
-        <mark key="'" line="217" column="72" />
-      </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1569554212879">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1569574601003">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -254,6 +248,13 @@
         <mark key="]" line="6" column="18" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
+      </file>
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" timestamp="1569575801772">
+        <mark key="'" line="30" column="3" />
+        <mark key="[" line="39" column="29" />
+        <mark key="]" line="47" column="85" />
+        <mark key="." line="47" column="85" />
+        <mark key="^" line="47" column="85" />
       </file>
       <file name="E:/Project/DynamicLoader/eve_trace/build.gradle" timestamp="1568637584745">
         <mark key="[" line="39" column="1" />
@@ -329,6 +330,13 @@
         <mark key="[" line="26" column="66" />
         <mark key="]" line="26" column="50" />
         <mark key="." line="26" column="50" />
+      </file>
+      <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1569460180821">
+        <mark key="'" line="128" column="25" />
+        <mark key="[" line="298" column="75" />
+        <mark key="]" line="298" column="75" />
+        <mark key="^" line="298" column="26" />
+        <mark key="." line="298" column="75" />
       </file>
       <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/FB/FB_Katana_ClassData_Find.java" timestamp="1569461199043" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/settings.gradle" timestamp="1569550527830">
@@ -468,7 +476,7 @@
         <mark key="." line="504" column="4" />
       </file>
       <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/GP/GP_Cookie_Init.java" timestamp="1569461212251" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" timestamp="1569549897437">
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" timestamp="1569574835950">
         <mark key="'" line="31" column="26" />
       </file>
       <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/network/HttpUtils.java" timestamp="1569483093799">
@@ -478,8 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="67" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="113" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewCaptcha.java" />
       <jump line="126" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewCaptcha.java" />
       <jump line="160" column="11" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="321" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -578,16 +584,18 @@
       <jump line="186" column="22" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="209" column="22" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="231" column="30" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
+      <jump line="38" column="35" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" />
+      <jump line="30" column="3" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;com.facebook.katana&quot;</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.wcjrv.bshe</text>
+        <text>&quot;com.facebook.katana&quot;</text>
       </register>
       <register name="/" type="4">
         <text>com\.xsu\.jz\.ag</text>
@@ -599,7 +607,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+        <text encoding="base64">oaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaoKICAgILDmyKjJ+cP3o7qxvs7EzqpDU0ROsqnW96G4TE9WRbGmobm1xNSttLTOxNXCo6zX8dGtIENDIDQuMCBCWS1TQSCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczovL2Jsb2cuY3Nkbi5uZXQvTG92ZURvdTA4MTYvYXJ0aWNsZS9kZXRhaWxzLzc4NDkxNTYwCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -619,26 +627,26 @@
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmltcG9ydCBjb20ubGliLnV0aWwuQUVTVXRpbDs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLndlbGlrZS5ndWFyZC5TdGFja1RyYWNlSGVscGVyOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmltcG9ydCBjb20ubGliLnV0aWwuQUVTVXRpbDs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLndlbGlrZS5ndWFyZC5TdGFja1RyYWNlSGVscGVyOwo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
