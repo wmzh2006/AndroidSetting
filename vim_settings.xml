@@ -377,8 +377,10 @@
         <mark key="]" line="269" column="43" />
         <mark key="." line="269" column="43" />
       </file>
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/CoreBase.java" timestamp="1569551603403">
-        <mark key="[" line="23" column="56" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/CoreBase.java" timestamp="1569642064248">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1569588536052">
         <mark key="'" line="650" column="51" />
@@ -482,12 +484,12 @@
         <mark key="." line="504" column="4" />
       </file>
       <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/GP/GP_Cookie_Init.java" timestamp="1569461212251" />
-      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" timestamp="1569640545395">
-        <mark key="'" line="31" column="26" />
+      <file name="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" timestamp="1569641794428">
+        <mark key="'" line="34" column="42" />
         <mark key="[" line="28" column="35" />
-        <mark key="]" line="28" column="33" />
-        <mark key="^" line="28" column="33" />
-        <mark key="." line="28" column="33" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
       </file>
       <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/network/HttpUtils.java" timestamp="1569483093799">
         <mark key="[" line="8" column="0" />
@@ -496,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="448" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/com/web/HttpRunner.java" />
       <jump line="230" column="33" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/com/init/env/Main.java" />
       <jump line="223" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/com/init/env/Main.java" />
@@ -596,19 +597,20 @@
       <jump line="30" column="3" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/LoonManager.java" />
       <jump line="290" column="81" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="635" column="51" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="34" column="42" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>success</text>
+        <text>false</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>onPro</text>
+        <text>unavailable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiAgICAgICBhbmRyb2lkLmxpa2VBbmRDb21tZW50KCdjb21tZW50JywgJ3N1Y2Nlc3MhJyk7IiArIE5MICsgCg==</text>
@@ -663,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onPro</last-search>
+      <last-search>unavailable</last-search>
       <last-offset />
-      <last-pattern>onPro</last-pattern>
+      <last-pattern>unavailable</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxFVkVOVF9vbkNyZWF0ZU1zZ1w+</entry>
         <entry encoding="base64">XDxkeW5hbWljX3ZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDxERUZfU1RSX2RhdGFfVmVyc2lvblw+</entry>
@@ -693,6 +694,7 @@
         <entry>com\.xsu\.jz\.ag</entry>
         <entry>onpress</entry>
         <entry>onPro</entry>
+        <entry>unavailable</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
