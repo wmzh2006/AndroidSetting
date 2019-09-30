@@ -355,6 +355,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_6_26.java" timestamp="1569827148043">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/giosl/xucr/BviService.java" timestamp="1566206886188">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -438,6 +443,11 @@
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/mobileapp/timeservice/UninstallService.java" timestamp="1568087018439">
         <mark key="[" line="12" column="84" />
+      </file>
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_7_21.java" timestamp="1569827185054">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/hook/app/GP/GP_Cookie_Manage.java" timestamp="1568790071404">
         <mark key="[" line="5" column="0" />
@@ -625,8 +635,8 @@
       <jump line="647" column="51" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String channel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -644,19 +654,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIn0iICsgTkwgKwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIgKyBOTCArCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIgKyBOTCArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIn0iICsgTkwgKwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
@@ -674,16 +684,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIgKyBOTCArCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIgKyBOTCArCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiIgKyBOTCArCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImZ1bmN0aW9uIGxpa2VBbmRDb21tZW50KCkgeyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJdHJ5IHsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQlhbmRyb2lkLmxpa2VBbmRDb21tZW50KCdsaWtlQW5kQ29tbWVudCcsICdlbnRlciAnKTsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQl2YXIgZmEgPSBnZXREYXRhQnlUYWdDbGFzc05hbWUoJ18xNWtxIF81YS0yJyk7IiArIE5MICsKICAgICAgICAgICAgICAgICAgICAgICAgIgkJdmFyIGhhZFN0b3J5ID0gZmEubGVuZ3RoID4gMDsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQl2YXIgY29tbWVudFN1Y2Nlc3MgPSBmYWxzZTsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQlhbmRyb2lkLmxpa2VBbmRDb21tZW50KCdsaWtlQW5kQ29tbWVudCcsICdoYWRTdG9yeTonICsgaGFkU3RvcnkpOyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJCWlmIChoYWRTdG9yeSkgeyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJCQl2YXIgbiA9IHJuZCgwLCBmYS5sZW5ndGggLSAxKTsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQkJZmFbbl0uY2xpY2soKTsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiICAgICAgICAgICB2YXIgbG0gPSBmdW5jdGlvbigpeyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJCSAgICB2YXIgaXNTdG9yeVBhZ2UgPSB3aW5kb3cubG9jYXRpb24uaHJlZi5pbmRleE9mKCcvc3RvcnkucGhwPycpICE9IC0xOyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJCSAgICBhbmRyb2lkLmxpa2VBbmRDb21tZW50KCdsaWtlQW5kQ29tbWVudCcsICdwYWdlOicgKyBpc1N0b3J5UGFnZSArICcgaW5kZXg6JytuKTsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQkJaWYgKGlzU3RvcnlQYWdlKSB7IiArIE5MICsKICAgICAgICAgICAgICAgICAgICAgICAgIgkJCQlpZihhbmRyb2lkLmlzTGlrZVN0b3J5KCkpIGxpa2VDb21tZW50KCk7IiArIE5MICsKICAgICAgICAgICAgICAgICAgICAgICAgIgkJCQlpZihhbmRyb2lkLmlzQ29tbWVudCgpKSAgY29tbWVudCgpOyAiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQkJfSIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIgICAgICAgICAgIH07IiArIE5MICsKICAgICAgICAgICAgICAgICAgICAgICAgIiAgICAgICBzZXRUaW1lb3V0KGxtLCA1MDAwKTsiICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCQl9IGVsc2UgeyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJCQl0aHJvdyAnY29tbWVudDpkaWQgbm90IGZvdW5kIGFueSBwb3N0ZXI7JyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJCX0iICsgTkwgKwogICAgICAgICAgICAgICAgICAgICAgICAiCX0gY2F0Y2ggKGVycikgeyIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICIJCWFuZHJvaWQuRXJyb3IoJ2NvbW1lbnQnLCB3aW5kb3cubG9jYXRpb24uaHJlZiwgZXJyLCc8aHRtbD4nK2RvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdodG1sJylbMF0uaW5uZXJIVE1MKyc8L2h0bWw+Jyk7IiArICJcclxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICIJfSIgKyBOTCArCiAgICAgICAgICAgICAgICAgICAgICAgICJ9IiArIE5MICsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% d</text>
