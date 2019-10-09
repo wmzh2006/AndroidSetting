@@ -152,6 +152,11 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/network/ReflexUtil.java" timestamp="1570624767183">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/hook/MethodsFinder.java" timestamp="1568790833816">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -225,10 +230,10 @@
         <mark key="]" line="410" column="0" />
         <mark key="." line="410" column="0" />
       </file>
-      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/DownloadTask.java" timestamp="1570514981355">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="96" />
-        <mark key="." line="65" column="0" />
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/DownloadTask.java" timestamp="1570624814760">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="61" column="103" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/tcp/Share.java" timestamp="1568790667412">
         <mark key="[" line="4" column="0" />
@@ -603,8 +608,8 @@
       <jump line="542" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHNTdHIgPSBwa2c7CiAgICAgICAgICAgICAgICAgICAgICAgIHBhY2thZ2VOYW1lID0gcGtnOwogICAgICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgImZldGNoX2NtIiwgIiIsICIiICsganNvbk9iamVjdC50b1N0cmluZygpLCAiIik7Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -622,46 +627,48 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUN1clJlZmVyZXJVcmwgPSB1cmw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHNTdHIgPSBwa2c7CiAgICAgICAgICAgICAgICAgICAgICAgIHBhY2thZ2VOYW1lID0gcGtnOwogICAgICAgICAgICAgICAgICAgICAgICBMb2djYXRBY3Rpb24ub25FdmVudChtQ29udGV4dCwgImZldGNoX2NtIiwgIiIsICIiICsganNvbk9iamVjdC50b1N0cmluZygpLCAiIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAkJCSAgICBtQ3VyUmVmZXJlclVybCA7CQkJCS8vILWxx7DN6rPJZmluaXNotcTKx8TEuPZVUkwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUN1clJlZmVyZXJVcmwgPSB1cmw7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGYuVGVzdEluaXQzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGYuYjsK</text>
+      <register name="5" type="4">
+        <text>||||||| .r6310
+import com.ecfudl2.LogcatAction;
+=======</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWZsZWN0LlJlZmxlY3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmUzeHhVcmwoYWN0aW9uVXJsKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmltcG9ydCBjb20uZWNmdWRsMi5Mb2djYXRBY3Rpb247Cj4+Pj4+Pj4gLnI2MzE2</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJyZXQ6IiArIGpzb25PYmplY3QudG9TdHJpbmcoKSArICIsIGNtZDoiICsgcmV2aWV3Q29udGVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lY2Z1ZGwyLkxvZ2NhdEFjdGlvbjsK</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
