@@ -61,6 +61,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1570615638457">
+        <mark key="[" line="63" column="74" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/f/MsService.java" timestamp="1568897333948">
         <mark key="[" line="320" column="0" />
         <mark key="]" line="320" column="0" />
@@ -233,6 +236,13 @@
         <mark key="." line="47" column="85" />
         <mark key="^" line="47" column="85" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1570616317450">
+        <mark key="'" line="317" column="26" />
+        <mark key="[" line="932" column="31" />
+        <mark key="]" line="317" column="26" />
+        <mark key="^" line="317" column="26" />
+        <mark key="." line="317" column="26" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1568705553542">
         <mark key="[" line="169" column="53" />
         <mark key="]" line="172" column="0" />
@@ -392,6 +402,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/UiHandler.java" timestamp="1570615509725" />
       <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/hook/app/GP/GP_Cookie_Manage.java" timestamp="1568790071404">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -441,6 +452,13 @@
       <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/util/Util.java" timestamp="1569461319622">
         <mark key="[" line="311" column="5" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1570615413345">
+        <mark key="'" line="530" column="61" />
+        <mark key="[" line="432" column="0" />
+        <mark key="]" line="546" column="0" />
+        <mark key="^" line="546" column="0" />
+        <mark key="." line="546" column="0" />
+      </file>
       <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/hook/app/GP/GP_ClassData_Find.java" timestamp="1569240987422">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -476,9 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="4" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/src/main/java/com/init/env/Main.java" />
-      <jump line="477" column="44" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" />
-      <jump line="747" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="505" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="552" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="162" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -576,6 +591,9 @@
       <jump line="34" column="42" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" />
       <jump line="313" column="24" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="647" column="51" filename="E:/Project/ZHooKDemo_AdmobTestA/webviewlibrary/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="529" column="61" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
+      <jump line="669" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="317" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -588,7 +606,7 @@
         <text>String channel</text>
       </register>
       <register name="/" type="4">
-        <text>onPro</text>
+        <text>webViewLoadURL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIiAgICAgICBhbmRyb2lkLmxpa2VBbmRDb21tZW50KCdjb21tZW50JywgJ3N1Y2Nlc3MhJyk7IiArIE5MICsgCg==</text>
@@ -643,9 +661,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onPro</last-search>
+      <last-search>webViewLoadURL</last-search>
       <last-offset />
-      <last-pattern>onPro</last-pattern>
+      <last-pattern>webViewLoadURL</last-pattern>
       <last-replace />
       <last-substitute>com\.ecfudl\.utils\.</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +671,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFVkVOVF9vbkNyZWF0ZU1zZ1w+</entry>
         <entry encoding="base64">XDxkeW5hbWljX3ZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDxERUZfU1RSX2RhdGFfVmVyc2lvblw+</entry>
         <entry>details</entry>
@@ -673,6 +690,7 @@
         <entry>onpress</entry>
         <entry>unavailable</entry>
         <entry>onPro</entry>
+        <entry>webViewLoadURL</entry>
       </history-search>
       <history-cmd>
         <entry>y.,$</entry>
