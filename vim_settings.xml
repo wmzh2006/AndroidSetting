@@ -106,6 +106,7 @@
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/mobileapp/timeservice/UninstallService.java" timestamp="1568087018439">
         <mark key="[" line="12" column="84" />
       </file>
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_7_21.java" timestamp="1571102898845" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/build.gradle" timestamp="1568773577246">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="26" />
@@ -117,6 +118,11 @@
         <mark key="]" line="22" column="26" />
         <mark key="." line="22" column="26" />
         <mark key="^" line="5" column="22" />
+      </file>
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager2.java" timestamp="1571102845936">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/kilo/orz/SaveBitmap.java" timestamp="1568640066544">
         <mark key="[" line="102" column="16" />
@@ -324,7 +330,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -342,46 +348,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yQWNjZW50Ij4jRkY0MDgxPC9jb2xvcj4=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
@@ -420,8 +426,6 @@
         <entry encoding="base64">XDxsaW5lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>% s/LogUtil/Log/gc</entry>
-        <entry>%s/\\t//gc</entry>
         <entry>%s/\n//gc</entry>
         <entry>%s/\\n//gc</entry>
         <entry>w</entry>
@@ -440,6 +444,8 @@
         <entry>%s /com\.ecfudl\.utils\.//g</entry>
         <entry>% d</entry>
         <entry>%s/MsService/b/gc</entry>
+        <entry>%scom.myps.extern.LogcatAction/com.ecfud12.LogcatAction/gc</entry>
+        <entry>%scom\.myps\.extern\.LogcatAction/com\.ecfud12\.LogcatAction/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
