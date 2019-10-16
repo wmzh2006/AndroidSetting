@@ -199,6 +199,9 @@
         <mark key="." line="524" column="38" />
         <mark key="^" line="524" column="38" />
       </file>
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_3_36.java" timestamp="1571217401824">
+        <mark key="'" line="1787" column="17" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/mobileapp/timeservice/UninstallService.java" timestamp="1568087018439">
         <mark key="[" line="12" column="84" />
       </file>
@@ -233,7 +236,7 @@
       <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/util/Util.java" timestamp="1569461319622">
         <mark key="[" line="311" column="5" />
       </file>
-      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/DownloadTask.java" timestamp="1571216137283" />
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/DownloadTask.java" timestamp="1571217005302" />
       <file name="E:/Project/sbgp/zHookDemoOK_Z2/src/main/java/com/jiechi/HappyManagerUtil.java" timestamp="1569460405301">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="35" />
@@ -268,8 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="14" filename="/GP_ClassData_Find.java" />
-      <jump line="84" column="14" filename="/GP_ClassData_Find.java" />
       <jump line="87" column="14" filename="/GP_ClassData_Find.java" />
       <jump line="90" column="14" filename="/GP_ClassData_Find.java" />
       <jump line="93" column="14" filename="/GP_ClassData_Find.java" />
@@ -368,6 +369,8 @@
       <jump line="327" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="331" column="33" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="337" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="1332" column="55" filename="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_3_36.java" />
+      <jump line="1787" column="17" filename="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_3_36.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,7 +383,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW5lXD4=</text>
+        <text>addReview</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgYXNzZXRzRGlyID0gZmlsZShwcm9qZWN0LnByb2plY3REaXIuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiXFxzcmNcXG1haW5cXGFzc2V0cyIpCg==</text>
@@ -463,9 +466,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW5lXD4=</last-search>
+      <last-search>addReview</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW5lXD4=</last-pattern>
+      <last-pattern>addReview</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com\.xsu\.jz\.ag\.a</entry>
         <entry>com.xsu.jz.bd.a</entry>
         <entry>bd</entry>
         <entry>ag</entry>
@@ -493,6 +495,7 @@
         <entry>onerror</entry>
         <entry encoding="base64">XDxKU19GSUxFX05BTUVcPg==</entry>
         <entry encoding="base64">XDxsaW5lXD4=</entry>
+        <entry>addReview</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n//gc</entry>
