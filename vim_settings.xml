@@ -68,11 +68,19 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
+      <file name="E:/tools/android/sources/android-22/java/net/HttpURLConnection.java" timestamp="1571234235943">
+        <mark key="'" line="296" column="21" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/kilo/orz/SaveBitmap.java" timestamp="1568640066544">
         <mark key="[" line="102" column="16" />
         <mark key="]" line="102" column="16" />
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
+      </file>
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/com/hook/app/util/HttpRunner.java" timestamp="1571234264113">
+        <mark key="[" line="275" column="22" />
+        <mark key="]" line="276" column="0" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1570615638457">
         <mark key="[" line="63" column="74" />
@@ -199,7 +207,7 @@
         <mark key="." line="524" column="38" />
         <mark key="^" line="524" column="38" />
       </file>
-      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_3_36.java" timestamp="1571217401824">
+      <file name="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_3_36.java" timestamp="1571233783856">
         <mark key="'" line="1787" column="17" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/mobileapp/timeservice/UninstallService.java" timestamp="1568087018439">
@@ -271,11 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="14" filename="/GP_ClassData_Find.java" />
-      <jump line="90" column="14" filename="/GP_ClassData_Find.java" />
-      <jump line="93" column="14" filename="/GP_ClassData_Find.java" />
-      <jump line="98" column="14" filename="/GP_ClassData_Find.java" />
-      <jump line="103" column="14" filename="/GP_ClassData_Find.java" />
       <jump line="39" column="26" filename="/GP_ClassData_Find.java" />
       <jump line="33" column="26" filename="/GP_ClassData_Find.java" />
       <jump line="31" column="26" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/src/main/java/com/xsu/jz/DataBaseHelper.java" />
@@ -371,10 +374,15 @@
       <jump line="337" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="1332" column="55" filename="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_3_36.java" />
       <jump line="1787" column="17" filename="E:/Project/sbgp2/zHooKDemoOK_B/src/main/java/gp/comment/DBManager16_3_36.java" />
+      <jump line="627" column="12" filename="E:/tools/android/sources/android-22/java/net/HttpURLConnection.java" />
+      <jump line="641" column="12" filename="E:/tools/android/sources/android-22/java/net/HttpURLConnection.java" />
+      <jump line="642" column="19" filename="E:/tools/android/sources/android-22/java/net/HttpURLConnection.java" />
+      <jump line="645" column="15" filename="E:/tools/android/sources/android-22/java/net/HttpURLConnection.java" />
+      <jump line="296" column="21" filename="E:/tools/android/sources/android-22/java/net/HttpURLConnection.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uLmdldFIK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -383,7 +391,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>addReview</text>
+        <text encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgYXNzZXRzRGlyID0gZmlsZShwcm9qZWN0LnByb2plY3REaXIuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiXFxzcmNcXG1haW5cXGFzc2V0cyIpCg==</text>
@@ -392,18 +400,24 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uLmdldFIK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIiCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      </register>
+      <register name="s" type="4">
+        <text>content</text>
+      </register>
+      <register name="4" type="4">
         <text>public boolean versionAvailable(Context context) {
 		String curVersion = GsfVersion(context);
 		for (String ver : versions) {
@@ -434,41 +448,35 @@
 		Log.e(&quot;liukm&quot;, &quot;callAction=&quot;+gpversion);
 		if (</text>
       </register>
-      <register name="s" type="4">
-        <text>content</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>addReview</last-search>
+      <last-search encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>addReview</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VcPg==</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com.xsu.jz.bd.a</entry>
         <entry>bd</entry>
         <entry>ag</entry>
         <entry>com\.xsu\.jz\.ag</entry>
@@ -496,6 +503,7 @@
         <entry encoding="base64">XDxKU19GSUxFX05BTUVcPg==</entry>
         <entry encoding="base64">XDxsaW5lXD4=</entry>
         <entry>addReview</entry>
+        <entry encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n//gc</entry>
