@@ -183,6 +183,12 @@
         <mark key="." line="32" column="57" />
         <mark key="^" line="32" column="57" />
       </file>
+      <file name="E:/Project/sbgp2/zHookDemoOK_Z2/src/main/java/com/jiechi/helper/HttpRunner.java" timestamp="1571279857486">
+        <mark key="[" line="252" column="97" />
+        <mark key="]" line="252" column="48" />
+        <mark key="." line="252" column="48" />
+        <mark key="^" line="252" column="48" />
+      </file>
       <file name="E:/Project/Leaper/hideicon/src/main/AndroidManifest.xml" timestamp="1571210763734">
         <mark key="[" line="37" column="31" />
         <mark key="]" line="37" column="31" />
@@ -381,14 +387,14 @@
       <jump line="296" column="21" filename="E:/tools/android/sources/android-22/java/net/HttpURLConnection.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uLmdldFIK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VcPg==</text>
@@ -400,24 +406,36 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uLmdldFIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIiCg==</text>
+        <text encoding="base64">CQkJCQllcnJvck1zZyA9IGNvbm4uZ2V0UmVzcG9uc2VNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1zZy5nZQo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25uLmdldFIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSIiCg==</text>
+      </register>
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+      </register>
+      <register name="7" type="4">
         <text>public boolean versionAvailable(Context context) {
 		String curVersion = GsfVersion(context);
 		for (String ver : versions) {
@@ -448,26 +466,14 @@
 		Log.e(&quot;liukm&quot;, &quot;callAction=&quot;+gpversion);
 		if (</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teXBzLmV4dGVybi5Mb2djYXRBY3Rpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
