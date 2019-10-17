@@ -15,6 +15,7 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/EqssActivity.java" timestamp="1571315745950" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo/build.gradle" timestamp="1569553069358">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="23" />
@@ -34,11 +35,11 @@
         <mark key="^" line="29" column="7" />
       </file>
       <file name="E:/Project/Leaper/lens/src/main/AndroidManifest.xml" timestamp="1571110773693" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1571313889664">
-        <mark key="'" line="143" column="4" />
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="300" column="0" />
-        <mark key="." line="300" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1571315823835">
+        <mark key="'" line="207" column="8" />
+        <mark key="[" line="267" column="36" />
+        <mark key="]" line="309" column="20" />
+        <mark key="." line="309" column="20" />
       </file>
       <file name="/LLDB" timestamp="1570708924403">
         <mark key="[" line="0" column="0" />
@@ -286,14 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="59" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="127" column="66" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="140" column="31" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="143" column="41" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="147" column="32" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="149" column="51" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="159" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="160" column="12" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="186" column="22" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="209" column="22" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="231" column="30" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
@@ -347,7 +340,6 @@
       <jump line="402" column="3" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="502" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="118" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="155" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="389" column="71" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="265" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="275" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -386,76 +378,85 @@
       <jump line="133" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="166" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="143" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="297" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="142" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="161" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="294" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="155" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="246" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="208" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="242" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="207" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmIA==</text>
+        <text>else{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</text>
+        <text>replacePackageName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYXNzZXRzRGlyID0gZmlsZShwcm9qZWN0LnByb2plY3REaXIuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiXFxzcmNcXG1haW5cXGFzc2V0cyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3RmlsZSA9IGZpbGUobmV3UGF0aCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vzOa7u8Dgw/sKICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gIlxuIgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vzOa7u8Dgw/sKICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vzOa7u8Dgw/sKICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vzOa7u8Dgw/sKICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</last-search>
+      <last-search>replacePackageName</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</last-pattern>
+      <last-pattern>replacePackageName</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
@@ -463,9 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>webViewLoadURL</entry>
-        <entry>doRes</entry>
-        <entry>doResponseGet_MimeType</entry>
         <entry>httpRuner.setConnect</entry>
         <entry>httpRuner\.setConnect</entry>
         <entry>workInner</entry>
@@ -483,6 +481,9 @@
         <entry encoding="base64">XDxPTERfTEFVTkNIRVJfQ0xBU1NfTkFNRVw+</entry>
         <entry encoding="base64">XDxORVdfTEFVTkNIRVJfQ0xBU1NfTkFNRVw+</entry>
         <entry encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</entry>
+        <entry encoding="base64">XDxPTERfQUNUVklUWV9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</entry>
+        <entry>replacePackageName</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n//gc</entry>
