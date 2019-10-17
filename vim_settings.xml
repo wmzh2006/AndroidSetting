@@ -34,6 +34,12 @@
         <mark key="^" line="29" column="7" />
       </file>
       <file name="E:/Project/Leaper/lens/src/main/AndroidManifest.xml" timestamp="1571110773693" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1571313889664">
+        <mark key="'" line="143" column="4" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="300" column="0" />
+      </file>
       <file name="/LLDB" timestamp="1570708924403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -280,10 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="81" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="108" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
-      <jump line="109" column="20" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="126" column="59" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="127" column="66" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
       <jump line="140" column="31" filename="E:/Project/ZHooKDemo_AdmobTestA/demo_su/build/outputs/mapping/release/mapping.txt" />
@@ -380,19 +382,23 @@
       <jump line="93" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" />
       <jump line="96" column="96" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" />
       <jump line="127" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/eve_trace.jar!/com/eve/tra/util/TrackUtil.class" />
+      <jump line="134" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="133" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="166" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="143" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getInt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getInt</text>
+        <text encoding="base64">ZGVmIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFubmVsSURcPg==</text>
+        <text encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgYXNzZXRzRGlyID0gZmlsZShwcm9qZWN0LnByb2plY3REaXIuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiXFxzcmNcXG1haW5cXGFzc2V0cyIpCg==</text>
@@ -400,56 +406,56 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vzOa7u8Dgw/sKICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vzOa7u8Dgw/sKICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmUK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQllcnJvck1zZyA9IGNvbm4uZ2V0UmVzcG9uc2VNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1zZy5nZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFubmVsSURcPg==</last-search>
+      <last-search encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFubmVsSURcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
@@ -457,9 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>com\.xsu\.jz\.ag</entry>
-        <entry>onpress</entry>
-        <entry>unavailable</entry>
         <entry>webViewLoadURL</entry>
         <entry>doRes</entry>
         <entry>doResponseGet_MimeType</entry>
@@ -477,6 +480,9 @@
         <entry encoding="base64">XDxyZXNwb25zZU1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVjaWRcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsSURcPg==</entry>
+        <entry encoding="base64">XDxPTERfTEFVTkNIRVJfQ0xBU1NfTkFNRVw+</entry>
+        <entry encoding="base64">XDxORVdfTEFVTkNIRVJfQ0xBU1NfTkFNRVw+</entry>
+        <entry encoding="base64">XDxORVdfQUNUSVZJVFlfTkFNRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\n//gc</entry>
