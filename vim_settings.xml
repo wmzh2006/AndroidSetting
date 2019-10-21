@@ -16,13 +16,6 @@
         <mark key="^" line="19" column="7" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/EqssActivity.java" timestamp="1571315745950" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1570858773655">
-        <mark key="'" line="383" column="39" />
-        <mark key="[" line="764" column="91" />
-        <mark key="]" line="764" column="100" />
-        <mark key="." line="764" column="100" />
-        <mark key="^" line="764" column="100" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo/build.gradle" timestamp="1569553069358">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="23" />
@@ -48,12 +41,12 @@
       </file>
       <file name="E:/Project/hale/cova/src/main/AndroidManifest.xml" timestamp="1571391952027" />
       <file name="E:/Project/Leaper/lens/src/main/AndroidManifest.xml" timestamp="1571110773693" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1571363604711">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1571620477215">
         <mark key="'" line="246" column="13" />
-        <mark key="[" line="301" column="94" />
-        <mark key="]" line="301" column="75" />
-        <mark key="." line="301" column="75" />
-        <mark key="^" line="301" column="75" />
+        <mark key="[" line="302" column="60" />
+        <mark key="]" line="178" column="50" />
+        <mark key="." line="178" column="50" />
+        <mark key="^" line="178" column="50" />
       </file>
       <file name="/LLDB" timestamp="1570708924403">
         <mark key="[" line="0" column="0" />
@@ -438,13 +431,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.iybnh.zqkrl.tovh</text>
+        <text>line.replaceAll(&quot;\\b${oldActivityName}\\b&quot;, newActvityName))</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>com.iybnh.zqkrl.tovh</text>
+        <text>line.replaceAll(&quot;\\b${oldActivityName}\\b&quot;, newActvityName))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</text>
@@ -456,46 +449,46 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWVhby5jYW1vdy5jb3ZhLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lID1saW5lLnJlcGxhY2VBbGwoIlxcYiR7b2xkQWN0aXZpdHlOYW1lfVxcYiIsIG5ld0FjdHZpdHlOYW1lKSAK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGYuVGVzdEluaXQzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYWVhby5jYW1vdy5jb3ZhLlI7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGYuYjsK</text>
+        <text encoding="base64">aW1wb3J0IGYuVGVzdEluaXQzOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yZWZsZWN0LlJlZmxlY3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGYuYjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5yZWZsZWN0LlJlZmxlY3Q7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gIlxuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gIlxuIgo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
