@@ -47,12 +47,6 @@
         <mark key="." line="172" column="0" />
       </file>
       <file name="E:/Project/hale/cova/src/main/AndroidManifest.xml" timestamp="1571391952027" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/AndroidManifest.xml" timestamp="1571625367807">
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="11" column="50" />
-        <mark key="^" line="11" column="53" />
-        <mark key="." line="11" column="50" />
-      </file>
       <file name="E:/Project/Leaper/lens/src/main/AndroidManifest.xml" timestamp="1571110773693" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1571622766183">
         <mark key="'" line="246" column="13" />
@@ -105,6 +99,11 @@
         <mark key="[" line="275" column="22" />
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jqdrz/vjbco/mxtukj/MainActivity.java" timestamp="1571638741726">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1571628981839">
         <mark key="[" line="67" column="48" />
@@ -308,6 +307,7 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1571639203535" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/firsted/eddroid/app/UninstallService.java" timestamp="1570678249689">
         <mark key="[" line="12" column="113" />
       </file>
@@ -373,7 +373,7 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1571293142712">
+      <file name="/fragment.java" timestamp="1571638721957">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -480,8 +480,8 @@
       <jump line="381" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.setDisplay(dy == 1)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -499,7 +499,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -510,35 +510,35 @@
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHN0YXJ0TXlBY3Rpdml0eSgpIHsgLy8guvPD5r/JuPm+3brzzKjQ6NKqo6y2r8ys0aHU8crHt/HTw8bBxLu/7bjfo6zQ6NKqtcSjrL7Nv8nS1LX308PV4rj2o6y1q8rHu+G1vNbCvefD5snBz8IKICAgICAgICB0cnl7CiAgICAgICAgICAgIENsYXNzIGFjdENsYXp6ID0gQ2xhc3MuZm9yTmFtZSgiY29tLmV0eWZoLmRrd3kuUmVkQWN0aXZpdHkiKTsKICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQodGhpcywgYWN0Q2xhenopOwogICAgICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwogICAgICAgICAgICBNZXRob2Qgc2F2ZU1ldGhvZCA9IGFjdENsYXp6LmdldE1ldGhvZCgic2F2ZVByb2Nlc3NPYmoiLCBDbGFzcy5mb3JOYW1lKCIiKSkKICAgICAgICAgICAgY29tLmV0eWZoLmRrd3kuUmVkQWN0aXZpdHkuc2F2ZVByb2Nlc3NPYmoodGhpcyxpbnRlbnQpOwogICAgICAgICAgICBTdHJpbmcgYWN0TG9nID0gYWN0LmdldFByb2Nlc3NMb2coaW50ZW50KTsKICAgICAgICAgICAgYi5vbkV2ZW50KG1Db250ZXh0LCAiYWN0X0FjdGlvbiIsICIiK3RoaXMudG9TdHJpbmcoKSwgImlkOiIrbVdlYnZpZXdfQmVhbi5nZXROYW1lKCksIGFjdExvZyk7CiAgICAgICAgICAgIG1Db250ZXh0LnN0YXJ0QWN0aXZpdHkoaW50ZW50KTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBleCl7CiAgICAgICAgICAgIFN0cmluZyBnZXRTdGFja1RyYWNlCSA9IFN0YWNrVHJhY2VIZWxwZXIuZ2V0U3RhY2tUcmFjZShleCk7CiAgICAgICAgICAgIFN0cmluZyBlcnJvck1zZyA9ICAiICBleD0iICsgZXgudG9TdHJpbmcoKSArICAiLFN0YWNrVHJhY2U6IiArIGdldFN0YWNrVHJhY2U7CiAgICAgICAgICAgIEpTRGVidWdMb2cuZSggZXJyb3JNc2cpOwogICAgICAgICAgICBiLm9uRXZlbnQobUNvbnRleHQsICJhY3RfRXhjZXB0aW9uIiwgIiIrbVdlYnZpZXdfQmVhbi5nZXR1cmxfTG9hZFBhZ2UoKSwgImlkOiIrbVdlYnZpZXdfQmVhbi5nZXROYW1lKCksIGVycm9yTXNnKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Y29tLmV0eWZoLmRrd3kuUmVkQWN0aXZpdHkuY2xhc3MpOwogICAgICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwogICAgICAgICAgICBjb20uZXR5ZmguZGt3eS5SZWRBY3Rpdml0eS5zYXZlUHJvY2Vzc09iaih0aGlzLGludGVudCk7CiAgICAgICAgICAgIFN0cmluZyBhY3RMb2cgPSBhY3QuZ2V0UHJvY2Vzc0xvZyhpbnRlbnQpOwogICAgICAgICAgICBiLm9uRXZlbnQobUNvbnRleHQsICJhY3RfQWN0aW9uIiwgIiIrdGhpcy50b1N0cmluZygpLCAiaWQ6IittV2Vidmlld19CZWFuLmdldE5hbWUoKSwgYWN0TG9nKTsKICAgICAgICAgICAgbUNvbnRleHQuc3RhcnRBY3Rpdml0eShpbnRlbnQpOwogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGV4KXsKICAgICAgICAgICAgU3RyaW5nIGdldFN0YWNrVHJhY2UJID0gU3RhY2tUcmFjZUhlbHBlci5nZXRTdGFja1RyYWNlKGV4KTsKICAgICAgICAgICAgU3RyaW5nIGVycm9yTXNnID0gICIgIGV4PSIgKyBleC50b1N0cmluZygpICsgICIsU3RhY2tUcmFjZToiICsgZ2V0U3RhY2tUcmFjZTsKICAgICAgICAgICAgSlNEZWJ1Z0xvZy5lKCBlcnJvck1zZyk7CiAgICAgICAgICAgIGIub25FdmVudChtQ29udGV4dCwgImFjdF9FeGNlcHRpb24iLCAiIittV2Vidmlld19CZWFuLmdldHVybF9Mb2FkUGFnZSgpLCAiaWQ6IittV2Vidmlld19CZWFuLmdldE5hbWUoKSwgZXJyb3JNc2cpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHN0YXJ0TXlBY3Rpdml0eSgpIHsgLy8guvPD5r/JuPm+3brzzKjQ6NKqo6y2r8ys0aHU8crHt/HTw8bBxLu/7bjfo6zQ6NKqtcSjrL7Nv8nS1LX308PV4rj2o6y1q8rHu+G1vNbCvefD5snBz8IKICAgICAgICB0cnl7CiAgICAgICAgICAgIENsYXNzIGFjdENsYXp6ID0gQ2xhc3MuZm9yTmFtZSgiY29tLmV0eWZoLmRrd3kuUmVkQWN0aXZpdHkiKTsKICAgICAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQodGhpcywgYWN0Q2xhenopOwogICAgICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwogICAgICAgICAgICBNZXRob2Qgc2F2ZU1ldGhvZCA9IGFjdENsYXp6LmdldE1ldGhvZCgic2F2ZVByb2Nlc3NPYmoiLCBDbGFzcy5mb3JOYW1lKCIiKSkKICAgICAgICAgICAgY29tLmV0eWZoLmRrd3kuUmVkQWN0aXZpdHkuc2F2ZVByb2Nlc3NPYmoodGhpcyxpbnRlbnQpOwogICAgICAgICAgICBTdHJpbmcgYWN0TG9nID0gYWN0LmdldFByb2Nlc3NMb2coaW50ZW50KTsKICAgICAgICAgICAgYi5vbkV2ZW50KG1Db250ZXh0LCAiYWN0X0FjdGlvbiIsICIiK3RoaXMudG9TdHJpbmcoKSwgImlkOiIrbVdlYnZpZXdfQmVhbi5nZXROYW1lKCksIGFjdExvZyk7CiAgICAgICAgICAgIG1Db250ZXh0LnN0YXJ0QWN0aXZpdHkoaW50ZW50KTsKICAgICAgICB9Y2F0Y2ggKEV4Y2VwdGlvbiBleCl7CiAgICAgICAgICAgIFN0cmluZyBnZXRTdGFja1RyYWNlCSA9IFN0YWNrVHJhY2VIZWxwZXIuZ2V0U3RhY2tUcmFjZShleCk7CiAgICAgICAgICAgIFN0cmluZyBlcnJvck1zZyA9ICAiICBleD0iICsgZXgudG9TdHJpbmcoKSArICAiLFN0YWNrVHJhY2U6IiArIGdldFN0YWNrVHJhY2U7CiAgICAgICAgICAgIEpTRGVidWdMb2cuZSggZXJyb3JNc2cpOwogICAgICAgICAgICBiLm9uRXZlbnQobUNvbnRleHQsICJhY3RfRXhjZXB0aW9uIiwgIiIrbVdlYnZpZXdfQmVhbi5nZXR1cmxfTG9hZFBhZ2UoKSwgImlkOiIrbVdlYnZpZXdfQmVhbi5nZXROYW1lKCksIGVycm9yTXNnKTsKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNEZWJ1Z0xvZy5lKCJhY3RfQWN0aW9uOiIrbVdlYnZpZXdfQmVhbi5nZXROYW1lKCkgKyAiLHVybD0iICsgbVdlYnZpZXdfQmVhbi5nZXR1cmxfTG9hZFBhZ2UoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29tLmV0eWZoLmRrd3kuUmVkQWN0aXZpdHkuY2xhc3MpOwogICAgICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwogICAgICAgICAgICBjb20uZXR5ZmguZGt3eS5SZWRBY3Rpdml0eS5zYXZlUHJvY2Vzc09iaih0aGlzLGludGVudCk7CiAgICAgICAgICAgIFN0cmluZyBhY3RMb2cgPSBhY3QuZ2V0UHJvY2Vzc0xvZyhpbnRlbnQpOwogICAgICAgICAgICBiLm9uRXZlbnQobUNvbnRleHQsICJhY3RfQWN0aW9uIiwgIiIrdGhpcy50b1N0cmluZygpLCAiaWQ6IittV2Vidmlld19CZWFuLmdldE5hbWUoKSwgYWN0TG9nKTsKICAgICAgICAgICAgbUNvbnRleHQuc3RhcnRBY3Rpdml0eShpbnRlbnQpOwogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGV4KXsKICAgICAgICAgICAgU3RyaW5nIGdldFN0YWNrVHJhY2UJID0gU3RhY2tUcmFjZUhlbHBlci5nZXRTdGFja1RyYWNlKGV4KTsKICAgICAgICAgICAgU3RyaW5nIGVycm9yTXNnID0gICIgIGV4PSIgKyBleC50b1N0cmluZygpICsgICIsU3RhY2tUcmFjZToiICsgZ2V0U3RhY2tUcmFjZTsKICAgICAgICAgICAgSlNEZWJ1Z0xvZy5lKCBlcnJvck1zZyk7CiAgICAgICAgICAgIGIub25FdmVudChtQ29udGV4dCwgImFjdF9FeGNlcHRpb24iLCAiIittV2Vidmlld19CZWFuLmdldHVybF9Mb2FkUGFnZSgpLCAiaWQ6IittV2Vidmlld19CZWFuLmdldE5hbWUoKSwgZXJyb3JNc2cpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSlNEZWJ1Z0xvZy5lKCJhY3RfQWN0aW9uOiIrbVdlYnZpZXdfQmVhbi5nZXROYW1lKCkgKyAiLHVybD0iICsgbVdlYnZpZXdfQmVhbi5nZXR1cmxfTG9hZFBhZ2UoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIiKQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGwoIm1hdGNoOiIrYWN0aXZpdHkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoZXIgPSBsaW5lID1+IC9eXHMqYW5kcm9pZDpuYW1lPSIoLiopXC4uKkFjdGl2aXR5Ii4qLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGwoIm1hdGNoOiIrYWN0aXZpdHkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
