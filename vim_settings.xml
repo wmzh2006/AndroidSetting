@@ -92,7 +92,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/Project/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1571727930711">
+      <file name="E:/Project/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1571728733061">
         <mark key="[" line="86" column="20" />
         <mark key="]" line="86" column="20" />
         <mark key="." line="86" column="20" />
@@ -280,7 +280,7 @@
         <mark key="^" line="22" column="45" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/sfsl/ptmg/GiiConstants.java" timestamp="1571647736809" />
-      <file name="E:/Project/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/c.java" timestamp="1571727883791">
+      <file name="E:/Project/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/c.java" timestamp="1571728687414">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
@@ -290,6 +290,11 @@
         <mark key="]" line="90" column="60" />
         <mark key="." line="90" column="60" />
         <mark key="^" line="90" column="60" />
+      </file>
+      <file name="E:/Project/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1571728773543">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="12" />
+        <mark key="." line="120" column="12" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto3/build.gradle" timestamp="1568773577246">
         <mark key="[" line="22" column="25" />
@@ -393,6 +398,11 @@
         <mark key="]" line="252" column="48" />
         <mark key="." line="252" column="48" />
         <mark key="^" line="252" column="48" />
+      </file>
+      <file name="E:/Project/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" timestamp="1571729030590">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="54" />
+        <mark key="." line="29" column="54" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/kmee/lyxp/OnbSdk.java" timestamp="1571648322450" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto4/src/main/java/com/web/HttpRunner.java" timestamp="1570714963696">
@@ -600,13 +610,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LogcatAction</text>
+        <text>true</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>LogcatAction</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>initWebview</text>
