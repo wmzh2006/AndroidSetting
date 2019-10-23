@@ -37,6 +37,7 @@
       <mapping pattern="ofo" type="PLAIN_TEXT" />
       <mapping pattern="2019061016" type="PLAIN_TEXT" />
       <mapping pattern="100_2019061015" type="PLAIN_TEXT" />
+      <mapping ext="protect" type="PLAIN_TEXT" />
       <mapping ext="dex" type="Smali" />
     </extensionMap>
   </component>
