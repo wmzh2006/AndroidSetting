@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/NService.java" timestamp="1571885581315">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/NService.java" timestamp="1571922047361">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -38,8 +38,11 @@
         <mark key="]" line="577" column="0" />
         <mark key="." line="577" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/vuky/jdmp/fkyr/OikService.java" timestamp="1571915955829">
-        <mark key="[" line="28" column="52" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/vuky/jdmp/fkyr/OikService.java" timestamp="1571919960929">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+        <mark key="." line="32" column="29" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/bean/WebviewPinBean.java" timestamp="1571908436661">
         <mark key="[" line="43" column="31" />
@@ -121,7 +124,7 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1571915615833" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1571921049201" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/wmjr/zfwus/UvtActivity.java" timestamp="1571646423731">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="24" />
@@ -215,6 +218,11 @@
         <mark key="." line="524" column="38" />
         <mark key="^" line="524" column="38" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/szxwl/bolk/LjmqService.java" timestamp="1571920231843">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="53" />
+        <mark key="." line="29" column="53" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/twcc/rubtv/VrkService.java" timestamp="1571897122315">
         <mark key="[" line="30" column="27" />
         <mark key="]" line="30" column="27" />
@@ -293,7 +301,7 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="E:/Project/gpjsauto/wake/src/main/java/com/carey/justin/wake/MainActivity.java" timestamp="1571915630864">
+      <file name="E:/Project/gpjsauto/wake/src/main/java/com/carey/justin/wake/MainActivity.java" timestamp="1571921077750">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="32" />
         <mark key="^" line="11" column="32" />
@@ -350,6 +358,12 @@
         <mark key="]" line="215" column="93" />
         <mark key="." line="215" column="93" />
         <mark key="^" line="173" column="90" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/vhqd/dlvge/YgoService.java" timestamp="1571920922520">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="29" column="18" />
       </file>
       <file name="E:/Project/Leaper/lens/src/main/java/com/baeao/camow/lens/MainActivity.java" timestamp="1571110581950">
         <mark key="[" line="10" column="0" />
@@ -640,13 +654,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>statusBarNotification</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>statusBarNotification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</text>
@@ -658,7 +672,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2JuLgo=</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
@@ -670,16 +684,16 @@
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4ZWN7Ci8vICAgICAgICAgICAgZGVmIGYgPSBqc1Byb3RlY3REaXIrIlxcIitqc2VzWyJodHRwUG9zdGpzIl0KLy8gICAgICAgICAgICBjb21tYW5kTGluZSAnamF2YScsICctamFyJywgIiRwYXRoIiwgIiRmIgovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGV4ZWN7Ci8vICAgICAgICAgICAgZGVmIGYgPSBqc1Byb3RlY3REaXIrIlxcIitqc2VzWyJodHRwUG9zdGpzIl0KLy8gICAgICAgICAgICBjb21tYW5kTGluZSAnamF2YScsICctamFyJywgIiRwYXRoIiwgIiRmIgovLyAgICAgICAgfQo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
@@ -688,16 +702,16 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZExpbmUgWydqYXZhJywgJy1qYXInLCBwYXRoLCBmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNvbW1uYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZExpbmUgWydqYXZhJywgJy1qYXInLCBwYXRoLCBmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNvbW1uYQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
