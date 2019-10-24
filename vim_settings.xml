@@ -108,7 +108,7 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1571886297147" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1571887378867" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/wmjr/zfwus/UvtActivity.java" timestamp="1571646423731">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="24" />
@@ -137,6 +137,11 @@
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
         <mark key="^" line="29" column="32" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/furkg/ffzyg/HkjdService.java" timestamp="1571887256099">
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
       </file>
       <file name="E:/Project/sbgp/zHookDemoOK_Z2/src/main/java/com/jiechi/HappyTask2.java" timestamp="1569208311091">
         <mark key="[" line="161" column="203" />
@@ -196,7 +201,7 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1571886363769">
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/MainActivity.java" timestamp="1571887393373">
         <mark key="[" line="92" column="29" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
@@ -601,64 +606,64 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>#</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>initWebview</text>
       </register>
-      <register name="0" type="4">
-        <text>${jses[0].value}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJvbk5vdGlmaWNhdGlvblBvc3RlZCMjIyMjIik7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMuY2xvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMuY2xvc2UoKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUcmFja1Byby5Mb2djYXRBY3Rpb25fb25FdmVudChjb250ZXh0LCAiZGV4ZXIiLFRyYWNrUHJvLmV2ZW50X2lkX2xvYWRfZGV4X2VyciwgIiIgLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MuY2xvc2UoKTsK</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhY2tQcm8uTG9nY2F0QWN0aW9uX29uRXZlbnQoY29udGV4dCwgImRleGVkIixUcmFja1Byby5ldmVudF9pZF9sb2FkX2RleF9lbmQsICIiICwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUcmFja1Byby5Mb2djYXRBY3Rpb25fb25FdmVudChjb250ZXh0LCAiZGV4ZXIiLFRyYWNrUHJvLmV2ZW50X2lkX2xvYWRfZGV4X2VyciwgIiIgLCAiIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhY2tQcm8uTG9nY2F0QWN0aW9uX29uRXZlbnQoY29udGV4dCwgImRleGJnIixUcmFja1Byby5ldmVudF9pZF9sb2FkX2RleF9iZWdpbiwgIiIgLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhY2tQcm8uTG9nY2F0QWN0aW9uX29uRXZlbnQoY29udGV4dCwgImRleGVkIixUcmFja1Byby5ldmVudF9pZF9sb2FkX2RleF9lbmQsICIiICwgIiIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhY2tQcm8uTG9nY2F0QWN0aW9uX29uRXZlbnQoY29udGV4dCwgImRleGJnIixUcmFja1Byby5ldmVudF9pZF9sb2FkX2RleF9iZWdpbiwgIiIgLCAiIik7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBjb250ZXh0CiAgICAgKiBAcGFyYW0gSmtvekFjdGl2aXR5SmtvekFjdGl2aXR5CiAgICAgKi8=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBjb250ZXh0CiAgICAgKiBAcGFyYW0gSmtvekFjdGl2aXR5SmtvekFjdGl2aXR5CiAgICAgKi8=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCBKU0F1dG9Db25maWcub3BlbkxvZykgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgIm5vdGlmeV9leCIsICJwY2s6IitwYWNrYWdlTmFtZSwgIiIrZS50b1N0cmluZygpLCIiKTsK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
