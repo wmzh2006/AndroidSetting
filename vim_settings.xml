@@ -461,11 +461,11 @@
         <mark key="." line="30" column="58" />
         <mark key="^" line="30" column="58" />
       </file>
-      <file name="E:/Project/gpjsauto/wake/src/test/java/com/carey/justin/wake/ExampleUnitTest.java" timestamp="1571975517726">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="19" column="44" />
+      <file name="E:/Project/gpjsauto/wake/src/test/java/com/carey/justin/wake/ExampleUnitTest.java" timestamp="1571983670111">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="26" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1570687418323">
         <mark key="[" line="50" column="41" />
@@ -501,6 +501,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/wake/src/androidTest/java/com/carey/justin/wake/ExampleInstrumentedTest.java" timestamp="1571984750136">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="15" />
+        <mark key="." line="27" column="15" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1571899371529">
         <mark key="[" line="26" column="0" />
@@ -673,45 +679,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>100   new messages</text>
+        <text encoding="base64">ICAgTG9nLmUoIlRBRyIsIA==</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>100   new messages</text>
+        <text encoding="base64">ICAgTG9nLmUoIlRBRyIsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGVzID0gIjEwMCAgIG5ldyBtZXNzYWdlcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGVzID0gIjYgzPXQwtDFz6IiOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKS5sb2NhbGUK</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIj8iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCBudWxsKTsKICAgICAgICAgICAgTG9nLmUoIlRBRyIsIFN0cmluZy5mb3JtYXQoInJlYyBtc2cgY29udGV4dFRleHQgJXMsIHNlbmRlciAlcywgd2hlbiAlZCIsIGNvbnRlbnRUZXh0LCBzZW5kZXIsIHdoZW4pKTsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIj8iCg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">LCBudWxsKTsKICAgICAgICAgICAgTG9nLmUoIlRBRyIsIFN0cmluZy5mb3JtYXQoInJlYyBtc2cgY29udGV4dFRleHQgJXMsIHNlbmRlciAlcywgd2hlbiAlZCIsIGNvbnRlbnRUZXh0LCBzZW5kZXIsIHdoZW4pKTsK</text>
+      </register>
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="4">
         <text>if (!TextUtils.isEmpty(code)) {
                     SmsStoreManager.getInstance().add(new CodeDao(sender,code, when));
                 }
@@ -723,14 +735,8 @@
                     }
                 }</text>
       </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2JuLgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2JuLgo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
@@ -739,7 +745,7 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
