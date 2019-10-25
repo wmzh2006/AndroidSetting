@@ -314,12 +314,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1571925137280">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1571969475907">
         <mark key="'" line="158" column="77" />
-        <mark key="[" line="160" column="117" />
-        <mark key="]" line="160" column="88" />
-        <mark key="." line="160" column="88" />
-        <mark key="^" line="160" column="88" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="161" column="10" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/AndroidManifest.xml" timestamp="1571711247913">
         <mark key="[" line="22" column="45" />
@@ -511,13 +511,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1571885499917">
-        <mark key="'" line="140" column="12" />
-        <mark key="[" line="273" column="25" />
-        <mark key="]" line="273" column="25" />
-        <mark key="." line="273" column="25" />
-        <mark key="^" line="273" column="24" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jqdrz/vjbco/mxtukj/LmyConstants.java" timestamp="1571643046201">
         <mark key="[" line="8" column="71" />
         <mark key="]" line="8" column="72" />
@@ -673,8 +666,8 @@
       <jump line="158" column="77" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIj8iCg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -691,13 +684,19 @@
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LCBudWxsKTsKICAgICAgICAgICAgTG9nLmUoIlRBRyIsIFN0cmluZy5mb3JtYXQoInJlYyBtc2cgY29udGV4dFRleHQgJXMsIHNlbmRlciAlcywgd2hlbiAlZCIsIGNvbnRlbnRUZXh0LCBzZW5kZXIsIHdoZW4pKTsK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIj8iCg==</text>
       </register>
       <register name="q" type="4">
         <text>f=hdit;hditdt;</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">LCBudWxsKTsKICAgICAgICAgICAgTG9nLmUoIlRBRyIsIFN0cmluZy5mb3JtYXQoInJlYyBtc2cgY29udGV4dFRleHQgJXMsIHNlbmRlciAlcywgd2hlbiAlZCIsIGNvbnRlbnRUZXh0LCBzZW5kZXIsIHdoZW4pKTsK</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
+      </register>
+      <register name="3" type="4">
         <text>if (!TextUtils.isEmpty(code)) {
                     SmsStoreManager.getInstance().add(new CodeDao(sender,code, when));
                 }
@@ -709,17 +708,11 @@
                     }
                 }</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2JuLgo=</text>
-      </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2JuLgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
@@ -728,16 +721,16 @@
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJlbmNyeXRKcyMjIyNkb0ZpcnN0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV4ZWN7Ci8vICAgICAgICAgICAgZGVmIGYgPSBqc1Byb3RlY3REaXIrIlxcIitqc2VzWyJodHRwUG9zdGpzIl0KLy8gICAgICAgICAgICBjb21tYW5kTGluZSAnamF2YScsICctamFyJywgIiRwYXRoIiwgIiRmIgovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGV4ZWN7Ci8vICAgICAgICAgICAgZGVmIGYgPSBqc1Byb3RlY3REaXIrIlxcIitqc2VzWyJodHRwUG9zdGpzIl0KLy8gICAgICAgICAgICBjb21tYW5kTGluZSAnamF2YScsICctamFyJywgIiRwYXRoIiwgIiRmIgovLyAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmIGNtID0gWydqYXZhJywgJy1qYXInLCBwYXRoLCBmXQo=</text>
