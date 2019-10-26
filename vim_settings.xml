@@ -311,11 +311,11 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.txt" timestamp="1572055426938">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.txt" timestamp="1572057315926">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="3" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/dhlgk/svxt/CysuService.java" timestamp="1571924036635" />
       <file name="E:/Project/DynamicLoader/eve_trace/build.gradle" timestamp="1568637584745">
@@ -693,50 +693,8 @@
       <jump line="560" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>sender:10
-sender:12
-sender:13
-sender:14
-sender:15
-sender:16
-sender:17
-sender:21
-sender:22
-sender:23
-sender:24
-,sender:2
-sender:26
-sender:27
-sender:28
-sender:29
-sender:30
-sender:31
-sender:Uj
-sender:33
-sender:34
-sender:35
-sender:36
-sender:37
-sender:38
-sender:39
-sender:40
-sender:43
-sender:44
-sender:45
-sender:46
-sender:47
-sender:48
-sender:49
-sender:50
-sender:51
-sender:52
-sender:53
-sender:54
-sender:55
-sender:56
-sender:58
-sender:64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3csc2VuZGVyOlVqdW1iZSAzMiBtcHlhCg==</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -753,7 +711,13 @@ sender:64</text>
       <register name="p" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">c3csc2VuZGVyOlVqdW1iZSAzMiBtcHlhCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>f=hdit;hditdt;</text>
+      </register>
+      <register name="2" type="8">
         <text>sender:10
 sender:12
 sender:13
@@ -798,10 +762,10 @@ sender:56
 sender:58
 sender:64</text>
       </register>
-      <register name="q" type="4">
-        <text>f=hdit;hditdt;</text>
+      <register name="r" type="2">
+        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>:
 :
 :
@@ -846,16 +810,13 @@ sender:64</text>
 :
 :</text>
       </register>
-      <register name="r" type="2">
-        <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">OmF6LHNlbmRlcjpUP3RiaXEgZGVha3RpdiBlZGlsaWIK</text>
-      </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">OmF6LHNlbmRlcjpUP3RiaXEgZGVha3RpdiBlZGlsaWIK</text>
+      </register>
+      <register name="5" type="8">
         <text>sender:10
 sender:Tə
 sender:12
@@ -901,7 +862,10 @@ sender:56
 sender:58
 sender:64</text>
       </register>
-      <register name="5" type="8">
+      <register name="u" type="4">
+        <text>http://vimdoc.net/search?q=/\\</text>
+      </register>
+      <register name="6" type="8">
         <text>:
 :
 :
@@ -947,10 +911,7 @@ sender:64</text>
 :
 :</text>
       </register>
-      <register name="u" type="4">
-        <text>http://vimdoc.net/search?q=/\\</text>
-      </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>lan
 lan
 lan
@@ -996,17 +957,14 @@ lan
 lan
 lan</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBmaWxpdGVyID0gQ29sbGVjdGlvbnMuCg==</text>
-      </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTAtMjUgMDI6MzY6NTEuMDI5IDg4MTQtODgzMC8/IEQvTE9DQUxFUzogemhfQ04gW0NoaW5lc2UgKFNpbXBsaWZpZWQgSGFuLENoaW5hKV0K</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBmaWxpdGVyID0gQ29sbGVjdGlvbnMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBDb250ZXh0LmdldFJlc291cmNlcygpLmdldENvbmZpZ3VyYXRpb24oKS5sb2NhbGUK</text>
+        <text encoding="base64">MTAtMjUgMDI6MzY6NTEuMDI5IDg4MTQtODgzMC8/IEQvTE9DQUxFUzogemhfQ04gW0NoaW5lc2UgKFNpbXBsaWZpZWQgSGFuLENoaW5hKV0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
