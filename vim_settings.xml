@@ -20,9 +20,6 @@
         <mark key="." line="8" column="23" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/ftzwk/qzble/aadd/NonqService.java" timestamp="1571992253961">
-        <mark key="[" line="78" column="39" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/digt/jujn/zgaw/NuaaActivity.java" timestamp="1571646686015">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -54,8 +51,8 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="E:/Project/quilt/app/src/main/AndroidManifest.xml" timestamp="1572317734920">
-        <mark key="[" line="0" column="15" />
+      <file name="E:/Project/quilt/app/src/main/AndroidManifest.xml" timestamp="1572339787900">
+        <mark key="[" line="19" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -568,6 +565,12 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="E:/Project/quilt/app/src/main/java/com/bracher/upone/quilt/App.java" timestamp="1572339916670">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="65" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/gihd/bwpq/GnnhService.java" timestamp="1571915569343">
         <mark key="[" line="28" column="50" />
         <mark key="]" line="28" column="50" />
@@ -596,9 +599,6 @@
         <mark key="." line="261" column="21" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1571908345386" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/ilcyo/tjkgk/LvzzService.java" timestamp="1571925440393">
-        <mark key="[" line="83" column="62" />
-      </file>
       <file name="E:/Project/sbgp/zHookDemoOK_Z2/src/main/java/com/jiechi/HappyManagerUtil.java" timestamp="1569460405301">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="35" />
@@ -629,7 +629,7 @@
         <mark key="^" line="30" column="54" />
         <mark key="." line="30" column="54" />
       </file>
-      <file name="/fragment.java" timestamp="1572070355638">
+      <file name="/fragment.java" timestamp="1572339759987">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -749,13 +749,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ewake</text>
+        <text>Context context,String channel</text>
       </register>
       <register name="f" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>ewake</text>
+        <text>Context context,String channel</text>
       </register>
       <register name="/" type="4">
         <text>\v^(.*),(.*)$</text>
