@@ -381,12 +381,11 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="29" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1572424047112">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1572425484670">
         <mark key="'" line="269" column="8" />
-        <mark key="[" line="215" column="105" />
-        <mark key="]" line="215" column="93" />
-        <mark key="." line="215" column="93" />
-        <mark key="^" line="173" column="90" />
+        <mark key="[" line="651" column="23" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/vhqd/dlvge/YgoService.java" timestamp="1571920922520">
         <mark key="[" line="29" column="16" />
@@ -586,13 +585,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1571885499917">
-        <mark key="'" line="140" column="12" />
-        <mark key="[" line="273" column="25" />
-        <mark key="]" line="273" column="25" />
-        <mark key="." line="273" column="25" />
-        <mark key="^" line="273" column="24" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jqdrz/vjbco/mxtukj/LmyConstants.java" timestamp="1571643046201">
         <mark key="[" line="8" column="71" />
         <mark key="]" line="8" column="72" />
@@ -760,8 +752,8 @@
           <key char="104" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Context context,String channel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53di5zbXMuU21zU3RvcmVNYW5hZ2VyOwo=</text>
       </register>
       <register name="f" type="4">
         <text />
@@ -779,24 +771,27 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpKENsYXNzPD8+IGNsYXp6LCBTdHJpbmcgbXNnKSB7CiAgICAgICAgTG9nLmkoY3JlYXRlVGFnKGNsYXp6KSwgbXNnKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLnF3Z3kub2Jwdy5SOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53di5zbXMuU21zU3RvcmVNYW5hZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgY29tLnF3Z3kub2Jwdy5SOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">W3NdOiBodHRwOi8vdmltZG9jLm5ldC9zZWFyY2g/cT0vXFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7InRoIiwgIj8/Pz8/Pz8/Pz8/Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>content</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB7InRoIiwgIj8/Pz8/Pz8/Pz8/Iik7Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>filterWords.put(
 filterWords.put(
 filterWords.put(
@@ -840,26 +835,23 @@ filterWords.put(
 filterWords.put(
 filterWords.put(</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
-      </register>
       <register name="u" type="4">
         <text>http://vimdoc.net/search?q=/\\</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>proguard</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKE5vdGljYXRpb25GaWx0ZXJXb3Jkcy5maWxpdGVyVXNlbGVzc01zc2FnZXMoKSkK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\v^(.*),(.*)$/filterWords.put\(\1,\2\);/gc</text>
