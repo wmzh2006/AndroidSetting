@@ -355,6 +355,9 @@
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="45" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto5/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1572422594968">
+        <mark key="'" line="55" column="13" />
+      </file>
       <file name="E:/Project/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/c.java" timestamp="1571728687414">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="35" />
@@ -635,7 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
       <jump line="498" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
       <jump line="538" column="27" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
       <jump line="744" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
@@ -735,6 +737,7 @@
       <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_58.txt" />
       <jump line="53" column="7" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/NoticationFilterWords.java" />
       <jump line="11" column="29" filename="E:/Project/gpjsauto/wake/src/androidTest/java/com/carey/justin/wake/NoticationFilterWords.java" />
+      <jump line="55" column="13" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto5/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -759,7 +762,7 @@
         <text>Context context,String channel</text>
       </register>
       <register name="/" type="4">
-        <text>\v^(.*),(.*)$</text>
+        <text>getOtp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCBKU0F1dG9Db25maWcub3BlbkxvZykgTG9nY2F0QWN0aW9uLm9uRXZlbnQoY29udGV4dCwgIm5vdGlmeV9leCIsICJwbjoiK3Bja2FnZU5hbmUsICIiK2UudG9TdHJpbmcoKSwgIiIrY29udGVudFRleHQpOwo=</text>
@@ -855,9 +858,9 @@ filterWords.put(</text>
       </register>
     </registers>
     <search>
-      <last-search>\v^(.*),(.*)$</last-search>
+      <last-search>getOtp</last-search>
       <last-offset />
-      <last-pattern>\v^(.*),(.*)$</last-pattern>
+      <last-pattern>getOtp</last-pattern>
       <last-replace>filterWords.put\(\1,\2\);</last-replace>
       <last-substitute>\v^(.*),(.*)$</last-substitute>
       <last-dir>1</last-dir>
@@ -865,8 +868,6 @@ filterWords.put(</text>
     </search>
     <history>
       <history-search>
-        <entry>Dutch</entry>
-        <entry>Germany</entry>
         <entry>Mylaysy</entry>
         <entry>malaysia</entry>
         <entry>ma</entry>
@@ -885,6 +886,8 @@ filterWords.put(</text>
         <entry>\v(.*)</entry>
         <entry>\v(.*),(.*)$</entry>
         <entry>\v^(.*),(.*)$</entry>
+        <entry>getVal</entry>
+        <entry>getOtp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dialog/build/gc</entry>
