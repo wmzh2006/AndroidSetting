@@ -3,12 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1572530288865" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572529046399">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="4" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1572530248946">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/pane/UninstallService.java" timestamp="1572530209417" />
     </filemarks>
     <jumps />
     <registers>
@@ -32,6 +37,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
