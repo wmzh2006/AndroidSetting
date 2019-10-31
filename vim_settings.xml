@@ -416,6 +416,7 @@
         <mark key="^" line="8" column="56" />
         <mark key="." line="8" column="58" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto3/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1572511876747" />
       <file name="E:/Project/ZHooKDemo_AdmobTestA/settings.gradle" timestamp="1569550527830">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="2" column="7" />
@@ -602,7 +603,9 @@
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/ilcyo/tjkgk/LvzzService.java" timestamp="1571925440393">
         <mark key="[" line="83" column="62" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto3/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1572507252425" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto3/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1572511696203">
+        <mark key="'" line="179" column="40" />
+      </file>
       <file name="E:/Project/oak/app/src/main/java/com/borte/wetes/oak/XService.java" timestamp="1572500081319">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="11" column="0" />
@@ -638,12 +641,8 @@
         <mark key="^" line="30" column="54" />
         <mark key="." line="30" column="54" />
       </file>
-      <file name="/fragment.java" timestamp="1572339759987">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="744" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
       <jump line="997" column="20" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
       <jump line="19" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
       <jump line="50" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_57.txt" />
@@ -743,6 +742,7 @@
       <jump line="55" column="13" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto5/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="269" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="162" column="97" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto2/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="179" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto3/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -767,7 +767,7 @@
         <text>+e.toString()</text>
       </register>
       <register name="/" type="4">
-        <text>YWQgY29udGVudDog</text>
+        <text>jsarry_pid_1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJTXNTZXJ2aWNlLm9uRXZlbnQoY29udGV4dCwgImdldE51X2V4YyIsICIiLCAiIitlLnRvU3RyaW5nKCksICIiKTsK</text>
@@ -822,9 +822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>YWQgY29udGVudDog</last-search>
+      <last-search>jsarry_pid_1</last-search>
       <last-offset />
-      <last-pattern>YWQgY29udGVudDog</last-pattern>
+      <last-pattern>jsarry_pid_1</last-pattern>
       <last-replace>filterWords.put\(\1,\2\);</last-replace>
       <last-substitute>\v^(.*),(.*)$</last-substitute>
       <last-dir>1</last-dir>
@@ -832,7 +832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>malaysia</entry>
         <entry>ma</entry>
         <entry>malay</entry>
         <entry>Bahasa</entry>
@@ -852,6 +851,7 @@
         <entry>getVal</entry>
         <entry>getOtp</entry>
         <entry>YWQgY29udGVudDog</entry>
+        <entry>jsarry_pid_1</entry>
       </history-search>
       <history-cmd>
         <entry>%s/dialog/build/gc</entry>
