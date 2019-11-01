@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1572595735360">
+        <mark key="[" line="190" column="12" />
+        <mark key="]" line="190" column="12" />
+        <mark key="." line="190" column="12" />
+        <mark key="^" line="190" column="12" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572571067163">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="45" />
@@ -12,11 +18,11 @@
       <file name="/a.dummy" timestamp="1572530248946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1572591853520">
-        <mark key="'" line="44" column="25" />
-        <mark key="[" line="724" column="0" />
-        <mark key="]" line="724" column="20" />
-        <mark key="." line="724" column="20" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1572596101362">
+        <mark key="'" line="41" column="40" />
+        <mark key="[" line="869" column="122" />
+        <mark key="]" line="665" column="12" />
+        <mark key="." line="665" column="12" />
         <mark key="^" line="725" column="12" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/pane/UninstallService.java" timestamp="1572530209417" />
@@ -26,8 +32,19 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1572591939409">
-        <mark key="[" line="549" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1572595924375">
+        <mark key="'" line="550" column="8" />
+        <mark key="[" line="145" column="26" />
+        <mark key="]" line="145" column="25" />
+        <mark key="." line="145" column="25" />
+        <mark key="^" line="145" column="25" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1572596355028">
+        <mark key="'" line="239" column="0" />
+        <mark key="[" line="655" column="60" />
+        <mark key="]" line="655" column="60" />
+        <mark key="^" line="239" column="0" />
+        <mark key="." line="655" column="60" />
       </file>
     </filemarks>
     <jumps>
@@ -52,46 +69,84 @@
       <jump line="346" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="737" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="44" column="25" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="649" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="244" column="36" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="309" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="303" column="41" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="967" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1047" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="53" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="109" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="113" column="11" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="647" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="114" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="654" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="73" column="56" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="77" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="546" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
+      <jump line="41" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="450" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="757" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="86" column="39" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="239" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>getOptVal</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJV2ViVmlld1V0aWwub25FdmVudCh3ZWJWaWV3LmdldENvbnRleHQoKSwic2hvdWxkSW50ZXJjZXB0UmVxdWVzdCIsQ2hyb21lVmVyc2lvbiwgInJldF91YSIsVUEpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5hbmRyb2lkLnByb3ZpZGVycy5jZXJ0aW5zdGFsbGVyIgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>getOptVal</text>
       </register>
       <register name="/" type="4">
-        <text>loadHookJSByStep</text>
+        <text>getOptVal</text>
       </register>
     </registers>
     <search>
-      <last-search>loadHookJSByStep</last-search>
+      <last-search>getOptVal</last-search>
       <last-offset />
-      <last-pattern>loadHookJSByStep</last-pattern>
+      <last-pattern>getOptVal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>objWebResourceResponseMyData</entry>
-        <entry>workInner</entry>
         <entry>UrlStep_HOOKJS_OK</entry>
         <entry>loadHookJSByStep</entry>
+        <entry>shouldInterceptRequestWork</entry>
+        <entry>workCheck</entry>
+        <entry>doResponse_addHookJs</entry>
+        <entry>UrlStepData</entry>
+        <entry>takePostDataAndTry</entry>
+        <entry>getPostData</entry>
+        <entry>check3xxUrl</entry>
+        <entry>onPageFinishedExe</entry>
+        <entry>onLoadResource</entry>
+        <entry>initWe</entry>
+        <entry>workInner</entry>
+        <entry>onProgressChanged</entry>
+        <entry>getOptVal</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -100,6 +155,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
