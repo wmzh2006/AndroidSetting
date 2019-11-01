@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1572571181934">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="38" />
-      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572571067163">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="45" />
@@ -18,29 +12,87 @@
       <file name="/a.dummy" timestamp="1572530248946">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1572591853520">
+        <mark key="'" line="44" column="25" />
+        <mark key="[" line="724" column="0" />
+        <mark key="]" line="724" column="20" />
+        <mark key="." line="724" column="20" />
+        <mark key="^" line="725" column="12" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/pane/UninstallService.java" timestamp="1572530209417" />
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1572571181934">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="38" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1572591939409">
+        <mark key="[" line="549" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="59" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="231" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="234" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="235" column="56" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="236" column="111" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="239" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="273" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="274" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="275" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="282" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="284" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="285" column="81" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="292" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="350" column="103" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="355" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="356" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="357" column="36" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="358" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="346" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="737" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="44" column="25" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5hbmRyb2lkLnByb3ZpZGVycy5jZXJ0aW5zdGFsbGVyIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.android.providers.certinstaller</text>
+        <text>e</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5hbmRyb2lkLnByb3ZpZGVycy5jZXJ0aW5zdGFsbGVyIgo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>com.android.providers.certinstaller</text>
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text>loadHookJSByStep</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>loadHookJSByStep</last-search>
+      <last-offset />
+      <last-pattern>loadHookJSByStep</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>objWebResourceResponseMyData</entry>
+        <entry>workInner</entry>
+        <entry>UrlStep_HOOKJS_OK</entry>
+        <entry>loadHookJSByStep</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
