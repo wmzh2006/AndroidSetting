@@ -3,12 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1572530288865" />
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572529046399">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1572571181934">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="38" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572571067163">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
         <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="4" />
+        <mark key="." line="6" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1572530248946">
         <mark key="[" line="0" column="0" />
@@ -17,14 +22,17 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U9ImNvbS5hbmRyb2lkLnByb3ZpZGVycy5jZXJ0aW5zdGFsbGVyIgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>com.android.providers.certinstaller</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>com.android.providers.certinstaller</text>
       </register>
     </registers>
     <search>
