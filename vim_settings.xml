@@ -31,11 +31,10 @@
         <mark key="." line="665" column="12" />
         <mark key="^" line="725" column="12" />
       </file>
-      <file name="E:/Project/WeatherLive/app/src/main/AndroidManifest.xml" timestamp="1573119861111">
-        <mark key="[" line="4" column="73" />
-        <mark key="]" line="4" column="72" />
-        <mark key="." line="4" column="72" />
-        <mark key="^" line="4" column="72" />
+      <file name="E:/Project/WeatherLive/app/src/main/AndroidManifest.xml" timestamp="1573120154263">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="E:/Project/godzilla/app/src/main/java/com/godz/neilyon/godzilla/XService.java" timestamp="1573107772448">
         <mark key="[" line="22" column="25" />
@@ -49,6 +48,7 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/AndroidManifest.xml" timestamp="1573119948003" />
       <file name="E:/Project/oak/app/build.gradle" timestamp="1572839369577">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -84,6 +84,14 @@
         <mark key="]" line="25" column="4" />
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1573120022463">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/WeatherLive/app/src/main/res/layout/nav_header_weather.xml" timestamp="1573120099653">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1572596355028">
         <mark key="'" line="239" column="0" />
@@ -138,37 +146,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIDwhLS0gVG8gYXV0by1jb21wbGV0ZSB0aGUgZW1haWwgdGV4dCBmaWVsZCBpbiB0aGUgbG9naW4gZm9ybSB3aXRoIHRoZSB1c2VyJ3MgZW1haWxzIC0tPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5HRVRfQUNDT1VOVFMiIC8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlJFQURfUFJPRklMRSIgLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9DT05UQUNUUyIgLz4=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJV2ViVmlld1V0aWwub25FdmVudCh3ZWJWaWV3LmdldENvbnRleHQoKSwic2hvdWxkSW50ZXJjZXB0UmVxdWVzdCIsQ2hyb21lVmVyc2lvbiwgInJldF91YSIsVUEpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text>_round</text>
       </register>
       <register name="/" type="4">
         <text>getOptVal</text>
