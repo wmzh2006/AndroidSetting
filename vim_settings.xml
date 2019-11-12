@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/Letile/only/build.gradle" timestamp="1573525108176">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="27" />
+      </file>
       <file name="/AndroidManifest.xml" timestamp="1573196026981" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572863811955">
         <mark key="[" line="6" column="49" />
@@ -52,6 +58,12 @@
         <mark key="[" line="20" column="42" />
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
+      </file>
+      <file name="E:/Project/Letile/only/src/main/AndroidManifest.xml" timestamp="1573525096407">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSRunOffer.java" timestamp="1572595735360">
         <mark key="[" line="190" column="12" />
@@ -153,7 +165,7 @@
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.cloud.lovely.letile</text>
+        <text>2</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
@@ -180,7 +192,7 @@
         <text encoding="base64">ICAgIDwhLS0gVG8gYXV0by1jb21wbGV0ZSB0aGUgZW1haWwgdGV4dCBmaWVsZCBpbiB0aGUgbG9naW4gZm9ybSB3aXRoIHRoZSB1c2VyJ3MgZW1haWxzIC0tPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5HRVRfQUNDT1VOVFMiIC8+CiAgICA8dXNlcy1wZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5wZXJtaXNzaW9uLlJFQURfUFJPRklMRSIgLz4KICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9DT05UQUNUUyIgLz4=</text>
       </register>
       <register name="-" type="4">
-        <text>com.cloud.lovely.letile</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>getOptVal</text>
@@ -225,6 +237,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
