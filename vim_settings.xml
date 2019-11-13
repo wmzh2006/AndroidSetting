@@ -15,7 +15,6 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="/AndroidManifest.xml" timestamp="1573196026981" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572863811955">
         <mark key="[" line="6" column="49" />
         <mark key="]" line="6" column="48" />
@@ -140,12 +139,12 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="E:/Project/Letile/app/src/main/AndroidManifest.xml" timestamp="1573523453894" />
+      <file name="$USER_HOME$/AppData/Local/Temp/KexunSDK-v1.0.8-release2213661506771486897.jar!/com/jojo/kingkong/jim/h.class" timestamp="1573614152370">
+        <mark key="'" line="48" column="24" />
+      </file>
       <file name="/fragment.java" timestamp="1573526841660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/wdicz/jlmm/JumSdk.java" timestamp="1573526832283" />
-      <file name="D:/StudioProjects/DayorNight/ShareShortcut/app/src/main/java/com/share/shortcut/ShortCut8_0Activity.java" timestamp="1573528016296" />
     </filemarks>
     <jumps>
       <jump line="59" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -189,6 +188,7 @@
       <jump line="757" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="86" column="39" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="239" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="48" column="24" filename="$USER_HOME$/AppData/Local/Temp/KexunSDK-v1.0.8-release2213661506771486897.jar!/com/jojo/kingkong/jim/h.class" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -225,13 +225,13 @@
         <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>getOptVal</text>
+        <text>Dex</text>
       </register>
     </registers>
     <search>
-      <last-search>getOptVal</last-search>
+      <last-search>Dex</last-search>
       <last-offset />
-      <last-pattern>getOptVal</last-pattern>
+      <last-pattern>Dex</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -253,6 +253,8 @@
         <entry>workInner</entry>
         <entry>onProgressChanged</entry>
         <entry>getOptVal</entry>
+        <entry>de</entry>
+        <entry>Dex</entry>
       </history-search>
       <history-cmd />
       <history-expr />
