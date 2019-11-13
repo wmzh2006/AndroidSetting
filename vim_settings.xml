@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1573635119018">
+        <mark key="'" line="216" column="8" />
+        <mark key="[" line="202" column="24" />
+        <mark key="]" line="202" column="23" />
+        <mark key="^" line="202" column="23" />
+        <mark key="." line="202" column="23" />
+      </file>
       <file name="E:/Project/Letile/only/build.gradle" timestamp="1573525108176">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="27" />
@@ -15,6 +22,7 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewCaptcha.java" timestamp="1573635363446" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572863811955">
         <mark key="[" line="6" column="49" />
         <mark key="]" line="6" column="48" />
@@ -63,6 +71,7 @@
         <mark key="^" line="85" column="73" />
         <mark key="." line="68" column="60" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_jsauto3/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1573634823516" />
       <file name="E:/Project/godzilla/build.gradle" timestamp="1573107534019">
         <mark key="[" line="25" column="5" />
         <mark key="]" line="25" column="4" />
@@ -73,6 +82,13 @@
         <mark key="[" line="20" column="42" />
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1573635130572">
+        <mark key="'" line="688" column="44" />
+        <mark key="[" line="688" column="45" />
+        <mark key="]" line="688" column="44" />
+        <mark key="^" line="688" column="44" />
+        <mark key="." line="688" column="44" />
       </file>
       <file name="E:/Project/Letile/only/src/main/AndroidManifest.xml" timestamp="1573526328780">
         <mark key="[" line="0" column="11" />
@@ -189,6 +205,9 @@
       <jump line="86" column="39" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="239" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="48" column="24" filename="$USER_HOME$/AppData/Local/Temp/KexunSDK-v1.0.8-release2213661506771486897.jar!/com/jojo/kingkong/jim/h.class" />
+      <jump line="202" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="216" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="688" column="44" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -225,13 +244,13 @@
         <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>Dex</text>
+        <text>GetCValue</text>
       </register>
     </registers>
     <search>
-      <last-search>Dex</last-search>
+      <last-search>GetCValue</last-search>
       <last-offset />
-      <last-pattern>Dex</last-pattern>
+      <last-pattern>GetCValue</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -255,6 +274,8 @@
         <entry>getOptVal</entry>
         <entry>de</entry>
         <entry>Dex</entry>
+        <entry encoding="base64">XDxtQ2FwdGNoYUltYWdlX2J5dGVcPg==</entry>
+        <entry>GetCValue</entry>
       </history-search>
       <history-cmd />
       <history-expr />
