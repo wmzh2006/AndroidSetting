@@ -257,6 +257,12 @@
         <mark key="^" line="834" column="15" />
         <mark key="." line="834" column="15" />
       </file>
+      <file name="E:/Project/moth/myapplication/src/test/java/g/neilyon/myapplication/ExampleUnitTest.kt" timestamp="1574256343926">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto6/src/main/java/com/wv/auto/fuction/JSDebugLog.java" timestamp="1573646526870">
         <mark key="[" line="35" column="42" />
         <mark key="]" line="35" column="42" />
@@ -360,8 +366,8 @@
       <jump line="11" column="17" filename="E:/Project/moth/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3RyZWFtID0gamF2YS5uaW8uZmlsZS5GaWxlcy4K</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -373,31 +379,31 @@
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCJhbmRyb2lkLnRpdGxlIiwgU3RyaW5nLmNvcHlWYWx1ZU9mKGIpKTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3RyZWFtID0gamF2YS5uaW8uZmlsZS5GaWxlcy4K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHB1YmxpYyBBeXBTZXJ2aWNlKCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25MaXN0ZW5lckNvbm5lY3RlZCgpIHsKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIC8vIM2o1qqxu8m+s/3BywogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbk5vdGlmaWNhdGlvblJlbW92ZWQoU3RhdHVzQmFyTm90aWZpY2F0aW9uIHNibikgewogICAgfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCI7Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCI7Iik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKHYpLmFwcGVuZCgiLCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
