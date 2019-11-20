@@ -27,6 +27,12 @@
         <mark key="]" line="11" column="36" />
         <mark key="." line="11" column="36" />
       </file>
+      <file name="E:/tools/android/sources/android-28/android/service/notification/NotificationListenerService.java" timestamp="1574250883293">
+        <mark key="[" line="93" column="23" />
+        <mark key="]" line="93" column="22" />
+        <mark key="^" line="93" column="22" />
+        <mark key="." line="93" column="22" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto6/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1573649637683">
         <mark key="[" line="751" column="13" />
         <mark key="]" line="751" column="12" />
@@ -142,7 +148,12 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/tgwpg/tqce/AypService.java" timestamp="1574248153181" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/tgwpg/tqce/AypService.java" timestamp="1574250857438">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="11" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1573635119018">
         <mark key="'" line="216" column="8" />
         <mark key="[" line="202" column="24" />
@@ -350,10 +361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25MaXN0ZW5lckNvbm5lY3RlZCgpIHsKICAgIH0=</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Callback</text>
@@ -361,32 +372,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCJhbmRyb2lkLnRpdGxlIiwgU3RyaW5nLmNvcHlWYWx1ZU9mKGIpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25MaXN0ZW5lckNvbm5lY3RlZCgpIHsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IHB1YmxpYyBBeXBTZXJ2aWNlKCkgewogICAgICAgIHN1cGVyKCk7CiAgICB9</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25MaXN0ZW5lckNvbm5lY3RlZCgpIHsKICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIC8vIM2o1qqxu8m+s/3BywogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbk5vdGlmaWNhdGlvblJlbW92ZWQoU3RhdHVzQmFyTm90aWZpY2F0aW9uIHNibikgewogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCI7Iik7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKCI7Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKHYpLmFwcGVuZCgiLCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2IuYXBwZW5kKHYpLmFwcGVuZCgiLCIpOwo=</text>
       </register>
     </registers>
     <search>
