@@ -188,6 +188,11 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="78" />
       </file>
+      <file name="E:/Project/moth/app/src/main/AndroidManifest.xml" timestamp="1574218982589">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="D:/StudioProjects/DayorNight/ShareShortcut/app/src/main/java/com/share/shortcut/UI.java" timestamp="1573543771400">
         <mark key="[" line="22" column="85" />
         <mark key="]" line="22" column="85" />
@@ -326,10 +331,8 @@
       <jump line="80" column="36" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else{
-				JSDebugLog.e(&quot;shouldInterceptRequestWork:&quot;+url +&quot; not match captcha&quot;);
-			}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -340,34 +343,34 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJSlNEZWJ1Z0xvZy5lKGFjdGlvblVybCk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IDxhY3Rpdml0eSBhbmRyb2lkOm5hbWU9Ii5NYWluQWN0aXZpdHkiPgogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIgLz4KCiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvYWN0aXZpdHk+</text>
+      </register>
+      <register name="3" type="4">
         <text>else{
 				JSDebugLog.e(&quot;shouldInterceptRequestWork:&quot;+url +&quot; not match captcha&quot;);
 			}</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCUpTRGVidWdMb2cuZSgi0enWpMLro7oiK3VybCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUodXJsKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUodXJsKTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlKU0RlYnVnTG9nLmUodXJsKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CWlmICh1cmwuc3RhcnRzV2l0aCgiaHR0cHM6Ly92YXMtcHJvZC5hMS5uZXQvdmFzL3Jlc3QvcHVyY2hhc2UvdjEvY2FwdGNoYSIpKSB7CgkJCUpTRGVidWdMb2cuZSgi1eLKx9Hp1qTC68G0vdOjuiIrdXJsKTsKCQl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQlKU0RlYnVnTG9nLmUodXJsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CWlmICh1cmwuc3RhcnRzV2l0aCgiaHR0cHM6Ly92YXMtcHJvZC5hMS5uZXQvdmFzL3Jlc3QvcHVyY2hhc2UvdjEvY2FwdGNoYSIpKSB7CgkJCUpTRGVidWdMb2cuZSgi1eLKx9Hp1qTC68G0vdOjuiIrdXJsKTsKCQl9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
