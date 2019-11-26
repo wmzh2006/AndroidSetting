@@ -180,6 +180,12 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="11" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" timestamp="1574768967834">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572863811955">
         <mark key="[" line="6" column="49" />
         <mark key="]" line="6" column="48" />
@@ -287,6 +293,13 @@
         <mark key="^" line="837" column="243" />
         <mark key="." line="837" column="251" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1574768837657">
+        <mark key="'" line="518" column="40" />
+        <mark key="[" line="518" column="41" />
+        <mark key="]" line="518" column="40" />
+        <mark key="." line="518" column="40" />
+        <mark key="^" line="518" column="40" />
+      </file>
       <file name="E:/Project/moth/myapplication/src/test/java/g/neilyon/myapplication/ExampleUnitTest.kt" timestamp="1574668675858">
         <mark key="[" line="20" column="24" />
         <mark key="]" line="20" column="24" />
@@ -309,9 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="647" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="114" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="654" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="73" column="56" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="546" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
       <jump line="41" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -409,60 +419,60 @@
       <jump line="991" column="39" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="67" column="41" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="83" column="49" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="65" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
+      <jump line="204" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
+      <jump line="518" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>rOOTSDK_Plugin_onlyjsauto</text>
+        <text>htmlPageInsertJs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmICghSHR0cFJ1bm5lci5pc0NhbldvcmtNZXRob2QoZ2V0TWV0aG9kKSB8fCAoIWlzRm9yTWFpbkZyYW1lICYmICFpc0NhcHRjaGFJbWFnZVVybChhY3Rpb25VcmwpKSl7Ly8gs6LK1M/Ct8fW97PM0PLO0sPH19S8urK7x+vH8wo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmdzLmZpbHRlcigpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmdzLmZsaXQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPEM+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaWZ0T2YoNSkgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGMgaW4gYXJyLikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhLmFsc297fQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdHJpbmdzLmZpbHRlcigpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdHJpbmdzLmZsaXQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPEM+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsaWZ0T2YoNSkgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGMgaW4gYXJyLikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLm5pby5maWxlLlBhdGhzCg==</text>
+        <text encoding="base64">ICAgICAgICBhLmFsc297fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLm1hdGguQmlnRGVjaW1hbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>rOOTSDK_Plugin_onlyjsauto</last-search>
+      <last-search>htmlPageInsertJs</last-search>
       <last-offset />
-      <last-pattern>rOOTSDK_Plugin_onlyjsauto</last-pattern>
+      <last-pattern>htmlPageInsertJs</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>check3xxUrl</entry>
-        <entry>onPageFinishedExe</entry>
-        <entry>onLoadResource</entry>
         <entry>initWe</entry>
         <entry>workInner</entry>
         <entry>onProgressChanged</entry>
@@ -480,6 +490,9 @@
         <entry>Callback</entry>
         <entry encoding="base64">XDxvZmZlcmxpc3RcPg==</entry>
         <entry>rOOTSDK_Plugin_onlyjsauto</entry>
+        <entry>setWebView</entry>
+        <entry>setSimulateClickWeb</entry>
+        <entry>htmlPageInsertJs</entry>
       </history-search>
       <history-cmd />
       <history-expr />
