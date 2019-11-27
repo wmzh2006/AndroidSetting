@@ -15,7 +15,7 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="E:/Project/gpjsauto/wake/src/main/java/com/carey/justin/wake/MainActivity.java" timestamp="1574825340684">
+      <file name="E:/Project/gpjsauto/wake/src/main/java/com/carey/justin/wake/MainActivity.java" timestamp="1574826125518">
         <mark key="[" line="13" column="1" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -139,7 +139,7 @@
         <mark key="." line="194" column="39" />
         <mark key="^" line="194" column="39" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1574825332260" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1574826117264" />
       <file name="E:/Project/moth/app/src/main/AndroidManifest.xml" timestamp="1574221743143">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="0" />
@@ -183,12 +183,12 @@
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" timestamp="1574825288926">
-        <mark key="'" line="111" column="25" />
-        <mark key="[" line="69" column="56" />
-        <mark key="]" line="69" column="55" />
-        <mark key="." line="69" column="55" />
-        <mark key="^" line="69" column="55" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" timestamp="1574826036325">
+        <mark key="'" line="92" column="26" />
+        <mark key="[" line="92" column="27" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+        <mark key="^" line="92" column="26" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1572863811955">
         <mark key="[" line="6" column="49" />
@@ -335,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="41" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="271" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="276" column="116" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="281" column="41" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -435,6 +434,7 @@
       <jump line="109" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="117" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="223" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="92" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -444,7 +444,7 @@
         <text encoding="base64">Vmlld0dyb3VwIA==</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text encoding="base64">XDxzZXRSZXF1ZXN0ZWRPcmllbnRhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVmlld0dyb3VwIHZpZXdHcm91cCA9IChWaWV3R3JvdXApIGN1ckJyb3N3ZXJWaWV3LmdldFBhcmVudCgpOwo=</text>
@@ -481,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search encoding="base64">XDxzZXRSZXF1ZXN0ZWRPcmllbnRhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRSZXF1ZXN0ZWRPcmllbnRhdGlvblw+</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
@@ -491,7 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCaptchaValueAsys</entry>
         <entry>900221</entry>
         <entry encoding="base64">XDxpc0Zvck1haW5GcmFtZVw+</entry>
         <entry>beginLoad</entry>
@@ -511,6 +510,7 @@
         <entry>ssO</entry>
         <entry>ssSo</entry>
         <entry>start</entry>
+        <entry encoding="base64">XDxzZXRSZXF1ZXN0ZWRPcmllbnRhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this/curActivity/gc</entry>
