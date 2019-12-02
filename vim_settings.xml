@@ -48,6 +48,12 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="E:/Project/Camera/app/src/main/java/com/greater/neilyon/camera/MainActivity.kt" timestamp="1575250145697">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+      </file>
       <file name="E:/Project/oak/app/build.gradle" timestamp="1572839369577">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -147,7 +153,6 @@
         <mark key="^" line="237" column="66" />
         <mark key="." line="237" column="66" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/dreams/Accessibilitypane.java" timestamp="1574910660364" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/bfxi/oazg/XgySdk.java" timestamp="1574305853644">
         <mark key="[" line="194" column="43" />
         <mark key="]" line="194" column="39" />
@@ -272,6 +277,12 @@
         <mark key="]" line="837" column="12" />
         <mark key="^" line="837" column="12" />
         <mark key="." line="837" column="12" />
+      </file>
+      <file name="E:/Project/Camera/app/src/main/java/com/greater/neilyon/camera/MainActivity.java" timestamp="1575249916905">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+        <mark key="^" line="8" column="47" />
       </file>
       <file name="E:/Project/godzilla/app/src/main/java/com/godz/neilyon/godzilla/XService.java" timestamp="1573107772448">
         <mark key="[" line="22" column="25" />
@@ -450,10 +461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6ZHJlYW1zIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRDb250ZW50VmlldyhsYXlvdXRSZXNJRCkK</text>
       </register>
       <register name="-" type="4">
-        <text>panbe</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>com.usahk.gsef.mkdr</text>
@@ -462,34 +473,33 @@
         <text encoding="base64">ICAgICAgICAgICAgVmlld0dyb3VwIHZpZXdHcm91cCA9IChWaWV3R3JvdXApIGN1ckJyb3N3ZXJWaWV3LmdldFBhcmVudCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6ZHJlYW1zIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRDb250ZW50VmlldyhsYXlvdXRSZXNJRCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlGcmFtZUxheW91dC5wZXJmb3JtQ2xpY2soKTsK</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>if (curBaseBean != null){
-                mCurURL = curBaseBean.geturl_LoadPage();
-                mCurID  = &quot;id:&quot; + curBaseBean.getName();
-            }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZXRDb250ZW50VmlldyhsYXlvdXRSZXNJRDogSW50KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyQmFzZUJlYW4gPSBjdXJXZWJ2aWV3QXV0b1Byb2Nlc3MuZ2V0V2Vidmlld19CZWFuKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyQnJvc3dlclZpZXcgPSBjdXJXZWJ2aWV3QXV0b1Byb2Nlc3MuZ2V0V2VidmlldygpOwo=</text>
+      <register name="5" type="4">
+        <text>override fun setContentView(layoutResID: Int) {
+        super.setContentView(layoutResID)
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgbUN1cklEICA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgbUN1clVSTCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBDb250ZXh0IG1Db250ZXh0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6ZHJlYW1zIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtV29ya0FjdGl2aXR5ICAgPSBjdXJBY3Rpdml0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlGcmFtZUxheW91dC5wZXJmb3JtQ2xpY2soKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/MsService/b/gc</text>
