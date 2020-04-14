@@ -1,8 +1,19 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="ViewToolButtons">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>
