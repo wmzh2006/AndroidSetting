@@ -78,11 +78,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewCaptcha.java" timestamp="1589960019141">
-        <mark key="[" line="201" column="36" />
-        <mark key="]" line="201" column="36" />
-        <mark key="." line="201" column="36" />
-        <mark key="^" line="201" column="33" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewCaptcha.java" timestamp="1589960559678">
+        <mark key="[" line="213" column="67" />
+        <mark key="]" line="213" column="71" />
+        <mark key="." line="213" column="70" />
+        <mark key="^" line="213" column="71" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1589958753702">
         <mark key="[" line="6" column="47" />
@@ -102,7 +102,6 @@
         <mark key="[" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/Lemo/app/src/main/AndroidManifest.xml" timestamp="1589958266915" />
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Activityhelpserver.java" timestamp="1589958008895" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1589959722324">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -112,6 +111,12 @@
         <mark key="[" line="50" column="16" />
         <mark key="]" line="50" column="36" />
         <mark key="." line="50" column="36" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1589960250605">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="506" column="0" />
+        <mark key="]" line="506" column="0" />
+        <mark key="." line="506" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1589958056647">
         <mark key="[" line="20" column="12" />
@@ -232,46 +237,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Runtime.getRuntime()</text>
+        <text>a</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>Runtime.getRuntime()</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>intercept</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZlcmxpc3QuYWRkKG5ldyBXZWJ2aWV3UGluQmVhbihuZXcgV2Vidmlld0xvZ0RlZmF1bHRCZWFuKCkuaW8oIjMiLCAiaHR0cDovL2xwLmdtcG1vYmkuY29tL2FlL3JvdXRlci9wcmVjaXNlX2dhbWUtZHUuaHRtbD9uZXR3b3JrPWFmZjEmc2FuZG89b3AmdHJhbnNhY3Rpb25faWQ9IiAsMC42KSkpOwo=</text>
+        <text encoding="base64">CQkJCQkJCWIub25FdmVudChjb250ZXh0LCAiY2FwdGNoIiAsICIiLCAiIiwgIiIrdmEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvZmZlcmxpc3QuYWRkKG5ldyBXZWJ2aWV3UGluQmVhbihuZXcgV2Vidmlld0xvZ0RlZmF1bHRCZWFuKCkuaW8oIjMiLCAiaHR0cDovL2xwLmdtcG1vYmkuY29tL2FlL3JvdXRlci9wcmVjaXNlX2dhbWUtZHUuaHRtbD9uZXR3b3JrPWFmZjEmc2FuZG89b3AmdHJhbnNhY3Rpb25faWQ9IiAsMC42KSkpOwo=</text>
+        <text encoding="base64">CQkJCQkJCQliLm9uRXZlbnQoY29udGV4dCwgImNhcHRjaCIgLCAiIiwgIiIsICIiK3ZhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbmltYWwucGFpbnRpbmdpYmsuUjsK</text>
+        <text encoding="base64">CQkJCQkJCQliLm9uRXZlbnQoY29udGV4dCwgImNhcHRjaCIgLCAiIiwgIiIsICIiK3ZhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRElTSElvY2wgPSBuZXcgRElTSElvY2woKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlldy5nZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoRElTSElvY2wgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfU0VUVElOR1MiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRElTSElvY2wgRElTSElvY2w7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbmltYWwucGF0aW50aW5nc28uQ29tbW9uLkRJU0hJb2NsOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoc29OZXdOYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGYuVGVzdEluaXQzOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5sb2FkTGlicmFyeShzb05ld05hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGYuTXNTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICBTeXN0ZW0ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
