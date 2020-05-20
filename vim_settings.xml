@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>_DOMNodeInserted_Captcha</entry>
         <entry encoding="base64">XDxtQ2FwdGNoYVN0YXRlXD4=</entry>
         <entry encoding="base64">XDxXZWJSZXNvdXJjZVJlc3BvbnNlTXlEYXRhXD4=</entry>
         <entry encoding="base64">XDxyZXREYXRhQ2FwdGNoYVw+</entry>
@@ -25,6 +24,7 @@
         <entry>MsService</entry>
         <entry>injs_http</entry>
         <entry>http</entry>
+        <entry>intercept</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -83,6 +83,7 @@
         <mark key="]" line="6" column="27" />
         <mark key="." line="6" column="27" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewCaptcha.java" timestamp="1589939991070" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1588041513526">
         <mark key="[" line="74" column="36" />
         <mark key="]" line="74" column="36" />
@@ -269,7 +270,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>intercept</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvZmZlcmxpc3QuYWRkKG5ldyBXZWJ2aWV3UGluQmVhbihuZXcgV2Vidmlld0xvZ0RlZmF1bHRCZWFuKCkuaW8oIjMiLCAiaHR0cDovL2xwLmdtcG1vYmkuY29tL2FlL3JvdXRlci9wcmVjaXNlX2dhbWUtZHUuaHRtbD9uZXR3b3JrPWFmZjEmc2FuZG89b3AmdHJhbnNhY3Rpb25faWQ9IiAsMC42KSkpOwo=</text>
@@ -308,9 +309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>http</last-search>
+      <last-search>intercept</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>intercept</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
