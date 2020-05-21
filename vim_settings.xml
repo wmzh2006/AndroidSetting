@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxXZWJSZXNvdXJjZVJlc3BvbnNlTXlEYXRhXD4=</entry>
-        <entry encoding="base64">XDxyZXREYXRhQ2FwdGNoYVw+</entry>
-        <entry encoding="base64">XDxtQ3VyRGF0YUNhcHRjaGFcPg==</entry>
         <entry>du</entry>
         <entry>AE</entry>
         <entry encoding="base64">XDxhbmRyb2lkXD4=</entry>
@@ -25,6 +22,9 @@
         <entry>http</entry>
         <entry>intercept</entry>
         <entry>hook</entry>
+        <entry>shouldInterceptRequest</entry>
+        <entry encoding="base64">XDxzaG91bGRJbnRlcmNlcHRSZXF1ZXN0XD4=</entry>
+        <entry>postdata</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -107,20 +107,17 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590041922817">
+        <mark key="'" line="1054" column="53" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1589960250605">
         <mark key="'" line="10" column="19" />
         <mark key="[" line="506" column="0" />
         <mark key="]" line="506" column="0" />
         <mark key="." line="506" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1589958056647">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="31" />
-      </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1590040597260">
-        <mark key="'" line="426" column="187" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1590040777128">
+        <mark key="'" line="524" column="35" />
         <mark key="[" line="74" column="36" />
         <mark key="]" line="74" column="36" />
         <mark key="^" line="74" column="40" />
@@ -134,13 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="762" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="766" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="767" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="771" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="772" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="776" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
-      <jump line="777" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="781" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="782" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="787" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
@@ -234,6 +224,13 @@
       <jump line="899" column="58" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="902" column="57" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="426" column="187" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="858" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="524" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="277" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1043" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1045" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1046" column="35" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1054" column="53" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -248,7 +245,7 @@
         <text>LogcatAction</text>
       </register>
       <register name="/" type="4">
-        <text>hook</text>
+        <text>postdata</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCWIub25FdmVudChjb250ZXh0LCAiY2FwdGNoIiAsICIiLCAiIiwgIiIrdmEpOwo=</text>
@@ -287,9 +284,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hook</last-search>
+      <last-search>postdata</last-search>
       <last-offset />
-      <last-pattern>hook</last-pattern>
+      <last-pattern>postdata</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
