@@ -5,11 +5,8 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvZmZlcmxpc3RfY2hla2NhZGRcPg==</entry>
-        <entry>doResponse_CheckNeedChangeStr</entry>
         <entry>MsService</entry>
         <entry>injs_http</entry>
-        <entry>http</entry>
         <entry>intercept</entry>
         <entry>hook</entry>
         <entry>shouldInterceptRequest</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry encoding="base64">XDxwb3N0RGF0YVw+</entry>
         <entry encoding="base64">XDxyZWFsX3Bvc3RkYXRhXD4=</entry>
+        <entry encoding="base64">XDxkb0tleVNldFw+</entry>
+        <entry>http</entry>
+        <entry>HttpRun</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -78,12 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewCaptcha.java" timestamp="1589960737329">
-        <mark key="[" line="208" column="54" />
-        <mark key="]" line="208" column="55" />
-        <mark key="." line="208" column="54" />
-        <mark key="^" line="208" column="55" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto8/src/main/java/com/web/DataCheckHookJSUrl.java" timestamp="1590059203097">
         <mark key="[" line="64" column="15" />
         <mark key="]" line="64" column="15" />
@@ -100,7 +94,7 @@
         <mark key="^" line="74" column="40" />
         <mark key="." line="74" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1590410109048">
+      <file name="/a.dummy" timestamp="1590413206171">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto8/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590059259809">
@@ -109,12 +103,6 @@
         <mark key="]" line="571" column="113" />
         <mark key="." line="571" column="112" />
         <mark key="^" line="571" column="113" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1589960085486">
-        <mark key="'" line="1082" column="106" />
-        <mark key="[" line="671" column="0" />
-        <mark key="]" line="671" column="0" />
-        <mark key="." line="671" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/app/src/main/java/com/hjq/permissions/demo/MainActivity.java" timestamp="1590061279664">
         <mark key="[" line="13" column="0" />
@@ -134,6 +122,13 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" timestamp="1590413407586">
+        <mark key="'" line="38" column="11" />
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="13" />
+        <mark key="^" line="45" column="13" />
+        <mark key="." line="45" column="4" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/app/build.gradle" timestamp="1590062903116">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="10" column="91" />
@@ -152,21 +147,17 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590044506227">
-        <mark key="'" line="537" column="46" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590413873851">
+        <mark key="'" line="1011" column="19" />
+        <mark key="[" line="198" column="171" />
+        <mark key="]" line="332" column="40" />
+        <mark key="." line="332" column="40" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" timestamp="1590412597316">
-        <mark key="'" line="458" column="24" />
-        <mark key="[" line="603" column="76" />
-        <mark key="]" line="603" column="78" />
-        <mark key="." line="603" column="77" />
-        <mark key="^" line="603" column="78" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1589960250605">
-        <mark key="'" line="10" column="19" />
-        <mark key="[" line="506" column="0" />
-        <mark key="]" line="506" column="0" />
-        <mark key="." line="506" column="0" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" timestamp="1590413455139">
+        <mark key="'" line="363" column="20" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/settings.gradle" timestamp="1590061136745">
         <mark key="[" line="2" column="10" />
@@ -175,32 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="372" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="376" column="132" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="377" column="178" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="383" column="103" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="386" column="199" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="390" column="157" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="391" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="428" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="523" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="524" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="525" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="526" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="527" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="528" column="44" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="536" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="540" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="541" column="163" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="542" column="169" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="553" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="626" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="862" column="135" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="869" column="102" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="876" column="64" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="878" column="64" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="885" column="158" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="886" column="60" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="921" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="925" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -263,7 +228,6 @@
       <jump line="566" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="576" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="397" column="47" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
-      <jump line="394" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="581" column="51" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="52" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="68" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
@@ -275,51 +239,82 @@
       <jump line="401" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="402" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="456" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="229" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="394" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="396" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="425" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="426" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="427" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="428" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="429" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="430" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="431" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="432" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="433" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="436" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="443" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="445" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="446" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
+      <jump line="574" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="575" column="112" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="709" column="14" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="735" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="737" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="982" column="52" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1016" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1024" column="50" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1025" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="1028" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="38" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZW50TGVuZ3RoIDwgMCkgewogICAgICAgICAgICAgICAgICAgIGNvbm4uc2V0Q2h1bmtlZFN0cmVhbWluZ01vZGUoMjU2ICogMTAyNCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGlmIChjb250ZW50TGVuZ3RoIDwgSW50ZWdlci5NQVhfVkFMVUUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5zZXRGaXhlZExlbmd0aFN0cmVhbWluZ01vZGUoKGludCkgY29udGVudExlbmd0aCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5LSVRLQVQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5zZXRGaXhlZExlbmd0aFN0cmVhbWluZ01vZGUoY29udGVudExlbmd0aCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5zZXRDaHVua2VkU3RyZWFtaW5nTW9kZSgyNTYgKiAxMDI0KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb25uLnNldFJlcXVlc3RQcm9wZXJ0eSgiQ29udGVudC1MZW5ndGgiLCBTdHJpbmcudmFsdWVPZihjb250ZW50TGVuZ3RoKSk7CiAgICAgICAgICAgICAgICBjb25uLnNldERvSW5wdXQodHJ1ZSk7CiAgICAgICAgICAgICAgICBjb25uLnNldERvT3V0cHV0KHRydWUpOwogICAgICAgICAgICAgICAgLy8gUG9zdCDH68fzsrvE3Mq508O7urTmCiAgICAgICAgICAgICAgICBjb25uLnNldFVzZUNhY2hlcyhmYWxzZSk7</text>
+      <register name="&quot;" type="4">
+        <text>HttpRunner</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>onFailure</text>
+        <text>HttpRunner</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFsX3Bvc3RkYXRhXD4=</text>
+        <text>HttpRun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU3VjY2VzcyhyZXNwb25zZS5ib2R5KCkuYnl0ZXMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb250ZW50TGVuZ3RoIDwgMCkgewogICAgICAgICAgICAgICAgICAgIGNvbm4uc2V0Q2h1bmtlZFN0cmVhbWluZ01vZGUoMjU2ICogMTAyNCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGlmIChjb250ZW50TGVuZ3RoIDwgSW50ZWdlci5NQVhfVkFMVUUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5zZXRGaXhlZExlbmd0aFN0cmVhbWluZ01vZGUoKGludCkgY29udGVudExlbmd0aCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5LSVRLQVQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5zZXRGaXhlZExlbmd0aFN0cmVhbWluZ01vZGUoY29udGVudExlbmd0aCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgY29ubi5zZXRDaHVua2VkU3RyZWFtaW5nTW9kZSgyNTYgKiAxMDI0KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb25uLnNldFJlcXVlc3RQcm9wZXJ0eSgiQ29udGVudC1MZW5ndGgiLCBTdHJpbmcudmFsdWVPZihjb250ZW50TGVuZ3RoKSk7CiAgICAgICAgICAgICAgICBjb25uLnNldERvSW5wdXQodHJ1ZSk7CiAgICAgICAgICAgICAgICBjb25uLnNldERvT3V0cHV0KHRydWUpOwogICAgICAgICAgICAgICAgLy8gUG9zdCDH68fzsrvE3Mq508O7urTmCiAgICAgICAgICAgICAgICBjb25uLnNldFVzZUNhY2hlcyhmYWxzZSk7</text>
+        <text encoding="base64">CiAgICAKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGJ5dGVbXSBzdHJpbmdUb0J5dGVzKFN0cmluZyBzKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0dXJuIHMuZ2V0Qnl0ZXMoIlVURi04Iik7CiAgICAgICAgfSBjYXRjaCAoVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAocmVzcG9uc2UuaXNTdWNjZXNzZnVsKCkpIHsKICAgICAgICAgICAgICAgIG9uU3VjY2VzcyhyZXNwb25zZS5ib2R5KCkuYnl0ZXMoKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgPEssIFY+IEhhc2hNYXA8SywgVj4gc2FmZVB1dChIYXNoTWFwPEssIFY+IG1hcCwgSyBrLCBWIHYpIHsKICAgICAgICBpZiAobWFwID09IG51bGwpCiAgICAgICAgICAgIG1hcCA9IG5ldyBIYXNoTWFwPEssIFY+KCk7CiAgICAgICAgbWFwLnB1dChrLCB2KTsKICAgICAgICByZXR1cm4gbWFwOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGJ5dGVbXSByZWFkU3RyZWFtKElucHV0U3RyZWFtIGJpcykgewogICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBib3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgLy9CdWZmZXJlZElucHV0U3RyZWFtIGJpcyA9IG5ldyBCdWZmZXJlZElucHV0U3RyZWFtKGlzKTsKICAgICAgICAgICAgaWYgKCEoYmlzIGluc3RhbmNlb2YgQnVmZmVyZWRJbnB1dFN0cmVhbSkpIHsKICAgICAgICAgICAgICAgIGJpcyA9IG5ldyBCdWZmZXJlZElucHV0U3RyZWFtKGJpcyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW50IGJiTGVuZ3RoID0gMTMxMDcyOyAgICAgICAgICAgICAgICAvKiAxMDI0KjEyOMTatOa21MbrxNy808vZICovCiAgICAgICAgICAgIGludCBiaXNBdmFpbGFibGUgPSBiaXMuYXZhaWxhYmxlKCk7CiAgICAgICAgICAgIGlmIChiaXNBdmFpbGFibGUgPCBiYkxlbmd0aCkgeyAgICAgICAgLy8gv9jWxs/CyOe5+9a7yse88rWltcTK/b7dtKvK5KOsxMfDtL7NsrvQ6NKqyerH68THw7S087XExNq05qOs09C24MnZyv2+3bW9tO++zcnqx+u24MnZCiAgICAgICAgICAgICAgICBiYkxlbmd0aCA9IGJpc0F2YWlsYWJsZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoYmJMZW5ndGggPCA4MTkyKSB7ICAgICAgICAgICAgICAgIC8vILWrysfSsrK70qrMq9Cho6zX7tChysc4SwogICAgICAgICAgICAgICAgYmJMZW5ndGggPSA4MTkyOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGJ5dGVbXSBiYiA9IG5ldyBieXRlW2JiTGVuZ3RoXTsKICAgICAgICAgICAgZm9yIChpbnQgbGVuID0gYmlzLnJlYWQoYmIpOyBsZW4gPiAwOyBsZW4gPSBiaXMucmVhZChiYikpIHsKICAgICAgICAgICAgICAgIGJvcy53cml0ZShiYiwgMCwgbGVuKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBib3MuZmx1c2goKTsKICAgICAgICAgICAgcmV0dXJuIGJvcy50b0J5dGVBcnJheSgpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBpZiAoYm9zICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgYm9zLmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgaWdub3JlZCkgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRmFpbGVkKHJlc3BvbnNlLmNvZGUoKSwgcmVzcG9uc2UubWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIElucHV0U3RyZWFtIGNsb3NlU3RyZWFtKElucHV0U3RyZWFtIGJpcykgewogICAgICAgIGlmIChiaXMgIT0gbnVsbCkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgYmlzLmNsb3NlKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYmlzID0gbnVsbDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJpczsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgIHRyeSB7CgogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgogICAgICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICBzdGF0aWMgcHVibGljIGJvb2xlYW4gdXNlTXlIdHRwU2VuZCA9IHRydWU7ICAgICAgICAvLyB0cnVlOiDO0sPH19S8usC5vdi688ilx+vH8zsgCQkJZmFsc2U608PAtL/Y1sbKx9ffxKzIz3dlYnZpZXcstbHOqmZhbHNlyrFzdXBwb3J0SlNob29rus1lbXB0eURhdGFBbHNvTXlIdHRwU2VuZMO70uLS5Syyu7vhuaTX9woKICAgIHN0YXRpYyBwdWJsaWMgYm9vbGVhbiBzdXBwb3J0SlNob29rID0gdHJ1ZTsgICAgLy8gdHJ1ZTrXosjrwLm92HBvc3TK/b7dtcRqc6O7IAkJCWZhbHNlo7qyu9eiyOtKU6OsxMfDtL/Ptqiyu8frx/Nwb3N0us1wdXSjrNPDxKzIz3dlYnZpZXfIpbjjo7uyu7ncZW1wdHlEYXRhQWxzb015SHR0cFNlbmTKssO01rUKICAgIHN0YXRpYyBwdWJsaWMgYm9vbGVhbiBzdXBwb3J0T25seURpeUpTaG9vayA9IHRydWU7ICAgIC8vIHRydWU61rvXosjr1ri2qLXEdXJso6yyu9KqyKu+1teiyOujuyAJZmFsc2Wjur/J0tTIq77W16LI66Osvt/M5b+0c3VwcG9ydEpTaG9va6O7tbHL+86qdHVyZcqxo6xvbmx5VXNlTXlIdHRwU2VuZLK7xNzOqnRydWUKICAgIHN0YXRpYyBwdWJsaWMgYm9vbGVhbiBzdXBwb3J0RGl5Q29udGVudCA9IHRydWU7ICAgICAgICAvLyB0cnVlIDq/qsb0ttTWuLaoVVJMtcTE2sjdvfjQ0MC5vdjQ3rjECgogICAgc3RhdGljIHB1YmxpYyBib29sZWFuIG9ubHlVc2VNeUh0dHBTZW5kID0gZmFsc2U7ICAgIC8vIHRydWUgOr7Ny+PDu9PQyKG1vXBvc3RkYXRh0rLHv9bG08nO0sPHx+vH8yzG5Mv8NHh4oaIweHihojV4eLXEztLDx9fUvLq0psDtCQkJCQmjqL/JxNy74cqnsNy1q8rH0v6xzrO5tdejqaOs1eLW1sfpv/bPwiBzdXBwb3J0T25seURpeUpTaG9va7K7xNzOqnRydWUKICAgIC8vIGZhbHNlo7rDu9PQyKG1vXBvc3S1xGRhdGG1xMr9vt2+zcjDd2Vidmlld9fUvLrIpcfrx/MJo7vT9rW9NHh4o6wweHijrDV4eLXEyMN3ZWJ2aWV31Nm0psDtz8IJo6i85sjd0NS6w6OstavKx7u5yse74dPQsPzD+9C5wqmjqaO7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgdGFnID0gT0tIdHRwUnVubmVyLmNsYXNzLmdldFNpbXBsZU5hbWUoKTsKICAgIHByaXZhdGUgU3RyaW5nIHVybDsKICAgIHByaXZhdGUgU3RyaW5nIG1ldGhvZCA9ICJHRVQiOwogICAgcHJpdmF0ZSBpbnQgY29ubmVjdFRpbWVvdXQgPSAxICogNjAgKiAxMDAwOy8vIMno1sOzrMqxyrG85AogICAgcHJpdmF0ZSBpbnQgcmVhZFRpbWVvdXQgPSAzICogNjAgKiAxMDAwOy8vIMno1sO3/s7xxve3tbvYyrG85AogICAgcHJpdmF0ZSBpbnQgcmV0cnkgPSAyOwogICAgcHJpdmF0ZSBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBwYXJhbXM7CiAgICBwdWJsaWMgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gaGVhZGVyczsKICAgIHByaXZhdGUgYnl0ZVtdIHBvc3REYXRhID0gbnVsbDsKICAgIHByaXZhdGUgUHJveHkgbVByb3h5Ow==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>private
+private</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRmFpbGVkKHJlc3BvbnNlLmNvZGUoKSwgcmVzcG9uc2UubWVzc2FnZSgpKTsK</text>
+      <register name="9" type="8">
+        <text>private
+private
+private
+private</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -328,9 +323,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWFsX3Bvc3RkYXRhXD4=</last-search>
+      <last-search>HttpRun</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFsX3Bvc3RkYXRhXD4=</last-pattern>
+      <last-pattern>HttpRun</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
