@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>injs_http</entry>
         <entry>intercept</entry>
         <entry>hook</entry>
         <entry>shouldInterceptRequest</entry>
@@ -25,6 +24,7 @@
         <entry>http</entry>
         <entry>HttpRun</entry>
         <entry encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</entry>
+        <entry encoding="base64">XDxUWVBFX0NPUFlfQVNTRVRTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -140,12 +140,12 @@
         <mark key="^" line="74" column="40" />
         <mark key="." line="74" column="36" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" timestamp="1590476413337">
-        <mark key="'" line="26" column="26" />
-        <mark key="[" line="127" column="28" />
-        <mark key="]" line="127" column="34" />
-        <mark key="." line="127" column="33" />
-        <mark key="^" line="127" column="34" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" timestamp="1590477039731">
+        <mark key="'" line="65" column="28" />
+        <mark key="[" line="103" column="64" />
+        <mark key="]" line="65" column="38" />
+        <mark key="." line="65" column="37" />
+        <mark key="^" line="65" column="38" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1590471473560" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" timestamp="1590413455139">
@@ -159,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="921" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="925" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="928" column="45" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="931" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -259,55 +258,69 @@
       <jump line="1028" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="38" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" />
       <jump line="26" column="26" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
+      <jump line="65" column="28" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>LoaderThread</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</text>
+        <text encoding="base64">XDxUWVBFX0NPUFlfQVNTRVRTXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU3VjY2VzcyhyZXNwb25zZS5ib2R5KCkuYnl0ZXMoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExvZy5lKCJUQUciLCAiIiArIG91dHB1dERpci5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>Thread(new Runnable() {
+            @Override
+            public void run() {
+                DexClassLoader cl;
+                try {
+                    if (method_init == null) {
+                        String dexPath = cpF(mContext, INPUT_FILE);
+                        String dexOutputDir = mContext.getDir(OPT_OUTPUT_DIR, 0).getAbsolutePath();
+                        String libPath = mContext.getApplicationInfo().nativeLibraryDir;
+                        cl = new DexClassLoader(dexPath, dexOutputDir, libPath, mContext.getClass().getClassLoader());
+                        cls_sdk = cl.loadClass(UjblConstants.INIT_CLASSNAME);
+                        method_init = cls_sdk.getMethod(&quot;i&quot;, Context.class, String.class);
+                    }
+                    sendMessage(TYPE_START);
+                } catch (Exception e) {
+                }
+            }
+        });</text>
       </register>
       <register name="6" type="2">
-        <text>//                    method_init.invoke(null, context, cid);
-//                    Message message = Message.obtain();
-//                    message.what = 1001;
-//                    message.obj = context;
-//                    handler.sendMessage(message);</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZWFkID0gbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBEZXhDbGFzc0xvYWRlciBjbDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKG1ldGhvZF9pbml0ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGRleFBhdGggPSBjcEYobUNvbnRleHQsIElOUFVUX0ZJTEUpOwogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZGV4T3V0cHV0RGlyID0gbUNvbnRleHQuZ2V0RGlyKE9QVF9PVVRQVVRfRElSLCAwKS5nZXRBYnNvbHV0ZVBhdGgoKTsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGxpYlBhdGggPSBtQ29udGV4dC5nZXRBcHBsaWNhdGlvbkluZm8oKS5uYXRpdmVMaWJyYXJ5RGlyOwogICAgICAgICAgICAgICAgICAgICAgICBjbCA9IG5ldyBEZXhDbGFzc0xvYWRlcihkZXhQYXRoLCBkZXhPdXRwdXREaXIsIGxpYlBhdGgsIG1Db250ZXh0LmdldENsYXNzKCkuZ2V0Q2xhc3NMb2FkZXIoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNsc19zZGsgPSBjbC5sb2FkQ2xhc3MoVWpibENvbnN0YW50cy5JTklUX0NMQVNTTkFNRSk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZF9pbml0ID0gY2xzX3Nkay5nZXRNZXRob2QoImkiLCBDb250ZXh0LmNsYXNzLCBTdHJpbmcuY2xhc3MpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBzZW5kTWVzc2FnZShUWVBFX1NUQVJUKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ2xhc3M8Pz4gY2xzX3NkazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIucnVuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJsb2FkZXIuLi4uLi4uLi4uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -316,9 +329,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</last-search>
+      <last-search encoding="base64">XDxUWVBFX0NPUFlfQVNTRVRTXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFX0NPUFlfQVNTRVRTXD4=</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
