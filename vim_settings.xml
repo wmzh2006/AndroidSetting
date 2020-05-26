@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUHJveHlcPg==</entry>
         <entry>run</entry>
         <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
         <entry encoding="base64">XDxwb3N0RGF0YVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjYWxsQXJyYXlUcnVlXD4=</entry>
         <entry encoding="base64">XDxvbkFycmF5XD4=</entry>
         <entry>onArray</entry>
+        <entry encoding="base64">XDxkb1Jlc3BvbnNlR2V0X01pbWVUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,12 +104,12 @@
         <mark key="^" line="13" column="47" />
       </file>
       <file name="E:/tools/android/sources/android-28/java/io/Closeable.java" timestamp="1590478943694" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590500628236">
-        <mark key="'" line="902" column="40" />
-        <mark key="[" line="359" column="65" />
-        <mark key="]" line="359" column="67" />
-        <mark key="." line="359" column="66" />
-        <mark key="^" line="359" column="67" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590501305084">
+        <mark key="'" line="359" column="108" />
+        <mark key="[" line="502" column="11" />
+        <mark key="]" line="502" column="12" />
+        <mark key="." line="502" column="11" />
+        <mark key="^" line="502" column="12" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/erdkj/czsd/CqlhSdk.java" timestamp="1590487298581">
         <mark key="'" line="26" column="26" />
@@ -162,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="31" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="55" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="61" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
       <jump line="326" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" />
@@ -262,6 +261,7 @@
       <jump line="348" column="80" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="362" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="902" column="40" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="359" column="108" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -276,7 +276,7 @@
         <text>conn</text>
       </register>
       <register name="/" type="4">
-        <text>onArray</text>
+        <text encoding="base64">XDxkb1Jlc3BvbnNlR2V0X01pbWVUeXBlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzKHJlc3BvbnNlLmJvZHkoKS5ieXRlcygpKTsK</text>
@@ -315,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onArray</last-search>
+      <last-search encoding="base64">XDxkb1Jlc3BvbnNlR2V0X01pbWVUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>onArray</last-pattern>
+      <last-pattern encoding="base64">XDxkb1Jlc3BvbnNlR2V0X01pbWVUeXBlXD4=</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
