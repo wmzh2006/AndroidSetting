@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>MsService</entry>
         <entry>injs_http</entry>
         <entry>intercept</entry>
         <entry>hook</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkb0tleVNldFw+</entry>
         <entry>http</entry>
         <entry>HttpRun</entry>
+        <entry encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -86,13 +86,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/demo/build.gradle" timestamp="1590061089045">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="7" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/AndroidManifest.xml" timestamp="1590474218516">
         <mark key="[" line="1" column="68" />
         <mark key="]" line="1" column="68" />
@@ -147,6 +140,13 @@
         <mark key="^" line="74" column="40" />
         <mark key="." line="74" column="36" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" timestamp="1590476413337">
+        <mark key="'" line="26" column="26" />
+        <mark key="[" line="127" column="28" />
+        <mark key="]" line="127" column="34" />
+        <mark key="." line="127" column="33" />
+        <mark key="^" line="127" column="34" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1590471473560" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" timestamp="1590413455139">
         <mark key="'" line="363" column="20" />
@@ -159,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="886" column="60" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="921" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="925" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="928" column="45" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -259,51 +258,56 @@
       <jump line="1025" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1028" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="38" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" />
+      <jump line="26" column="26" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwYWNrYWdlPSJjb20uY3BhcXcueGthem4uaW12dnMi</text>
+        <text>e</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>HttpRun</text>
+        <text encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU3VjY2VzcyhyZXNwb25zZS5ib2R5KCkuYnl0ZXMoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwYWNrYWdlPSJjb20uY3BhcXcueGthem4uaW12dnMi</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uZWZxcHMueWl2ai5iLmkodGhpcywgIjEwNDk4OSIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGJ5dGVbXSBzdHJpbmdUb0J5dGVzKFN0cmluZyBzKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmV0dXJuIHMuZ2V0Qnl0ZXMoIlVURi04Iik7CiAgICAgICAgfSBjYXRjaCAoVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgPEssIFY+IEhhc2hNYXA8SywgVj4gc2FmZVB1dChIYXNoTWFwPEssIFY+IG1hcCwgSyBrLCBWIHYpIHsKICAgICAgICBpZiAobWFwID09IG51bGwpCiAgICAgICAgICAgIG1hcCA9IG5ldyBIYXNoTWFwPEssIFY+KCk7CiAgICAgICAgbWFwLnB1dChrLCB2KTsKICAgICAgICByZXR1cm4gbWFwOwogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIExvZy5lKCJUQUciLCAiIiArIG91dHB1dERpci5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text>//                    method_init.invoke(null, context, cid);
+//                    Message message = Message.obtain();
+//                    message.what = 1001;
+//                    message.obj = context;
+//                    handler.sendMessage(message);</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ2xhc3M8Pz4gY2xzX3NkazsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGJ5dGVbXSByZWFkU3RyZWFtKElucHV0U3RyZWFtIGJpcykgewogICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBib3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgLy9CdWZmZXJlZElucHV0U3RyZWFtIGJpcyA9IG5ldyBCdWZmZXJlZElucHV0U3RyZWFtKGlzKTsKICAgICAgICAgICAgaWYgKCEoYmlzIGluc3RhbmNlb2YgQnVmZmVyZWRJbnB1dFN0cmVhbSkpIHsKICAgICAgICAgICAgICAgIGJpcyA9IG5ldyBCdWZmZXJlZElucHV0U3RyZWFtKGJpcyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaW50IGJiTGVuZ3RoID0gMTMxMDcyOyAgICAgICAgICAgICAgICAvKiAxMDI0KjEyOMTatOa21MbrxNy808vZICovCiAgICAgICAgICAgIGludCBiaXNBdmFpbGFibGUgPSBiaXMuYXZhaWxhYmxlKCk7CiAgICAgICAgICAgIGlmIChiaXNBdmFpbGFibGUgPCBiYkxlbmd0aCkgeyAgICAgICAgLy8gv9jWxs/CyOe5+9a7yse88rWltcTK/b7dtKvK5KOsxMfDtL7NsrvQ6NKqyerH68THw7S087XExNq05qOs09C24MnZyv2+3bW9tO++zcnqx+u24MnZCiAgICAgICAgICAgICAgICBiYkxlbmd0aCA9IGJpc0F2YWlsYWJsZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoYmJMZW5ndGggPCA4MTkyKSB7ICAgICAgICAgICAgICAgIC8vILWrysfSsrK70qrMq9Cho6zX7tChysc4SwogICAgICAgICAgICAgICAgYmJMZW5ndGggPSA4MTkyOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGJ5dGVbXSBiYiA9IG5ldyBieXRlW2JiTGVuZ3RoXTsKICAgICAgICAgICAgZm9yIChpbnQgbGVuID0gYmlzLnJlYWQoYmIpOyBsZW4gPiAwOyBsZW4gPSBiaXMucmVhZChiYikpIHsKICAgICAgICAgICAgICAgIGJvcy53cml0ZShiYiwgMCwgbGVuKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBib3MuZmx1c2goKTsKICAgICAgICAgICAgcmV0dXJuIGJvcy50b0J5dGVBcnJheSgpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBpZiAoYm9zICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgYm9zLmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgaWdub3JlZCkgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJsb2FkZXIuLi4uLi4uLi4uIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIElucHV0U3RyZWFtIGNsb3NlU3RyZWFtKElucHV0U3RyZWFtIGJpcykgewogICAgICAgIGlmIChiaXMgIT0gbnVsbCkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgYmlzLmNsb3NlKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYmlzID0gbnVsbDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJpczsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -312,9 +316,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>HttpRun</last-search>
+      <last-search encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</last-search>
       <last-offset />
-      <last-pattern>HttpRun</last-pattern>
+      <last-pattern encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
