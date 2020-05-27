@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>HttpRun</entry>
         <entry encoding="base64">XDxPUFRfT1VUUFVUX0RJUlw+</entry>
         <entry encoding="base64">XDxvdXRwdXRGaWxlXD4=</entry>
         <entry encoding="base64">XDx0aHJlYWRcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>load</entry>
         <entry>Runable</entry>
         <entry>Runnable</entry>
+        <entry encoding="base64">XDxzVWlIYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -78,14 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1590413206171">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/AndroidManifest.xml" timestamp="1590474218516">
-        <mark key="[" line="1" column="68" />
-        <mark key="]" line="1" column="68" />
-        <mark key="." line="1" column="68" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/build.gradle" timestamp="1590481893012">
         <mark key="[" line="35" column="55" />
       </file>
@@ -103,13 +95,15 @@
         <mark key="." line="81" column="78" />
         <mark key="^" line="81" column="176" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" timestamp="1590585227634">
+        <mark key="'" line="47" column="20" />
+      </file>
       <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MainActivity.java" timestamp="1590487356258">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="13" column="34" />
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="E:/tools/android/sources/android-28/java/io/Closeable.java" timestamp="1590478943694" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590560572785">
         <mark key="'" line="359" column="151" />
         <mark key="[" line="1213" column="50" />
@@ -124,22 +118,18 @@
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="29" />
       </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1590464898379">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-      </file>
-      <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MyService.java" timestamp="1590471480023">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1590550666973">
         <mark key="'" line="242" column="20" />
         <mark key="[" line="74" column="36" />
         <mark key="]" line="74" column="36" />
         <mark key="^" line="74" column="40" />
         <mark key="." line="74" column="36" />
+      </file>
+      <file name="D:/StudioProjects/batter/app/src/main/java/com/mpyf/fqbuc/yjoqe/MainActivity.java" timestamp="1590585381395">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="24" column="11" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" timestamp="1590480088756">
         <mark key="'" line="32" column="26" />
@@ -157,6 +147,17 @@
         <mark key="." line="100" column="12" />
         <mark key="^" line="100" column="13" />
       </file>
+      <file name="D:/StudioProjects/batter/app/build.gradle" timestamp="1590583724779">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="D:/StudioProjects/batter/app/src/main/java/com/mpyf/fqbuc/yjoqe/App.java" timestamp="1590585637805">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="55" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/OKHttpRunner.java" timestamp="1590559735364">
         <mark key="'" line="473" column="22" />
         <mark key="[" line="527" column="0" />
@@ -164,17 +165,17 @@
         <mark key="." line="527" column="0" />
         <mark key="^" line="527" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1590559694584">
+      <file name="/fragment.java" timestamp="1590582962946">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/StudioProjects/batter/app/src/main/AndroidManifest.xml" timestamp="1590585848054">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="27" column="75" />
+        <mark key="^" line="27" column="75" />
+        <mark key="." line="27" column="74" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="574" column="55" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="575" column="112" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="709" column="14" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="735" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="737" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="982" column="52" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1016" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1024" column="50" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1025" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -269,52 +270,57 @@
       <jump line="776" column="41" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="152" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="242" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="14" column="27" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
+      <jump line="24" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
+      <jump line="35" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
+      <jump line="41" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
+      <jump line="45" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
+      <jump line="47" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVuKTsK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>Runnable</text>
+        <text encoding="base64">XDxzVWlIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzKHJlc3BvbnNlLmJvZHkoKS5ieXRlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmVzcG9uc2UuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVuKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQcm94eSBwcm94eSA9IGdldFByb3h5KCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0sIDEwMDApOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZWFkVGltZW91dChEdXJhdGlvbi5jcmVhdGUocmVhZFRpbWVvdXQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>new OkHttpClient().newBuilder()
-            .followRedirects(false)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcmVzcG9uc2UuY2xvc2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAucgo=</text>
+        <text encoding="base64">ICAgICAgICBQcm94eSBwcm94eSA9IGdldFByb3h5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -323,9 +329,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Runnable</last-search>
+      <last-search encoding="base64">XDxzVWlIYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>Runnable</last-pattern>
+      <last-pattern encoding="base64">XDxzVWlIYW5kbGVyXD4=</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
