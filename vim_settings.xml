@@ -81,6 +81,7 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/build.gradle" timestamp="1590481893012">
         <mark key="[" line="35" column="55" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/XrdSdk.java" timestamp="1590630402527" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" timestamp="1590548162805">
         <mark key="'" line="214" column="22" />
         <mark key="[" line="537" column="39" />
@@ -98,11 +99,11 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" timestamp="1590585227634">
         <mark key="'" line="47" column="20" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/a.java" timestamp="1590630048541">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="12" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/a.java" timestamp="1590630781133">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MainActivity.java" timestamp="1590487356258">
         <mark key="[" line="13" column="34" />
@@ -175,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1016" column="34" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1024" column="50" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1025" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1028" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -275,39 +275,40 @@
       <jump line="41" column="8" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
       <jump line="45" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
       <jump line="47" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
+      <jump line="28" column="32" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/a.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
+      <register name="&quot;" type="4">
+        <text>fin</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>fin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzVWlIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25TdWNjZXNzKHJlc3BvbnNlLmJvZHkoKS5ieXRlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICBjbG9zZVN0cmVhbShmaW4pOyAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICB3aGlsZSAoKGxlbiA9IGZpbi5yZWFkKCkpICE9IC0xKSB7CgogICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVuKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGVuID0gMDsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0sIDEwMDApOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVuKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0sIDEwMDApOw==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
@@ -316,10 +317,10 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmVzcG9uc2UuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
