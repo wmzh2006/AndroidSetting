@@ -78,10 +78,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/build.gradle" timestamp="1590481893012">
-        <mark key="[" line="35" column="55" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/XrdSdk.java" timestamp="1590630402527" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/XrdSdk.java" timestamp="1590631506734" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" timestamp="1590548162805">
         <mark key="'" line="214" column="22" />
         <mark key="[" line="537" column="39" />
@@ -99,11 +96,11 @@
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" timestamp="1590585227634">
         <mark key="'" line="47" column="20" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/a.java" timestamp="1590630781133">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="39" column="27" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/a.java" timestamp="1590631458223">
+        <mark key="[" line="20" column="91" />
+        <mark key="]" line="20" column="68" />
+        <mark key="." line="20" column="67" />
+        <mark key="^" line="20" column="68" />
       </file>
       <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MainActivity.java" timestamp="1590487356258">
         <mark key="[" line="13" column="34" />
@@ -111,6 +108,7 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="47" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/XrdConstants.java" timestamp="1590631382325" />
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590560572785">
         <mark key="'" line="359" column="151" />
         <mark key="[" line="1213" column="50" />
@@ -280,14 +278,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>fin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>fin</text>
+        <text encoding="base64">b3V0cHV0RGlyIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzVWlIYW5kbGVyXD4=</text>
@@ -295,32 +293,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBjbG9zZVN0cmVhbShmaW4pOyAK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICB3aGlsZSAoKGxlbiA9IGZpbi5yZWFkKCkpICE9IC0xKSB7CgogICAgICAgIH0=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgbGVuID0gMDsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVuKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0sIDEwMDApOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5pc2goKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
