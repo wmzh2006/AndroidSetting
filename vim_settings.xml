@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdXRwdXRGaWxlXD4=</entry>
         <entry encoding="base64">XDx0aHJlYWRcPg==</entry>
         <entry encoding="base64">XDxUWVBFX0xPQURfREVYXD4=</entry>
         <entry encoding="base64">XDxUWVBFX0NPUFlfQVNTRVRTXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>Runnable</entry>
         <entry encoding="base64">XDxzVWlIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxUWVBFX1NUQVJUXD4=</entry>
+        <entry>httpRunner</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -114,12 +114,6 @@
         <mark key="." line="83" column="35" />
         <mark key="^" line="71" column="15" />
       </file>
-      <file name="D:/StudioProjects/batter/app/src/main/AndroidManifest.xml" timestamp="1590585848054">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="27" column="75" />
-        <mark key="^" line="27" column="75" />
-        <mark key="." line="27" column="74" />
-      </file>
       <file name="D:/StudioProjects/reale/app/src/main/java/com/mxe/xuc/reale/MainActivity.java" timestamp="1590645869894">
         <mark key="[" line="11" column="47" />
       </file>
@@ -142,6 +136,13 @@
         <mark key="." line="28" column="16" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/XrdConstants.java" timestamp="1590631382325" />
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590653132614">
+        <mark key="'" line="1205" column="39" />
+        <mark key="[" line="334" column="40" />
+        <mark key="]" line="334" column="40" />
+        <mark key="." line="334" column="40" />
+        <mark key="^" line="1213" column="50" />
+      </file>
       <file name="D:/StudioProjects/reale/app/src/main/AndroidManifest.xml" timestamp="1590645864783">
         <mark key="[" line="9" column="34" />
       </file>
@@ -156,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1025" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1028" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="38" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" />
       <jump line="26" column="26" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
@@ -256,21 +256,22 @@
       <jump line="47" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/util/UiHandler.java" />
       <jump line="28" column="32" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/a.java" />
       <jump line="152" column="24" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/XrdSdk.java" />
+      <jump line="1205" column="39" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZUlucHV0U3RyZWFtOwo=</text>
+      <register name="&quot;" type="4">
+        <text>K</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>K</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUWVBFX1NUQVJUXD4=</text>
+        <text>httpRunner</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBjbG9zZVN0cmVhbShmaW4pOyAK</text>
@@ -309,9 +310,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUWVBFX1NUQVJUXD4=</last-search>
+      <last-search>httpRunner</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUWVBFX1NUQVJUXD4=</last-pattern>
+      <last-pattern>httpRunner</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
