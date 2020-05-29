@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUWVBFX0NPUFlfQVNTRVRTXD4=</entry>
         <entry encoding="base64">XDxkY2xcPg==</entry>
         <entry encoding="base64">XDxPX09fRElSXD4=</entry>
         <entry encoding="base64">XDxPX0RJUlw+</entry>
@@ -25,6 +24,7 @@
         <entry>httpRunner</entry>
         <entry encoding="base64">XDxiZWdpbkxvYWRcPg==</entry>
         <entry>httpHook</entry>
+        <entry encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -78,7 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/src/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1590717941084" />
       <file name="/a.dummy" timestamp="1590632316096">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,6 +98,10 @@
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/terd/hmtdm/MetvSdk.java" timestamp="1590645748165">
         <mark key="[" line="45" column="12" />
+      </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/src/com/web/WebviewInterceptRequest.java" timestamp="1590734464751">
+        <mark key="'" line="355" column="31" />
+        <mark key="[" line="383" column="172" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jrzj/rqwmz/XrdSdk.java" timestamp="1590632453623">
         <mark key="'" line="152" column="24" />
@@ -159,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="12" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
       <jump line="99" column="15" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
       <jump line="112" column="8" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
       <jump line="32" column="26" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
@@ -259,6 +261,7 @@
       <jump line="780" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="103" column="27" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="104" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="355" column="31" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/src/com/web/WebviewInterceptRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -273,7 +276,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>httpHook</text>
+        <text encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBjbG9zZVN0cmVhbShmaW4pOyAK</text>
@@ -312,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>httpHook</last-search>
+      <last-search encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</last-search>
       <last-offset />
-      <last-pattern>httpHook</last-pattern>
+      <last-pattern encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
