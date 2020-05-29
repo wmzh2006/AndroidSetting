@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkY2xcPg==</entry>
         <entry encoding="base64">XDxPX09fRElSXD4=</entry>
         <entry encoding="base64">XDxPX0RJUlw+</entry>
         <entry>succe</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxiZWdpbkxvYWRcPg==</entry>
         <entry>httpHook</entry>
         <entry encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</entry>
+        <entry>httpPost2</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -78,7 +78,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/src/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1590736397049">
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/src/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1590736985816">
         <mark key="[" line="934" column="114" />
         <mark key="]" line="941" column="46" />
         <mark key="^" line="941" column="37" />
@@ -147,6 +147,13 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" timestamp="1590737461410">
+        <mark key="'" line="114" column="0" />
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="13" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="38" column="13" />
+      </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1590654175522">
         <mark key="'" line="1205" column="39" />
         <mark key="[" line="201" column="15" />
@@ -168,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="15" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
       <jump line="112" column="8" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
       <jump line="32" column="26" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cpaqw/xkazn/imvvs/UjblSdk.java" />
       <jump line="28" column="26" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/juai/jfes/GjgSdk.java" />
@@ -268,21 +274,22 @@
       <jump line="103" column="27" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="104" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="355" column="31" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/src/com/web/WebviewInterceptRequest.java" />
+      <jump line="105" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</text>
+        <text>httpPost2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBjbG9zZVN0cmVhbShmaW4pOyAK</text>
@@ -321,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</last-search>
+      <last-search>httpPost2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1Nob3VsZEludGVyY2VwdFJlcXVlc3RVcmwwXD4=</last-pattern>
+      <last-pattern>httpPost2</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
