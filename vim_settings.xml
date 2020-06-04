@@ -78,12 +78,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" timestamp="1590740991034">
-        <mark key="[" line="0" column="4015" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/Frida/app/src/main/java/com/roysue/demo02/MainActivity.java" timestamp="1591166823349">
         <mark key="[" line="23" column="62" />
         <mark key="]" line="23" column="61" />
@@ -96,6 +90,7 @@
         <mark key="." line="42" column="35" />
         <mark key="^" line="42" column="36" />
       </file>
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/Frida/wax/src/main/java/com/soab/waxer/Sdk.java" timestamp="1591237741981" />
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/Frida/wax/src/main/java/com/soabwer/wax/Sdk.java" timestamp="1591237571487">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -145,10 +140,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/Frida/wax/build.gradle" timestamp="1591237568976">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/Frida/wax/build.gradle" timestamp="1591237750668">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" timestamp="1590754858061">
         <mark key="'" line="167" column="15" />
@@ -277,14 +273,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXNwcmVzc286ZXNwcmVzc28tY29yZTozLjIuMCcK</text>
+      <register name="&quot;" type="4">
+        <text>unsigned</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>unsigned</text>
       </register>
       <register name="/" type="4">
         <text>Char</text>
