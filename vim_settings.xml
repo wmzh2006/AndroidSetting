@@ -114,11 +114,18 @@
         <mark key="." line="42" column="35" />
         <mark key="^" line="42" column="36" />
       </file>
-      <file name="D:/AndroidStudio/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1591838279482">
-        <mark key="[" line="807" column="96" />
-        <mark key="]" line="806" column="88" />
-        <mark key="." line="806" column="87" />
-        <mark key="^" line="806" column="88" />
+      <file name="D:/AndroidStudio/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1591838487613">
+        <mark key="'" line="811" column="39" />
+        <mark key="[" line="809" column="83" />
+        <mark key="]" line="810" column="55" />
+        <mark key="." line="810" column="54" />
+        <mark key="^" line="810" column="55" />
+      </file>
+      <file name="D:/AndroidStudio/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1591839869025">
+        <mark key="[" line="648" column="64" />
+        <mark key="]" line="648" column="70" />
+        <mark key="." line="648" column="69" />
+        <mark key="^" line="648" column="70" />
       </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/Frida/wax/src/main/java/com/soabwer/wax/Sdk.java" timestamp="1591237571487">
         <mark key="[" line="5" column="0" />
@@ -145,13 +152,6 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" timestamp="1590754858061">
-        <mark key="'" line="167" column="15" />
-        <mark key="[" line="39" column="57" />
-        <mark key="]" line="39" column="47" />
-        <mark key="^" line="39" column="47" />
-        <mark key="." line="39" column="46" />
-      </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto/Frida/demo04/src/main/java/com/roysue/demo04/MainActivity.java" timestamp="1591175033172">
         <mark key="[" line="34" column="117" />
         <mark key="]" line="34" column="157" />
@@ -168,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="30" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/juai/jfes/GjgSdk.java" />
       <jump line="207" column="23" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/juai/jfes/GjgSdk.java" />
       <jump line="36" column="29" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/juai/jfes/GjgSdk.java" />
       <jump line="107" column="16" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/juai/jfes/GjgSdk.java" />
@@ -268,51 +267,52 @@
       <jump line="830" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto10/src/com/web/WebviewInterceptRequest.java" />
       <jump line="1079" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto10/src/com/web/WebviewInterceptRequest.java" />
       <jump line="51" column="30" filename="E:/tools/android/platforms/android-29/android.jar!/android/widget/TextView.class" />
+      <jump line="809" column="39" filename="D:/AndroidStudio/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>NoSuchMethod</text>
+        <text>request</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>NoSuchMethod</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>Char</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvTGVmdE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvZWRpdFRleHQyIiAvPgo=</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gc3VwZXIuc2hvdWxkT3ZlcnJpZGVVcmxMb2FkaW5nKHZpZXcsIHJlcXVlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQl9IGNhdGNoIChOb1N1Y2hNZXRob2RFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXNwcmVzc286ZXNwcmVzc28tY29yZTozLjIuMCcK</text>
+        <text encoding="base64">CQlAVGFyZ2V0QXBpKEJ1aWxkLlZFUlNJT05fQ09ERVMuTE9MTElQT1ApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5hcHBjb21wYXQ6YXBwY29tcGF0OjEuMS4wJwo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4KICAgIDxhcHBsaWNhdGlvbgogICAgICAgIGFuZHJvaWQ6YWxsb3dCYWNrdXA9InRydWUiCiAgICAgICAgYW5kcm9pZDpzdXBwb3J0c1J0bD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOnVzZXNDbGVhcnRleHRUcmFmZmljPSJ0cnVlIi8+</text>
+        <text encoding="base64">CQkJCQl9IGNhdGNoIChOb1N1Y2hNZXRob2RFeGNlcHRpb24gZSkgewo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3QuZXNwcmVzc286ZXNwcmVzc28tY29yZTozLjIuMCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5hcHBjb21wYXQ6YXBwY29tcGF0OjEuMS4wJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4KICAgIDxhcHBsaWNhdGlvbgogICAgICAgIGFuZHJvaWQ6YWxsb3dCYWNrdXA9InRydWUiCiAgICAgICAgYW5kcm9pZDpzdXBwb3J0c1J0bD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOnVzZXNDbGVhcnRleHRUcmFmZmljPSJ0cnVlIi8+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
