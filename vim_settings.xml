@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Runable</entry>
         <entry>Runnable</entry>
         <entry encoding="base64">XDxzVWlIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxUWVBFX1NUQVJUXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>doResponse_CheckNeedChangeStr</entry>
         <entry>doResponse_getDataCheckInjectJSUrl</entry>
         <entry>getJs</entry>
+        <entry encoding="base64">XDxpc01hdGNoSG9va0pTVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -88,6 +88,13 @@
       <file name="D:/AndroidStudio/MyApplication2/app/src/main/java/com/X5me/X5me/l9Ez/C0028X5me.java" timestamp="1592380923460">
         <mark key="'" line="11" column="41" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto10/src/main/java/com/web/CaptchaKeywords.java" timestamp="1592463334141">
+        <mark key="'" line="50" column="19" />
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="50" column="19" />
+        <mark key="^" line="50" column="34" />
+      </file>
       <file name="D:/AndroidStudio/MyApplication2/app/src/main/java/com/X5me/X5me/l9Ez/f7c1.java" timestamp="1592380529967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -111,11 +118,6 @@
         <mark key="]" line="19" column="33" />
         <mark key="." line="19" column="33" />
         <mark key="^" line="21" column="162" />
-      </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Receiverhelpserver.java" timestamp="1592360828327">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/AndroidStudio/reader/app/src/main/java/com/kong/mobile/nidle/MainActivity.java" timestamp="1592361891631">
         <mark key="[" line="3" column="0" />
@@ -150,12 +152,11 @@
         <mark key="^" line="37" column="44" />
         <mark key="." line="37" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1592361742857">
+      <file name="/fragment.java" timestamp="1592463055828">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1074" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="462" column="16" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" />
       <jump line="207" column="11" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" />
       <jump line="213" column="31" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/web/HttpRunner.java" />
@@ -255,21 +256,22 @@
       <jump line="19" column="0" filename="D:/AndroidStudio/reader/app/src/main/java/com/peach/qrcode/reader/MainActivity.java" />
       <jump line="24" column="7" filename="D:/AndroidStudio/reader/app/src/main/java/com/peach/qrcode/reader/App.java" />
       <jump line="11" column="41" filename="D:/AndroidStudio/MyApplication2/app/src/main/java/com/X5me/X5me/l9Ez/C0028X5me.java" />
+      <jump line="50" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto10/src/main/java/com/web/CaptchaKeywords.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uWDVtZS5YNW1lLmw5RXo7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sMatchHookJSUrl</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>android:theme=&quot;st&quot;</text>
+        <text>sMatchHookJSUrl</text>
       </register>
       <register name="/" type="4">
-        <text>getJs</text>
+        <text encoding="base64">XDxpc01hdGNoSG9va0pTVXJsXD4=</text>
       </register>
       <register name="0" type="4">
         <text>testImplementation 'junit:junit:4.12'
@@ -311,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getJs</last-search>
+      <last-search encoding="base64">XDxpc01hdGNoSG9va0pTVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern>getJs</last-pattern>
+      <last-pattern encoding="base64">XDxpc01hdGNoSG9va0pTVXJsXD4=</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
