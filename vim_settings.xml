@@ -83,12 +83,6 @@
     <filemarks>
       <file name="E:/Project/gpjsauto/dynamicsdk/libs/SSP-SDK-ZV-COMM-V3.0.46-WG-JK-202006291739.jar!/com/qwefour/rtysix/core/GetAccess.class" timestamp="1593431299230" />
       <file name="E:/Project/gpjsauto/dynamicsdk/libs/SSP-SDK-ZV-COMM-V3.0.46-WG-JK-202006291739.jar!/com/qwefour/rtysix/InitStart.class" timestamp="1593431338850" />
-      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto10/src/androidTest/java/com/wv/auto/fuction/OfferTypeTest.java" timestamp="1593422998958">
-        <mark key="[" line="80" column="21" />
-        <mark key="]" line="80" column="21" />
-        <mark key="." line="80" column="21" />
-        <mark key="^" line="80" column="24" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/libs/SSP-SDK-ZV-COMM-V3.0.46-WG-JK-202006291739.jar!/com/qwefour/rtysix/core/EnsureListener.class" timestamp="1593431642411" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1593432331568">
         <mark key="[" line="146" column="30" />
@@ -107,7 +101,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1593430381368">
+      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1593433959601">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="19" />
         <mark key="." line="18" column="19" />
@@ -117,6 +111,12 @@
         <mark key="]" line="135" column="23" />
         <mark key="^" line="135" column="23" />
         <mark key="." line="135" column="22" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/OfferType.java" timestamp="1593433904345">
+        <mark key="[" line="92" column="21" />
+        <mark key="]" line="92" column="30" />
+        <mark key="^" line="92" column="30" />
+        <mark key="." line="92" column="29" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/hodz/bjdhf/XkuSdk.java" timestamp="1593431615984">
         <mark key="[" line="24" column="22" />
@@ -133,9 +133,9 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rl.aar/7fa84a3278ad6cc21f90af13599387ee/jars/classes.jar!/com/qwefour/rtysix/eww/MainSdk.class" timestamp="1593433076314" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/NetUtil.java" timestamp="1593427692289" />
       <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MainActivity.java" timestamp="1593432909382">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/proguard.cfg" timestamp="1593432216616">
         <mark key="[" line="43" column="50" />
@@ -258,14 +258,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLmI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>Core</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ3VyRGF0YUNhcHRjaGFcPg==</text>
