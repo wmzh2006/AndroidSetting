@@ -81,21 +81,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicsdk/libs/SSP-SDK-ZV-COMM-V3.0.46-WG-JK-202006291739.jar!/com/qwefour/rtysix/InitStart.class" timestamp="1593431338850" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/libs/SSP-SDK-ZV-COMM-V3.0.46-WG-JK-202006291739.jar!/com/qwefour/rtysix/core/EnsureListener.class" timestamp="1593431642411" />
+      <file name="/a.dummy" timestamp="1593499665672">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/demo2/src/androidTest/java/com/vories/yorige/demo2/LAU.java" timestamp="1593488401483">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1593499014496">
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1593499181588">
         <mark key="[" line="17" column="42" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1593432331568">
-        <mark key="[" line="146" column="30" />
-        <mark key="]" line="146" column="26" />
-        <mark key="^" line="146" column="26" />
-        <mark key="." line="146" column="25" />
       </file>
       <file name="E:/Project/gpjsauto/build.gradle" timestamp="1593433959601">
         <mark key="[" line="18" column="18" />
@@ -108,16 +103,26 @@
         <mark key="^" line="92" column="30" />
         <mark key="." line="92" column="29" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/hodz/bjdhf/XkuSdk.java" timestamp="1593431615984">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="23" />
+      <file name="D:/AndroidStudio/reader/selffish/src/main/java/com/mathpad/mobile/unit/StartService.java" timestamp="1593500091090">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rl.aar/7fa84a3278ad6cc21f90af13599387ee/jars/classes.jar!/com/qwefour/rtysix/eww/MainSdk.class" timestamp="1593433076314" />
+      <file name="D:/AndroidStudio/reader/selffish/src/main/AndroidManifest.xml" timestamp="1593500237173">
+        <mark key="[" line="23" column="60" />
+        <mark key="]" line="23" column="60" />
+        <mark key="." line="23" column="60" />
+      </file>
       <file name="E:/Project/gpjsauto/demo2/src/main/AndroidManifest.xml" timestamp="1593488534222">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1593499750192">
+        <mark key="[" line="81" column="28" />
+        <mark key="]" line="81" column="28" />
+        <mark key="." line="81" column="28" />
+      </file>
+      <file name="D:/AndroidStudio/reader/selffish/build.gradle" timestamp="1593499998264" />
       <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1593498711932">
         <mark key="[" line="59" column="24" />
         <mark key="]" line="59" column="24" />
@@ -140,14 +145,10 @@
         <mark key="^" line="24" column="29" />
         <mark key="." line="24" column="28" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/proguard.cfg" timestamp="1593432216616">
-        <mark key="[" line="43" column="50" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/hodz/bjdhf/XkuService.java" timestamp="1593431696849">
-        <mark key="[" line="109" column="23" />
-        <mark key="]" line="96" column="57" />
-        <mark key="^" line="96" column="57" />
-        <mark key="." line="96" column="56" />
+      <file name="D:/AndroidStudio/reader/selffish/src/main/java/com/mathpad/mobile/unit/App.java" timestamp="1593500244360">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1593488532813">
         <mark key="[" line="0" column="0" />
@@ -259,13 +260,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>E:\Project\DynamicLoader\dl_middle\</text>
+        <text>RmSdk</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>E:\Project\DynamicLoader\dl_middle\</text>
+        <text>RmSdk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ3VyRGF0YUNhcHRjaGFcPg==</text>
@@ -274,31 +275,31 @@
         <text encoding="base64">ICAgICAgICBiZWFuID0gT2ZmZXJUeXBlLm5leHQoY29udGV4dCwgd2Vidmlld0Jhc2VCZWFucyk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhiZWFuLmdldFR5cGUoKSxPZmZlclR5cGUuQ19JTlBVVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGggPSB0aDI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hcmMuYmVhLmNldy5SbVNkazsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IHRoOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hcmMuYmVhLmNldy5SbVNkazsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgdGg7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Byb19zZGstMjAyMDA2MjgxNi5qYXInKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZSA9IGU1Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGggPSB0aDI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLmI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IHRoOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHR5cGUgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgdGg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSA9IGU1Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLmI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHR5cGUgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
