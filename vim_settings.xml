@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRVcmxzXD4=</entry>
-        <entry encoding="base64">XDx1cmxzXD4=</entry>
         <entry encoding="base64">XDxfdXJsc1w+</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry>clean</entry>
@@ -25,6 +23,8 @@
         <entry>list_get</entry>
         <entry>onPageStart</entry>
         <entry encoding="base64">XDxtYXRocGFkXD4=</entry>
+        <entry>onReceivedError</entry>
+        <entry>onReceivedHttpError</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -102,12 +102,11 @@
         <mark key="]" line="99" column="86" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1593585908635">
-        <mark key="'" line="664" column="45" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="574" column="73" />
-        <mark key="." line="48" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1593601981000">
+        <mark key="'" line="771" column="12" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
       </file>
       <file name="D:/AndroidStudio/reader/selffish/src/main/java/com/mathpad/mobile/unit/StartService.java" timestamp="1593595171605">
         <mark key="[" line="23" column="0" />
@@ -163,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="30" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="441" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="487" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="569" column="36" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -263,51 +261,52 @@
       <jump line="20" column="36" filename="D:/AndroidStudio/reader/selffish/src/main/AndroidManifest.xml" />
       <jump line="22" column="35" filename="D:/AndroidStudio/reader/selffish/src/main/AndroidManifest.xml" />
       <jump line="24" column="41" filename="D:/AndroidStudio/reader/selffish/src/main/AndroidManifest.xml" />
+      <jump line="756" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRocGFkXD4=</text>
+        <text>onReceivedHttpError</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZG0uZ2V0SW5zdGFuY2UoKS5pbml0KGNvbnRleHQsICIxMDU0NTIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGIub25FdmVudChtQ29udGV4dCwgIm9uUkVycm9yIiwgbUN1cnJlbnRXVkZlZWRiYWNrLCAiIiwgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLlhDb25zdGFudHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLlBlcm1pc3Npb25VdGlsOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLlhDb25zdGFudHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLktleVBvaW50czsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLlBlcm1pc3Npb25VdGlsOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLktleVBvaW50czsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLkJhc2VDb250ZXh0Owo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgLyogaWYgKHJlZmVyZXJVcmwgIT0gbnVsbCl7CiAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBleHRyYUhlYWRlcnMgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICAgICAgZXh0cmFIZWFkZXJzLnB1dCgiUmVmZXJlciIsIHJlZmVyZXJVcmwpOwogICAgICAgICAgICB2aWV3LmxvYWRVcmwodXJsLGV4dHJhSGVhZGVycyk7CgkJCXJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBlbHNlICov</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -316,9 +315,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtYXRocGFkXD4=</last-search>
+      <last-search>onReceivedHttpError</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRocGFkXD4=</last-pattern>
+      <last-pattern>onReceivedHttpError</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
