@@ -97,12 +97,12 @@
       <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1593499181588">
         <mark key="[" line="17" column="42" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1593584617583">
-        <mark key="'" line="665" column="45" />
-        <mark key="[" line="131" column="60" />
-        <mark key="]" line="665" column="46" />
-        <mark key="." line="665" column="45" />
-        <mark key="^" line="665" column="46" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1593585908635">
+        <mark key="'" line="664" column="45" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="574" column="73" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/toeder/prodar/adm.java" timestamp="1593503208211">
         <mark key="'" line="175" column="61" />
@@ -121,6 +121,7 @@
         <mark key="]" line="24" column="60" />
         <mark key="." line="24" column="60" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyPoints.java" timestamp="1593585895337" />
       <file name="E:/Project/DynamicLoader/gradle/wrapper/gradle-wrapper.properties" timestamp="1593504879220" />
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1593499750192">
         <mark key="[" line="81" column="28" />
@@ -137,11 +138,6 @@
         <mark key="]" line="67" column="36" />
         <mark key="^" line="67" column="36" />
         <mark key="." line="67" column="35" />
-      </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1593498711932">
-        <mark key="[" line="59" column="24" />
-        <mark key="]" line="59" column="24" />
-        <mark key="." line="59" column="24" />
       </file>
       <file name="D:/AndroidStudio/reader/selffish/src/main/java/com/mathpad/mobile/unit/App.java" timestamp="1593572374045">
         <mark key="[" line="22" column="8" />
@@ -266,14 +262,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgLyogaWYgKHJlZmVyZXJVcmwgIT0gbnVsbCl7CiAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBleHRyYUhlYWRlcnMgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICAgICAgZXh0cmFIZWFkZXJzLnB1dCgiUmVmZXJlciIsIHJlZmVyZXJVcmwpOwogICAgICAgICAgICB2aWV3LmxvYWRVcmwodXJsLGV4dHJhSGVhZGVycyk7CgkJCXJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBlbHNlICov</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>StrProcessing.Decrypt(&quot;didn't find the files&quot;)</text>
+        <text>KeyPoints</text>
       </register>
       <register name="/" type="4">
         <text>onPageStart</text>
@@ -281,32 +277,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImRleF9uYW1lOiIgKyBERVhfTkFNRSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgLyogaWYgKHJlZmVyZXJVcmwgIT0gbnVsbCl7CiAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBleHRyYUhlYWRlcnMgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICAgICAgZXh0cmFIZWFkZXJzLnB1dCgiUmVmZXJlciIsIHJlZmVyZXJVcmwpOwogICAgICAgICAgICB2aWV3LmxvYWRVcmwodXJsLGV4dHJhSGVhZGVycyk7CgkJCXJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBlbHNlICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLlhDb25zdGFudHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIC8qIGlmIChyZWZlcmVyVXJsICE9IG51bGwpewogICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gZXh0cmFIZWFkZXJzID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgICAgICAgIGV4dHJhSGVhZGVycy5wdXQoIlJlZmVyZXIiLCByZWZlcmVyVXJsKTsKICAgICAgICAgICAgdmlldy5sb2FkVXJsKHVybCxleHRyYUhlYWRlcnMpOwoJCQlyZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgZWxzZSAqL3sKICAgICAgICAgICAgLy9NYXA8U3RyaW5nLCBTdHJpbmc+IGV4dHJhSGVhZGVycyA9IG5ldyBIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpOwogICAgICAgICAgICAvL2V4dHJhSGVhZGVycy5wdXQoIlgtUmVxdWVzdGVkLVdpdGgiLCAvKiIiKi8iY29tLmFuZHJvaWQuYnJvd3NlciIpOwoJCS8qCW1DdXJXZWJVcmwgPSB1cmw7Ki8=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLlBlcm1pc3Npb25VdGlsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIC8qIGlmIChyZWZlcmVyVXJsICE9IG51bGwpewogICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gZXh0cmFIZWFkZXJzID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgICAgICAgIGV4dHJhSGVhZGVycy5wdXQoIlJlZmVyZXIiLCByZWZlcmVyVXJsKTsKICAgICAgICAgICAgdmlldy5sb2FkVXJsKHVybCxleHRyYUhlYWRlcnMpOwoJCQlyZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgZWxzZSAqL3sKICAgICAgICAgICAgLy9NYXA8U3RyaW5nLCBTdHJpbmc+IGV4dHJhSGVhZGVycyA9IG5ldyBIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpOwogICAgICAgICAgICAvL2V4dHJhSGVhZGVycy5wdXQoIlgtUmVxdWVzdGVkLVdpdGgiLCAvKiIiKi8iY29tLmFuZHJvaWQuYnJvd3NlciIpOwoJCS8qCW1DdXJXZWJVcmwgPSB1cmw7Ki8=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLktleVBvaW50czsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIC8qIGlmIChyZWZlcmVyVXJsICE9IG51bGwpewogICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gZXh0cmFIZWFkZXJzID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgICAgICAgIGV4dHJhSGVhZGVycy5wdXQoIlJlZmVyZXIiLCByZWZlcmVyVXJsKTsKICAgICAgICAgICAgdmlldy5sb2FkVXJsKHVybCxleHRyYUhlYWRlcnMpOwoJCQlyZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgZWxzZSAqL3sKICAgICAgICAgICAgLy9NYXA8U3RyaW5nLCBTdHJpbmc+IGV4dHJhSGVhZGVycyA9IG5ldyBIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpOwogICAgICAgICAgICAvL2V4dHJhSGVhZGVycy5wdXQoIlgtUmVxdWVzdGVkLVdpdGgiLCAvKiIiKi8iY29tLmFuZHJvaWQuYnJvd3NlciIpOwoJCS8qCW1DdXJXZWJVcmwgPSB1cmw7Ki8=</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLkJhc2VDb250ZXh0Owo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgLyogaWYgKHJlZmVyZXJVcmwgIT0gbnVsbCl7CiAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBleHRyYUhlYWRlcnMgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICAgICAgZXh0cmFIZWFkZXJzLnB1dCgiUmVmZXJlciIsIHJlZmVyZXJVcmwpOwogICAgICAgICAgICB2aWV3LmxvYWRVcmwodXJsLGV4dHJhSGVhZGVycyk7CgkJCXJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBlbHNlICov</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
