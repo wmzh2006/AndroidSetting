@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdXJsc1w+</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry>clean</entry>
         <entry>clear</entry>
@@ -21,10 +20,11 @@
         <entry>ler</entry>
         <entry>get</entry>
         <entry>list_get</entry>
-        <entry>onPageStart</entry>
         <entry encoding="base64">XDxtYXRocGFkXD4=</entry>
         <entry>onReceivedError</entry>
         <entry>onReceivedHttpError</entry>
+        <entry>initWebview</entry>
+        <entry>onPageStart</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -92,6 +92,13 @@
         <mark key="." line="17" column="51" />
         <mark key="^" line="17" column="19" />
       </file>
+      <file name="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto10/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1593655394095">
+        <mark key="'" line="241" column="41" />
+        <mark key="[" line="576" column="68" />
+        <mark key="]" line="576" column="71" />
+        <mark key="." line="576" column="70" />
+        <mark key="^" line="576" column="71" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1593596731442">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="86" />
@@ -137,7 +144,6 @@
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/AndroidManifest.xml" timestamp="1593593384727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1593574876222" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/com/bb/cc/adm.java" timestamp="1593604170075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -158,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="44" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="487" column="24" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="569" column="36" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="776" column="41" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto7/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
@@ -258,6 +263,7 @@
       <jump line="22" column="35" filename="D:/AndroidStudio/reader/selffish/src/main/AndroidManifest.xml" />
       <jump line="24" column="41" filename="D:/AndroidStudio/reader/selffish/src/main/AndroidManifest.xml" />
       <jump line="756" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="241" column="41" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto10/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,7 +278,7 @@
         <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>onReceivedHttpError</text>
+        <text>onPageStart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGIub25FdmVudChtQ29udGV4dCwgIm9uUkVycm9yIiwgbUN1cnJlbnRXVkZlZWRiYWNrLCAiIiwgIiIpOwo=</text>
@@ -311,9 +317,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onReceivedHttpError</last-search>
+      <last-search>onPageStart</last-search>
       <last-offset />
-      <last-pattern>onReceivedHttpError</last-pattern>
+      <last-pattern>onPageStart</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
