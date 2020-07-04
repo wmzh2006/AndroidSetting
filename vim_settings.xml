@@ -5,17 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onReceivedError</entry>
-        <entry>onReceivedHttpError</entry>
-        <entry>initWebview</entry>
-        <entry>onPageStart</entry>
-        <entry>a</entry>
-        <entry>Activity_MyProfile</entry>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
-        <entry>Activity_My</entry>
-        <entry>#ffffff</entry>
-        <entry>0x1000001</entry>
-        <entry>itemMaxLines</entry>
         <entry>16777217</entry>
         <entry>white</entry>
         <entry>androidx</entry>
@@ -25,6 +14,17 @@
         <entry>fontProviderFetchStrategy</entry>
         <entry>fontProviderFetchTimeout</entry>
         <entry>fontStyle</entry>
+        <entry>navigationMode</entry>
+        <entry>displayOptions</entry>
+        <entry>tintMode</entry>
+        <entry>tickMarkTintMode</entry>
+        <entry>autoSizeTextType</entry>
+        <entry>drawableTintMode</entry>
+        <entry>actionBarSize</entry>
+        <entry>cameraGestureTap</entry>
+        <entry>cameraGestureLongTap</entry>
+        <entry>buttonTintMode</entry>
+        <entry>cardCornerRadius</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -81,79 +81,85 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/finess/src/main/res/values/styles.xml" timestamp="1593772850085">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="4" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/colors.xml" timestamp="1593851458660">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/gradle/wrapper/gradle-wrapper.properties" timestamp="1593846560561" />
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/drawable/mtrl_ic_cancel.xml" timestamp="1593847680757" />
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/build.gradle" timestamp="1593847975076" />
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/colors.xml" timestamp="1593847654551">
-        <mark key="'" line="10" column="74" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" timestamp="1593849595901">
+        <mark key="'" line="16" column="55" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/bumptech/glide/annotation/Excludes.java" timestamp="1593846314276" />
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/github/chrisbanes/photoview/Compat.java" timestamp="1593848708624" />
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" timestamp="1593848481752">
-        <mark key="'" line="588" column="10" />
-        <mark key="[" line="587" column="4" />
-        <mark key="]" line="587" column="4" />
-        <mark key="." line="587" column="3" />
-        <mark key="^" line="587" column="4" />
-      </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/build.gradle" timestamp="1593848598171">
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/build.gradle" timestamp="1593850457348">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/AndroidManifest.xml" timestamp="1593848308695">
-        <mark key="'" line="84" column="18" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="110" column="107" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/bools.xml" timestamp="1593850294110">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/jaredrummler/android/colorpicker/AlphaPatternDrawable.java" timestamp="1593848898497" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/layout/main_backgroundchanger.xml" timestamp="1593852108300">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/styles.xml" timestamp="1593851768185">
+        <mark key="[" line="12" column="97" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/integers.xml" timestamp="1593850339571">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="2" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/values/styles.xml" timestamp="1593850485021" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/strings.xml" timestamp="1593850409828">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/values/colors.xml" timestamp="1593851548118" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/layout/stampcamera_activity_add_font_format.xml" timestamp="1593852154048" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/drawables.xml" timestamp="1593850332961">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/AndroidManifest.xml" timestamp="1593851089403">
+        <mark key="'" line="78" column="18" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/otaliastudios/cameraview/AspectRatio.java" timestamp="1593849000467" />
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/build.gradle" timestamp="1593849127564">
-        <mark key="[" line="49" column="52" />
-        <mark key="]" line="49" column="53" />
-        <mark key="." line="49" column="52" />
-        <mark key="^" line="49" column="53" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/dimens.xml" timestamp="1593850321131">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593848722909">
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/build.gradle" timestamp="1593852113024">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/interpolators.xml" timestamp="1593850580280">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/finess/src/main/AndroidManifest.xml" timestamp="1593773009464">
-        <mark key="[" line="965" column="0" />
-        <mark key="]" line="965" column="0" />
-        <mark key="." line="965" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/public.xml" timestamp="1593847276597">
-        <mark key="'" line="7" column="70" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/jaredrummler/android/colorpicker/ColorPickerDialog.java" timestamp="1593848928749" />
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/gradle/wrapper/gradle-wrapper.properties" timestamp="1593847888385" />
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/finess/build.gradle" timestamp="1593773117929">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="37" column="15" />
-        <mark key="." line="37" column="14" />
-        <mark key="^" line="37" column="15" />
+      <file name="/Dummy.txt" timestamp="1593851576261">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="31" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/src/com/web/WebviewInterceptRequest.java" />
-      <jump line="105" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="38" column="12" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="45" column="28" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="76" column="23" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="87" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="110" column="19" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="118" column="23" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="164" column="20" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="166" column="15" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto9/assets/httpPost.js" />
-      <jump line="1080" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto10/src/com/web/WebviewInterceptRequest.java" />
       <jump line="830" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto10/src/com/web/WebviewInterceptRequest.java" />
       <jump line="1079" column="0" filename="D:/StudioProjects/XXPermissions/XXPermissions/ROOTSDK_Plugin_jsauto10/src/com/web/WebviewInterceptRequest.java" />
       <jump line="51" column="30" filename="E:/tools/android/platforms/android-29/android.jar!/android/widget/TextView.class" />
@@ -243,51 +249,62 @@
       <jump line="800" column="63" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
       <jump line="589" column="26" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
       <jump line="590" column="10" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="585" column="59" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="872" column="40" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="442" column="63" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="1138" column="57" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="1137" column="57" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="71" column="54" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="452" column="74" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="12" column="57" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="217" column="36" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="16" column="55" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
+      <jump line="16" column="81" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/styles.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>latest.release.here</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>latest.release.here</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>fontStyle</text>
+        <text>cardCornerRadius</text>
       </register>
       <register name="0" type="4">
         <text>Toolbar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvc2l0b3JpZXMgewo=</text>
+        <text encoding="base64">ICAgIDxjb20uZ29vCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5jb3JlOmNvcmUta3R4OjEuMy4wIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxhdHRyIG5hbWU9ImZvbnRTdHlsZSI+CiAgICAgICAgPGVudW0gbmFtZT0iaXRhbGljIiB2YWx1ZT0iMSIgLz4KICAgICAgICA8ZW51bSBuYW1lPSJub3JtYWwiIHZhbHVlPSIwIiAvPgogICAgPC9hdHRyPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxhdHRyIG5hbWU9ImZvbnRQcm92aWRlckZldGNoVGltZW91dCIgZm9ybWF0PSJpbnRlZ2VyIj4KICAgICAgICA8ZW51bSBuYW1lPSJmb3JldmVyIiB2YWx1ZT0iLTEiIC8+CiAgICA8L2F0dHI+</text>
+        <text encoding="base64">CiAgICAgICAgPG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5hbmRyb2lkLnZlbmRpbmcuZGVyaXZlZC5hcGsuaWQiCiAgICAgICAgICAgIGFuZHJvaWQ6dmFsdWU9IjYiIC8+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgPG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5hbmRyb2lkLnZlbmRpbmcuc3BsaXRzIgogICAgICAgICAgICBhbmRyb2lkOnJlc291cmNlPSJAeG1sL3NwbGl0czEiIC8+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxhdHRyIG5hbWU9ImZvbnRQcm92aWRlckZldGNoU3RyYXRlZ3kiPgogICAgICAgIDxlbnVtIG5hbWU9ImFzeW5jIiB2YWx1ZT0iMSIgLz4KICAgICAgICA8ZW51bSBuYW1lPSJibG9ja2luZyIgdmFsdWU9IjAiIC8+CiAgICA8L2F0dHI+</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -296,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fontStyle</last-search>
+      <last-search>cardCornerRadius</last-search>
       <last-offset />
-      <last-pattern>fontStyle</last-pattern>
+      <last-pattern>cardCornerRadius</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
