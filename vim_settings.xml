@@ -81,20 +81,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" timestamp="1593858340301">
-        <mark key="'" line="634" column="51" />
-        <mark key="[" line="563" column="0" />
-        <mark key="]" line="563" column="0" />
-        <mark key="." line="563" column="0" />
-        <mark key="^" line="614" column="39" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" timestamp="1593858737080">
+        <mark key="'" line="669" column="14" />
+        <mark key="[" line="723" column="13" />
+        <mark key="]" line="723" column="18" />
+        <mark key="." line="723" column="17" />
+        <mark key="^" line="723" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/services/StampCamera_LocationProvider.java" timestamp="1593854391448">
-        <mark key="[" line="153" column="79" />
-        <mark key="]" line="153" column="79" />
-        <mark key="." line="153" column="79" />
-        <mark key="^" line="153" column="83" />
-      </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/xml/standalone_badge_gravity_top_start.xml" timestamp="1593853517357" />
       <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/styles.xml" timestamp="1593857206598">
         <mark key="[" line="14" column="77" />
         <mark key="]" line="20" column="0" />
@@ -104,6 +97,13 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_StampPositionActivity.java" timestamp="1593858837575">
+        <mark key="'" line="438" column="161" />
+        <mark key="[" line="568" column="84" />
+        <mark key="]" line="568" column="84" />
+        <mark key="." line="568" column="84" />
+        <mark key="^" line="568" column="85" />
       </file>
       <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/view/FontFormatSelectionDialog.java" timestamp="1593857204039">
         <mark key="[" line="131" column="32" />
@@ -122,9 +122,11 @@
         <mark key="." line="362" column="110" />
         <mark key="^" line="362" column="111" />
       </file>
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/view/FastScroller.java" timestamp="1593859530189" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.otaliastudios/cameraview/2.6.2/eb942368ada81ac0186158c41dbd4fd1a5f7e9f5/cameraview-2.6.2-sources.jar!/com/otaliastudios/cameraview/CameraView.java" timestamp="1593856578553" />
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/build.gradle" timestamp="1593856626169">
-        <mark key="[" line="49" column="49" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_AddFontFormat.java" timestamp="1593858855788" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/build.gradle" timestamp="1593859545387">
+        <mark key="[" line="54" column="4" />
         <mark key="]" line="49" column="49" />
         <mark key="." line="49" column="49" />
         <mark key="^" line="49" column="19" />
@@ -144,20 +146,20 @@
       <file name="/Dummy.txt" timestamp="1593856119436">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_ImageGalleryActivity.java" timestamp="1593855951744">
-        <mark key="'" line="296" column="11" />
-        <mark key="[" line="289" column="46" />
-        <mark key="]" line="289" column="47" />
-        <mark key="^" line="289" column="47" />
-        <mark key="." line="289" column="46" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/view/FastScrollRecyclerView.java" timestamp="1593859194833" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/view/CustomViewPager.java" timestamp="1593859601702">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1593854750865">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_AddStampOnPhotoActivity.java" timestamp="1593859011123">
+        <mark key="[" line="499" column="62" />
+        <mark key="]" line="533" column="79" />
+        <mark key="." line="533" column="78" />
+        <mark key="^" line="533" column="79" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="646" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="664" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1033" column="134" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1035" column="88" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="94" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -256,18 +258,20 @@
       <jump line="614" column="20" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
       <jump line="633" column="50" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
       <jump line="634" column="51" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
+      <jump line="669" column="14" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
+      <jump line="438" column="161" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_StampPositionActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2coIk5vIEFwcGxpY2F0aW9uIGZvdW5kIHRvIHNlbGVjdCBpbWFnZS4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPblZpZXdSZW1vdmVkTGlzdGVuZXIgb25WaWV3UmVtb3ZlZExpc3RlbmVyOwo=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3BlY3RSYXRpb1w+</text>
@@ -276,31 +280,31 @@
         <text>Toolbar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2coIk5vIEFwcGxpY2F0aW9uIGZvdW5kIHRvIHNlbGVjdCBpbWFnZS4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPblZpZXdSZW1vdmVkTGlzdGVuZXIgb25WaWV3UmVtb3ZlZExpc3RlbmVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBBc3BlY3RSYXRpbyBhc3BlY3RSYXRpbyA9IFN0YW1wQ2FtZXJhX1ByZWZzVXRpbHMuZ2V0U2F2ZWRPYmplY3RGcm9tUHJlZmVyZW5jZSh0aGlzLCBTdGFtcENhbWVyYV9HbG9iYWwuVEFHX1NFTEVDVEVEX0FTUEVDVF9SQVRJTywgQXNwZWN0UmF0aW8uY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgb3V0cHV0TWVkaWFGaWxlICE9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRpYWxvZ1RoZW1lIj5Ac3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5EaWFsb2c8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpemUgc2l6ZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLmFuc3dlcnMuQ3VzdG9tRXZlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXNwZWN0UmF0aW8gYXNwZWN0UmF0aW8gPSBhc3BlY3RSYXRpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLmFuc3dlcnMuQW5zd2VyczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2coIk5vIEFwcGxpY2F0aW9uIGZvdW5kIHRvIHNlbGVjdCBpbWFnZS4iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBc3BlY3RSYXRpbyBhc3BlY3RSYXRpbyA9IFN0YW1wQ2FtZXJhX1ByZWZzVXRpbHMuZ2V0U2F2ZWRPYmplY3RGcm9tUHJlZmVyZW5jZSh0aGlzLCBTdGFtcENhbWVyYV9HbG9iYWwuVEFHX1NFTEVDVEVEX0FTUEVDVF9SQVRJTywgQXNwZWN0UmF0aW8uY2xhc3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpZW5jZU5ldHdvcmtBZHMuaW5pdGlhbGl6ZSh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5hZHMuQXVkaWVuY2VOZXR3b3JrQWRzOwo=</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRpYWxvZ1RoZW1lIj5Ac3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5EaWFsb2c8L2l0ZW0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
