@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>16777217</entry>
         <entry>white</entry>
         <entry>androidx</entry>
         <entry>layout_anchorGravity</entry>
@@ -25,6 +24,7 @@
         <entry>cameraGestureLongTap</entry>
         <entry>buttonTintMode</entry>
         <entry>cardCornerRadius</entry>
+        <entry encoding="base64">XDxhc3BlY3RSYXRpb1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -81,11 +81,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" timestamp="1593856709265">
-        <mark key="[" line="177" column="70" />
-        <mark key="]" line="244" column="24" />
-        <mark key="." line="244" column="23" />
-        <mark key="^" line="244" column="24" />
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" timestamp="1593858340301">
+        <mark key="'" line="634" column="51" />
+        <mark key="[" line="563" column="0" />
+        <mark key="]" line="563" column="0" />
+        <mark key="." line="563" column="0" />
+        <mark key="^" line="614" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/services/StampCamera_LocationProvider.java" timestamp="1593854391448">
         <mark key="[" line="153" column="79" />
@@ -110,13 +111,17 @@
         <mark key="." line="131" column="32" />
         <mark key="^" line="67" column="42" />
       </file>
+      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/MainActivity.java" timestamp="1593857882704">
+        <mark key="[" line="221" column="143" />
+        <mark key="]" line="221" column="143" />
+        <mark key="." line="221" column="143" />
+      </file>
       <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/utils/StampCamera_CommonUtilities.java" timestamp="1593857462074">
         <mark key="[" line="362" column="110" />
         <mark key="]" line="362" column="111" />
         <mark key="." line="362" column="110" />
         <mark key="^" line="362" column="111" />
       </file>
-      <file name="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/xml/standalone_badge_gravity_bottom_start.xml" timestamp="1593853504115" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.otaliastudios/cameraview/2.6.2/eb942368ada81ac0186158c41dbd4fd1a5f7e9f5/cameraview-2.6.2-sources.jar!/com/otaliastudios/cameraview/CameraView.java" timestamp="1593856578553" />
       <file name="$USER_HOME$/Desktop/TimeStamp Camera/build.gradle" timestamp="1593856626169">
         <mark key="[" line="49" column="49" />
@@ -151,10 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="436" column="44" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="641" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="643" column="25" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="646" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="664" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="1033" column="134" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
@@ -251,51 +252,55 @@
       <jump line="238" column="0" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_ImageGalleryActivity.java" />
       <jump line="289" column="45" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_ImageGalleryActivity.java" />
       <jump line="296" column="11" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_ImageGalleryActivity.java" />
+      <jump line="793" column="84" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
+      <jump line="614" column="20" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
+      <jump line="633" column="50" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
+      <jump line="634" column="51" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Rm9uYnIwIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2coIk5vIEFwcGxpY2F0aW9uIGZvdW5kIHRvIHNlbGVjdCBpbWFnZS4iKTsK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Rm9uYnIwIA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>cardCornerRadius</text>
+        <text encoding="base64">XDxhc3BlY3RSYXRpb1w+</text>
       </register>
       <register name="0" type="4">
         <text>Toolbar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDcmFzaGx5dGljcy5sb2coIk5vIEFwcGxpY2F0aW9uIGZvdW5kIHRvIHNlbGVjdCBpbWFnZS4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRpYWxvZ1RoZW1lIj5Ac3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5EaWFsb2c8L2l0ZW0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBc3BlY3RSYXRpbyBhc3BlY3RSYXRpbyA9IFN0YW1wQ2FtZXJhX1ByZWZzVXRpbHMuZ2V0U2F2ZWRPYmplY3RGcm9tUHJlZmVyZW5jZSh0aGlzLCBTdGFtcENhbWVyYV9HbG9iYWwuVEFHX1NFTEVDVEVEX0FTUEVDVF9SQVRJTywgQXNwZWN0UmF0aW8uY2xhc3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLmFuc3dlcnMuQ3VzdG9tRXZlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLmFuc3dlcnMuQW5zd2VyczsK</text>
+        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImRpYWxvZ1RoZW1lIj5Ac3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5EaWFsb2c8L2l0ZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLmFuc3dlcnMuQ3VzdG9tRXZlbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdWRpZW5jZU5ldHdvcmtBZHMuaW5pdGlhbGl6ZSh0aGlzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLmFuc3dlcnMuQW5zd2VyczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5hZHMuQXVkaWVuY2VOZXR3b3JrQWRzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5jcmFzaGx5dGljcy5hbmRyb2lkLkNyYXNobHl0aWNzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vdGFsaWFzdHVkaW9zLmNhbWVyYXZpZXcuY29udHJvbHMuRmFjaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICBBdWRpZW5jZU5ldHdvcmtBZHMuaW5pdGlhbGl6ZSh0aGlzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vdGFsaWFzdHVkaW9zLmNhbWVyYXZpZXcuU2l6ZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5hZHMuQXVkaWVuY2VOZXR3b3JrQWRzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -304,9 +309,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cardCornerRadius</last-search>
+      <last-search encoding="base64">XDxhc3BlY3RSYXRpb1w+</last-search>
       <last-offset />
-      <last-pattern>cardCornerRadius</last-pattern>
+      <last-pattern encoding="base64">XDxhc3BlY3RSYXRpb1w+</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
