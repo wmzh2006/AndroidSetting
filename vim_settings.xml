@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>displayOptions</entry>
-        <entry>tintMode</entry>
-        <entry>tickMarkTintMode</entry>
-        <entry>autoSizeTextType</entry>
         <entry>drawableTintMode</entry>
         <entry>actionBarSize</entry>
         <entry>cameraGestureTap</entry>
@@ -17,7 +13,6 @@
         <entry>cardCornerRadius</entry>
         <entry encoding="base64">XDxhc3BlY3RSYXRpb1w+</entry>
         <entry encoding="base64">XDx0eHREYXRlU3RhbXBcPg==</entry>
-        <entry>onCreate</entry>
         <entry encoding="base64">XDxNU0dfTE9BRFNES1w+</entry>
         <entry encoding="base64">XDxTeW5jU3RhdGVDb250cmFjdFw+</entry>
         <entry>603979776</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry>b()</entry>
         <entry encoding="base64">XDxzdHJcPg==</entry>
+        <entry>isRestDay</entry>
+        <entry encoding="base64">XDxwcmVmc0VkaXRvclw+</entry>
+        <entry>exitConfirmDialog</entry>
+        <entry encoding="base64">XDxtXD4=</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -109,6 +109,9 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="33" />
       </file>
+      <file name="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" timestamp="1594038315845">
+        <mark key="'" line="147" column="129" />
+      </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" timestamp="1594028720160">
         <mark key="'" line="164" column="12" />
         <mark key="[" line="21" column="0" />
@@ -122,20 +125,14 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/build.gradle" timestamp="1594015326399">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="26" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="30" />
-      </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1594021609536">
         <mark key="[" line="181" column="26" />
         <mark key="]" line="181" column="26" />
         <mark key="." line="181" column="26" />
         <mark key="^" line="181" column="37" />
       </file>
-      <file name="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.java" timestamp="1594035509921">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.java" timestamp="1594036331602">
+        <mark key="'" line="391" column="31" />
       </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/adapters/WorkoutData.kt" timestamp="1594027863281">
         <mark key="[" line="6" column="0" />
@@ -146,12 +143,12 @@
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/qwe/rtysix/InitStart.java" timestamp="1594017839298">
         <mark key="[" line="25" column="33" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" timestamp="1594036284030">
-        <mark key="'" line="363" column="31" />
-        <mark key="[" line="354" column="111" />
-        <mark key="]" line="354" column="112" />
-        <mark key="." line="354" column="111" />
-        <mark key="^" line="354" column="112" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" timestamp="1594037617650">
+        <mark key="'" line="255" column="16" />
+        <mark key="[" line="714" column="24" />
+        <mark key="]" line="714" column="24" />
+        <mark key="^" line="713" column="61" />
+        <mark key="." line="714" column="24" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1594021870397" />
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Lamda_Main.kt" timestamp="1594034568000">
@@ -159,12 +156,17 @@
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/v.java" timestamp="1594014834992">
-        <mark key="'" line="66" column="21" />
-        <mark key="[" line="246" column="64" />
-        <mark key="]" line="247" column="25" />
-        <mark key="^" line="247" column="25" />
-        <mark key="." line="247" column="24" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" timestamp="1594038252425">
+        <mark key="'" line="804" column="12" />
+        <mark key="[" line="903" column="72" />
+        <mark key="]" line="903" column="72" />
+        <mark key="." line="903" column="72" />
+        <mark key="^" line="903" column="74" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/utils/AbsWomenApplication.kt" timestamp="1594037923656">
+        <mark key="[" line="76" column="49" />
+        <mark key="]" line="76" column="49" />
+        <mark key="." line="76" column="49" />
       </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" timestamp="1594028588189">
         <mark key="[" line="71" column="62" />
@@ -186,41 +188,8 @@
         <mark key="." line="509" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/qwe/rtysix/Init.java" timestamp="1594017835317" />
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/res/values/strings.xml" timestamp="1594015125949">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="41" filename="D:/StudioProjects/XXPermissions/XXPermissions/rOOTSDK_Plugin_onlyjsauto10/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="63" column="50" filename="D:/AndroidStudioProjects/Abs Workout For Women/myapplication/src/test/java/com/health/well/myapplication/ExampleUnitTest.kt" />
-      <jump line="81" column="71" filename="D:/AndroidStudioProjects/Abs Workout For Women/myapplication/src/test/java/com/health/well/myapplication/ExampleUnitTest.kt" />
-      <jump line="86" column="0" filename="D:/AndroidStudioProjects/Abs Workout For Women/myapplication/src/test/java/com/health/well/myapplication/ExampleUnitTest.kt" />
-      <jump line="16" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="18" column="24" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="20" column="24" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="23" column="24" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="56" column="67" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="57" column="61" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="58" column="67" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="59" column="67" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.kt" />
-      <jump line="57" column="0" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/AndroidManifest.xml" />
-      <jump line="196" column="38" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="7" column="70" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/public.xml" />
-      <jump line="10" column="74" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/colors.xml" />
-      <jump line="37" column="81" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/AndroidManifest.xml" />
-      <jump line="33" column="32" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/AndroidManifest.xml" />
-      <jump line="32" column="18" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/AndroidManifest.xml" />
-      <jump line="654" column="56" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="701" column="65" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="774" column="53" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="800" column="63" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="589" column="26" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="590" column="10" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="585" column="59" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="872" column="40" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
-      <jump line="442" column="63" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
       <jump line="1138" column="57" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
       <jump line="1137" column="57" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
       <jump line="71" column="54" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/res/values/attrs.xml" />
@@ -293,51 +262,79 @@
       <jump line="411" column="29" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="330" column="64" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="363" column="31" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="391" column="31" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.java" />
+      <jump line="390" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="59" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="247" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="248" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="249" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="251" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="1" column="0" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
+      <jump line="140" column="81" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="170" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="453" column="51" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="462" column="81" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="473" column="77" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="481" column="51" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="578" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="579" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="618" column="51" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="621" column="28" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="624" column="28" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="627" column="28" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="634" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="636" column="43" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="717" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="718" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="747" column="23" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="802" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="803" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="147" column="129" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlZnNFZGl0b3I/LmNvbW1pdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJcPg==</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="4">
         <text>var excCycles = 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlZnNFZGl0b3I/LmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgIHZhciByOiBBZFJlcXVlc3Q/ID0gbnVsbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFpbkFjdGl2aXR5MiA9IHRoaXNATWFpbkFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0OiBBZG1vYkFkcz8gPSBudWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1haW5BY3Rpdml0eTg6IE1haW5BY3Rpdml0eSA9IHRoaXNATWFpbkFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgIHZhciBwYWNrYWdlTmFtZTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1haW5BY3Rpdml0eTc6IE1haW5BY3Rpdml0eSA9IHRoaXNATWFpbkFjdGl2aXR5Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQudXRpbHMuQ29uc3RhbnRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1haW5BY3Rpdml0eTY6IE1haW5BY3Rpdml0eSA9IHRoaXNATWFpbkFjdGl2aXR5Cg==</text>
+        <text encoding="base64">Y29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hY3Rpdml0aWVzLkNhbGN1bGF0ZUFjdGl2aXR5aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYWN0aXZpdGllcy5NYWluRXhjZXJjaXNlQWN0aXZpdHlpbXBvcnQgY29tLnRyYXZpanV1Lm51bWJlcnBpY2tlci5saWJyYXJ5LkludGVyZmFjZS5WYWx1ZUNoYW5nZWRMaXN0ZW5lcmltcG9ydCBjb20udHJhdmlqdXUubnVtYmVycGlja2VyLmxpYnJhcnkuRW51bXMuQWN0aW9uRW51bWltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmFjdGl2aXRpZXMuUmVzdERheUFjdGl2aXR5aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuZnJhZ21lbnRzLldvcmtvdXRGcmFnbWVudGltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmZjbS5NeUpvYlNlcnZpY2VpbXBvcnQgYW5kcm9pZC5jb250ZW50LkJyb2FkY2FzdFJlY2VpdmVyaW1wb3J0IGFuZHJvaWQuY29udGVudC5JbnRlbnRpbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGVpbXBvcnQgY29tLmdvb2dsZS5maXJlYmFzZS5hbmFseXRpY3MuRmlyZWJhc2VBbmFseXRpY3NpbXBvcnQgY29tLmdvb2dsZS5maXJlYmFzZS5tZXNzYWdpbmcuRmlyZWJhc2VNZXNzYWdpbmdTZXJ2aWNlaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYWN0aXZpdGllcy5TdGFydF9BY3Rpdml0eWltcG9ydCBhbmRyb2lkLmFwcC5QZW5kaW5nSW50ZW50aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuUmltcG9ydCBhbmRyb2lkLm1lZGlhLlJpbmd0b25lTWFuYWdlcmltcG9ydCBhbmRyb2lkLmFwcC5Ob3RpZmljYXRpb25NYW5hZ2VyaW1wb3J0IGFuZHJvaWQub3MuQnVpbGRpbXBvcnQgYW5kcm9pZC5hcHAuTm90aWZpY2F0aW9uQ2hhbm5lbGltcG9ydCBjb20uZ29vZ2xlLmZpcmViYXNlLm1lc3NhZ2luZy5SZW1vdGVNZXNzYWdlaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuZmNtLk15RmlyZWJhc2VNZXNzYWdpbmdTZXJ2aWNlaW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHlpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5mcmFnbWVudHMuTWVhbFBsYW5GcmFnbWVudGltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LnJlY2VpdmVyLk5vdGlmaWNhdGlvblJlY2VpdmVyaW1wb3J0IGFuZHJvaWQuYXBwLkFsYXJtTWFuYWdlcmltcG9ydCBhbmRyb2lkLndpZGdldC5Ub2FzdGltcG9ydCBhbmRyb2lkLm5ldC5OZXR3b3JrSW5mb2ltcG9ydCBhbmRyb2lkLm5ldC5Db25uZWN0aXZpdHlNYW5hZ2VyaW1wb3J0IGFuZHJvaWQudXRpbC5EaXNwbGF5TWV0cmljc2ltcG9ydCBhbmRyb2lkeC5hcHBjb21wYXQud2lkZ2V0LkFwcENvbXBhdFNlZWtCYXJpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC51dGlscy5Qcm9ncmVzc0l0ZW1pbXBvcnQga290bGluLmp2bS5TeW5jaHJvbml6ZWRpbXBvcnQgYW5kcm9pZC5zcGVlY2gudHRzLlRleHRUb1NwZWVjaGltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LnV0aWxzLkFic1dvbWVuQXBwbGljYXRpb25pbXBvcnQgYW5kcm9pZC5zcGVlY2gudHRzLlRleHRUb1NwZWVjaC5PbkluaXRMaXN0ZW5lcmltcG9ydCBhbmRyb2lkeC52aWV3cGFnZXIud2lkZ2V0LlZpZXdQYWdlcmltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LnV0aWxzLk1lYWxzSXRlbU9iamVjdGltcG9ydCBhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LlJlY3ljbGVyVmlld2ltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmFkYXB0ZXJzLk1lYWxzQWRhcHRlci5NZWFsc1JlY3ljbGVyVmlld0hvbGRlcnNpbXBvcnQgYW5kcm9pZC5jb250ZW50LlNoYXJlZFByZWZlcmVuY2VzaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuZnJhZ21lbnRzLkRhaWx5TWVhbGltcG9ydCBhbmRyb2lkLndpZGdldC5MaW5lYXJMYXlvdXRpbXBvcnQgYW5kcm9pZC52aWV3LlZpZXdHcm91cGltcG9ydCBhbmRyb2lkLnZpZXcuTGF5b3V0SW5mbGF0ZXJpbXBvcnQgYW5kcm9pZC5wcmVmZXJlbmNlLlByZWZlcmVuY2VNYW5hZ2VyaW1wb3J0IGFuZHJvaWR4LmZyYWdtZW50LmFwcC5GcmFnbWVudFN0YXRlUGFnZXJBZGFwdGVyaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuZnJhZ21lbnRzLlRhYkZyYWdtZW50V2Vla2ltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmFkYXB0ZXJzLldvcmtvdXREYXRhaW1wb3J0IGFuZHJvaWQudmlldy5hbmltYXRpb24uQWxwaGFBbmltYXRpb25pbXBvcnQgY29tLmRhaW1hamlhLm51bWJlcnByb2dyZXNzYmFyLk51bWJlclByb2dyZXNzQmFyaW1wb3J0IGFuZHJvaWR4LmNhcmR2aWV3LndpZGdldC5DYXJkVmlld2ltcG9ydCBhbmRyb2lkLndpZGdldC5SZWxhdGl2ZUxheW91dGltcG9ydCBhbmRyb2lkLmFwcC5BY3Rpdml0eWltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmFkYXB0ZXJzLkxhbmd1YWdlQWRhcHRlcmltcG9ydCBrci5wZS5idXJ0LmFuZHJvaWQubGliLmZhaW1hZ2V2aWV3LkZBSW1hZ2VWaWV3aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYWN0aXZpdGllcy5FeGNEZXRhaWxzQWN0aXZpdHlpbXBvcnQgYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcuQWRhcHRlckRhdGFPYnNlcnZlcmltcG9ydCBhbmRyb2lkLmRhdGFiYXNlLnNxbGl0ZS5TUUxpdGVPcGVuSGVscGVyaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuZGF0YWJhc2UuRGF0YWJhc2VIZWxwZXJpbXBvcnQgYW5kcm9pZC5kYXRhYmFzZS5zcWxpdGUuU1FMaXRlRGF0YWJhc2UuQ3Vyc29yRmFjdG9yeWltcG9ydCBhbmRyb2lkLmRhdGFiYXNlLnNxbGl0ZS5TUUxpdGVEYXRhYmFzZWltcG9ydCBvcmcuanNvbi5KU09OT2JqZWN0aW1wb3J0IG9yZy5qc29uLkpTT05FeGNlcHRpb25pbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRlbnRWYWx1ZXNpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5saXN0bmVycy5SZWN5Y2xlckl0ZW1DbGlja0xpc3RlbmVyLm9uSXRlbUNsaWNrTGlzdGVuZXJpbXBvcnQgYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5SZWN5Y2xlclZpZXcuT25JdGVtVG91Y2hMaXN0ZW5lcmltcG9ydCBhbmRyb2lkLnZpZXcuR2VzdHVyZURldGVjdG9yaW1wb3J0IGFuZHJvaWQudmlldy5Nb3Rpb25FdmVudGltcG9ydCBhbmRyb2lkLnZpZXcuR2VzdHVyZURldGVjdG9yLlNpbXBsZU9uR2VzdHVyZUxpc3RlbmVyaW1wb3J0IGFuZHJvaWQub3MuQnVpbGQuVkVSU0lPTl9DT0RFU2ltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLkJpdG1hcGltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLkJpdG1hcEZhY3RvcnlpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hY3Rpdml0aWVzLkFkbW9iQWRzaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC5mbG9hdGluZ2FjdGlvbmJ1dHRvbi5GbG9hdGluZ0FjdGlvbkJ1dHRvbmltcG9ydCBhbmRyb2lkLndpZGdldC5TY3JvbGxWaWV3aW1wb3J0IGFuZHJvaWQudmlldy5EaXNwbGF5aW1wb3J0IGFuZHJvaWQudmlldy5XaW5kb3dNYW5hZ2VyaW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuUG9ydGVyRHVmZmltcG9ydCBhbmRyb2lkLmFubm90YXRpb24gLlN1cHByZXNzTGludGltcG9ydCBhbmRyb2lkLndpZGdldC5Db21wb3VuZEJ1dHRvbmltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0Lm5ld3NjcmVlbi5MaWJyYXJ5aW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuU3dpdGNoQ29tcGF0aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuZGF0YWJhc2UuRGF0YWJhc2VPcGVyYXRpb25zaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYWRhcHRlcnMuQWxsRGF5QWRhcHRlcmltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmZyYWdtZW50cy5Qcm9maWxlRnJhZ21lbnRpbXBvcnQgYW5kcm9pZHguZnJhZ21lbnQuYXBwLkZyYWdtZW50QWN0aXZpdHlpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hY3Rpdml0aWVzLkFjdGl2aXR5X015UHJvZmlsZWltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQWN0aXZpdHlOb3RGb3VuZEV4Y2VwdGlvbmltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLmRyYXdhYmxlLkNvbG9yRHJhd2FibGVpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5Db25zdGFudFZhbHVlc2ltcG9ydCBhbmRyb2lkLndpZGdldC5UaW1lUGlja2VyaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYWN0aXZpdGllcy5BZnRlcl9NYWluX0FjdGl2aXR5aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQudXRpbHMuQXBwVXRpbHNpbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudEZpbHRlcmltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmZyYWdtZW50cy5DYWxjdWxhdGVfRnJhZ21lbnRpbXBvcnQgY29tLmdvb2dsZS5hbmRyb2lkLmdtcy5hZHMuTW9iaWxlQWRzaW1wb3J0IGNvbS50aGVraGFlbmcucHVzaGRvd25hbmltLlB1c2hEb3duQW5pbWltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmFkYXB0ZXJzLk1lYWxzQWRhcHRlcmltcG9ydCBhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LkdyaWRMYXlvdXRNYW5hZ2VyaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuZnJhZ21lbnRzLlNob3BwaW5nTGlzdEZyYWdtZW50aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkVkaXRUZXh0aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5tYXRlcmlhbC50YWJzLlRhYkxheW91dGltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwudGFicy5UYWJMYXlvdXQuVGFiTGF5b3V0T25QYWdlQ2hhbmdlTGlzdGVuZXJpbXBvcnQgY29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLnRhYnMuVGFiTGF5b3V0Lk9uVGFiU2VsZWN0ZWRMaXN0ZW5lcmltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLmFkcy5mb3JtYXRzLlVuaWZpZWROYXRpdmVBZGltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLmFkcy5mb3JtYXRzLlVuaWZpZWROYXRpdmVBZFZpZXdpbXBvcnQgY29tLmdvb2dsZS5hbmRyb2lkLmdtcy5hZHMuVmlkZW9Db250cm9sbGVyLlZpZGVvTGlmZWN5Y2xlQ2FsbGJhY2tzaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMuYWRzLkFkTG9hZGVyaW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMuYWRzLmZvcm1hdHMuVW5pZmllZE5hdGl2ZUFkLk9uVW5pZmllZE5hdGl2ZUFkTG9hZGVkTGlzdGVuZXJpbXBvcnQgY29tLmdvb2dsZS5hbmRyb2lkLmdtcy5hZHMuZm9ybWF0cy5OYXRpdmVBZE9wdGlvbnNpbXBvcnQgY29tLmdvb2dsZS5hbmRyb2lkLmdtcy5hZHMuVmlkZW9PcHRpb25zaW1wb3J0IGNvbS5hZm9sbGVzdGFkLm1hdGVyaWFsZGlhbG9ncy5NYXRlcmlhbERpYWxvZy5TaW5nbGVCdXR0b25DYWxsYmFja2ltcG9ydCBjb20uYWZvbGxlc3RhZC5tYXRlcmlhbGRpYWxvZ3MuTWF0ZXJpYWxEaWFsb2dpbXBvcnQgY29tLmFmb2xsZXN0YWQubWF0ZXJpYWxkaWFsb2dzLkRpYWxvZ0FjdGlvbmltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmFjdGl2aXRpZXMuTGFtZGFfTWFpbmltcG9ydCBhbmRyb2lkeC5yZWN5Y2xlcnZpZXcud2lkZ2V0LkxpbmVhckxheW91dE1hbmFnZXJpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hZGFwdGVycy5JbmRpdmlkdWFsRGF5QWRhcHRlcmltcG9ydCBhbmRyb2lkLmNvbnRlbnQucmVzLlR5cGVkQXJyYXlpbXBvcnQgYW5kcm9pZHguYW5ub3RhdGlvbiAuUmVxdWlyZXNBcGlpbXBvcnQgYW5kcm9pZC5hbm5vdGF0aW9uIC5UYXJnZXRBcGlpbXBvcnQgYW5kcm9pZHgucmVjeWNsZXJ2aWV3LndpZGdldC5JdGVtVG91Y2hIZWxwZXJpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5saXN0bmVycy5SZWN5Y2xlckl0ZW1DbGlja0xpc3RlbmVyaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYWN0aXZpdGllcy5EYXlBY3Rpdml0eWltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwubmF2aWdhdGlvbi5OYXZpZ2F0aW9uVmlld2ltcG9ydCBhbmRyb2lkLm9zLkJ1aWxkLlZFUlNJT05pbXBvcnQgYW5kcm9pZHguZHJhd2VybGF5b3V0LndpZGdldC5EcmF3ZXJMYXlvdXRpbXBvcnQgYW5kcm9pZC52aWV3LlZpZXdUcmVlT2JzZXJ2ZXIuT25HbG9iYWxMYXlvdXRMaXN0ZW5lcmltcG9ydCBhbmRyb2lkLnRleHQuU3Bhbm5hYmxlU3RyaW5naW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuVHlwZWZhY2VpbXBvcnQgYW5kcm9pZC5vcy5TdHJpY3RNb2RlaW1wb3J0IGFuZHJvaWQub3MuU3RyaWN0TW9kZS5WbVBvbGljeWltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LnV0aWxzLkNvbW1vbk1ldGhvZHNpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hY3Rpdml0aWVzLlVzZXJEZXRhaWxzQWN0aXZpdHlpbXBvcnQgYW5kcm9pZC53aWRnZXQuRnJhbWVMYXlvdXRpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5mY20uQXBwSW5zdGFsbGVkUmVjaWV2ZXJpbXBvcnQgY29tLmdvb2dsZS5hbmRyb2lkLm1hdGVyaWFsLmFwcGJhci5Db2xsYXBzaW5nVG9vbGJhckxheW91dGltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwuYXBwYmFyLkFwcEJhckxheW91dGltcG9ydCBjb20uc3F1YXJldXAucGljYXNzby5QaWNhc3NvaW1wb3J0IGNvbS5zcXVhcmV1cC5waWNhc3NvLk1lbW9yeVBvbGljeWltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmEuYS51aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQudXRpbHMuQ3VzdG9tU2Vla0JhcmltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwuYm90dG9tbmF2aWdhdGlvbi5Cb3R0b21OYXZpZ2F0aW9uVmlld2ltcG9ydCBjb20uZ29vZ2xlLmFuZHJvaWQubWF0ZXJpYWwuYm90dG9tbmF2aWdhdGlvbi5Cb3R0b21OYXZpZ2F0aW9uTWVudVZpZXdpbXBvcnQgYW5kcm9pZHguY29vcmRpbmF0b3JsYXlvdXQud2lkZ2V0LkNvb3JkaW5hdG9yTGF5b3V0aW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuR2lmSW1hZ2VWaWV3aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlJhZGlvR3JvdXBpbXBvcnQgYW5kcm9pZC53aWRnZXQuQXJyYXlBZGFwdGVyaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkFkYXB0ZXJWaWV3Lk9uSXRlbVNlbGVjdGVkTGlzdGVuZXJpbXBvcnQgYW5kcm9pZC53aWRnZXQuQWRhcHRlclZpZXdpbXBvcnQgY29tLmdvb2dsZS5nc29uLkdzb25pbXBvcnQgYW5kcm9pZC5vcy5Db3VudERvd25UaW1lcmltcG9ydCBjb20uYWtleG9yY2lzdC5yb3VuZGNvcm5lcnByb2dyZXNzYmFyLlJvdW5kQ29ybmVyUHJvZ3Jlc3NCYXJpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hLmEubWltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmEuYS5vaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYWN0aXZpdGllcy5Db21wbGV0aW9uRXhjQWN0aXZpdHlpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hLmEucmltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmEuYS5saW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYS5hLnFpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hLmEudGltcG9ydCBjb20uZml0bmVzc2NoMTkud29tZW5hYnN3b3Jrb3V0LmEuYS5uaW1wb3J0IGNvbS5maXRuZXNzY2gxOS53b21lbmFic3dvcmtvdXQuYS5hLnBpbXBvcnQgY29tLmZpdG5lc3NjaDE5LndvbWVuYWJzd29ya291dC5hLmEuc2ltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLk1vdmllaW1wb3J0IGtvdGxpbi5qdm0uSnZtT3ZlcmxvYWRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFpbkFjdGl2aXR5ID0gdGhpc0BNYWluQWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgICAgICBtQWRWaWV3LmxvYWRBZChhZFJlcXVlc3QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFpbkFjdGl2aXR5MiA9IHRoaXNATWFpbkFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWRSZXF1ZXN0ID0gQWRSZXF1ZXN0LkJ1aWxkZXIoKS5idWlsZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1haW5BY3Rpdml0eTU6IE1haW5BY3Rpdml0eSA9IHRoaXNATWFpbkFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbUFkVmlldzogQWRWaWV3ID0gZmluZFZpZXdCeUlkPEFkVmlldz8+KFIuaWQuYWRWaWV3KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1haW5BY3Rpdml0eTQ6IE1haW5BY3Rpdml0eSA9IHRoaXNATWFpbkFjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWxsRGF5c1Byb2dyZXNzQWR2OiBNdXRhYmxlTGlzdDxXb3Jrb3V0RGF0YT8+PyA9IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>%s /MsService/WebViewUtil/gc</text>
@@ -346,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdHJcPg==</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJcPg==</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>WebViewUtil</last-replace>
       <last-substitute>MsService</last-substitute>
       <last-dir>1</last-dir>
