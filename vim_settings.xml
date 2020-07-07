@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cameraGestureTap</entry>
         <entry>cameraGestureLongTap</entry>
         <entry>buttonTintMode</entry>
         <entry>cardCornerRadius</entry>
@@ -25,11 +24,13 @@
         <entry>onCreate</entry>
         <entry encoding="base64">XDx3b3Jrb3V0RGF0YUxpc3RcPg==</entry>
         <entry encoding="base64">XDxmMTJhXD4=</entry>
+        <entry>break</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
         <entry>x</entry>
         <entry>%s /MsService/WebViewUtil/gc</entry>
+        <entry>%s/break//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -81,6 +82,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -202,16 +206,15 @@
         <mark key="^" line="15" column="47" />
         <mark key="." line="11" column="38" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" timestamp="1594095145162">
-        <mark key="'" line="339" column="42" />
-        <mark key="[" line="365" column="42" />
-        <mark key="]" line="365" column="42" />
-        <mark key="." line="365" column="42" />
-        <mark key="^" line="1116" column="55" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" timestamp="1594101028227">
+        <mark key="'" line="419" column="22" />
+        <mark key="[" line="1184" column="0" />
+        <mark key="]" line="1184" column="0" />
+        <mark key="." line="1184" column="0" />
+        <mark key="^" line="1184" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="11" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_ImageGalleryActivity.java" />
       <jump line="793" column="84" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
       <jump line="614" column="20" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
       <jump line="633" column="50" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
@@ -311,83 +314,115 @@
       <jump line="67" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="323" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
       <jump line="335" column="42" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
+      <jump line="419" column="22" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>，</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldEV2ZW50TGlzdGVuZXJzKCkK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>，</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmMTJhXD4=</text>
+        <text>break</text>
       </register>
       <register name="0" type="4">
         <text>com.fitnessch19.womenabsworkout.a.a.</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldEV2ZW50TGlzdGVuZXJzKCkK</text>
+      </register>
+      <register name="2" type="8">
+        <text>.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()</text>
+      </register>
+      <register name="3" type="8">
+        <text>.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()</text>
+      </register>
+      <register name="4" type="8">
+        <text>)
+)
+)
+)
+)
+)
+)</text>
+      </register>
+      <register name="5" type="8">
         <text>java.lang.Boolean.valueOf(
 java.lang.Boolean.valueOf(
 java.lang.Boolean.valueOf(
 java.lang.Boolean.valueOf(
 java.lang.Boolean.valueOf(
 java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf
- java.lang.Boolean.valueOf</text>
+java.lang.Boolean.valueOf(</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="6" type="8">
+        <text>.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+      <register name="7" type="8">
+        <text>.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()
+.toBoolean()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXdlZWtfc3RkZGlldGVuYWJsZWQpIHsKICAgICAgICB9CiAgICAgICAgaWYgKHdlZWtfc3RkZGlldGVuYWJsZWQudG9Cb29sZWFuKCkpIHsKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
-        <text>%s /MsService/WebViewUtil/gc</text>
+        <text>%s/break//gc</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmMTJhXD4=</last-search>
+      <last-search>break</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmMTJhXD4=</last-pattern>
-      <last-replace>WebViewUtil</last-replace>
-      <last-substitute>MsService</last-substitute>
+      <last-pattern>break</last-pattern>
+      <last-replace />
+      <last-substitute>break</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
