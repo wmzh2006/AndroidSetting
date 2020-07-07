@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>buttonTintMode</entry>
-        <entry>cardCornerRadius</entry>
-        <entry encoding="base64">XDxhc3BlY3RSYXRpb1w+</entry>
-        <entry encoding="base64">XDx0eHREYXRlU3RhbXBcPg==</entry>
-        <entry encoding="base64">XDxNU0dfTE9BRFNES1w+</entry>
-        <entry encoding="base64">XDxTeW5jU3RhdGVDb250cmFjdFw+</entry>
-        <entry>603979776</entry>
         <entry encoding="base64">XDx0ZXh0Vmlld1w+</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry>b()</entry>
@@ -25,6 +18,13 @@
         <entry encoding="base64">XDxmMTJhXD4=</entry>
         <entry>break</entry>
         <entry encoding="base64">PCw=</entry>
+        <entry>calculate</entry>
+        <entry encoding="base64">XDxkYkhlbHBlclw+</entry>
+        <entry encoding="base64">XDxjaGFuZ2VfcHJvZmlsZVw+</entry>
+        <entry>toolbar</entry>
+        <entry>onDe</entry>
+        <entry encoding="base64">XDxtU2hhcmVkUHJlZmVyZW5jZXNcPg==</entry>
+        <entry encoding="base64">XDxiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -92,60 +92,49 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/DayActivity.kt" timestamp="1594092218806">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="12" />
-        <mark key="." line="214" column="12" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/layout/activyt_profile.xml" timestamp="1594106237139">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/adapters/MealsAdapter.kt" timestamp="1594092389696">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/adapters/MealsAdapter.kt" timestamp="1594104725610">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
         <mark key="^" line="51" column="83" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" timestamp="1594092380690">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="29" column="28" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/WorkoutFragment.kt" timestamp="1594104953050">
+        <mark key="[" line="190" column="38" />
+        <mark key="]" line="190" column="38" />
+        <mark key="." line="190" column="38" />
+        <mark key="^" line="189" column="37" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/AfterMainActivity.kt" timestamp="1594092040606">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="41" column="17" />
-        <mark key="." line="32" column="0" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/AfterMainActivity.kt" timestamp="1594104554455">
+        <mark key="[" line="51" column="67" />
+        <mark key="]" line="51" column="68" />
+        <mark key="^" line="51" column="68" />
+        <mark key="." line="51" column="67" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fcm/MyFirebaseMessagingService.kt" timestamp="1594092403288">
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="14" column="44" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/meals/MealsMainActivity.kt" timestamp="1594104782695">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fcm/AppInstalledReciever.kt" timestamp="1594092397295">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="44" />
-        <mark key="." line="7" column="44" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/drawable/a1_grad.xml" timestamp="1594106253707">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CalculateActivity.kt" timestamp="1594092105524">
-        <mark key="'" line="282" column="8" />
-        <mark key="[" line="577" column="38" />
-        <mark key="]" line="577" column="39" />
-        <mark key="^" line="577" column="39" />
-        <mark key="." line="577" column="38" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/ProfileFragment.kt" timestamp="1594104758184">
+        <mark key="[" line="232" column="47" />
+        <mark key="]" line="232" column="49" />
+        <mark key="." line="232" column="48" />
+        <mark key="^" line="232" column="49" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/SplashActivity.kt" timestamp="1594092362840">
-        <mark key="'" line="9" column="38" />
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="58" column="49" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/layout/fragment_workout.xml" timestamp="1594104946142">
+        <mark key="'" line="236" column="28" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/ProfileFragment.kt" timestamp="1594102129386">
-        <mark key="[" line="227" column="52" />
-        <mark key="]" line="227" column="54" />
-        <mark key="." line="227" column="53" />
-        <mark key="^" line="227" column="54" />
-      </file>
+      <file name="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.java" timestamp="1594106356406" />
       <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1594100229095">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="18" column="41" />
@@ -158,87 +147,58 @@
         <mark key="." line="59" column="57" />
         <mark key="^" line="20" column="64" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" timestamp="1594092112792">
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" timestamp="1594104641078">
         <mark key="'" line="162" column="12" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="199" column="38" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="179" column="53" />
+        <mark key="]" line="179" column="55" />
+        <mark key="^" line="179" column="55" />
+        <mark key="." line="179" column="54" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/DailyMeal.kt" timestamp="1594092992937">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="137" column="35" />
+      <file name="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.java" timestamp="1594107271163">
+        <mark key="'" line="52" column="59" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" timestamp="1594092229058">
-        <mark key="'" line="254" column="16" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="712" column="61" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" timestamp="1594108237836">
+        <mark key="'" line="303" column="8" />
+        <mark key="[" line="706" column="34" />
+        <mark key="]" line="708" column="0" />
+        <mark key="." line="708" column="0" />
+        <mark key="^" line="708" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/utils/MealsItemObject.kt" timestamp="1594093117296">
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="45" />
-        <mark key="." line="0" column="45" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/adapters/PagerAdapter.kt" timestamp="1594104740559">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+        <mark key="^" line="17" column="12" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Start_Activity.kt" timestamp="1594092368729">
-        <mark key="[" line="30" column="44" />
-        <mark key="]" line="30" column="44" />
-        <mark key="." line="30" column="44" />
-      </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" timestamp="1594092341909">
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" timestamp="1594104694230">
         <mark key="'" line="766" column="12" />
-        <mark key="[" line="870" column="27" />
-        <mark key="]" line="870" column="27" />
-        <mark key="." line="870" column="27" />
-        <mark key="^" line="870" column="28" />
+        <mark key="[" line="865" column="108" />
+        <mark key="]" line="865" column="108" />
+        <mark key="." line="865" column="108" />
+        <mark key="^" line="865" column="109" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MyProfileActivity.kt" timestamp="1594092350704">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="11" column="38" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" timestamp="1594105370242">
+        <mark key="'" line="121" column="17" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="17" column="68" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" timestamp="1594104142583">
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MyProfileActivity.kt" timestamp="1594106912199">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="9" />
+        <mark key="^" line="43" column="91" />
+        <mark key="." line="46" column="9" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" timestamp="1594104405707">
         <mark key="'" line="418" column="22" />
-        <mark key="[" line="1255" column="23" />
-        <mark key="]" line="1255" column="25" />
-        <mark key="." line="1255" column="24" />
-        <mark key="^" line="1255" column="25" />
+        <mark key="[" line="459" column="96" />
+        <mark key="]" line="459" column="96" />
+        <mark key="." line="459" column="96" />
+        <mark key="^" line="459" column="97" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="793" column="84" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="614" column="20" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="633" column="50" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="634" column="51" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="669" column="14" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="438" column="161" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_StampPositionActivity.java" />
-      <jump line="219" column="43" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/fragments/StampCamera_LocationStampFragment.java" />
-      <jump line="209" column="16" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/fragments/StampCamera_LocationStampFragment.java" />
-      <jump line="413" column="54" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="416" column="21" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="417" column="34" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="421" column="208" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="422" column="17" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="58" column="35" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_MainActivity.java" />
-      <jump line="201" column="33" filename="$USER_HOME$/Desktop/TimeStamp Camera/src/main/java/com/phototoolapp/autotime/timestampcamera/stamp/photostamp/activities/StampCamera_StampSettingsActivity.java" />
-      <jump line="45" column="28" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/v.java" />
-      <jump line="65" column="21" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/v.java" />
-      <jump line="183" column="51" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/v.java" />
-      <jump line="246" column="51" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/v.java" />
-      <jump line="46" column="28" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/v.java" />
-      <jump line="66" column="21" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/v.java" />
-      <jump line="76" column="59" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/ExcDetailsActivity.kt" />
-      <jump line="109" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/ExcDetailsActivity.kt" />
-      <jump line="102" column="18" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/ExcDetailsActivity.kt" />
-      <jump line="90" column="0" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/ExcDetailsActivity.kt" />
-      <jump line="122" column="47" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/ExcDetailsActivity.kt" />
-      <jump line="131" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/ExcDetailsActivity.kt" />
-      <jump line="31" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/ExcDetailsActivity.kt" />
-      <jump line="52" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" />
       <jump line="152" column="36" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" />
       <jump line="163" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" />
       <jump line="84" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CalculateActivity.kt" />
@@ -310,90 +270,85 @@
       <jump line="323" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
       <jump line="335" column="42" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
       <jump line="419" column="22" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
+      <jump line="236" column="28" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/layout/fragment_workout.xml" />
+      <jump line="134" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="146" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="159" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="174" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="210" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="246" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="266" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="287" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="307" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="327" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="348" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="367" column="31" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="17" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="23" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="31" column="35" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="39" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="48" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="72" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="94" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="107" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="121" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
+      <jump line="28" column="13" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.java" />
+      <jump line="52" column="59" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.java" />
+      <jump line="57" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="257" column="26" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="259" column="26" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="263" column="62" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="303" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>.
-.</text>
+      <register name="&quot;" type="4">
+        <text>ALARM</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>.toBoolean()</text>
+        <text>ALARM</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PCw=</text>
+        <text encoding="base64">XDxiXD4=</text>
       </register>
       <register name="0" type="4">
         <text>com.fitnessch19.womenabsworkout.a.a.</text>
       </register>
-      <register name="1" type="8">
-        <text>.
-.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhciBtYWluQWN0aXZpdHkyOiBNYWluQWN0aXZpdHk/ID0gbnVsbAo=</text>
       </register>
-      <register name="2" type="8">
-        <text>.
-.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRvb2xiYXIK</text>
       </register>
-      <register name="3" type="8">
-        <text>.
-.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXdlZWtfc3RkZGlldGVuYWJsZWQudG9Cb29sZWFuKCkpIHsKICAgICAgICB9CiAgICAgICAgaWYgKHdlZWtfc3RkZGlldGVuYWJsZWQudG9Cb29sZWFuKCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>.toBoolean()
-.toBoolean()
-.toBoolean()
-.toBoolean()
-.toBoolean()
-.toBoolean()
-.toBoolean()
-.toBoolean()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>)
-)
-)
-)
-)
-)
-)
-)
-)
-)
-)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhWaWV3IHYpIHsK</text>
       </register>
-      <register name="8" type="8">
-        <text>)
-)
-)
-)
-)
-)
-)
-)
-)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="9" type="8">
-        <text>java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(
-java.lang.Boolean.valueOf(</text>
+        <text>this.
+this.
+this.
+this.
+this.
+this.</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</text>
@@ -402,9 +357,9 @@ java.lang.Boolean.valueOf(</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PCw=</last-search>
+      <last-search encoding="base64">XDxiXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PCw=</last-pattern>
+      <last-pattern encoding="base64">XDxiXD4=</last-pattern>
       <last-replace encoding="base64">Pi8gPT0gdHJ1ZS9nYw==</last-replace>
       <last-substitute encoding="base64">PCw=</last-substitute>
       <last-dir>1</last-dir>
