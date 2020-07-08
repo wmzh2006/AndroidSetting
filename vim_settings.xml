@@ -92,26 +92,39 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/CleanerActivity.java" timestamp="1594197141389">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/AndroidManifest.xml" timestamp="1594197536302" />
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/Adapters/AppAdapter.java" timestamp="1594197299400">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/bb/cc/Init.java" timestamp="1594198451747">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="45" />
+      </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/UVoltageWActivity.java" timestamp="1594197288580">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1594198487955">
+        <mark key="[" line="181" column="22" />
+        <mark key="]" line="181" column="22" />
+        <mark key="." line="181" column="22" />
+        <mark key="^" line="181" column="30" />
+      </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/LayoutOtherActivity.java" timestamp="1594197189747">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2020070816/README.txt" timestamp="1594198496616">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="32" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/JunkCleanAnimActivity.java" timestamp="1594197182492">
         <mark key="[" line="8" column="0" />
@@ -137,11 +150,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/Adapters/CoolingAdapter.java" timestamp="1594197160468">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/NormalModeActivity.java" timestamp="1594197215620">
         <mark key="[" line="16" column="0" />
@@ -180,11 +188,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/CoolDownActivity.java" timestamp="1594197152405">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/Adapters/CoolingAppsScanner.java" timestamp="1594197175980">
         <mark key="[" line="8" column="0" />
@@ -297,14 +300,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbm5heWFoYXBwcy5yYW0uY2xlYW5lci5ib29zdGVyLmJhdHRlcnkuc2F2ZXIuUjsK</text>
+      <register name="&quot;" type="4">
+        <text>getApplicationContext()</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>battery</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRwbGF5c3RvcmVcPg==</text>
