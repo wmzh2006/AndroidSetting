@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXh0Vmlld1w+</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry>b()</entry>
         <entry encoding="base64">XDxzdHJcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>onDe</entry>
         <entry encoding="base64">XDxtU2hhcmVkUHJlZmVyZW5jZXNcPg==</entry>
         <entry encoding="base64">XDxiXD4=</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -92,37 +92,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/rx/internal/observers/AssertableSubscriberObservable.java" timestamp="1594176130716" />
-      <file name="E:/googleplay/app_source/BoosterBatter/build.gradle" timestamp="1594178054760">
-        <mark key="[" line="48" column="55" />
-        <mark key="]" line="49" column="61" />
-        <mark key="." line="49" column="60" />
-        <mark key="^" line="49" column="61" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/power_save_complete.java" timestamp="1594179080836">
+        <mark key="[" line="110" column="82" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="17" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/jp/wasabeef/recyclerview/adapters/AlphaInAnimationAdapter.java" timestamp="1594175588326" />
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/junk_adaptr.java" timestamp="1594178149026">
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
+      <file name="E:/googleplay/app_source/BoosterBatter/build.gradle" timestamp="1594178644397">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/cooling_adapter.java" timestamp="1594178438030">
-        <mark key="]" line="36" column="46" />
-        <mark key="." line="36" column="45" />
-        <mark key="^" line="36" column="46" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/normal_mode.java" timestamp="1594179379191">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="3" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/me/itangqi/waveloadingview/WaveLoadingView.java" timestamp="1594175699665" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/junk_adaptr.java" timestamp="1594179022784">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/cooling_adapter.java" timestamp="1594178977995">
+        <mark key="'" line="29" column="64" />
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="13" />
+      </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/Splash_activity.java" timestamp="1594177933390">
         <mark key="[" line="48" column="57" />
         <mark key="]" line="48" column="69" />
         <mark key="." line="48" column="68" />
         <mark key="^" line="48" column="69" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/rx/android/schedulers/LooperScheduler.java" timestamp="1594175888887" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/cool_down_activity.java" timestamp="1594178760261">
+        <mark key="[" line="129" column="53" />
+        <mark key="]" line="129" column="53" />
+        <mark key="." line="129" column="53" />
+        <mark key="^" line="132" column="98" />
+      </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/styles.xml" timestamp="1594176721609">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/rx/exceptions/Exceptions.java" timestamp="1594176221314" />
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" timestamp="1594177400392">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -134,17 +151,28 @@
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/rx/subscriptions/MultipleAssignmentSubscription.java" timestamp="1594176066745" />
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/strings.xml" timestamp="1594176653397">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/MemoryAdapter.java" timestamp="1594179448777">
+        <mark key="[" line="21" column="104" />
+        <mark key="]" line="21" column="105" />
+        <mark key="^" line="21" column="105" />
+        <mark key="." line="21" column="104" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/rx/internal/operators/BackpressureUtils.java" timestamp="1594176392396" />
       <file name="$USER_HOME$/Desktop/TimeStamp Camera/build.gradle" timestamp="1594177981947" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/picker_from_mobile.java" timestamp="1594179146214">
+        <mark key="[" line="215" column="38" />
+        <mark key="]" line="215" column="55" />
+        <mark key="." line="215" column="54" />
+        <mark key="^" line="215" column="55" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594177564001">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/MainActivity.java" timestamp="1594179589122">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/messaging.java" timestamp="1594179418278" />
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/Scaner.java" timestamp="1594178077293">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -156,10 +184,11 @@
         <mark key="." line="73" column="34" />
         <mark key="^" line="73" column="35" />
       </file>
+      <file name="/fragment.java" timestamp="1594179473809">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="36" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" />
-      <jump line="163" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CompletionExcActivity.kt" />
       <jump line="84" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CalculateActivity.kt" />
       <jump line="193" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CalculateActivity.kt" />
       <jump line="198" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/CalculateActivity.kt" />
@@ -258,51 +287,53 @@
       <jump line="259" column="26" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="263" column="62" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="303" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
+      <jump line="29" column="64" filename="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/cooling_adapter.java" />
+      <jump line="24" column="13" filename="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/junk_adaptr.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkVmlldzEubG9hZEFkKG5ldyBBZFJlcXVlc3QuQnVpbGRlcigpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiXD4=</text>
+        <text encoding="base64">XDxpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuUmVjeWNsZXJWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkVmlldzEubG9hZEFkKG5ldyBBZFJlcXVlc3QuQnVpbGRlcigpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuUmVjeWNsZXJWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFkVmlldzEgPSAoQWRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5hZFZpZXczKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1JbnRlcnN0aXRpYWxBZC5sb2FkQWQobmV3IEFkUmVxdWVzdC5CdWlsZGVyKCkuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBvbkJpbmRWaWV3SG9sZGVyKFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyIHZpZXdIb2xkZXIsIGludCBpKSB7CiAgICAgICAgb25CaW5kVmlld0hvbGRlcigoTXlWaWV3SG9sZGVyKSB2aWV3SG9sZGVyLCBpKTsKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1JbnRlcnN0aXRpYWxBZC5zZXRBZFVuaXRJZCgiY2EtYXBwLXB1Yi03NDYyMzIzNzg3ODM3OTI0Lzk3NjMxMjg5MzIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkJpbmRWaWV3SG9sZGVyKGhvbGRlciwgcG9zaXRpb24sIHBheWxvYWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1JbnRlcnN0aXRpYWxBZCA9IG5ldyBJbnRlcnN0aXRpYWxBZCh0aGlzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRleHRWaWV3IHRleHRWaWV3ID0gdGV4dFZpZXc7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlcnN0aXRpYWxBZCBtSW50ZXJzdGl0aWFsQWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuUmVjeWNsZXJWaWV3Owo=</text>
+        <text encoding="base64">ICAgIEFkVmlldyBhZFZpZXcxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uQmFja1ByZXNzZWQoKSB7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd2lmaU1hbmFnZXIgIT0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</text>
@@ -311,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxiXD4=</last-search>
+      <last-search encoding="base64">XDxpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpXD4=</last-pattern>
       <last-replace encoding="base64">Pi8gPT0gdHJ1ZS9nYw==</last-replace>
       <last-substitute encoding="base64">PCw=</last-substitute>
       <last-dir>1</last-dir>
