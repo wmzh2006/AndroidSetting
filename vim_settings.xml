@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVmc0VkaXRvclw+</entry>
-        <entry>exitConfirmDialog</entry>
         <entry encoding="base64">XDxtXD4=</entry>
         <entry>onCreate</entry>
         <entry encoding="base64">XDx3b3Jrb3V0RGF0YUxpc3RcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxhZFZpZXc0XD4=</entry>
         <entry encoding="base64">XDxhZFZpZXczXD4=</entry>
         <entry encoding="base64">XDxhZGRwbGF5c3RvcmVcPg==</entry>
+        <entry>icon</entry>
+        <entry encoding="base64">XDxtV2F2ZUxvYWRpbmdWaWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -32,6 +32,7 @@
         <entry>%s /MsService/WebViewUtil/gc</entry>
         <entry>%s/break//gc</entry>
         <entry encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</entry>
+        <entry>%s /icon/ic_launcher/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,17 +104,21 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/main_power_saver.xml" timestamp="1594281447695" />
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/bst_first.xml" timestamp="1594281790244">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/drawable/bgg1.xml" timestamp="1594296222926">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/battery_saver.xml" timestamp="1594281248606" />
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/cent_pro_scanning.xml" timestamp="1594281830603">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="24" />
         <mark key="." line="5" column="24" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/build.gradle" timestamp="1594296992937">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/bsttt.xml" timestamp="1594281812820">
         <mark key="[" line="77" column="39" />
@@ -132,10 +137,12 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/power_save_call.xml" timestamp="1594288143829">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/power_save_call.xml" timestamp="1594296270998">
+        <mark key="'" line="142" column="35" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="48" />
+        <mark key="." line="135" column="33" />
+        <mark key="^" line="135" column="35" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/main.xml" timestamp="1594287911999">
         <mark key="[" line="56" column="0" />
@@ -143,13 +150,13 @@
         <mark key="^" line="101" column="39" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" timestamp="1594288516290">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" timestamp="1594296226035">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
         <mark key="^" line="33" column="84" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/colors.xml" timestamp="1594287705173">
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/colors.xml" timestamp="1594295628094">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
@@ -160,6 +167,11 @@
         <mark key="]" line="46" column="39" />
         <mark key="." line="46" column="39" />
       </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/strings.xml" timestamp="1594296562016">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/picker_from_mobile.xml" timestamp="1594288128866">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
@@ -169,6 +181,12 @@
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/BatterySaverActivity.java" timestamp="1594296719355">
+        <mark key="'" line="245" column="13" />
+        <mark key="[" line="330" column="49" />
+        <mark key="]" line="330" column="49" />
+        <mark key="." line="330" column="49" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/power_save_complete.xml" timestamp="1594288169429">
         <mark key="[" line="26" column="31" />
@@ -185,16 +203,8 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/boost_complete.xml" timestamp="1594281775358">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="32" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="55" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
-      <jump line="336" column="60" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="355" column="60" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="397" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="398" column="61" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
@@ -293,64 +303,66 @@
       <jump line="91" column="13" filename="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/picker_from_mobile.java" />
       <jump line="21" column="102" filename="E:/googleplay/app_source/BoosterBatter/src/main/java/com/example/developer/circle_animation/AppAdapter.java" />
       <jump line="15" column="44" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/splash_activity.xml" />
+      <jump line="142" column="35" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/power_save_call.xml" />
+      <jump line="245" column="13" filename="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/BatterySaverActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+      <register name="&quot;" type="4">
+        <text>Color.parseColor(&quot;#21359e&quot;)</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>Color.parseColor(&quot;#21359e&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRwbGF5c3RvcmVcPg==</text>
+        <text encoding="base64">XDxtV2F2ZUxvYWRpbmdWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiMyOUIyRkYiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBtaXBtYXAvaWNfbGF1bmNoZXIiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iczciPlRlc3QgQWQ8L3N0cmluZz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJ3aW5kb3dOb1RpdGxlIj50cnVlPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0icHJvamVjdF9pZCI+cmFtLWNsZWFuZXItZDMzMGY8L3N0cmluZz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ29vZ2xlX3N0b3JhZ2VfYnVja2V0Ij5yYW0tY2xlYW5lci1kMzMwZi5hcHBzcG90LmNvbTwvc3RyaW5nPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTBkcCIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZmlyZWJhc2VfZGF0YWJhc2VfdXJsIj5odHRwczovL3JhbS1jbGVhbmVyLWQzMzBmLmZpcmViYXNlaW8uY29tPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ2NtX2RlZmF1bHRTZW5kZXJJZCI+NDA5NjM3MTI0NTUwPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI0MDBkcCIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ29vZ2xlX2NyYXNoX3JlcG9ydGluZ19hcGlfa2V5Ij5BSXphU3lDZm41b09yX1Zfc1BDR0J3Q1Ryd1VpYzdkVlBNTUwyVEE8L3N0cmluZz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjI4MGRwIgo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ29vZ2xlX2FwcF9pZCI+MTo0MDk2MzcxMjQ1NTA6YW5kcm9pZDowNjI2M2Q1ZTdlMGRmNWVkPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZ29vZ2xlX2FwaV9rZXkiPkFJemFTeUNmbjVvT3JfVl9zUENHQndDVHJ3VWljN2RWUE1NTDJUQTwvc3RyaW5nPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IEN1c3RvbWl6ZSB5b3VyIHRoZW1lIGhlcmUuICZuZGFzaDsmZ3Q7LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</text>
+        <text>%s /icon/ic_launcher/gc</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZGRwbGF5c3RvcmVcPg==</last-search>
+      <last-search encoding="base64">XDxtV2F2ZUxvYWRpbmdWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRwbGF5c3RvcmVcPg==</last-pattern>
-      <last-replace encoding="base64">Pi8gPT0gdHJ1ZS9nYw==</last-replace>
-      <last-substitute encoding="base64">PCw=</last-substitute>
+      <last-pattern encoding="base64">XDxtV2F2ZUxvYWRpbmdWaWV3XD4=</last-pattern>
+      <last-replace>ic_launcher</last-replace>
+      <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
