@@ -126,12 +126,6 @@
         <mark key="]" line="246" column="51" />
         <mark key="." line="246" column="51" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/anim/dd.xml" timestamp="1594280649809">
-        <mark key="[" line="2" column="82" />
-        <mark key="]" line="2" column="83" />
-        <mark key="^" line="2" column="61" />
-        <mark key="." line="2" column="83" />
-      </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/normal_mode.xml" timestamp="1594288109721">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="26" column="32" />
@@ -148,6 +142,12 @@
         <mark key="]" line="56" column="39" />
         <mark key="^" line="101" column="39" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" timestamp="1594288516290">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="33" column="84" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/colors.xml" timestamp="1594287705173">
         <mark key="[" line="5" column="28" />
@@ -297,8 +297,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
@@ -313,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IiMyOUIyRkYiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJ3aW5kb3dOb1RpdGxlIj50cnVlPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJ3aW5kb3dOb1RpdGxlIj50cnVlPC9pdGVtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTBkcCIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTBkcCIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI0MDBkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjI4MGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI0MDBkcCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjI4MGRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IEN1c3RvbWl6ZSB5b3VyIHRoZW1lIGhlcmUuICZuZGFzaDsmZ3Q7LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tJmx0OyEmbmRhc2g7IEN1c3RvbWl6ZSB5b3VyIHRoZW1lIGhlcmUuICZuZGFzaDsmZ3Q7LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</text>
