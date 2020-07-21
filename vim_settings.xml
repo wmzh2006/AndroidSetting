@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onCreate</entry>
         <entry encoding="base64">XDx3b3Jrb3V0RGF0YUxpc3RcPg==</entry>
         <entry encoding="base64">XDxmMTJhXD4=</entry>
         <entry>break</entry>
@@ -25,6 +24,7 @@
         <entry>icon</entry>
         <entry encoding="base64">XDxtV2F2ZUxvYWRpbmdWaWV3XD4=</entry>
         <entry encoding="base64">XDxvblN0YXJ0Q29tbWFuZFw+</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -140,7 +140,7 @@
         <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/com/shot/Screenshot.java" timestamp="1595298505939" />
-      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/AcService.java" timestamp="1595299882369">
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/AcService.java" timestamp="1595302374780">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
@@ -159,13 +159,14 @@
         <mark key="^" line="24" column="13" />
       </file>
       <file name="E:/Project/DynamicLoader/dcloader/libs/sdk.jar!/com/oaught/licke/wao/RoMobiSdk.class" timestamp="1594624498548" />
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/USSDController.java" timestamp="1595302436951">
+        <mark key="'" line="68" column="14" />
+      </file>
       <file name="/fragment.java" timestamp="1594622317405">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="61" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
-      <jump line="411" column="29" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="330" column="64" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="363" column="31" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="391" column="31" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.java" />
@@ -264,6 +265,8 @@
       <jump line="245" column="13" filename="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/BatterySaverActivity.java" />
       <jump line="52" column="16" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL/src/main/java/src/com/android/providers/certinstaller/CertinstallerService.java" />
       <jump line="21" column="30" filename="E:/Project/gpjsauto/demo2/build.gradle" />
+      <jump line="39" column="46" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/USSDController.java" />
+      <jump line="68" column="14" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/USSDController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,7 +281,7 @@
         <text>ROOTSDK_Plugin_jsauto</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblN0YXJ0Q29tbWFuZFw+</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2NyZWVuc2hvdC5jYWxsR2V0U2NyZWVuQ2FwdHVyZShjb250ZXh0KTsK</text>
@@ -317,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvblN0YXJ0Q29tbWFuZFw+</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblN0YXJ0Q29tbWFuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
       <last-replace>ic_launcher</last-replace>
       <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
