@@ -93,6 +93,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/AndroidManifest.xml" timestamp="1595389747192" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18491af9a19d8dec326c02ae5d67b32b/ar/proguard.txt" timestamp="1595323409725">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -103,14 +104,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="23" column="55" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1595211111338">
-        <mark key="[" line="14" column="75" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1595211713992">
-        <mark key="[" line="146" column="25" />
-        <mark key="]" line="146" column="25" />
-        <mark key="." line="146" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/app/src/main/AndroidManifest.xml" timestamp="1595324003727">
         <mark key="[" line="6" column="8" />
@@ -123,12 +116,6 @@
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1595210972778">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="19" column="36" />
-      </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/AndroidManifest.xml" timestamp="1595315820526">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="0" />
@@ -140,10 +127,11 @@
         <mark key="^" line="18" column="5" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1595211898711">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/potted/src/main/AndroidManifest.xml" timestamp="1595389654155">
+        <mark key="[" line="8" column="80" />
+        <mark key="]" line="8" column="79" />
+        <mark key="." line="8" column="78" />
+        <mark key="^" line="8" column="79" />
       </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/app/src/main/res/values/styles.xml" timestamp="1595323629161" />
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/settings.gradle" timestamp="1595237910102">
@@ -159,24 +147,33 @@
         <mark key="." line="115" column="65" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1595335870091" />
-      <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/App.java" timestamp="1595228298713">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/potted/build.gradle" timestamp="1595390050997">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="31" />
       </file>
-      <file name="E:/Project/gpjsauto/demo2/build.gradle" timestamp="1595228488064">
-        <mark key="'" line="21" column="30" />
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/potted/src/main/java/com/shining/flourish/potted/MainActivity.java" timestamp="1595389486148">
+        <mark key="[" line="23" column="54" />
+        <mark key="]" line="23" column="55" />
+        <mark key="." line="23" column="54" />
+        <mark key="^" line="23" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/USSDController.java" timestamp="1595302436951">
         <mark key="'" line="68" column="14" />
       </file>
+      <file name="/fragment.java" timestamp="1595388740814">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/potted/src/main/java/com/shining/flourish/potted/App.java" timestamp="1595389591496">
+        <mark key="'" line="12" column="58" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="64" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="363" column="31" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="391" column="31" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.java" />
       <jump line="390" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
@@ -276,18 +273,19 @@
       <jump line="21" column="30" filename="E:/Project/gpjsauto/demo2/build.gradle" />
       <jump line="39" column="46" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/USSDController.java" />
       <jump line="68" column="14" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/USSDController.java" />
+      <jump line="12" column="58" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/potted/src/main/java/com/shining/flourish/potted/App.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>new Intent(this, MainActivity.class)</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>new Intent(this, MainActivity.class)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -296,31 +294,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU2NyZWVuc2hvdC5jYWxsR2V0U2NyZWVuQ2FwdHVyZShjb250ZXh0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyCz9cq8u69TREsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDNqNaqwLjK2sioCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb20ucXdlZm91ci5ydHlzaXguSW5pdFN0YXJ0LmluaXQoY29udGV4dCwgc3NwSWQscGFja2FnZU5hbWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFja2FnZU5hbWUgPWNvbS5xd2Vmb3VyLnJ0eXNpeC5jb3JlLkdldEFjY2Vzcy5nZXRJbnN0YW5jZSgpLmdvQWNjZXNzKGNvbnRleHQsIEd1aWRlTW9kZS5NT0RFX0FDVElWSVRZKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2lkID0gIjEwNTM5MSI7Cg==</text>
-      </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgILj8tuC/ydPD1+m8/qOsx+uyzrz7v8nTw21hdmVuwdCx7Qo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyCz9cq8u69TREsK</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
