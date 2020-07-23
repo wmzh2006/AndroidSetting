@@ -93,11 +93,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/InitStart.java" timestamp="1595496503054">
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="15" column="7" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/InitStart.java" timestamp="1595496690207">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1595492447088">
         <mark key="[" line="20" column="41" />
@@ -113,11 +112,6 @@
       <file name="/LLDB" timestamp="1595419298731">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1595411544618">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1595494738896" />
       <file name="E:/Project/DynamicLoader/tsdk/libs/qqqq.jar!/com/koc/ads/AdsInit.class" timestamp="1595496470203" />
       <file name="E:/Project/gpjsauto/gradle/wrapper/gradle-wrapper.properties" timestamp="1595411579718">
@@ -126,11 +120,6 @@
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/bb/cc/Init.java" timestamp="1595492130355" />
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1595496344790">
         <mark key="[" line="184" column="31" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1595411318568">
-        <mark key="[" line="30" column="51" />
-        <mark key="]" line="45" column="23" />
-        <mark key="." line="45" column="23" />
       </file>
       <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MainActivity.java" timestamp="1595419198394">
         <mark key="[" line="2" column="0" />
@@ -141,6 +130,11 @@
         <mark key="[" line="443" column="0" />
         <mark key="]" line="443" column="0" />
         <mark key="." line="443" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/AcService.java" timestamp="1595508473109">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/SMSRecvService.java" timestamp="1595488260253">
         <mark key="[" line="99" column="140" />
@@ -156,7 +150,7 @@
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" timestamp="1595487640781">
         <mark key="'" line="45" column="21" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1595494044978" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1595507208077" />
       <file name="/fragment.java" timestamp="1595491948736">
         <mark key="[" line="0" column="0" />
       </file>
@@ -266,14 +260,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>, &quot;105238&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldENsYXNzTmFtZSgpLmVxdWFscygiY29tLmFuZHJvaWQuc3lzdGVtdWkubWVkaWEuTWVkaWFQcm9qZWN0aW9uUGVybWlzc2lvbkFjdGl2aXR5IikpCg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;105238&quot;</text>
+        <text>com.android.systemui.media</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
@@ -282,31 +276,31 @@
         <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjEuMycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LmdldENsYXNzTmFtZSgpLmVxdWFscygiY29tLmFuZHJvaWQuc3lzdGVtdWkubWVkaWEuTWVkaWFQcm9qZWN0aW9uUGVybWlzc2lvbkFjdGl2aXR5IikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgaW50IGkpIHsKICAgICAgICBBZHNJbml0LmluaXRpYWxpemUoY29udGV4dCwgaSk7CiAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQubmV0LkNvbm5lY3Rpdml0eU1hbmFnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBBZHNJbml0LmluaXRpYWxpemUoY29udGV4dCwgNTMyODgwOCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2LmdldEluc3RhbmNlKCkuaW5pdChjb250ZXh0LCAiMTA1NTUwIik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcGxhY2VQTihudWxsLCBORVdfUEFDS0FHRV9OQU1FKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgaW50IGkpIHsKICAgICAgICBBZHNJbml0LmluaXRpYWxpemUoY29udGV4dCwgaSk7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
