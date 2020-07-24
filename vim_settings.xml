@@ -93,12 +93,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" timestamp="1595563379327">
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" timestamp="1595563486347">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="26" />
-        <mark key="." line="54" column="25" />
-        <mark key="^" line="54" column="26" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/feipb/gsqo/IeiSdk.java" timestamp="1595558618039">
         <mark key="[" line="90" column="31" />
@@ -286,8 +285,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RmlsZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiByZXN1bHQgPSBuZXcgRmlsZShkZXhPdXRwdXREaXIgKyBGaWxlLnNlcGFyYXRvciArIElOUFVUX0ZJTEUgKyAiLmRleCIpLmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
@@ -302,31 +301,31 @@
         <text encoding="base64">ICAgICAgICBuZXcgRmlsZShkZXhPdXRwdXREaXIgKyBGaWxlLnNlcGFyYXRvciArIElOUFVUX0ZJTEUgKyAiLmRleCIpLmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmlsZShkZXhPdXRwdXREaXIgKyBGaWxlLnNlcGFyYXRvciArIElOUFVUX0ZJTEUgKyAiLmRleCIpLmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiByZXN1bHQgPSBuZXcgRmlsZShkZXhPdXRwdXREaXIgKyBGaWxlLnNlcGFyYXRvciArIElOUFVUX0ZJTEUgKyAiLmRleCIpLmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIkZpbGUgcGF0aDogIiArIGRleC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRmlsZShkZXhPdXRwdXREaXIgKyBGaWxlLnNlcGFyYXRvciArIElOUFVUX0ZJTEUgKyAiLmRleCIpLmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImluaXQuLi4uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIkZpbGUgcGF0aDogIiArIGRleC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImNvcHkgYXNzZXRzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImluaXQuLi4uIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJvcGVuICIgKyBmaWxlTmFtZSArICIgb3V0cHV0RmlsZSAiICsgb3V0cHV0RmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImNvcHkgYXNzZXRzIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJhdmlsYWJsZToiKyBzaXplKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJvcGVuICIgKyBmaWxlTmFtZSArICIgb3V0cHV0RmlsZSAiICsgb3V0cHV0RmlsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJXUklURSBFTkQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJhdmlsYWJsZToiKyBzaXplKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJkYXRhIGxlbjogIiArIGRhdGEubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJXUklURSBFTkQhIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImRhdGEgc2l6ZTogIiArIGRhdGEubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJkYXRhIGxlbjogIiArIGRhdGEubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
