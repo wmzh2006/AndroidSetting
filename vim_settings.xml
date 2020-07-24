@@ -93,11 +93,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/InitStart.java" timestamp="1595496690207">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="E:/Project/gpjsauto/ROOTSDK_Plugin_jsauto/proguard.cfg" timestamp="1595512561116">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -120,12 +115,18 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f3ce16b040b8be7afca73903a094c5a/jetified-rl/jars/classes.jar!/com/feipb/gsqo/IeiSdk.class" timestamp="1595558131128" />
       <file name="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/SmsWriteOpUtil.class" timestamp="1595555789288" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1595559365550" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1595560157199" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/pblno/ualq/YhfkSdk.java" timestamp="1595559496953">
         <mark key="[" line="87" column="31" />
         <mark key="]" line="87" column="35" />
         <mark key="^" line="87" column="35" />
         <mark key="." line="87" column="34" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/vhsi/pfkta/UxnpSdk.java" timestamp="1595560448734">
+        <mark key="[" line="91" column="12" />
+        <mark key="]" line="91" column="13" />
+        <mark key="^" line="91" column="13" />
+        <mark key="." line="91" column="13" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/feipb/gsqo/IeiService.java" timestamp="1595557861994">
         <mark key="[" line="107" column="0" />
@@ -137,7 +138,13 @@
         <mark key="]" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
-      <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MainActivity.java" timestamp="1595559375705">
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cornl/honp/ynve/KeoSdk.java" timestamp="1595559888806">
+        <mark key="[" line="94" column="49" />
+        <mark key="]" line="94" column="48" />
+        <mark key="." line="94" column="47" />
+        <mark key="^" line="94" column="48" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo2/src/main/java/com/vories/yorige/demo2/MainActivity.java" timestamp="1595560164559">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
@@ -160,7 +167,6 @@
         <mark key="." line="99" column="165" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/proguard.cfg" timestamp="1595556254932" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1595507208077" />
       <file name="E:/Project/gpjsauto/demo2/build.gradle" timestamp="1595558115819">
         <mark key="'" line="21" column="30" />
         <mark key="[" line="25" column="25" />
@@ -275,43 +281,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>fis.available()</text>
+        <text>r</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>fis.available()</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJvcGVuICIgKyBmaWxlTmFtZSArICIgb3V0cHV0RmlsZSAiICsgb3V0cHV0RmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJkYXRhIGxlbjogIiArIGRhdGEubGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY291bnQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICA5OTk5OTk5OTk5OTkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgY291bnQgPSAwOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICB3aGlsZShjb3VudCA9PSAwKSB7CiAgICAgICAgICAgIGNvdW50ID0gZmlzLmF2YWlsYWJsZSgpOwogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlbnN1cmVMaXN0ZW5lci5vbk5vdGlmaWNhdGlvblJlbW92ZWQoc2JuKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVuc3VyZUxpc3RlbmVyLm9uTm90aWZpY2F0aW9uUG9zdGVkKHNibik7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgRW5zdXJlTGlzdGVuZXIgZW5zdXJlTGlzdGVuZXIgPSBuZXcgRW5zdXJlTGlzdGVuZXIoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Iy1pZ25vcmV3YXJuaW5nCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iy1pZ25vcmV3YXJuaW5nCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
