@@ -94,8 +94,8 @@
     <globalmarks />
     <filemarks>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.cpp" timestamp="1595644262703" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595658500718">
-        <mark key="[" line="25" column="65" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595663342160">
+        <mark key="[" line="25" column="89" />
       </file>
       <file name="/LLDB" timestamp="1595660143911">
         <mark key="[" line="0" column="0" />
@@ -119,11 +119,11 @@
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnyConstants.java" timestamp="1595650821901" />
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1595572098081" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595661973057">
-        <mark key="[" line="72" column="24" />
-        <mark key="]" line="71" column="63" />
-        <mark key="." line="71" column="62" />
-        <mark key="^" line="71" column="63" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595663705153">
+        <mark key="[" line="71" column="74" />
+        <mark key="]" line="71" column="74" />
+        <mark key="." line="71" column="74" />
+        <mark key="^" line="70" column="65" />
       </file>
       <file name="/fragment.c" timestamp="1595660222426">
         <mark key="[" line="0" column="0" />
@@ -284,13 +284,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dex_output_path</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dex_output_path</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
@@ -299,32 +299,31 @@
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBkZXhfZmlsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCBmaWxlX2NvbnN0cnVjdCA9ICgqZW52KS0+R2V0TWV0aG9kSUQoZW52LCBGaWxlX2NsYXp6LCAiPGluaXQ+IiwgIihMamF2YS9sYW5nL1N0cmluZzspViIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGdldERpcl9tZXRob2RJRCA9PSBOVQo=</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBmaWxlX2NsYXp6ID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCAiamF2YS9pby9GaWxlIik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGpvYmplY3QgZGV4X2ZpbGUgPSAoKmVudiktPk5ld09iamVjdChlbnYsIGZpbGVfY2xhenosIGZpbGVfY29uc3RydWN0LCApOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmKGZpbGVfcGF0aCA9PSBOVUxMKSB7CiAgICAgICAgTE9HRSgiZmlsZSBwYXRoIG9iamVjdCBpcyBudWxsIik7CiAgICAgICAgZXhpdCgwKTsKICAgIH0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ywo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBmaWxlX2NsYXp6ID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCAiamF2YS9pby9GaWxlIik7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXIqIGZpbGVfY2xhenpfbmFtZSA9ICIiCg==</text>
+        <text encoding="base64">ICAgIGlmKGdldERpcl9tZXRob2RJRCA9PSBOVQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>public static String
-public static String</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
