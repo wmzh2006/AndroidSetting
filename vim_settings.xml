@@ -93,17 +93,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" timestamp="1595571687195">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.cpp" timestamp="1595644262703" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595658500718">
         <mark key="[" line="25" column="65" />
       </file>
-      <file name="/LLDB" timestamp="1595561657284">
+      <file name="/LLDB" timestamp="1595660143911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1595647950972">
@@ -125,15 +119,17 @@
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnyConstants.java" timestamp="1595650821901" />
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1595572098081" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595658844080">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="49" column="69" />
-        <mark key="]" line="52" column="23" />
-        <mark key="." line="52" column="22" />
-        <mark key="^" line="52" column="23" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595661973057">
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="71" column="63" />
+        <mark key="." line="71" column="62" />
+        <mark key="^" line="71" column="63" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/health/well/dynamicndk/MainActivity.java" timestamp="1595648937329">
-        <mark key="[" line="14" column="47" />
+      <file name="/fragment.c" timestamp="1595660222426">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/health/well/dynamicndk/MainActivity.java" timestamp="1595661279223">
+        <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="21" />
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="20" />
@@ -183,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="481" column="51" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
       <jump line="578" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
       <jump line="579" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
       <jump line="618" column="51" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
@@ -279,10 +274,11 @@
       <jump line="22" column="0" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" />
       <jump line="53" column="62" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="32" column="14" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="46" column="4" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="67" column="55" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="49" column="35" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="36" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="46" column="23" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="51" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,38 +296,35 @@
         <text>http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBnZXREaXJfbWV0aG9kSUQpOwo=</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBkZXhfZmlsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBmaWxlX2NsYXp6ID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCAiamF2YS9pby9GaWxlIik7Cg==</text>
+        <text encoding="base64">ICAgIGlmKGdldERpcl9tZXRob2RJRCA9PSBOVQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXIqIGZpbGVfY2xhenpfbmFtZSA9ICIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>public static String
-public static String</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgCnB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIApwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyAKcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGpvYmplY3QgZGV4X2ZpbGUgPSAoKmVudiktPk5ld09iamVjdChlbnYsIGZpbGVfY2xhenosIGZpbGVfY29uc3RydWN0LCApOwo=</text>
       </register>
-      <register name="6" type="8">
-        <text>public static final
-public static final
-public static final
-public static final</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2RlZmluZSBKTklfTkFUSVZFX01FVEhPRF9OVU0gIDEK</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBmaWxlX2NsYXp6ID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCAiamF2YS9pby9GaWxlIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSk5JX0VSUjsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYXIqIGZpbGVfY2xhenpfbmFtZSA9ICIiCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="8">
+        <text>public static String
+public static String</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
