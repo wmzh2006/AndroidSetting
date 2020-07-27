@@ -93,12 +93,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/tools/android/sources/android-28/android/content/Context.java" timestamp="1595819381088" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.cpp" timestamp="1595644262703" />
       <file name="E:/tools/android/sources/android-28/java/lang/Class.java" timestamp="1595819017207" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595818296778">
-        <mark key="[" line="25" column="89" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595819924939">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1595671094476">
+      <file name="/LLDB" timestamp="1595820417553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" timestamp="1595818786216">
@@ -119,19 +122,14 @@
         <mark key="." line="2" column="33" />
       </file>
       <file name="E:/tools/android/sources/android-28/java/lang/String.java" timestamp="1595656588576" />
-      <file name="E:/Project/gpjsauto/gradle/wrapper/gradle-wrapper.properties" timestamp="1595583630191">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="E:/tools/android/platforms/android-28/android.jar!/dalvik/system/DexClassLoader.class" timestamp="1595675677268" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnyConstants.java" timestamp="1595650821901" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595819097568">
-        <mark key="'" line="170" column="115" />
-        <mark key="[" line="167" column="103" />
-        <mark key="]" line="172" column="62" />
-        <mark key="." line="172" column="61" />
-        <mark key="^" line="172" column="62" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595820559897">
+        <mark key="'" line="180" column="65" />
+        <mark key="[" line="181" column="89" />
+        <mark key="]" line="181" column="95" />
+        <mark key="." line="181" column="94" />
+        <mark key="^" line="181" column="95" />
       </file>
       <file name="/fragment.c" timestamp="1595660222426">
         <mark key="[" line="0" column="0" />
@@ -142,7 +140,7 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595818252176">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595820631048">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="40" />
         <mark key="^" line="13" column="7" />
@@ -171,12 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="718" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="747" column="23" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="802" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="803" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="147" column="129" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
-      <jump line="944" column="71" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
       <jump line="1005" column="42" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
       <jump line="1009" column="34" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
       <jump line="1010" column="43" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
@@ -271,18 +263,24 @@
       <jump line="166" column="180" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="179" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="169" column="115" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="168" column="153" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="174" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="171" column="113" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="176" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="187" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="180" column="65" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgamNsYXNzIHNka19jbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgSU5JVF9DTEFTU05BTUUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>INIT_CLASSNAME</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>INIT_CLASSNAME</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
@@ -291,33 +289,33 @@
         <text encoding="base64">ICAgICAgICAoKmVudiktPkNhbGxWb2lkTWV0aG9kKGVudiwgaXMsIGlzX2Nsb3NlX21ldGhvZElEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgamNsYXNzIHNka19jbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgSU5JVF9DTEFTU05BTUUpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgam1ldGhvZElEIHNka19jb25zdHJ1Y3QgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgc2RrX2NsYXp6LCAiPGluaXQ+IiwgIigpViIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgam9iamVjdCBzZGsgPSAoKmVudiktPk5ld09iamVjdChlbnYsIHNka19jbGF6eiwgc2RrX2NvbnN0cnVjdCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgamNsYXNzIHNka19jbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgSU5JVF9DTEFTU05BTUUpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgam1ldGhvZElEIHNka19jb25zdHJ1Y3QgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgc2RrX2NsYXp6LCAiPGluaXQ+IiwgIigpViIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgam9iamVjdCBzZGsgPSAoKmVudiktPk5ld09iamVjdChlbnYsIHNka19jbGF6eiwgc2RrX2NvbnN0cnVjdCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>static strReplace(char src[], char from, char to) {
     
 }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgcmVwCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAganN0cmluZyBjbGFzc25hbWVzdHIgPSAoKmVudiktPk5ld1N0cmluZ1VURihlbnYsIElOSVRfQ0xBU1NOQU1FKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
