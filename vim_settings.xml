@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>toolbar</entry>
-        <entry>onDe</entry>
         <entry encoding="base64">XDxtU2hhcmVkUHJlZmVyZW5jZXNcPg==</entry>
         <entry encoding="base64">XDxiXD4=</entry>
         <entry encoding="base64">XDxpXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxkZXhQYXRoXD4=</entry>
         <entry>dex out put path</entry>
         <entry encoding="base64">XDxMSUJfTkFNRVw+</entry>
+        <entry encoding="base64">XDxQQUNLQUdFTkFNRVw+</entry>
+        <entry encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -109,7 +109,7 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595843743449">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595849620730">
         <mark key="'" line="14" column="17" />
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="19" />
@@ -117,12 +117,12 @@
         <mark key="^" line="14" column="19" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/AndroidManifest.xml" timestamp="1595842652258" />
-      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1595844843983">
-        <mark key="'" line="108" column="4" />
-        <mark key="[" line="378" column="13" />
-        <mark key="]" line="378" column="13" />
-        <mark key="." line="378" column="13" />
-        <mark key="^" line="378" column="23" />
+      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1595850069888">
+        <mark key="'" line="204" column="24" />
+        <mark key="[" line="394" column="30" />
+        <mark key="]" line="384" column="19" />
+        <mark key="." line="384" column="0" />
+        <mark key="^" line="381" column="19" />
       </file>
       <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1595839417571">
         <mark key="[" line="20" column="41" />
@@ -151,6 +151,13 @@
         <mark key="^" line="14" column="75" />
         <mark key="." line="14" column="74" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1595850477422">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="8" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="14" column="8" />
+      </file>
       <file name="E:/Project/gpjsauto/build.gradle" timestamp="1595843361264">
         <mark key="[" line="47" column="9" />
         <mark key="]" line="47" column="9" />
@@ -159,7 +166,7 @@
       <file name="/Dummy.txt" timestamp="1595838410257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/CnySDK.java" timestamp="1595844540938">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/CnySDK.java" timestamp="1595849397697">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="35" />
         <mark key="^" line="19" column="35" />
@@ -180,14 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="22" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
-      <jump line="236" column="28" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/layout/fragment_workout.xml" />
-      <jump line="134" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
-      <jump line="146" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
-      <jump line="159" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
-      <jump line="174" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
-      <jump line="210" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
-      <jump line="246" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
       <jump line="266" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
       <jump line="287" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
       <jump line="307" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/database/DatabaseOperations.kt" />
@@ -280,56 +279,61 @@
       <jump line="14" column="17" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" />
       <jump line="314" column="82" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
       <jump line="108" column="4" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="94" column="4" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="153" column="12" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="378" column="26" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="101" column="4" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="161" column="12" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="184" column="20" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="204" column="24" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="15" column="18" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>readLines().forEach {
-        i
-    }</text>
+        <text>$</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMSUJfTkFNRVw+</text>
+        <text encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>else if (line.contains(&quot;KEY_TIME&quot;)) {
-                            lines += &quot;\tpublic static final String KEY_TIME = \&quot;${KEY_TIME}\&quot;;\n&quot;</text>
+        <text>native-lib</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">c2V0KG5hdGl2ZS1saWIsIG5hdGl2ZS1saWIpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBuYXRpdmUtbGliCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxpbmVzICs9ICIjZGVmaW5lIEVOQ1RSWV9LRVkgIFwiJHtOT1RJRklDQVRJT05fQUNUSU9OfVwiXG4iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICIiLnRvVXBwZXJDYXNlKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhlYWRGaWxlLndyZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGhlYWRGaWxlLmVhY2ggewogICAgICAgIAogICAgfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>readLines().forEach {
         i
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0Lk1ldGhvZDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hYS5iYi5jYy5TREs7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIgKmNsYXNzUGF0aE5hbWUgPSAiY29tL2FhL2JiL2NjL05hdGl2ZSI7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
@@ -338,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMSUJfTkFNRVw+</last-search>
+      <last-search encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMSUJfTkFNRVw+</last-pattern>
+      <last-pattern encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</last-pattern>
       <last-replace>ic_launcher</last-replace>
       <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
