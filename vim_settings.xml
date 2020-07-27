@@ -106,11 +106,11 @@
       <file name="/fragment.c" timestamp="1595838410250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/health/well/dynamicndk/MainActivity.java" timestamp="1595661279223">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="15" column="20" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/health/well/dynamicndk/MainActivity.java" timestamp="1595842798333">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="10" column="34" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595841140968">
         <mark key="[" line="14" column="44" />
@@ -118,6 +118,13 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="8" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/CnySDK.java" timestamp="1595842750808">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/AndroidManifest.xml" timestamp="1595842652258" />
       <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1595835014502">
         <mark key="[" line="30" column="51" />
         <mark key="]" line="45" column="23" />
@@ -143,24 +150,21 @@
       <file name="/LLDB" timestamp="1595834901974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" timestamp="1595818786216">
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="4" column="77" />
-        <mark key="^" line="4" column="77" />
-        <mark key="." line="4" column="76" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/CnyActivity.java" timestamp="1595842540632">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="37" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1595647950972">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="19" column="36" />
-      </file>
-      <file name="/fragment.java" timestamp="1595646669251">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" timestamp="1595842712712">
+        <mark key="'" line="14" column="71" />
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="14" column="75" />
+        <mark key="^" line="14" column="75" />
+        <mark key="." line="14" column="74" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="67" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="323" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
       <jump line="335" column="42" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
@@ -260,18 +264,19 @@
       <jump line="108" column="22" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="109" column="25" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="76" column="53" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="14" column="71" filename="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>AppCompat</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>AppCompat</text>
       </register>
       <register name="/" type="4">
         <text>dex out put path</text>
@@ -280,31 +285,31 @@
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBpcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIgKmNsYXNzUGF0aE5hbWUgPSAiY29tL2FhL2JiL2NjL05hdGl2ZSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hYS5iYi5jYy5TREs7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIgKmNsYXNzUGF0aE5hbWUgPSAiY29tL2FhL2JiL2NjL05hdGl2ZSI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIgKmNsYXNzUGF0aE5hbWUgPSAiY29tL2FhL2JiL2NjL05hdGl2ZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIgKmNsYXNzUGF0aE5hbWUgPSAiY29tL2FhL2JiL2NjL05hdGl2ZSI7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIgKmNsYXNzUGF0aE5hbWUgPSAiY29tL2FhL2JiL2NjL05hdGl2ZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBkZXhfZmlsZSk7Cg==</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIgKmNsYXNzUGF0aE5hbWUgPSAiY29tL2FhL2JiL2NjL05hdGl2ZSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBkZXhfZmlsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
