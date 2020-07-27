@@ -94,12 +94,18 @@
     <globalmarks />
     <filemarks>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.cpp" timestamp="1595644262703" />
-      <file name="E:/tools/android/sources/android-28/java/lang/Class.java" timestamp="1595811991835" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595675081332">
+      <file name="E:/tools/android/sources/android-28/java/lang/Class.java" timestamp="1595819017207" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595818296778">
         <mark key="[" line="25" column="89" />
       </file>
       <file name="/LLDB" timestamp="1595671094476">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" timestamp="1595818786216">
+        <mark key="[" line="4" column="77" />
+        <mark key="]" line="4" column="77" />
+        <mark key="^" line="4" column="77" />
+        <mark key="." line="4" column="76" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1595647950972">
         <mark key="[" line="19" column="36" />
@@ -120,12 +126,12 @@
       </file>
       <file name="E:/tools/android/platforms/android-28/android.jar!/dalvik/system/DexClassLoader.class" timestamp="1595675677268" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnyConstants.java" timestamp="1595650821901" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595812728658">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595819097568">
         <mark key="'" line="170" column="115" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="172" column="20" />
-        <mark key="." line="172" column="20" />
-        <mark key="^" line="171" column="67" />
+        <mark key="[" line="167" column="103" />
+        <mark key="]" line="172" column="62" />
+        <mark key="." line="172" column="61" />
+        <mark key="^" line="172" column="62" />
       </file>
       <file name="/fragment.c" timestamp="1595660222426">
         <mark key="[" line="0" column="0" />
@@ -136,11 +142,11 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595650921194">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595818252176">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="40" />
         <mark key="^" line="13" column="7" />
-        <mark key="." line="13" column="25" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="E:/Project/gpjsauto/settings.gradle" timestamp="1595583809576">
         <mark key="[" line="1" column="42" />
@@ -148,24 +154,17 @@
         <mark key="." line="1" column="42" />
       </file>
       <file name="E:/tools/android/sources/android-28/java/lang/ClassLoader.java" timestamp="1595675827212" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/SDK.java" timestamp="1595650681375">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="7" column="21" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/SDK.java" timestamp="1595817865631">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1595584660198">
         <mark key="[" line="39" column="29" />
         <mark key="]" line="39" column="40" />
         <mark key="^" line="39" column="40" />
         <mark key="." line="39" column="39" />
-      </file>
-      <file name="E:/Project/gpjsauto/demo2/build.gradle" timestamp="1595572820694">
-        <mark key="'" line="21" column="30" />
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="24" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1595646669251">
         <mark key="[" line="0" column="0" />
@@ -276,14 +275,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgamNsYXNzIHNka19jbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgSU5JVF9DTEFTU05BTUUpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
@@ -292,31 +291,33 @@
         <text encoding="base64">ICAgICAgICAoKmVudiktPkNhbGxWb2lkTWV0aG9kKGVudiwgaXMsIGlzX2Nsb3NlX21ldGhvZElEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAganN0cmluZyBjbGFzc25hbWVzdHIgPSAoKmVudiktPk5ld1N0cmluZ1VURihlbnYsIElOSVRfQ0xBU1NOQU1FKTsK</text>
+        <text encoding="base64">ICAgICAgICAgamNsYXNzIHNka19jbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgSU5JVF9DTEFTU05BTUUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgam1ldGhvZElEIHNka19jb25zdHJ1Y3QgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgc2RrX2NsYXp6LCAiPGluaXQ+IiwgIigpViIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWxlYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgam9iamVjdCBzZGsgPSAoKmVudiktPk5ld09iamVjdChlbnYsIHNka19jbGF6eiwgc2RrX2NvbnN0cnVjdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPlJlbGVhc2VCeXRlQXJyYXlFbGVtZW50cyhlbnYsIGJ1ZmZlciwgamJhcnJheSwgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPgo=</text>
+      <register name="5" type="4">
+        <text>static strReplace(char src[], char from, char to) {
+    
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCWVRFCg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgcmVwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqc2l6ZSBsZW4gPSAoKmVudiktPkdldEFycmF5TGVuZ3RoKGVudiwgYnVmZmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAganN0cmluZyBjbGFzc25hbWVzdHIgPSAoKmVudiktPk5ld1N0cmluZ1VURihlbnYsIElOSVRfQ0xBU1NOQU1FKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPkNhbAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqY2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICByZWxlYXNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
