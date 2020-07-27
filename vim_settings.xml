@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYkhlbHBlclw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VfcHJvZmlsZVw+</entry>
         <entry>toolbar</entry>
         <entry>onDe</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnZXRBYnNvbHV0ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxkZXhGaWxlXD4=</entry>
         <entry encoding="base64">XDxkZXhQYXRoXD4=</entry>
+        <entry>dex out put path</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -96,12 +96,12 @@
       <file name="/Dummy.txt" timestamp="1595838410257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595839218713">
-        <mark key="'" line="241" column="25" />
-        <mark key="[" line="221" column="40" />
-        <mark key="]" line="221" column="39" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595839761711">
+        <mark key="'" line="76" column="53" />
+        <mark key="[" line="241" column="51" />
+        <mark key="]" line="241" column="51" />
         <mark key="^" line="221" column="39" />
-        <mark key="." line="221" column="38" />
+        <mark key="." line="241" column="51" />
       </file>
       <file name="/fragment.c" timestamp="1595838410250">
         <mark key="[" line="0" column="0" />
@@ -160,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="35" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="65" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="67" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="323" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/fragments/TabFragmentWeek.kt" />
@@ -260,21 +259,22 @@
       <jump line="80" column="4" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="108" column="22" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="109" column="25" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="76" column="53" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>init</text>
+        <text>absolutePathStr</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>init</text>
+        <text>absolutePathStr</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXhQYXRoXD4=</text>
+        <text>dex out put path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dFKCJnIG1haW4gY2xhc3MhIik7Cg==</text>
@@ -313,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXhQYXRoXD4=</last-search>
+      <last-search>dex out put path</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXhQYXRoXD4=</last-pattern>
+      <last-pattern>dex out put path</last-pattern>
       <last-replace>ic_launcher</last-replace>
       <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
