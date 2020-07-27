@@ -96,10 +96,10 @@
       <file name="E:/tools/android/sources/android-28/android/content/Context.java" timestamp="1595819381088" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.cpp" timestamp="1595644262703" />
       <file name="E:/tools/android/sources/android-28/java/lang/Class.java" timestamp="1595819017207" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595831988962">
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595833778243">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/LLDB" timestamp="1595821989329">
         <mark key="[" line="0" column="0" />
@@ -119,12 +119,12 @@
       <file name="E:/tools/android/sources/android-28/java/lang/String.java" timestamp="1595656588576" />
       <file name="E:/tools/android/platforms/android-28/android.jar!/dalvik/system/DexClassLoader.class" timestamp="1595675677268" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnyConstants.java" timestamp="1595650821901" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595833722302">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595833803128">
         <mark key="'" line="75" column="12" />
-        <mark key="[" line="71" column="23" />
-        <mark key="]" line="71" column="7" />
-        <mark key="." line="71" column="6" />
-        <mark key="^" line="71" column="7" />
+        <mark key="[" line="157" column="82" />
+        <mark key="]" line="157" column="86" />
+        <mark key="." line="157" column="85" />
+        <mark key="^" line="157" column="86" />
       </file>
       <file name="/fragment.c" timestamp="1595833004070">
         <mark key="[" line="0" column="0" />
@@ -272,13 +272,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>a</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXhGb2xkZXJGaWxlXD4=</text>
@@ -287,31 +287,31 @@
         <text encoding="base64">ICAgICAgICAoKmVudiktPkNhbGxWb2lkTWV0aG9kKGVudiwgaXMsIGlzX2Nsb3NlX21ldGhvZElEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGpzdHJpbmcgIGFic29sdXRlUGF0aFN0ciA9IChqc3RyaW5nKSAoKmVudiktPkNhbGxPYmplY3RNZXRob2QoZW52LCBkZXhGb2xkZXJGaWxlLCBhYnNvbHV0ZVBhdGhfbWV0aG9kSUQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZXguYWRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCBhYnNvbHV0ZVBhdGhfbWV0aG9kSUQgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgRmlsZV9jbGF6eiwgImdldEFic29sdXRlUGF0aCIsICIoKUxqYXZhL2xhbmcvU3RyaW5nOyIpOwo=</text>
+        <text encoding="base64">ICAgIGpzdHJpbmcgIGFic29sdXRlUGF0aFN0ciA9IChqc3RyaW5nKSAoKmVudiktPkNhbGxPYmplY3RNZXRob2QoZW52LCBkZXhGb2xkZXJGaWxlLCBhYnNvbHV0ZVBhdGhfbWV0aG9kSUQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBGaWxlX2NsYXp6Owo=</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCBhYnNvbHV0ZVBhdGhfbWV0aG9kSUQgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgRmlsZV9jbGF6eiwgImdldEFic29sdXRlUGF0aCIsICIoKUxqYXZhL2xhbmcvU3RyaW5nOyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBjdHhfY2xheno7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICgqY3R4X2NsYXp6KSA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBjb250ZXh0KTsKICAgICgqRmlsZV9jbGF6eikgPSAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgZGV4Rm9sZGVyRmlsZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGpzdHJpbmcgYWJzb2x1dGVQYXRoU3RyOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGpjbGFzcyBGaWxlX2NsYXp6Owo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGpjbGFzcyBjdHhfY2xheno7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICgqY3R4X2NsYXp6KSA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBjb250ZXh0KTsKICAgICgqRmlsZV9jbGF6eikgPSAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgZGV4Rm9sZGVyRmlsZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGpzdHJpbmcgYWJzb2x1dGVQYXRoU3RyOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGpjbGFzcyBGaWxlX2NsYXp6Owo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBjdHhfY2xheno7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
