@@ -124,11 +124,11 @@
       <file name="E:/tools/android/sources/android-28/java/lang/String.java" timestamp="1595656588576" />
       <file name="E:/tools/android/platforms/android-28/android.jar!/dalvik/system/DexClassLoader.class" timestamp="1595675677268" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnyConstants.java" timestamp="1595650821901" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595823041498">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595830247919">
         <mark key="'" line="185" column="65" />
-        <mark key="[" line="187" column="62" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
+        <mark key="[" line="186" column="9" />
+        <mark key="]" line="186" column="9" />
+        <mark key="." line="186" column="9" />
       </file>
       <file name="/fragment.c" timestamp="1595660222426">
         <mark key="[" line="0" column="0" />
@@ -139,7 +139,7 @@
         <mark key="^" line="15" column="21" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595822700097">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1595830240976">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="40" />
         <mark key="^" line="13" column="7" />
@@ -272,14 +272,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPkZpbmRDbGFzcyhlbikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">am9iamVjdCA=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCplbnYpLT5HZXRPYmplY3RDbGFzcyhlbnYsIHNka19jbGF6eik=</text>
+        <text encoding="base64">am9iamVjdCA=</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
@@ -288,10 +288,10 @@
         <text encoding="base64">ICAgICAgICAoKmVudiktPkNhbGxWb2lkTWV0aG9kKGVudiwgaXMsIGlzX2Nsb3NlX21ldGhvZElEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPkZpbmRDbGFzcyhlbikK</text>
+        <text encoding="base64">ICAgICAgICAgamNsYXNzICBzZGtfY2xhenogPSAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgc2RrKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKmVudiktPkZpbmRDbGFzcyhlbikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -300,19 +300,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgamNsYXNzIHNka19jbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgSU5JVF9DTEFTU05BTUUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgam1ldGhvZElEIHNka19jb25zdHJ1Y3QgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgc2RrX2NsYXp6LCAiPGluaXQ+IiwgIigpViIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgamNsYXNzIHNka19jbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgSU5JVF9DTEFTU05BTUUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgam9iamVjdCBzZGsgPSAoKmVudiktPk5ld09iamVjdChlbnYsIHNka19jbGF6eiwgc2RrX2NvbnN0cnVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgam1ldGhvZElEIHNka19jb25zdHJ1Y3QgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgc2RrX2NsYXp6LCAiPGluaXQ+IiwgIigpViIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgam9iamVjdCBzZGsgPSAoKmVudiktPk5ld09iamVjdChlbnYsIHNka19jbGF6eiwgc2RrX2NvbnN0cnVjdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
