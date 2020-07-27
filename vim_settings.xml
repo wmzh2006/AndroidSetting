@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>break</entry>
-        <entry encoding="base64">PCw=</entry>
-        <entry>calculate</entry>
         <entry encoding="base64">XDxkYkhlbHBlclw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VfcHJvZmlsZVw+</entry>
         <entry>toolbar</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>http</entry>
         <entry encoding="base64">XDxkZXhGb2xkZXJGaWxlXD4=</entry>
+        <entry encoding="base64">XDxnZXRBYnNvbHV0ZVBhdGhcPg==</entry>
+        <entry encoding="base64">XDxkZXhGaWxlXD4=</entry>
+        <entry encoding="base64">XDxkZXhQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -93,17 +93,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1595833004075">
+      <file name="/Dummy.txt" timestamp="1595835536354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595835032010">
-        <mark key="'" line="157" column="82" />
-        <mark key="[" line="72" column="79" />
-        <mark key="]" line="72" column="80" />
-        <mark key="." line="72" column="80" />
-        <mark key="^" line="72" column="79" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595835739629">
+        <mark key="'" line="107" column="25" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="107" column="26" />
+        <mark key="." line="106" column="0" />
       </file>
-      <file name="/fragment.c" timestamp="1595833004070">
+      <file name="/fragment.c" timestamp="1595835536342">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/health/well/dynamicndk/MainActivity.java" timestamp="1595661279223">
@@ -160,10 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/a/a/m.kt" />
-      <jump line="7" column="6" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/SplashActivity.kt" />
-      <jump line="13" column="6" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/SplashActivity.kt" />
-      <jump line="9" column="38" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/SplashActivity.kt" />
       <jump line="82" column="35" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="65" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
       <jump line="67" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/UserDetailsActivity.kt" />
@@ -260,51 +256,55 @@
       <jump line="78" column="12" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="72" column="76" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="157" column="82" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="193" column="8" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="80" column="4" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="108" column="22" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="109" column="25" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXhGb2xkZXJGaWxlXD4=</text>
+        <text encoding="base64">XDxkZXhQYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAoKmVudiktPkNhbGxWb2lkTWV0aG9kKGVudiwgaXMsIGlzX2Nsb3NlX21ldGhvZElEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXguYWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpzdHJpbmcgIGFic29sdXRlUGF0aFN0ciA9IChqc3RyaW5nKSAoKmVudiktPkNhbGxPYmplY3RNZXRob2QoZW52LCBkZXhGb2xkZXJGaWxlLCBhYnNvbHV0ZVBhdGhfbWV0aG9kSUQpOwo=</text>
+        <text encoding="base64">Ly8gICAganN0cmluZyBkZXhQYXRoOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCBhYnNvbHV0ZVBhdGhfbWV0aG9kSUQgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgRmlsZV9jbGF6eiwgImdldEFic29sdXRlUGF0aCIsICIoKUxqYXZhL2xhbmcvU3RyaW5nOyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBGaWxlX2NsYXp6Owo=</text>
+        <text encoding="base64">ICAgIExPR0UoImFic29sdXRlUGF0aDogJXMiLCBhYnNvbHV0ZVBhdGhfY2hhcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBjdHhfY2xheno7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgKmFic29sdXRlUGF0aF9jaGFyID0gKCplbnYpLT5HZXRTdHJpbmdVVEZDaGFycyhlbnYsIGFic29sdXRlUGF0aFN0ciwgZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgqY3R4X2NsYXp6KSA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBjb250ZXh0KTsKICAgICgqRmlsZV9jbGF6eikgPSAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgZGV4Rm9sZGVyRmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNoYXIgZGV4X291dHB1dF9wYXRoWzI1Nl07CiAgICBzcHJpbnRmKGRleF9vdXRwdXRfcGF0aCwgIiVzLyVzIiwgYWJzb2x1dGVQYXRoX2NoYXIsIElOUFVUX0ZJTEUpOwogICAgTE9HRSgiZGV4IG91dCBwdXQgcGF0aDogJXMiLCBkZXhfb3V0cHV0X3BhdGgpOwogICAganN0cmluZyBkZXhQYXRoID0gKCplbnYpLT5OZXdTdHJpbmdVVEYoZW52LCBkZXhfb3V0cHV0X3BhdGgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpzdHJpbmcgYWJzb2x1dGVQYXRoU3RyOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgZGV4X291dHB1dF9wYXRoWzI1Nl07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBGaWxlX2NsYXp6Owo=</text>
+        <text encoding="base64">ICAgIGpzdHJpbmcgZGV4UGF0aCA9ICgqZW52KS0+TmV3U3RyaW5nVVRGKGVudiwgZGV4X291dHB1dF9wYXRoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBjdHhfY2xheno7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dFKCIlcyBkb2VzIG5vdCBleGlzdCEiLCBkZXhfb3V0cHV0X3BhdGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
@@ -313,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRBYnNvbHV0ZVBhdGhcPg==</last-search>
+      <last-search encoding="base64">XDxkZXhQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBYnNvbHV0ZVBhdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZXhQYXRoXD4=</last-pattern>
       <last-replace>ic_launcher</last-replace>
       <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
