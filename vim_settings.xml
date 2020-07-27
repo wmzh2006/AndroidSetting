@@ -93,38 +93,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/tools/android/sources/android-28/android/content/Context.java" timestamp="1595819381088" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.cpp" timestamp="1595644262703" />
-      <file name="E:/tools/android/sources/android-28/java/lang/Class.java" timestamp="1595819017207" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595833778243">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1595821989329">
+      <file name="/Dummy.txt" timestamp="1595833004075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" timestamp="1595818786216">
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="4" column="77" />
-        <mark key="^" line="4" column="77" />
-        <mark key="." line="4" column="76" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1595647950972">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="19" column="36" />
-      </file>
-      <file name="E:/tools/android/sources/android-28/java/lang/String.java" timestamp="1595656588576" />
-      <file name="E:/tools/android/platforms/android-28/android.jar!/dalvik/system/DexClassLoader.class" timestamp="1595675677268" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnyConstants.java" timestamp="1595650821901" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595833803128">
-        <mark key="'" line="75" column="12" />
-        <mark key="[" line="157" column="82" />
-        <mark key="]" line="157" column="86" />
-        <mark key="." line="157" column="85" />
-        <mark key="^" line="157" column="86" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595835032010">
+        <mark key="'" line="157" column="82" />
+        <mark key="[" line="72" column="79" />
+        <mark key="]" line="72" column="80" />
+        <mark key="." line="72" column="80" />
+        <mark key="^" line="72" column="79" />
       </file>
       <file name="/fragment.c" timestamp="1595833004070">
         <mark key="[" line="0" column="0" />
@@ -141,20 +118,24 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1595821131031">
+      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1595835014502">
         <mark key="[" line="30" column="51" />
         <mark key="]" line="45" column="23" />
         <mark key="." line="45" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595833004075">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/tools/android/sources/android-28/java/lang/ClassLoader.java" timestamp="1595675827212" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/SDK.java" timestamp="1595817865631">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="33" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/rebd/ofiw/CnySdk.java" timestamp="1595833778243">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="/LLDB" timestamp="1595834901974">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1595584660198">
         <mark key="[" line="39" column="29" />
@@ -162,13 +143,23 @@
         <mark key="^" line="39" column="40" />
         <mark key="." line="39" column="39" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" timestamp="1595818786216">
+        <mark key="[" line="4" column="77" />
+        <mark key="]" line="4" column="77" />
+        <mark key="^" line="4" column="77" />
+        <mark key="." line="4" column="76" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1595647950972">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="19" column="36" />
+      </file>
       <file name="/fragment.java" timestamp="1595646669251">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1028" column="35" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
-      <jump line="1042" column="44" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainExcerciseActivity.java" />
       <jump line="6" column="12" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/a/a/m.kt" />
       <jump line="7" column="6" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/SplashActivity.kt" />
       <jump line="13" column="6" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/SplashActivity.kt" />
@@ -267,6 +258,8 @@
       <jump line="92" column="48" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="73" column="65" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="78" column="12" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="72" column="76" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="157" column="82" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXhGb2xkZXJGaWxlXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRBYnNvbHV0ZVBhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXhGb2xkZXJGaWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRBYnNvbHV0ZVBhdGhcPg==</last-pattern>
       <last-replace>ic_launcher</last-replace>
       <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
