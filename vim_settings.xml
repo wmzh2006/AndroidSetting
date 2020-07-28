@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRwbGF5c3RvcmVcPg==</entry>
         <entry>icon</entry>
         <entry encoding="base64">XDxtV2F2ZUxvYWRpbmdWaWV3XD4=</entry>
         <entry encoding="base64">XDxvblN0YXJ0Q29tbWFuZFw+</entry>
@@ -25,6 +24,7 @@
         <entry>READE</entry>
         <entry>README</entry>
         <entry>copy file</entry>
+        <entry>Main</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -93,16 +93,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/Per.java" timestamp="1595943882039">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/demo3/src/main/res/layout/activity_per.xml" timestamp="1595940264335">
         <mark key="[" line="53" column="52" />
         <mark key="]" line="54" column="0" />
         <mark key="^" line="36" column="41" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/build_nk_AAR.bat" timestamp="1595919376070">
-        <mark key="[" line="0" column="175" />
-        <mark key="]" line="0" column="175" />
-        <mark key="." line="0" column="175" />
       </file>
       <file name="/LLDB" timestamp="1595942068010">
         <mark key="[" line="0" column="0" />
@@ -116,11 +116,15 @@
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/styles.xml" timestamp="1595943365815">
         <mark key="[" line="22" column="12" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" timestamp="1595943439456">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="99" column="72" />
-        <mark key="." line="96" column="0" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" timestamp="1595944367574">
+        <mark key="'" line="105" column="24" />
+        <mark key="[" line="59" column="83" />
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="40" column="71" />
+        <mark key="." line="39" column="60" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/MainActivity.java" timestamp="1595944300219">
+        <mark key="[" line="92" column="33" />
       </file>
       <file name="E:/Project/gpjsauto/demo3/src/main/res/values/styles.xml" timestamp="1595943509116">
         <mark key="[" line="20" column="69" />
@@ -133,13 +137,13 @@
         <mark key="." line="20" column="41" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595919658448">
+      <file name="/Dummy.txt" timestamp="1595944121301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/svtd/ezvl/DyazSdk.java" timestamp="1595942694754" />
       <file name="E:/Project/gpjsauto/sshell/src/main/java/com/anrwo/abwoy/MSplashActivity.java" timestamp="1595936336601" />
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/SplashActivity.java" timestamp="1595943517671">
-        <mark key="[" line="58" column="11" />
+      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/SplashActivity.java" timestamp="1595944070150">
+        <mark key="[" line="103" column="20" />
         <mark key="]" line="58" column="11" />
         <mark key="^" line="58" column="11" />
         <mark key="." line="58" column="10" />
@@ -175,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="59" filename="D:/用户目录/我的文档/WeChat Files/wmzh0003/FileStorage/File/2020-06/codecanyon-mGmTZ0aN-abs-workouts-fitness-for-women-30-days-workout-plan/mainFile/AbsWorkout For Women/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/Activity_MyProfile.java" />
       <jump line="57" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="257" column="26" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
       <jump line="259" column="26" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitnessch19/womenabsworkout/activities/MainActivity.kt" />
@@ -275,51 +278,52 @@
       <jump line="58" column="16" filename="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/Per.java" />
       <jump line="60" column="0" filename="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/Per.java" />
       <jump line="25" column="11" filename="E:/Project/gpjsauto/demo3/src/main/AndroidManifest.xml" />
+      <jump line="105" column="24" filename="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>MAIN</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>MAIN</text>
       </register>
       <register name="/" type="4">
-        <text>copy file</text>
+        <text>Main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTBkcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy90aXRsZV9hY3Rpdml0eV9wZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkJhY2tQcmVzc2VkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaChjb250ZXh0LCBNYWluQWN0aXZpdHkuY2xhc3MuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy90aXRsZV9hY3Rpdml0eV9wZXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1aXJlZE5ldHdvcmtUeXBlKE5ldHdvcmtUeXBlLkNPTk5FQ1RFRCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaChjb250ZXh0LCBNYWluQWN0aXZpdHkuY2xhc3MuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG0gPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRSZXF1aXJlZE5ldHdvcmtUeXBlKE5ldHdvcmtUeXBlLkNPTk5FQ1RFRCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gZ2V0UExNTihjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG0gPSBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBtID0gZ2V0UExNTihjb250ZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db21wb25lbnROYW1lOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db21wb25lbnROYW1lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb20ubG9leS5kemFwLldsYmRTZGsuaW5pdChjb250ZXh0LCAiMWEwYTVhNGE4YTAiLnJlcGxhY2UoImEiLCIiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
@@ -328,9 +332,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>copy file</last-search>
+      <last-search>Main</last-search>
       <last-offset />
-      <last-pattern>copy file</last-pattern>
+      <last-pattern>Main</last-pattern>
       <last-replace>ic_launcher</last-replace>
       <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
