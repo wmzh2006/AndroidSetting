@@ -93,14 +93,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595858013537">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595898403432">
         <mark key="'" line="76" column="53" />
-        <mark key="[" line="262" column="27" />
-        <mark key="]" line="271" column="0" />
-        <mark key="^" line="273" column="77" />
-        <mark key="." line="271" column="0" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/uuuj/ekck/VztActivity.java" timestamp="1595852610339" />
+      <file name="/fragment.c" timestamp="1595898156966">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/nzov/ftbp/PscsSdk.java" timestamp="1595854878648">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="54" />
@@ -114,13 +117,6 @@
         <mark key="^" line="32" column="52" />
         <mark key="." line="32" column="51" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1595852353856">
-        <mark key="'" line="477" column="50" />
-        <mark key="[" line="240" column="80" />
-        <mark key="]" line="240" column="81" />
-        <mark key="." line="240" column="80" />
-        <mark key="^" line="240" column="81" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/bcma/onlx/qzxd/NgvSdk.java" timestamp="1595853470483">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -132,6 +128,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595898156973">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/aa/bb/cc/CnySDK.java" timestamp="1595852500153">
         <mark key="[" line="8" column="0" />
@@ -273,14 +272,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TRUE</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>TRUE</text>
       </register>
       <register name="/" type="4">
         <text>README</text>
@@ -292,30 +291,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>static jint add(JNIEnv *env, jobject thiz, jint a, jint b) {
     return a + b;
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">LWtlZXAgY2xhc3MgY29tLnF3ZWZvdXIucnR5c2l4LioqIHsqO30K</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmNtYS5vbmx4LnF6eGQuSGV6Q29uc3RhbnRzLmRkTElCX05BTUU7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udnRsYi5meXhwLlV1akNvbnN0YW50cy5MSUJfTkFNRTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmRsei5zcndqLlJlZ3lDb25zdGFudHMuTElCX05BTUU7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxpbmVzICs9ICJcblxuIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpbmVzICs9ICJcblxuIgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmRsei5zcndqLlJlZ3lDb25zdGFudHMuTElCX05BTUU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
