@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZFZpZXczXD4=</entry>
         <entry encoding="base64">XDxhZGRwbGF5c3RvcmVcPg==</entry>
         <entry>icon</entry>
         <entry encoding="base64">XDxtV2F2ZUxvYWRpbmdWaWV3XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkeW5hbWljc2Rra290bGluXD4=</entry>
         <entry>READE</entry>
         <entry>README</entry>
+        <entry>copy file</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -93,8 +93,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595898403432">
-        <mark key="'" line="76" column="53" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1595900006875">
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
@@ -122,6 +122,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" timestamp="1595900324937">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/bdlz/srwj/UujService.java" timestamp="1595852932832" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/bdlz/srwj/UujSDK.java" timestamp="1595852941859">
         <mark key="[" line="8" column="0" />
@@ -139,7 +144,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1595858008091" />
-      <file name="E:/Project/gpjsauto/dynamicndk/release/README.txt" timestamp="1595858369721" />
+      <file name="E:/Project/gpjsauto/dynamicndk/release/README.txt" timestamp="1595900111410" />
       <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1595854510970">
         <mark key="[" line="12" column="82" />
         <mark key="]" line="177" column="5" />
@@ -161,7 +166,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1595858117312">
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1595900115190">
         <mark key="[" line="12" column="62" />
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="42" />
@@ -214,7 +219,6 @@
       <jump line="26" column="72" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" />
       <jump line="22" column="0" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" />
       <jump line="53" column="62" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="32" column="14" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="67" column="55" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="49" column="35" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="36" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
@@ -268,12 +272,13 @@
       <jump line="240" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="477" column="50" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="440" column="54" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
+      <jump line="32" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>TRUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
@@ -282,7 +287,7 @@
         <text>TRUE</text>
       </register>
       <register name="/" type="4">
-        <text>README</text>
+        <text>copy file</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBPYmplY3QgYnVpbGRBYXIgPSBwcm9qZWN0LnByb3BlcnR5KCJrdCIpCiAgICAgICAgZXhlY3V0ZSA9ICFidWlsZEFhcgo=</text>
@@ -291,30 +296,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgPGFjdGl2aXR5IGFuZHJvaWQ6bmFtZT0iY29tLmtrZ3JiLnh1ZGNqLllkY0FjdGl2aXR5Ij4tLT4KPCEtLSAgICAgICAgICAgIDxpbnRlbnQtZmlsdGVyPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIvPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkxBVU5DSEVSIi8+LS0+CjwhLS0gICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+LS0+CjwhLS0gICAgICAgIDwvYWN0aXZpdHk+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>static jint add(JNIEnv *env, jobject thiz, jint a, jint b) {
     return a + b;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LWtlZXAgY2xhc3MgY29tLnF3ZWZvdXIucnR5c2l4LioqIHsqO30K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmNtYS5vbmx4LnF6eGQuSGV6Q29uc3RhbnRzLmRkTElCX05BTUU7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udnRsYi5meXhwLlV1akNvbnN0YW50cy5MSUJfTkFNRTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmRsei5zcndqLlJlZ3lDb25zdGFudHMuTElCX05BTUU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYmNtYS5vbmx4LnF6eGQuSGV6Q29uc3RhbnRzLmRkTElCX05BTUU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
@@ -323,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>README</last-search>
+      <last-search>copy file</last-search>
       <last-offset />
-      <last-pattern>README</last-pattern>
+      <last-pattern>copy file</last-pattern>
       <last-replace>ic_launcher</last-replace>
       <last-substitute>icon</last-substitute>
       <last-dir>1</last-dir>
