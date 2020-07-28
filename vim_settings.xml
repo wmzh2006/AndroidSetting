@@ -93,14 +93,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1595904380238">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/res/layout/activity_per.xml" timestamp="1595936921854">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="28" />
+      <file name="E:/Project/gpjsauto/demo3/src/main/res/layout/activity_per.xml" timestamp="1595939517079">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="E:/Project/gpjsauto/build_nk_AAR.bat" timestamp="1595919376070">
         <mark key="[" line="0" column="175" />
@@ -119,10 +116,15 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/AndroidManifest.xml" timestamp="1595935652733">
-        <mark key="[" line="14" column="68" />
-        <mark key="]" line="14" column="67" />
-        <mark key="." line="14" column="66" />
+      <file name="E:/Project/gpjsauto/demo3/src/main/res/values/styles.xml" timestamp="1595939449706">
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="20" column="54" />
+        <mark key="." line="20" column="54" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo3/src/main/AndroidManifest.xml" timestamp="1595939418974">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="67" />
       </file>
       <file name="/Dummy.txt" timestamp="1595919658448">
@@ -136,12 +138,12 @@
         <mark key="^" line="7" column="41" />
       </file>
       <file name="E:/Project/gpjsauto/sshell/src/main/java/com/anrwo/abwoy/MSplashActivity.java" timestamp="1595936336601" />
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/Per.java" timestamp="1595937188758">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="16" />
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/Per.java" timestamp="1595937665472">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
+        <mark key="^" line="63" column="46" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/release/README.txt" timestamp="1595919431940" />
       <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainWorker.java" timestamp="1595924259659">
@@ -160,12 +162,12 @@
       <file name="/fragment.java" timestamp="1595927245281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1595929075873">
-        <mark key="'" line="26" column="82" />
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="37" column="55" />
-        <mark key="." line="37" column="54" />
-        <mark key="^" line="37" column="55" />
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1595939209052">
+        <mark key="'" line="25" column="82" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="36" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -273,47 +275,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRQeCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>@android:style/Theme.Translucent.NoTitleBar</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>@android:style/Theme.Translucent.NoTitleBar</text>
       </register>
       <register name="/" type="4">
         <text>copy file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kLnNldFRyYW5zbGF0aW9uWShkeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTBkcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRQeCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LndvcmsuT25lVGltZVdvcmtSZXF1ZXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOndpbmRvd05vVGl0bGUiPnRydWU8L2l0ZW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gb25Ub3VjaEV2ZW50KE1vdGlvbkV2ZW50IGV2ZW50KSB7CiAgICAgICAgc3RhcnRTZXR0aW5ncygpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAg</text>
+        <text encoding="base64">ICAgIDxzdHlsZSBuYW1lPSJNeVRyYW5zbHVjZW50VGhlbWUiIHBhcmVudD0iQHN0eWxlL1RoZW1lLkFwcENvbXBhdC5MaWdodC5Ob0FjdGlvbkJhciI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvdGhlbWU8L2l0ZW0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTBkcCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25BdHRhY2hlZFRvV2luZG93KCkgewogICAgICAgIHN1cGVyLm9uQXR0YWNoZWRUb1dpbmRvdygpOwogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTBkcCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIih4LHkpOiIgKyBsb2NhdGlvblswXSArICIsICIgK2xvY2F0aW9uWzFdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgc2hvd1Blcm1pc3Npb24oKSB7CgogICAgICAgIGZpbmFsIEFsZXJ0RGlhbG9nLkJ1aWxkZXIgYnVpbGRlciA9IG5ldyBBbGVydERpYWxvZy5CdWlsZGVyKHRoaXMpOwogICAgICAgIGJ1aWxkZXIuc2V0VGl0bGUoIk5lZWQgUGVybWlzc2lvbiIpOwogICAgICAgIGJ1aWxkZXIuc2V0TWVzc2FnZSgiVG8gZW5zdXJlIHRoZSBhcHBsaWNhdGlvbiBjYW4gcnVubmluZyBub3JtYWxseSwgd2UgbmVlZCBzb21lIG5lY2Vzc2FyeSBwZXJtaXNzaW9ucy4iKTsKICAgICAgICBidWlsZGVyLnNldENhbmNlbGFibGUoZmFsc2UpOwogICAgICAgIGJ1aWxkZXIuc2V0UG9zaXRpdmVCdXR0b24oIk9LIiwgbmV3IERpYWxvZ0ludGVyZmFjZS5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKERpYWxvZ0ludGVyZmFjZSBkaWFsb2csIGludCBpKSB7CiAgICAgICAgICAgICAgICBkaWFsb2cuZGlzbWlzcygpOwogICAgICAgICAgICAgICAgc3RhcnRTZXR0aW5ncygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgYnVpbGRlci5zZXROZWdhdGl2ZUJ1dHRvbigiQ2FuY2VsIiwgbmV3IERpYWxvZ0ludGVyZmFjZS5PbkNsaWNrTGlzdGVuZXIoKSB7CgogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKERpYWxvZ0ludGVyZmFjZSBkaWFsb2csIGludCBpKSB7CiAgICAgICAgICAgICAgICBkaWFsb2cuZGlzbWlzcygpOwovLyAgICAgICAgICAgICAgIHN0YXJ0TWFpbkFjdGl2aXR5KCk7CiAgICAgICAgICAgICAgICBmaW5pc2goKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwoKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigoKGludClkeCkgPCAwIHx8IChpbnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s /icon/ic_launcher/gc</text>
