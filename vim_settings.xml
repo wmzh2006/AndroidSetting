@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblN0YXJ0Q29tbWFuZFw+</entry>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>http</entry>
         <entry encoding="base64">XDxkZXhGb2xkZXJGaWxlXD4=</entry>
         <entry encoding="base64">XDxnZXRBYnNvbHV0ZVBhdGhcPg==</entry>
@@ -24,6 +22,8 @@
         <entry>copy file</entry>
         <entry>Main</entry>
         <entry>activity</entry>
+        <entry encoding="base64">XDxwYWNrYWdlTWFuYWdlclw+</entry>
+        <entry encoding="base64">XDxwbVw+</entry>
         <entry>!!</entry>
       </history-search>
       <history-cmd>
@@ -95,107 +95,109 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1596008983652">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/Adapters/CoolingAdapter.kt" timestamp="1596011799663" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/Adapters/AppAdapter.kt" timestamp="1596011767662">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="30" />
+        <mark key="^" line="28" column="30" />
+        <mark key="." line="28" column="29" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/BoosterFirstActivity.kt" timestamp="1596010393482">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="44" />
-        <mark key="." line="16" column="44" />
-        <mark key="^" line="16" column="17" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/SplashActivity.kt" timestamp="1596011484047">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="25" column="35" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Impl_Plugin_lib/build.gradle" timestamp="1595990433141" />
-      <file name="E:/googleplay/app_source/BoosterBatter/document/描述.txt" timestamp="1595984515314" />
-      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/BatterySaverActivity.kt" timestamp="1596010336263">
-        <mark key="'" line="335" column="4" />
-        <mark key="[" line="224" column="4" />
-        <mark key="]" line="224" column="4" />
-        <mark key="." line="224" column="4" />
-        <mark key="^" line="215" column="17" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/MainActivity.kt" timestamp="1596010822523">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="53" />
+        <mark key="^" line="28" column="16" />
+        <mark key="." line="29" column="53" />
       </file>
-      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1595989731832">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="47" column="9" />
-        <mark key="." line="47" column="9" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/Adapters/MemoryAdapter.kt" timestamp="1596011688808" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/receivers/PhAlarmBooster.kt" timestamp="1596012012656">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="3" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/bsActivity.kt" timestamp="1596010430188">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="53" />
-        <mark key="." line="28" column="53" />
-        <mark key="^" line="25" column="16" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/RamBoosterActivity.kt" timestamp="1596011043816">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+        <mark key="^" line="23" column="59" />
       </file>
-      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/BatterySaverSecondActivity.kt" timestamp="1596010024415">
-        <mark key="'" line="271" column="30" />
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="329" column="56" />
-        <mark key="." line="73" column="39" />
-        <mark key="^" line="68" column="16" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CleanerActivity.kt" timestamp="1596010522678">
-        <mark key="'" line="37" column="26" />
-        <mark key="[" line="119" column="8" />
-        <mark key="]" line="119" column="17" />
-        <mark key="." line="119" column="16" />
-        <mark key="^" line="119" column="17" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/AndroidManifest.xml" timestamp="1595989979487">
-        <mark key="'" line="71" column="10" />
-        <mark key="[" line="78" column="71" />
-        <mark key="]" line="78" column="72" />
-        <mark key="." line="78" column="71" />
-        <mark key="^" line="78" column="72" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/AndroidManifest.xml" timestamp="1595944367574">
-        <mark key="'" line="105" column="24" />
-        <mark key="[" line="59" column="83" />
-        <mark key="]" line="39" column="60" />
-        <mark key="^" line="40" column="71" />
-        <mark key="." line="39" column="60" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1595989813270">
-        <mark key="'" line="39" column="93" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="45" column="50" />
-        <mark key="^" line="45" column="50" />
-        <mark key="." line="45" column="49" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1596005910655">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="35" column="18" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1595990484105">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/MainActivity.java" timestamp="1595944300219">
-        <mark key="[" line="92" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595944121301">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CoolDownActivity.kt" timestamp="1596010625087">
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CoolDownActivity.kt" timestamp="1596010665929">
         <mark key="'" line="88" column="39" />
-        <mark key="[" line="164" column="39" />
-        <mark key="]" line="164" column="39" />
-        <mark key="^" line="164" column="17" />
-        <mark key="." line="164" column="39" />
+        <mark key="[" line="85" column="29" />
+        <mark key="]" line="85" column="33" />
+        <mark key="^" line="85" column="33" />
+        <mark key="." line="85" column="32" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_lib/build.gradle" timestamp="1596005535727">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/receivers/PhoneAlarmJunk.kt" timestamp="1596012035801">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="12" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/dao/AnimEmoji.kt" timestamp="1596011848460">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="13" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/receivers/CoolingAlarmjunk.kt" timestamp="1596011957762">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="77" />
+        <mark key="." line="13" column="8" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/ScannerActivity.kt" timestamp="1596011452338">
+        <mark key="'" line="46" column="34" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="158" column="56" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/PowerCompleteActivity.kt" timestamp="1596011010791">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="38" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="38" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/PickerFromMobileActivity.kt" timestamp="1596010949394">
+        <mark key="[" line="31" column="53" />
+        <mark key="]" line="31" column="53" />
+        <mark key="." line="31" column="53" />
+        <mark key="^" line="16" column="16" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/NormalModeActivity.kt" timestamp="1596010885863">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="25" column="4" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/dao/App.kt" timestamp="1596011876974" />
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/dao/JunkAdaptr.kt" timestamp="1596012132826">
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="18" column="57" />
+        <mark key="." line="18" column="57" />
+        <mark key="^" line="17" column="50" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CoolingCpuScannerActivity.kt" timestamp="1596010785966">
+        <mark key="'" line="49" column="31" />
+        <mark key="[" line="45" column="24" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="49" column="32" />
+      </file>
+      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/UVoltageWActivity.kt" timestamp="1596011517511">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="29" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/activity_bsttt.xml" />
-      <jump line="79" column="25" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/activity_cent_pro_scanning.xml" />
-      <jump line="198" column="41" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/activity_cleaner.xml" />
-      <jump line="137" column="25" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/activity_cool_down.xml" />
       <jump line="36" column="29" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/activity_layout_othr.xml" />
       <jump line="94" column="41" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/activity_cleaner.xml" />
       <jump line="15" column="29" filename="E:/googleplay/app_source/BoosterBatter/src/main/res/layout/activity_main.xml" />
@@ -292,18 +294,22 @@
       <jump line="335" column="4" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/BatterySaverActivity.kt" />
       <jump line="37" column="26" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CleanerActivity.kt" />
       <jump line="88" column="39" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CoolDownActivity.kt" />
+      <jump line="49" column="31" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CoolingCpuScannerActivity.kt" />
+      <jump line="180" column="33" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/ScannerActivity.kt" />
+      <jump line="107" column="13" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/ScannerActivity.kt" />
+      <jump line="47" column="34" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/ScannerActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>? = null</text>
+        <text>getImage()</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>? = null</text>
+        <text>getImage()</text>
       </register>
       <register name="/" type="4">
         <text>!!</text>
@@ -311,86 +317,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3lzdGVtdGV4dC50ZXh0ID0gIjAgTUIiCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBlZGl0b3IuY29tbWl0KCkK</text>
       </register>
-      <register name="2" type="8">
-        <text>var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhciB0aGlycGljOiBJbWFnZVZpZXc/ID0gbnVsbAo=</text>
       </register>
-      <register name="3" type="8">
-        <text>var
-var
-var
-var</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciB0aGlyOiBUZXh0Vmlldz8gPSBudWxsCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ZGluZ1ZpZXc/CiAgICAgICAgIAogICAgICAgICAKbnVsbApsCiAgICAgICAgIAogbnVsbAp1dD8gPSBudWwKUHJlZmVyZW5jCiAgICAgICAgIApudWxsCm51bGwKICAgICAgICAgCnV0PyA9IG51bAogICAgICAgICAKICAgICAgICAg</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWNwaWM6IEltYWdlVmlldz8gPSBudWxsCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ZGluZ1ZpZXc/CiAgICAgICAgIAogICAgICAgICAKbnVsbApsCiAgICAgICAgIAogbnVsbAp1dD8gPSBudWwKUHJlZmVyZW5jCiAgICAgICAgIApudWxsCm51bGwKICAgICAgICAgCnV0PyA9IG51bAogICAgICAgICAKICAgICAgICAg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBzZWM6IFRleHRWaWV3PyA9IG51bGwK</text>
       </register>
-      <register name="6" type="8">
-        <text>var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciBpc3RwaWM6IEltYWdlVmlldz8gPSBudWxsCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var
-var</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciBpc3Q6IFRleHRWaWV3PyA9IG51bGwK</text>
       </register>
-      <register name="8" type="8">
-        <text>var
-var</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciBmb3VwaWM6IEltYWdlVmlldz8gPSBudWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBhYmMgPSAwZgo=</text>
+        <text encoding="base64">ICAgIHZhciBmb3U6IFRleHRWaWV3PyA9IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>%s /!!//g</text>
