@@ -95,12 +95,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/app/AndroidStub/build.gradle" timestamp="1596164597383">
-        <mark key="'" line="36" column="52" />
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="36" column="60" />
-        <mark key="." line="36" column="59" />
-        <mark key="^" line="36" column="60" />
+      <file name="$USER_HOME$/Desktop/app/AndroidStub/build.gradle" timestamp="1596164938076">
+        <mark key="'" line="66" column="4" />
+        <mark key="[" line="64" column="54" />
+        <mark key="]" line="64" column="55" />
+        <mark key="." line="64" column="55" />
+        <mark key="^" line="64" column="51" />
       </file>
       <file name="E:/tools/android/sources/android-28/android/app/Instrumentation.java" timestamp="1596160537788">
         <mark key="'" line="69" column="13" />
@@ -138,12 +138,12 @@
         <mark key="]" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/Desktop/app/build.gradle" timestamp="1596163077238">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="55" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/Desktop/app/build.gradle" timestamp="1596164970550">
+        <mark key="'" line="21" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="E:/Project/DynamicLoader/app/src/main/java/jp/wamo/amo/myapplication/MainActivity.java" timestamp="1596099974812">
         <mark key="[" line="10" column="47" />
@@ -182,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="14" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/MyApplication/ROOTSDK_Plugin_jsauto/src/f/USSDController.java" />
-      <jump line="12" column="58" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/aka/potted/src/main/java/com/shining/flourish/potted/App.java" />
       <jump line="511" column="37" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
       <jump line="46" column="82" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
       <jump line="47" column="23" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
@@ -282,12 +280,14 @@
       <jump line="1713" column="26" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
       <jump line="1754" column="20" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
       <jump line="36" column="52" filename="$USER_HOME$/Desktop/app/AndroidStub/build.gradle" />
+      <jump line="64" column="50" filename="$USER_HOME$/Desktop/app/AndroidStub/build.gradle" />
+      <jump line="66" column="4" filename="$USER_HOME$/Desktop/app/AndroidStub/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>javaCompile</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nb29nbGUuZ21zOmdvb2dsZS1zZXJ2aWNlczo0LjIuMCcK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
@@ -301,33 +301,33 @@
       <register name="0" type="2">
         <text>include ':'</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgfQogICAgICAgIHZhcmlhbnQuamF2YUNvbXBpbGUuZG9GaXJzdCB7IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5nb29nbGUuZ21zOmdvb2dsZS1zZXJ2aWNlczo0LjIuMCcK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgfQogICAgICAgIHZhcmlhbnQuamF2YUNvbXBpbGUuZG9GaXJzdCB7IA==</text>
+      </register>
+      <register name="3" type="4">
         <text>each {
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXQuZG8K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW5jbHVkZSAnOmFwcCcK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgbWF2ZW4gewogICAgICAgICAgICB1cmwgJ2h0dHA6Ly93d3cuaWRlc2NvdXQuY29tL21hdmVuL3JlcG8vJwogICAgICAgICAgICBuYW1lICdJREVTY291dCwgSW5jLicKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vxKzIz8no1sPOqnRydWW08rD8xKPKvaOsZmFsc2Ugv8nS1NPDxKO/6bX308PI52ltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyT09UU0RLX1BsdWdpbl9vbmx5anNhdXRvJykK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4dC5leGVjX3BhayA9IHRydWUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1ncmFkbGUtcGx1Z2luOiRrb3RsaW5fdmVyc2lvbiIK</text>
+        <text encoding="base64">ICAgIGV4dC5leGVjX3BhayA9IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>%s /!!//g</text>
