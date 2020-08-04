@@ -96,12 +96,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wallpapper/src/main/res/drawable/btn_normal_selector.xml" timestamp="1596533239134" />
-      <file name="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/co/booster/pixcler/activities/SplashActivity.kt" timestamp="1596504371675" />
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1596524800705">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
       <file name="$USER_HOME$/Desktop/wallpapper/src/main/res/layout/dialog_gacha_first.xml" timestamp="1596533693407" />
       <file name="$USER_HOME$/Desktop/wallpapper/src/main/res/values/colors.xml" timestamp="1596532926480">
         <mark key="[" line="5" column="0" />
@@ -113,6 +107,12 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wallpapper/src/main/java/org/artsplanet/android/mochipanwallpaper/bb.java" timestamp="1596542933005">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wallpapper/src/main/res/values/attrs.xml" timestamp="1596528793856" />
       <file name="E:/googleplay/app_source/BoosterBatter-kt/build.gradle" timestamp="1596534243305">
@@ -126,16 +126,10 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/wallpapper/src/main/res/values/drawables.xml" timestamp="1596528538319">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wallpapper/src/main/res/values/strings.xml" timestamp="1596528356243">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Desktop/wallpapper/src/main/java/org/artsplanet/android/mochipanwallpaper/b/r.java" timestamp="1596543040035">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/app/build.gradle" timestamp="1596535761736">
         <mark key="[" line="36" column="79" />
@@ -148,6 +142,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wallpapper/src/main/java/org/artsplanet/android/mochipanwallpaper/b.java" timestamp="1596542760095" />
       <file name="$USER_HOME$/Desktop/wallpapper/build.gradle" timestamp="1596532957859">
         <mark key="[" line="37" column="23" />
         <mark key="]" line="37" column="24" />
@@ -156,12 +151,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1596529593996">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wallpapper/src/main/res/values/dimens.xml" timestamp="1596528533059">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/photoartcamera/build.gradle" timestamp="1596531290584">
         <mark key="[" line="93" column="0" />
@@ -184,6 +173,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="E:/googleplay/app_source/Camera-kt/build.gradle" timestamp="1596543526298">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -292,13 +287,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYS5IRC5jYW1lcmEuUjsK</text>
+        <text encoding="base64">Ci8vICAgIGNvbXBpbGVLb3RsaW4gewovLyAgICAgICAga290bGluT3B0aW9ucy5qdm1UYXJnZXQgPSAiMS44IgovLyAgICB9Ci8vICAgIGNvbXBpbGVUZXN0S290bGluIHsKLy8gICAgICAgIGtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKLy8gICAgfQovLyAgICBpbnRlbGxpaiB7Ci8vICAgICAgICB2ZXJzaW9uICcyMDE4LjInCi8vICAgICAgICBwbHVnaW5zICdnaXQ0aWRlYScKLy8gICAgfQoKLy8gICAga290bGluIHsKLy8gICAgICAgIGV4cGVyaW1lbnRhbCB7Ci8vICAgICAgICAgICAgY29yb3V0aW5lcyAiZW5hYmxlIgovLyAgICAgICAgfQovLyAgICB9</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</text>
@@ -307,31 +302,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICBqYXZhQ29tcGlsZS5vcHRpb25zLnNldEJvb3RDbGFzc3BhdGgoSm9pbmVyLm9uKEZpbGUucGF0aFNlcGFyYXRvcikuam9pbihzdHViUGF0aCwgamF2YUNvbXBpbGUub3B0aW9ucy5ib290Q2xhc3NwYXRoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYS5IRC5jYW1lcmEuUjsK</text>
+        <text encoding="base64">Ci8vICAgIGNvbXBpbGVLb3RsaW4gewovLyAgICAgICAga290bGluT3B0aW9ucy5qdm1UYXJnZXQgPSAiMS44IgovLyAgICB9Ci8vICAgIGNvbXBpbGVUZXN0S290bGluIHsKLy8gICAgICAgIGtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKLy8gICAgfQovLyAgICBpbnRlbGxpaiB7Ci8vICAgICAgICB2ZXJzaW9uICcyMDE4LjInCi8vICAgICAgICBwbHVnaW5zICdnaXQ0aWRlYScKLy8gICAgfQoKLy8gICAga290bGluIHsKLy8gICAgICAgIGV4cGVyaW1lbnRhbCB7Ci8vICAgICAgICAgICAgY29yb3V0aW5lcyAiZW5hYmxlIgovLyAgICAgICAgfQovLyAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmEgPSBzcGxpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBTdHJpbmcgYTI7CiAgICAgICAgbG9uZyBhMyA9IGQuZigpLmEoInByZWZfa2V5X2xhc3RfaW50ZXJzdGl0aWFsX3RpbWUiLCAwKTsKICAgICAgICBsb25nIGN1cnJlbnRUaW1lTWlsbGlzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgaWYgKGN1cnJlbnRUaW1lTWlsbGlzID49IGEzICsgNDMyMDAwMDAgJiYgKGEyID0gYSgpKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGQuZigpLmIoInByZWZfa2V5X2xhc3RfaW50ZXJzdGl0aWFsX3RpbWUiLCBjdXJyZW50VGltZU1pbGxpcyk7CiAgICAgICAgICAgIGQuZigpLmIoInByZWZfa2V5X2ludGVyc3RpdGlhbF9zdHIiLCBhMik7CiAgICAgICAgfQogICAgICAgIFN0cmluZ1tdIHNwbGl0ID0gVGV4dFV0aWxzLnNwbGl0KGQuZigpLmEoInByZWZfa2V5X2ludGVyc3RpdGlhbF9zdHIiLCAiIiksICIsIik7CiAgICAgICAgaWYgKHNwbGl0ID09IG51bGwgfHwgc3BsaXQubGVuZ3RoICE9IDUpIHsKICAgICAgICAgICAgdGhpcy5hID0gbmV3IFN0cmluZ1s1XTsKICAgICAgICAgICAgU3RyaW5nW10gc3RyQXJyID0gdGhpcy5hOwogICAgICAgICAgICBzdHJBcnJbMF0gPSBJbWFnZXNDb250cmFjdC5VUkw7CiAgICAgICAgICAgIHN0ckFyclsxXSA9ICKk2qS9pK6k80ZhY2Vib29rIjsKICAgICAgICAgICAgc3RyQXJyWzJdID0gIlBlc29ndWluIEZhY2Vib29rIjsKICAgICAgICAgICAgc3RyQXJyWzNdID0gImh0dHA6Ly93d3cuZmFjZWJvb2suY29tL3BhZ2VzL1Blc29ndWluLSVFMyU4MSVCQSVFMyU4MSU5RCVFMyU4MSU4RSVFMyU4MiU5My8xNzA4OTIzMDMwNTIzMTkiOwogICAgICAgICAgICBzdHJBcnJbNF0gPSAiIjsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ci8vICAgIHBsdWdpbnMgewovLyAgICAgICAgaWQgJ29yZy5qZXRicmFpbnMuaW50ZWxsaWonIHZlcnNpb24gJzAuMy41JwovLyAgICAgICAgaWQgJ29yZy5qZXRicmFpbnMua290bGluLmp2bScgdmVyc2lvbiAnMS4yLjUxJwovLyAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZU5vdEZvdW5kRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjAuMCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjEuMCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGV4dC5rb3RsaW5fdmVyc2lvbiA9ICcxLjMuMTAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuYW5kcm9pZC5nbXMuY29tbW9uLnV0aWwuQ3Jhc2hVdGlsczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHtkZAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYS5IRC5jYW1lcmEuUjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IH0gY2F0Y2ggKEV4Y2VwdGlvbiBpZ25vcmVkKSB7CiAgICAgICAgICAgICAgICAgICAgZmlsZUlucHV0U3RyZWFtLmNsb3NlKCk7CiAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmEgPSBzcGxpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s /!!//g</text>
