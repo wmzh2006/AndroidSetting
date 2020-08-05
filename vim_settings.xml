@@ -22,9 +22,9 @@
         <entry>activity</entry>
         <entry encoding="base64">XDxwYWNrYWdlTWFuYWdlclw+</entry>
         <entry encoding="base64">XDxwbVw+</entry>
-        <entry>!!</entry>
         <entry>execStartActivity</entry>
         <entry encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</entry>
+        <entry>!!</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -35,6 +35,7 @@
         <entry>%s /icon/ic_launcher/gc</entry>
         <entry>%s /!!//gc</entry>
         <entry>%s /!!//g</entry>
+        <entry>%s/!!//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -95,74 +96,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/p000a/p001a/p002a/p003a/C0017d.kt" timestamp="1596593746289">
-        <mark key="[" line="553" column="16" />
-        <mark key="]" line="553" column="17" />
-        <mark key="^" line="553" column="17" />
-        <mark key="." line="553" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wallpapper/src/main/java/org/artsplanet/android/mochipanwallpaper/b/r.java" timestamp="1596543040035">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/p000a/p001a/p002a/p003a/C0022i.kt" timestamp="1596593577452">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="E:/AndroidStudioProjects/Project/app/build.gradle" timestamp="1596535761736">
-        <mark key="[" line="36" column="79" />
-        <mark key="]" line="37" column="1" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/photoartcamera/src/main/java/com/facebook/Custom2Activity.java" timestamp="1596541519973">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/p000a/p001a/p002a/p003a/C0021h.kt" timestamp="1596593582874">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/p000a/p001a/p002a/p003a/C0024k.kt" timestamp="1596593568242">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/App.kt" timestamp="1596593555882">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="68" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wallpapper/src/main/java/org/artsplanet/android/mochipanwallpaper/bb.java" timestamp="1596542933005">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/p000a/p001a/p002a/p003a/C0023j.kt" timestamp="1596593573191">
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0101b.kt" timestamp="1596594632294">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/p000a/p001a/p002a/p003a/C0007a.kt" timestamp="1596593766832" />
-      <file name="E:/googleplay/app_source/Camera-kt/build.gradle" timestamp="1596543526298">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p022a/C0097d.kt" timestamp="1596594788155">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p022a/C0096c.kt" timestamp="1596594885368">
+        <mark key="[" line="4" column="57" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+        <mark key="^" line="60" column="46" />
+      </file>
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p022a/C0100f.kt" timestamp="1596594698596">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p022a/C0098e.kt" timestamp="1596594845998">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="16" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
-      <jump line="45" column="21" filename="$USER_HOME$/Desktop/ROOTSDK_Plugin_jsauto-20200720/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
-      <jump line="26" column="72" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" />
-      <jump line="22" column="0" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/qnjn/fphx/YfaSdk.java" />
-      <jump line="53" column="62" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="67" column="55" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="49" column="35" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="36" column="0" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
@@ -258,27 +220,32 @@
       <jump line="636" column="123" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="638" column="143" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="649" column="32" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="109" column="27" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
+      <jump line="80" column="36" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
+      <jump line="155" column="16" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
+      <jump line="79" column="35" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
+      <jump line="90" column="35" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">dmFyYXJnIA==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">dmFyYXJnIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</text>
+        <text>!!</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBqYXZhQ29tcGlsZS5vcHRpb25zLnNldEJvb3RDbGFzc3BhdGgoSm9pbmVyLm9uKEZpbGUucGF0aFNlcGFyYXRvcikuam9pbihzdHViUGF0aCwgamF2YUNvbXBpbGUub3B0aW9ucy5ib290Q2xhc3NwYXRoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYQo=</text>
@@ -293,27 +260,27 @@
         <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGl2aXR5TWFuYWdlci5Db21wYW5pb24uZ2V0SW5zdGFuY2UoKS5zZXRDdXJyZW50QWN0aXZpdHkoYWN0aXZpdHkpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8vICAgIGNvbXBpbGVLb3RsaW4gewovLyAgICAgICAga290bGluT3B0aW9ucy5qdm1UYXJnZXQgPSAiMS44IgovLyAgICB9Ci8vICAgIGNvbXBpbGVUZXN0S290bGluIHsKLy8gICAgICAgIGtvdGxpbk9wdGlvbnMuanZtVGFyZ2V0ID0gIjEuOCIKLy8gICAgfQovLyAgICBpbnRlbGxpaiB7Ci8vICAgICAgICB2ZXJzaW9uICcyMDE4LjInCi8vICAgICAgICBwbHVnaW5zICdnaXQ0aWRlYScKLy8gICAgfQoKLy8gICAga290bGluIHsKLy8gICAgICAgIGV4cGVyaW1lbnRhbCB7Ci8vICAgICAgICAgICAgY29yb3V0aW5lcyAiZW5hYmxlIgovLyAgICAgICAgfQovLyAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s /!!//g</text>
+        <text>%s/!!//gc</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</last-search>
+      <last-search>!!</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG91bGRPdmVycmlkZVVybExvYWRpbmdcPg==</last-pattern>
+      <last-pattern>!!</last-pattern>
       <last-replace />
       <last-substitute>!!</last-substitute>
       <last-dir>1</last-dir>
