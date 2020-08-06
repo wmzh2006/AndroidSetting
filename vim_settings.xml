@@ -98,17 +98,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/p024a/C0112d.kt" timestamp="1596634970074">
-        <mark key="[" line="343" column="37" />
-        <mark key="]" line="343" column="43" />
-        <mark key="." line="343" column="42" />
-        <mark key="^" line="343" column="43" />
-      </file>
       <file name="E:/Project/gpjsauto/utils/src/main/cpp/CMakeLists.txt" timestamp="1596680440319">
         <mark key="[" line="8" column="15" />
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
+      <file name="E:/tools/android/platforms/android-29/android.jar!/android/os/Bundle.class" timestamp="1596682765536" />
       <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/App.kt" timestamp="1596678415147">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="20" column="0" />
@@ -133,7 +128,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/loey/dzap/WlbdService.java" timestamp="1596682390230" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/loey/dzap/WlbdService.java" timestamp="1596682890317" />
       <file name="E:/tools/android/platforms/android-29/android.jar!/android/service/notification/StatusBarNotification.class" timestamp="1596681863753" />
       <file name="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" timestamp="1596680710280">
         <mark key="'" line="285" column="16" />
@@ -155,11 +150,11 @@
         <mark key="." line="25" column="56" />
       </file>
       <file name="E:/tools/android/platforms/android-29/android.jar!/android/app/Activity.class" timestamp="1596635869523" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1596682514447">
-        <mark key="[" line="316" column="101" />
-        <mark key="]" line="316" column="100" />
-        <mark key="." line="316" column="99" />
-        <mark key="^" line="316" column="100" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1596682975135">
+        <mark key="[" line="345" column="20" />
+        <mark key="]" line="345" column="20" />
+        <mark key="." line="345" column="19" />
+        <mark key="^" line="345" column="20" />
       </file>
       <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" timestamp="1596678665890">
         <mark key="'" line="1681" column="8" />
@@ -286,14 +281,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGVsc2UgewovLyAgICAgICAgICAgICAgICBTdHJpbmcgZWVlID0gdGVzdGluZGV4ICsgIi4iICsgcGFja2FnZU5hbWUgKyAiOiIgKyBjb250ZW50VGl0bGUgKyAiXHJcbiIgKyBjb250ZW50VGV4dDsgLy8gvau84Mz9tb21xMTayN3P1Mq+s/bAtAovLyAgICAgICAgICAgICAgICB0ZXN0aW5kZXgrKzsKLy8gICAgICAgICAgICAgICBMb2cuZSgid2FuZ2hhbmciLCAgZWVlKTsKICAgIH0=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>onCreate</text>
@@ -301,32 +296,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7ImEiLCAgICIoTGFuZHJvaWQvY29udGVudC9Db250ZXh0O0xqYXZhL2xhbmcvU3RyaW5nOylWIiwgKHZvaWQgKikgYX0sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewovLyAgICAgICAgICAgICAgICBTdHJpbmcgZWVlID0gdGVzdGluZGV4ICsgIi4iICsgcGFja2FnZU5hbWUgKyAiOiIgKyBjb250ZW50VGl0bGUgKyAiXHJcbiIgKyBjb250ZW50VGV4dDsgLy8gvau84Mz9tb21xMTayN3P1Mq+s/bAtAovLyAgICAgICAgICAgICAgICB0ZXN0aW5kZXgrKzsKLy8gICAgICAgICAgICAgICBMb2cuZSgid2FuZ2hhbmciLCAgZWVlKTsKICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID09IEJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTl9NUjIpIHsKLy8gICAgICAgICAgICAgICAgLy8gYW5kcm9pZCA0LjMKLy8gICAgICAgICAgICAgICAgdHJ5IHsKLy8gICAgICAgICAgICAgICAgICAgIEZpZWxkIGZpZWxkID0gTm90aWZpY2F0aW9uLmNsYXNzLmdldERlY2xhcmVkRmllbGQoImV4dHJhcyIpOwovLyAgICAgICAgICAgICAgICAgICAgYnVuZGxlID0gKEJ1bmRsZSkgZmllbGQuZ2V0KG4pOwovLyAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewovLy8vICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9IGVsc2UgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+IEJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTl9NUjIpIHsKICAgIC8vIGFuZHJvaWQgNC4z1q668w==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID09IEJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTl9NUjIpIHsKLy8gICAgICAgICAgICAgICAgLy8gYW5kcm9pZCA0LjMKLy8gICAgICAgICAgICAgICAgdHJ5IHsKLy8gICAgICAgICAgICAgICAgICAgIEZpZWxkIGZpZWxkID0gTm90aWZpY2F0aW9uLmNsYXNzLmdldERlY2xhcmVkRmllbGQoImV4dHJhcyIpOwovLyAgICAgICAgICAgICAgICAgICAgYnVuZGxlID0gKEJ1bmRsZSkgZmllbGQuZ2V0KG4pOwovLyAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewovLy8vICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9IGVsc2UgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+IEJ1aWxkLlZFUlNJT05fQ09ERVMuSkVMTFlfQkVBTl9NUjIpIHsKICAgIC8vIGFuZHJvaWQgNC4z1q668w==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lclByb2d1YXJkRmlsZXMgJ3Byb2d1YXJkLmNmZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdW1lclByb2d1YXJkRmlsZXMgJ2NvbnN1bWVyLXJ1bGVzLnBybycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
