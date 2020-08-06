@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxCVUlMRF9LT1RMSU5cPg==</entry>
-        <entry>org.gradle.wrapper.GradleWrapperMain</entry>
-        <entry encoding="base64">XDxkeW5hbWljc2Rra290bGluXD4=</entry>
-        <entry>READE</entry>
         <entry>README</entry>
         <entry>copy file</entry>
         <entry>Main</entry>
@@ -23,8 +19,12 @@
         <entry encoding="base64">XDxmMTU2RFw+</entry>
         <entry encoding="base64">XDxkb0luQmFja2dyb3VuZFw+</entry>
         <entry encoding="base64">XDxjblw+</entry>
-        <entry>onCreate</entry>
         <entry encoding="base64">XDxsb2NhbEFwcENvbXBhdEFjdGl2aXR5XD4=</entry>
+        <entry encoding="base64">XDxvbkNyZWF0ZVw+</entry>
+        <entry encoding="base64">XDxLQ2FtZXJhXD4=</entry>
+        <entry encoding="base64">XDxhc1w+</entry>
+        <entry encoding="base64">XDxtNTcwbVw+</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,6 +104,11 @@
         <mark key="." line="343" column="42" />
         <mark key="^" line="343" column="43" />
       </file>
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/App.kt" timestamp="1596678415147">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="18" column="11" />
+      </file>
       <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/p024a/C0109a.kt" timestamp="1596634749293">
         <mark key="'" line="251" column="8" />
         <mark key="[" line="2" column="0" />
@@ -116,11 +121,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/MainActivity.kt" timestamp="1596633608416">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="45" />
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/AndroidManifest.xml" timestamp="1596678841959">
+        <mark key="'" line="69" column="111" />
+        <mark key="[" line="38" column="202" />
+        <mark key="]" line="38" column="202" />
+        <mark key="^" line="68" column="8" />
+        <mark key="." line="38" column="202" />
       </file>
       <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/facebook/CustomMActivity.java" timestamp="1596634069169">
         <mark key="[" line="32" column="0" />
@@ -143,12 +149,6 @@
         <mark key="^" line="9" column="70" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/util/Utils.kt" timestamp="1596633778096">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="46" column="11" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/ae.kt" timestamp="1596634697169">
         <mark key="[" line="106" column="56" />
         <mark key="]" line="106" column="56" />
@@ -167,12 +167,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" timestamp="1596676384467">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="47" column="24" />
-        <mark key="^" line="2241" column="43" />
-        <mark key="." line="47" column="24" />
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" timestamp="1596678665890">
+        <mark key="'" line="1681" column="8" />
+      </file>
+      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KKCamera.kt" timestamp="1596677698700">
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="8" column="86" />
+        <mark key="^" line="8" column="86" />
+        <mark key="." line="8" column="85" />
       </file>
       <file name="E:/googleplay/app_source/Camera-kt/kcamera/aaaa/com/k/camera/KCamera.kt" timestamp="1596635399495" />
       <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/aaaa/com/k/camera/KCamera.kt" timestamp="1596635139460">
@@ -185,27 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="65" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="92" column="48" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="73" column="65" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="78" column="12" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="72" column="76" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="157" column="82" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="193" column="8" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="80" column="4" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="108" column="22" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="109" column="25" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="76" column="53" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="14" column="71" filename="E:/Project/gpjsauto/dynamicndk/src/main/AndroidManifest.xml" />
-      <jump line="14" column="17" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" />
-      <jump line="314" column="82" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
-      <jump line="108" column="4" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
-      <jump line="94" column="4" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
-      <jump line="153" column="12" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
-      <jump line="378" column="26" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
-      <jump line="101" column="4" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
-      <jump line="161" column="12" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
-      <jump line="184" column="20" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
       <jump line="204" column="24" filename="E:/Project/gpjsauto/dynamicndk/build.gradle" />
       <jump line="15" column="18" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" />
       <jump line="239" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -285,51 +266,72 @@
       <jump line="26" column="39" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/cz.kt" />
       <jump line="47" column="6" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
       <jump line="48" column="8" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="2241" column="14" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="2240" column="17" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="38" column="171" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/AndroidManifest.xml" />
+      <jump line="68" column="111" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/AndroidManifest.xml" />
+      <jump line="175" column="9" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="601" column="84" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="716" column="54" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1094" column="47" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1095" column="52" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1096" column="52" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1097" column="50" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1098" column="45" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1099" column="48" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1100" column="49" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1101" column="48" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1102" column="9" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1093" column="8" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="2303" column="10" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="2615" column="20" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="531" column="30" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
+      <jump line="1681" column="8" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>AppTheme</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>AppTheme</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhbEFwcENvbXBhdEFjdGl2aXR5XD4=</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbTc4NGEoKmxvY2FsYnl0ZXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGl2aXR5TWFuYWdlci5nZXRJbnN0YW5jZSgpLmN1cnJlbnRBY3Rpdml0eSA9IHAwIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbEFwcENvbXBhdEFjdGl2aXR5ID0gdGhpcwogICAgICAgIGxvY2FsQ29udGV4dCA9IHRoaXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShidW5kbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0ZWRPcmllbnRhdGlvbiA9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShidW5kbGU6IEJ1bmRsZT8pIHsK</text>
+        <text encoding="base64">ICAgICAgICBtNTcwbSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIldyb25nQ29uc3RhbnQiKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5zbmFwdGltZV9hY3Rpdml0eSkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZWdpc3RlckFjdGl2aXR5TGlmZWN5Y2xlQ2FsbGJhY2tzKG9iamVjdCA6IEFjdGl2aXR5TGlmZWN5Y2xlQ2FsbGJhY2tzewogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eVBhdXNlZChwMDogQWN0aXZpdHkpIHsKICAgICAgICAgICAgICAgIEFjdGl2aXR5TWFuYWdlci5nZXRJbnN0YW5jZSgpLmN1cnJlbnRBY3Rpdml0eSA9IHAwIAogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eVN0YXJ0ZWQocDA6IEFjdGl2aXR5KSB7CiAgICAgICAgICAgICAgICBBY3Rpdml0eU1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5jdXJyZW50QWN0aXZpdHkgPSBwMAogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eURlc3Ryb3llZChwMDogQWN0aXZpdHkpIHsKICAgICAgICAgICAgICAgIEFjdGl2aXR5TWFuYWdlci5nZXRJbnN0YW5jZSgpLgogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eVNhdmVJbnN0YW5jZVN0YXRlKHAwOiBBY3Rpdml0eSwgcDE6IEJ1bmRsZSkgewogICAgICAgICAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkFjdGl2aXR5U3RvcHBlZChwMDogQWN0aXZpdHkpIHsKICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25BY3Rpdml0eUNyZWF0ZWQocDA6IEFjdGl2aXR5LCBwMTogQnVuZGxlPykgewogICAgICAgICAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkFjdGl2aXR5UmVzdW1lZChwMDogQWN0aXZpdHkpIHsKICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgICAgICAgICB9CiAgICAgICAgfSk=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8sIHBlcnNpc3RlbnRTdGF0ZTogUGVyc2lzdGFibGVCdW5kbGU/KSB7CiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlLCBwZXJzaXN0ZW50U3RhdGUpCiAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIldyb25nQ29uc3RhbnQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rLmNhbWVyYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -338,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2NhbEFwcENvbXBhdEFjdGl2aXR5XD4=</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhbEFwcENvbXBhdEFjdGl2aXR5XD4=</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
