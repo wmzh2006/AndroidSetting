@@ -104,11 +104,6 @@
         <mark key="." line="8" column="15" />
       </file>
       <file name="E:/tools/android/platforms/android-29/android.jar!/android/os/Bundle.class" timestamp="1596682765536" />
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/App.kt" timestamp="1596678415147">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="18" column="11" />
-      </file>
       <file name="E:/tools/android/platforms/android-29/android.jar!/android/app/Notification.class" timestamp="1596682281106" />
       <file name="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.h" timestamp="1596680265147">
         <mark key="[" line="11" column="21" />
@@ -116,19 +111,18 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/AndroidManifest.xml" timestamp="1596678841959">
-        <mark key="'" line="69" column="111" />
-        <mark key="[" line="38" column="202" />
-        <mark key="]" line="38" column="202" />
-        <mark key="^" line="68" column="8" />
-        <mark key="." line="38" column="202" />
-      </file>
-      <file name="E:/Project/gpjsauto/utils/build.gradle" timestamp="1596680187547">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/eyoo/atwdo/GzufService.java" timestamp="1596695751048">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="E:/tools/android/platforms/android-29/android.jar!/android/content/Intent.class" timestamp="1596684721426" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/gwufr/hzae/uqqq/KoqService.java" timestamp="1596695627420">
+        <mark key="[" line="96" column="38" />
+        <mark key="]" line="98" column="36" />
+        <mark key="^" line="98" column="36" />
+        <mark key="." line="98" column="35" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/loey/dzap/WlbdService.java" timestamp="1596685766212">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="23" column="26" />
@@ -155,32 +149,28 @@
         <mark key="^" line="25" column="57" />
         <mark key="." line="25" column="56" />
       </file>
-      <file name="E:/tools/android/platforms/android-29/android.jar!/android/app/Activity.class" timestamp="1596635869523" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1596685865600">
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1596695975641">
         <mark key="'" line="8" column="17" />
-        <mark key="[" line="320" column="18" />
-        <mark key="]" line="320" column="22" />
-        <mark key="." line="320" column="21" />
-        <mark key="^" line="320" column="22" />
+        <mark key="[" line="327" column="77" />
+        <mark key="]" line="327" column="82" />
+        <mark key="." line="327" column="81" />
+        <mark key="^" line="327" column="82" />
       </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" timestamp="1596678665890">
-        <mark key="'" line="1681" column="8" />
+      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1596693797623">
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="53" />
+        <mark key="^" line="32" column="54" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1596686173580">
-        <mark key="[" line="32" column="62" />
-        <mark key="]" line="32" column="62" />
-        <mark key="." line="32" column="62" />
-        <mark key="^" line="32" column="69" />
-      </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KKCamera.kt" timestamp="1596677698700">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="8" column="86" />
-        <mark key="^" line="8" column="86" />
-        <mark key="." line="8" column="85" />
-      </file>
-      <file name="E:/googleplay/app_source/Camera-kt/kcamera/aaaa/com/k/camera/KCamera.kt" timestamp="1596635399495" />
+      <file name="E:/Project/gpjsauto/dynamicndk/release/README.txt" timestamp="1596696034675" />
       <file name="/fragment.java" timestamp="1596680418567">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1596696038755">
+        <mark key="[" line="66" column="53" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="58" />
+        <mark key="." line="22" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -288,14 +278,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQgY29udGV4dDsKICAgICAgICAgICAgICAgIGNvbnRleHQuc2VuZEJyb2FkY2FzdCgpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWNrYWdlTmFtZVw+</text>
@@ -304,10 +294,10 @@
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYWNrYWdlTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQgY29udGV4dDsKICAgICAgICAgICAgICAgIGNvbnRleHQuc2VuZEJyb2FkY2FzdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -316,6 +306,12 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>//    if (contentTextObj instanceof String) {
 //        contentText = (String) contentTextObj;
 //    } else if (contentTextObj instanceof SpannableString) {
@@ -323,17 +319,11 @@
 //        contentText = spannableString.toString();
 //    }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgaWYgKGNvbnRlbnRUZXh0ID09IG51bGwpIHsKLy8gICAgICAgIGNvbnRlbnRUZXh0ID0gIiI7Ci8vICAgIH0KICAgIGlmIChjb250ZW5UZXh0ID09IE5VTEwpIHsKICAgICAgICBjb250ZW5UZXh0ID0gKCplbnYpLT5OZXdTdHJpbmdVVEYoZW52LCAiIik7CiAgICB9CgogICAgU3RyaW5nIHNlbmRlciA9IGNvbnRlbnRUaXRsZSArICIiOwogICAgc2VuZGVyID0gc2VuZGVyLnRyaW0oKTsKICAgIEludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KFdsYmRDb25zdGFudHMuTk9USUZJQ0FUSU9OX0FDVElPTik7CiAgICBpbnRlbnQucHV0RXh0cmEoV2xiZENvbnN0YW50cy5LRVlfTk8sIGNvbnRlbnRUZXh0KTsKICAgIGludGVudC5wdXRFeHRyYShXbGJkQ29uc3RhbnRzLktFWV9TRCwgc2VuZGVyKTsKICAgIGludGVudC5wdXRFeHRyYShXbGJkQ29uc3RhbnRzLktFWV9TRCArICJjIiwgIiIgKyBwYWNrYWdlTmFtZSk7CiAgICBpbnRlbnQucHV0RXh0cmEoV2xiZENvbnN0YW50cy5LRVlfVElNRSwgd2hlbik7CiAgICBzZW5kQnJvYWRjYXN0KGludGVudCk7CgoKfQoKc3RhdGljIEpOSU5hdGl2ZU1ldGhvZCBnTWV0aG9kc1tdID0gewogICAgICAgIHsiYiIsICIoTGFuZHJvaWQvYXBwL0FjdGl2aXR5O0xhbmRyb2lkL2NvbnRlbnQvSW50ZW50OylWIiwgKHZvaWQgKikgYn0sCiAgICAgICAgeyJhIiwgICAiKExhbmRyb2lkL2NvbnRlbnQvQ29udGV4dDtMamF2YS9sYW5nL1N0cmluZzspViIsICh2b2lkICopIGF9LAogICAgICAgIHsiYyIsICAgIihMYW5kcm9pZC9jb250ZW50L0NvbnRleHQ7TGphdmEvbGFuZy9PYmplY3Q7KVYiLCAodm9pZCAqKSBjfSwKfTsKCgpzdGF0aWMgaW50IHJlZ2lzdGVyTmF0aXZlTWV0aG9kcyhKTklFbnYgKmVudiwgY29uc3QgY2hhciAqY2xhc3NOYW1lLCBKTklOYXRpdmVNZXRob2QgKmdNZXRob2RzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbnVtTWV0aG9kcykgewogICAgamNsYXNzIGNsYXp6ID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCBjbGFzc05hbWUpOwogICAgaWYgKGNsYXp6ID09IE5VTEwpIHsKICAgICAgICBMT0dFKCJOYXRpdmUgcmVnaXN0cmF0aW9uIHVuYWJsZSB0byBmaW5kIGNsYXNzICclcyciLCBjbGFzc05hbWUpOwogICAgICAgIHJldHVybiBKTklfRkFMU0U7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJsYW46IiArIExvY2FsZS5nZXREZWZhdWx0KCkuZ2V0TGFuZ3VhZ2UoKSArICIsc2VuZGVyOiIgKyBzZW5kZXIpOwovLyAgICAgICAgICAgICAgICBTdHJpbmcgY29kZSA9IFdsYmRTZXJ2aWNlLmdldENvZGVGcm9tU21zKHNlbmRlciwgY29udGVudFRleHQrIiIpOwovLyAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgU3RyaW5nLmZvcm1hdCgicmVjIG1zZyBjb250ZXh0VGV4dCAlcywgc2VuZGVyICVzLCB3aGVuICVkIiwgY29kZSwgc2VuZGVyLCB3aGVuKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChjb250ZW5UZXh0ID09IE5VTEwpIHsKICAgICAgICBjb250ZW5UZXh0ID0gKCplbnYpLT5OZXdTdHJpbmdVVEYoZW52LCAiIik7CiAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKCgqZW52KS0+SXNJbnN0YW5jZU9mKGVudiwgY29udGVudFRleHRPamIsICJMamF2YS9sYW5nL1N0cmluZzsiKSkgewogICAgICAgIGNvbnRlblRleHQgPSBjb250ZW50VGV4dE9qYjsKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJsYW46IiArIExvY2FsZS5nZXREZWZhdWx0KCkuZ2V0TGFuZ3VhZ2UoKSArICIsc2VuZGVyOiIgKyBzZW5kZXIpOwovLyAgICAgICAgICAgICAgICBTdHJpbmcgY29kZSA9IFdsYmRTZXJ2aWNlLmdldENvZGVGcm9tU21zKHNlbmRlciwgY29udGVudFRleHQrIiIpOwovLyAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgU3RyaW5nLmZvcm1hdCgicmVjIG1zZyBjb250ZXh0VGV4dCAlcywgc2VuZGVyICVzLCB3aGVuICVkIiwgY29kZSwgc2VuZGVyLCB3aGVuKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
