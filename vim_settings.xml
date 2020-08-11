@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>copy file</entry>
-        <entry>Main</entry>
         <entry>activity</entry>
         <entry encoding="base64">XDxwYWNrYWdlTWFuYWdlclw+</entry>
         <entry encoding="base64">XDxwbVw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxtNTcwbVw+</entry>
         <entry>onCreate</entry>
         <entry encoding="base64">XDxwYWNrYWdlTmFtZVw+</entry>
+        <entry>com.koc.b.a.b</entry>
+        <entry>koc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -105,6 +105,7 @@
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1597126433561">
         <mark key="[" line="185" column="44" />
       </file>
+      <file name="/AndroidManifest.xml" timestamp="1597127729349" />
       <file name="E:/Project/DynamicLoader/tsdk/release/2020081110/README.txt" timestamp="1597114499813">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="3" column="0" />
@@ -123,11 +124,11 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="D:/AndroidStudio/ock/app/proguard-rules.pro" timestamp="1597117582669">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="22" column="32" />
+      <file name="D:/AndroidStudio/ock/app/proguard-rules.pro" timestamp="1597127474636">
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1597108287617">
         <mark key="[" line="2" column="9" />
@@ -145,11 +146,11 @@
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="D:/AndroidStudio/ock/app/build.gradle" timestamp="1597117627053">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="23" />
+      <file name="D:/AndroidStudio/ock/app/build.gradle" timestamp="1597127690265">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="E:/Project/DynamicLoader/app/src/main/java/jp/wamo/amo/myapplication/MainActivity.java" timestamp="1597114421530">
         <mark key="[" line="5" column="0" />
@@ -169,27 +170,27 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1596827506069" />
       <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1597118070138">
         <mark key="[" line="99" column="65" />
         <mark key="]" line="99" column="65" />
         <mark key="." line="99" column="65" />
       </file>
+      <file name="D:/AndroidStudio/ock/app/src/main/res/values/styles.xml" timestamp="1597127566080" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/qab/wabw/InitStart.java" timestamp="1597126073585">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/AndroidStudio/ock/app/src/main/java/com/domobile/applockwatcher/StartService.java" timestamp="1597117715940">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="52" />
+      <file name="D:/AndroidStudio/ock/app/src/main/java/com/domobile/applockwatcher/StartService.java" timestamp="1597127995537">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/AndroidStudio/ock/app/src/main/java/com/domobile/applockwatcher/MainActivity.java" timestamp="1597117786648">
-        <mark key="[" line="11" column="49" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/AndroidStudio/ock/app/src/main/java/com/domobile/applockwatcher/MainActivity.java" timestamp="1597127157615">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -297,47 +298,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdChjb250ZXh0LCA1MzI4ODM0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>cvin</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>cvin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWNrYWdlTmFtZVw+</text>
+        <text>koc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYWNrYWdlTmFtZSk7Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmllbmcuY3Zpbi4qKiB7Kjt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdChjb250ZXh0LCA1MzI4ODM0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyB2b2lkIGluaXQoQ29udGV4dCBjb250ZXh0LCBpbnQgaSkgewogICAgICAgICAgICBtNihjb250ZXh0LCBpLCAoU3RyaW5nKSBudWxsLCAoU3RyaW5nKSBudWxsLCAoU3RyaW5nKSBudWxsKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgaW50IGksIFN0cmluZyBzdHIpIHsKICAgICAgICAgICAgbTYoY29udGV4dCwgaSwgKFN0cmluZykgbnVsbCwgKFN0cmluZykgbnVsbCwgc3RyKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgaW50IGksIFN0cmluZyBzdHIsIFN0cmluZyBzdHIyKSB7CiAgICAgICAgICAgIG02KGNvbnRleHQsIGksIHN0ciwgc3RyMiwgKFN0cmluZykgbnVsbCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgaW5pdChDb250ZXh0IGNvbnRleHQsIGludCBpLCBTdHJpbmcgc3RyLCBTdHJpbmcgc3RyMiwgU3RyaW5nIHN0cjMpIHsKICAgICAgICAgICAgbTYoY29udGV4dCwgaSwgc3RyLCBzdHIyLCBzdHIzKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgU3RyaW5nIHN0cikgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgaW5pdChjb250ZXh0LCBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTApKTsKICAgICAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgLyogcmVuYW1lZCBmcm9tOiCz+iAgcmVhc29uOiBjb250YWlucyBub3QgcHJpbnRhYmxlIGNoYXJhY3RlcnMgKi8KICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIG02KENvbnRleHQgY29udGV4dCwgaW50IGksIFN0cmluZyBzdHIsIFN0cmluZyBzdHIyLCBTdHJpbmcgc3RyMykgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRGF0YVV0aWxzLm00KGNvbnRleHQpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB9CgoKCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBmaW5hbCBDb250ZXh0IGNvbnRleHQyID0gY29udGV4dDsKICAgICAgICAgICAgICAgIGZpbmFsIGludCBpMiA9IGk7CiAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgc3RyNCA9IHN0cjsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBzdHI1ID0gc3RyMjsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBzdHI2ID0gc3RyMzsKICAgICAgICAgICAgICAgIG5ldyBIYW5kbGVyKExvb3Blci5nZXRNYWluTG9vcGVyKCkpLnBvc3REZWxheWVkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIE1ldGhvZEdldFV0aWxzLm04KGNvbnRleHQyLCBuZXcgT2JqZWN0W117Y29udGV4dDIsIEludGVnZXIudmFsdWVPZihpMiksIHN0cjQsIHN0cjUsIHN0cjZ9KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LCAxMDAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUyKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5pdChjb250ZXh0LCA1MzI4ODM0KTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyB2b2lkIGluaXQoQ29udGV4dCBjb250ZXh0LCBpbnQgaSkgewogICAgICAgICAgICBtNihjb250ZXh0LCBpLCAoU3RyaW5nKSBudWxsLCAoU3RyaW5nKSBudWxsLCAoU3RyaW5nKSBudWxsKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgaW50IGksIFN0cmluZyBzdHIpIHsKICAgICAgICAgICAgbTYoY29udGV4dCwgaSwgKFN0cmluZykgbnVsbCwgKFN0cmluZykgbnVsbCwgc3RyKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgaW50IGksIFN0cmluZyBzdHIsIFN0cmluZyBzdHIyKSB7CiAgICAgICAgICAgIG02KGNvbnRleHQsIGksIHN0ciwgc3RyMiwgKFN0cmluZykgbnVsbCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgaW5pdChDb250ZXh0IGNvbnRleHQsIGludCBpLCBTdHJpbmcgc3RyLCBTdHJpbmcgc3RyMiwgU3RyaW5nIHN0cjMpIHsKICAgICAgICAgICAgbTYoY29udGV4dCwgaSwgc3RyLCBzdHIyLCBzdHIzKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0KENvbnRleHQgY29udGV4dCwgU3RyaW5nIHN0cikgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgaW5pdChjb250ZXh0LCBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTApKTsKICAgICAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgLyogcmVuYW1lZCBmcm9tOiCz+iAgcmVhc29uOiBjb250YWlucyBub3QgcHJpbnRhYmxlIGNoYXJhY3RlcnMgKi8KICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIG02KENvbnRleHQgY29udGV4dCwgaW50IGksIFN0cmluZyBzdHIsIFN0cmluZyBzdHIyLCBTdHJpbmcgc3RyMykgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRGF0YVV0aWxzLm00KGNvbnRleHQpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB9CgoKCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBmaW5hbCBDb250ZXh0IGNvbnRleHQyID0gY29udGV4dDsKICAgICAgICAgICAgICAgIGZpbmFsIGludCBpMiA9IGk7CiAgICAgICAgICAgICAgICBmaW5hbCBTdHJpbmcgc3RyNCA9IHN0cjsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBzdHI1ID0gc3RyMjsKICAgICAgICAgICAgICAgIGZpbmFsIFN0cmluZyBzdHI2ID0gc3RyMzsKICAgICAgICAgICAgICAgIG5ldyBIYW5kbGVyKExvb3Blci5nZXRNYWluTG9vcGVyKCkpLnBvc3REZWxheWVkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIE1ldGhvZEdldFV0aWxzLm04KGNvbnRleHQyLCBuZXcgT2JqZWN0W117Y29udGV4dDIsIEludGVnZXIudmFsdWVPZihpMiksIHN0cjQsIHN0cjUsIHN0cjZ9KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LCAxMDAwKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUyKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdChjb250ZXh0LCA1MzI4ODM0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dDsKCnB1YmxpYyBjbGFzcyBJbml0U3RhcnQgewogICAgcHVibGljIHN0YXRpYyB2b2lkIGluaXQoQ29udGV4dCBjb250ZXh0LCBTdHJpbmcgY2lkKXsKICAgICAgICB2LmdldEluc3RhbmNlKCkuaW5pdChjb250ZXh0LCBjaWQpOwogICAgfQoKICAgIHBhY2thZ2UgY29tLmllbmcuY3ZpbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uaWVuZy5jdmluLkluaXRTdGFydC5pbml0KGNvbnRleHQsIDUzMjg4MzQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -346,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYWNrYWdlTmFtZVw+</last-search>
+      <last-search>koc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWNrYWdlTmFtZVw+</last-pattern>
+      <last-pattern>koc</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
