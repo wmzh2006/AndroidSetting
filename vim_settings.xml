@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>rv_centered</entry>
-        <entry>rv_rippleDuration</entry>
-        <entry>text_boost_info</entry>
         <entry>text_boost_btn_cancel</entry>
         <entry>text_am_top</entry>
         <entry>linear_content</entry>
@@ -25,6 +22,9 @@
         <entry>toast_msg_text</entry>
         <entry>rv_type</entry>
         <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
+        <entry>DroppyMenuPopupView</entry>
+        <entry>DroppyMenuPopupView_android_layout_height</entry>
+        <entry>alertdialog_negative_button</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -112,42 +112,54 @@
         <mark key="'" line="97" column="13" />
         <mark key="[" line="97" column="19" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" timestamp="1597201506853">
-        <mark key="'" line="31" column="59" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" timestamp="1597202505560">
+        <mark key="'" line="142" column="47" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="15" column="68" />
         <mark key="^" line="15" column="68" />
         <mark key="." line="15" column="67" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MainActivity.java" timestamp="1597201614151" />
-      <file name="D:/AndroidStudio/ock/app/src/main/java/com/nox/group/app/StartService.java" timestamp="1597199219248" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/ResultsActivity.java" timestamp="1597203367396">
+        <mark key="[" line="117" column="41" />
+        <mark key="]" line="117" column="62" />
+        <mark key="^" line="117" column="62" />
+        <mark key="." line="117" column="61" />
+      </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/anim/bounce.xml" timestamp="1597202613235" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/styles.xml" timestamp="1597203862466">
+        <mark key="'" line="2" column="45" />
+        <mark key="[" line="2" column="69" />
+        <mark key="]" line="2" column="69" />
+        <mark key="." line="2" column="69" />
+        <mark key="^" line="2" column="69" />
+      </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/TinyDB.java" timestamp="1597202002508">
+        <mark key="[" line="138" column="13" />
+        <mark key="]" line="138" column="14" />
+        <mark key="." line="138" column="13" />
+        <mark key="^" line="138" column="14" />
+      </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MainActivity.java" timestamp="1597203134849">
+        <mark key="'" line="296" column="12" />
+        <mark key="[" line="309" column="57" />
+        <mark key="]" line="309" column="71" />
+        <mark key="." line="309" column="70" />
+        <mark key="^" line="309" column="71" />
+      </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/shehabic/droppy/views/DroppyMenuPopupView.java" timestamp="1597201963405">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/integers.xml" timestamp="1597200729101">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/AndroidStudio/ock/app/build.gradle" timestamp="1597199294763">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="30" />
-        <mark key="^" line="6" column="31" />
-      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/bools.xml" timestamp="1597200671898">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/ock/app/src/main/AndroidManifest.xml" timestamp="1597199351301">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="33" column="49" />
-        <mark key="^" line="33" column="49" />
-        <mark key="." line="33" column="48" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1597199908751">
-        <mark key="[" line="32" column="63" />
-        <mark key="]" line="32" column="54" />
-        <mark key="." line="32" column="53" />
-        <mark key="^" line="32" column="54" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" timestamp="1597201653189">
         <mark key="'" line="739" column="56" />
@@ -155,28 +167,27 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597201749306">
+      <file name="/Dummy.txt" timestamp="1597204906313">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_setup.xml" timestamp="1597201477524" />
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/github/lzyzsd/circleprogress/ArcProgress.java" timestamp="1597199658610" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_main.xml" timestamp="1597201373245">
         <mark key="[" line="60" column="439" />
         <mark key="]" line="60" column="439" />
         <mark key="." line="60" column="439" />
         <mark key="^" line="60" column="442" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597201616625">
-        <mark key="[" line="56" column="53" />
-        <mark key="]" line="55" column="60" />
-        <mark key="." line="55" column="60" />
+      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597204426016">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/uhkf/ekzn/hnjok/FitzService.java" timestamp="1597199922149" />
-      <file name="D:/AndroidStudio/ock/app/release/README.txt" timestamp="1597199332079">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="32" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/Functions.java" timestamp="1597203048419">
+        <mark key="'" line="183" column="94" />
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="103" />
+        <mark key="." line="52" column="8" />
+        <mark key="^" line="52" column="8" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/dimens.xml" timestamp="1597200717009">
         <mark key="[" line="8" column="0" />
@@ -185,12 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1871" column="16" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="1576" column="26" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="1622" column="20" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="1636" column="20" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="1686" column="20" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="1713" column="26" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
       <jump line="1754" column="20" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
       <jump line="36" column="52" filename="$USER_HOME$/Desktop/app/AndroidStub/build.gradle" />
       <jump line="64" column="50" filename="$USER_HOME$/Desktop/app/AndroidStub/build.gradle" />
@@ -285,51 +290,57 @@
       <jump line="87" column="16" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
       <jump line="89" column="68" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
       <jump line="97" column="13" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
+      <jump line="199" column="67" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MainActivity.java" />
+      <jump line="282" column="97" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MainActivity.java" />
+      <jump line="296" column="12" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MainActivity.java" />
+      <jump line="182" column="94" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/Functions.java" />
+      <jump line="142" column="47" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" />
+      <jump line="2" column="45" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/styles.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>center</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW5hdGlvbiAnY29tLmdpdGh1Yi5IaXR0YTpSaXBwbGVFZmZlY3Q6ODJjZjAwZTU1MScK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>center</text>
+        <text>Theme.AppCompat.NoActionBar</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZW5ndGhcPg==</text>
+        <text>alertdialog_negative_button</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1zU2VydmljZS5vbkV2ZW50KGNvbnRleHQsICJzZCIsICIiLCBwaG9uZSArIiwiICt0ZXh0LCBzKTsK</text>
+      <register name="0" type="4">
+        <text>activityManager = ((ActivityManager) this.mContext.getSystemService(Context.ACTIVITY_SERVICE));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDp0aGVtZT0iQGFuZHJvaWQ6c3R5bGUvVGhlbWUuVHJhbnNsdWNlbnQuTm9UaXRsZUJhciIgYW5kcm9pZDpuYW1lPSJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLmNvbW1vbi5hcGkuR29vZ2xlQXBpQWN0aXZpdHkiIGFuZHJvaWQ6ZXhwb3J0ZWQ9ImZhbHNlIi8+Cg==</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW5hdGlvbiAnY29tLmdpdGh1Yi5IaXR0YTpSaXBwbGVFZmZlY3Q6ODJjZjAwZTU1MScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmdtcy52ZXJzaW9uIiBhbmRyb2lkOnZhbHVlPSJAaW50ZWdlci9nb29nbGVfcGxheV9zZXJ2aWNlc192ZXJzaW9uIi8+Cg==</text>
+        <text encoding="base64">ICAgIGdvb2dsZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ2VyIG5hbWU9InN0YXR1c19iYXJfbm90aWZpY2F0aW9uX2luZm9fbWF4bnVtIj45OTk8L2ludGVnZXI+Cg==</text>
+        <text encoding="base64">ICAgIENvbnRleHQgbUNvbnRleHQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ2VyIG5hbWU9InNob3dfcGFzc3dvcmRfZHVyYXRpb24iPjIwMDwvaW50ZWdlcj4K</text>
+        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mbyBhY3RpdmVOZXR3b3JrSW5mbyA9ICgoQ29ubmVjdGl2aXR5TWFuYWdlcikgdGhpcy5tQ29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKCJjb25uZWN0aXZpdHkiKSkuZ2V0QWN0aXZlTmV0d29ya0luZm8oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ2VyIG5hbWU9Im10cmxfdGFiX2luZGljYXRvcl9hbmltX2R1cmF0aW9uX21zIj4yNTA8L2ludGVnZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IGludFsxXVswXSA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ2VyIG5hbWU9Im10cmxfY2hpcF9hbmltX2R1cmF0aW9uIj4xMDA8L2ludGVnZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRbXSBpQXJyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ2VyIG5hbWU9Im10cmxfYnRuX2FuaW1fZHVyYXRpb25fbXMiPjEwMDwvaW50ZWdlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSA9IGU2Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ2VyIG5hbWU9Im10cmxfYnRuX2FuaW1fZGVsYXlfbXMiPjEwMDwvaW50ZWdlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IHRoOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpbnRlZ2VyIG5hbWU9ImhpZGVfcGFzc3dvcmRfZHVyYXRpb24iPjMyMDwvaW50ZWdlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyB0aDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -338,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsZW5ndGhcPg==</last-search>
+      <last-search>alertdialog_negative_button</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZW5ndGhcPg==</last-pattern>
+      <last-pattern>alertdialog_negative_button</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
