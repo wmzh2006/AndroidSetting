@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWNrYWdlTmFtZVw+</entry>
-        <entry>com.koc.b.a.b</entry>
-        <entry>koc</entry>
-        <entry>cp_unfinished</entry>
-        <entry>toast_msg_bg</entry>
-        <entry>design_snackbar_background_color</entry>
-        <entry>droppy_separator</entry>
-        <entry>ab_app_manager</entry>
         <entry>rv_centered</entry>
         <entry>rv_rippleDuration</entry>
         <entry>text_boost_info</entry>
@@ -25,6 +17,14 @@
         <entry>layout_anchor</entry>
         <entry>fabSize</entry>
         <entry>FloatingActionButton</entry>
+        <entry>layout_anchorGravity</entry>
+        <entry>800055</entry>
+        <entry>card_color</entry>
+        <entry>text_res_release</entry>
+        <entry>card_text_color</entry>
+        <entry>toast_msg_text</entry>
+        <entry>rv_type</entry>
+        <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -108,15 +108,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" timestamp="1597200221427">
-        <mark key="'" line="130" column="45" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" timestamp="1597201722310">
+        <mark key="'" line="97" column="13" />
+        <mark key="[" line="97" column="19" />
+      </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" timestamp="1597201506853">
+        <mark key="'" line="31" column="59" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="15" column="68" />
         <mark key="^" line="15" column="68" />
         <mark key="." line="15" column="67" />
       </file>
-      <file name="D:/AndroidStudio/ock/app/src/main/java/com/nox/group/app/MainActivity.java" timestamp="1597199181077" />
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/colors.xml" timestamp="1597198756555" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MainActivity.java" timestamp="1597201614151" />
       <file name="D:/AndroidStudio/ock/app/src/main/java/com/nox/group/app/StartService.java" timestamp="1597199219248" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/integers.xml" timestamp="1597200729101">
         <mark key="[" line="2" column="0" />
@@ -146,30 +149,29 @@
         <mark key="." line="32" column="53" />
         <mark key="^" line="32" column="54" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" timestamp="1597200594526">
-        <mark key="'" line="732" column="17" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" timestamp="1597201653189">
+        <mark key="'" line="739" column="56" />
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597200489098">
+      <file name="/Dummy.txt" timestamp="1597201749306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_setup.xml" timestamp="1597201477524" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/github/lzyzsd/circleprogress/ArcProgress.java" timestamp="1597199658610" />
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_main.xml" timestamp="1597200975859">
-        <mark key="[" line="60" column="432" />
-        <mark key="]" line="60" column="432" />
-        <mark key="." line="60" column="432" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_main.xml" timestamp="1597201373245">
+        <mark key="[" line="60" column="439" />
+        <mark key="]" line="60" column="439" />
+        <mark key="." line="60" column="439" />
+        <mark key="^" line="60" column="442" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597200521062">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597201616625">
+        <mark key="[" line="56" column="53" />
+        <mark key="]" line="55" column="60" />
+        <mark key="." line="55" column="60" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/uhkf/ekzn/hnjok/FitzService.java" timestamp="1597199922149" />
-      <file name="/fragment.java" timestamp="1597199151008">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/AndroidStudio/ock/app/release/README.txt" timestamp="1597199332079">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="33" />
@@ -183,19 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="26" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CleanerActivity.kt" />
-      <jump line="88" column="39" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CoolDownActivity.kt" />
-      <jump line="49" column="31" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/CoolingCpuScannerActivity.kt" />
-      <jump line="180" column="33" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/ScannerActivity.kt" />
-      <jump line="107" column="13" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/ScannerActivity.kt" />
-      <jump line="47" column="34" filename="E:/googleplay/app_source/BoosterBatter-kt/src/main/java/com/marvlonely/booster/pl/activities/ScannerActivity.kt" />
-      <jump line="22" column="20" filename="$USER_HOME$/Desktop/app/build.gradle" />
-      <jump line="69" column="13" filename="E:/tools/android/sources/android-28/android/app/Instrumentation.java" />
-      <jump line="111" column="0" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="489" column="0" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="63" column="64" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="1780" column="26" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
-      <jump line="1825" column="26" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
       <jump line="1871" column="16" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
       <jump line="1576" column="26" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
       <jump line="1622" column="20" filename="E:/tools/android/sources/android-26/android/app/Instrumentation.java" />
@@ -283,21 +272,34 @@
       <jump line="178" column="60" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" />
       <jump line="575" column="39" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" />
       <jump line="732" column="17" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" />
+      <jump line="583" column="41" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" />
+      <jump line="68" column="45" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" />
+      <jump line="29" column="40" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" />
+      <jump line="136" column="49" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" />
+      <jump line="31" column="59" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" />
+      <jump line="739" column="56" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" />
+      <jump line="107" column="17" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
+      <jump line="46" column="59" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
+      <jump line="85" column="116" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
+      <jump line="86" column="16" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
+      <jump line="87" column="16" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
+      <jump line="89" column="68" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
+      <jump line="97" column="13" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>800055</text>
+        <text>center</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>800055</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
-        <text>FloatingActionButton</text>
+        <text encoding="base64">XDxsZW5ndGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1zU2VydmljZS5vbkV2ZW50KGNvbnRleHQsICJzZCIsICIiLCBwaG9uZSArIiwiICt0ZXh0LCBzKTsK</text>
@@ -336,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FloatingActionButton</last-search>
+      <last-search encoding="base64">XDxsZW5ndGhcPg==</last-search>
       <last-offset />
-      <last-pattern>FloatingActionButton</last-pattern>
+      <last-pattern encoding="base64">XDxsZW5ndGhcPg==</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
