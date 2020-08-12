@@ -98,10 +98,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/googleplay/app_source/Cleaner/library/build.gradle" timestamp="1597211488513">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="35" column="19" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" timestamp="1597222636133">
+        <mark key="[" line="30" column="59" />
+        <mark key="]" line="30" column="59" />
+        <mark key="." line="30" column="59" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/raw/splash.json" timestamp="1597219977040">
         <mark key="[" line="0" column="0" />
@@ -126,6 +126,7 @@
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="E:/googleplay/app_source/Cleaner/library/src/main/res/values/styles.xml" timestamp="1597222598197" />
       <file name="/Dummy.txt" timestamp="1597219566409">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,15 +143,11 @@
         <mark key="." line="2" column="31" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_launcher.xml" timestamp="1597219688172" />
-      <file name="E:/googleplay/app_source/Cleaner/library/src/main/java/com/andexert/library/RippleView.java" timestamp="1597211537551">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/Launcher.java" timestamp="1597220507368">
-        <mark key="[" line="25" column="84" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/Launcher.java" timestamp="1597222607663">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="12" column="38" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/styles.xml" timestamp="1597217101054">
         <mark key="'" line="2" column="45" />
@@ -165,10 +162,10 @@
         <mark key="^" line="32" column="47" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/2.8.0/54d62ebd1b3b8b12aab08bac87bc2c0027500eec/lottie-2.8.0-sources.jar!/com/airbnb/lottie/LottieComposition.java" timestamp="1597220474621" />
-      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597218065150">
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="14" />
-        <mark key="." line="51" column="13" />
+      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597222284841">
+        <mark key="[" line="68" column="50" />
+        <mark key="]" line="68" column="51" />
+        <mark key="." line="68" column="51" />
         <mark key="^" line="51" column="14" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MainActivity.java" timestamp="1597217865031">
@@ -288,13 +285,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>LottieCompositionFactory.</text>
+        <text>style/Theme.AppCompat.Light.NoActionBar</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>LottieCompositionFactory.</text>
+        <text>style/Theme.AppCompat.Light.NoActionBar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyaXBwbGVNZW51XD4=</text>
@@ -303,42 +300,31 @@
         <text>activityManager = ((ActivityManager) this.mContext.getSystemService(Context.ACTIVITY_SERVICE));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb3R0aWVDb21wb3NpdGlvbi5GYWN0b3J5Lkxpc3RlbmVyQWRhcHRlciBsaXN0ZW5lciA9IG5ldyBMb3R0aWVDb21wb3NpdGlvbi5GYWN0b3J5Lkxpc3RlbmVyQWRhcHRlcihsKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb3R0aWVDb21wb3NpdGlvbi5GYWN0b3J5LmZyb21SYXdGaWxlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsdC5hZGRMaXN0ZW5lcihsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGF1bmNoZXIudGhpcy5zaG93X2FkKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>){
-
-            @Override
-            public void onCompositionLoaded(LottieComposition composition) {
-
-            }
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdWJsaWMgLyogc3ludGhldGljICovIHZvaWQgbGFtYmRhJG9uQW5pbWF0aW9uRW5kJDAkTGF1bmNoZXIkMSgpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIExvdHRpZSBpbXBsZW1lbnRzIExvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsdC5hZGRMaXN0ZW5lcihuZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text>LottieCompositionFactory</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExhdW5jaGVyLnRoaXMuc3dpdGNoX2FjYygpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>new OnCompositionLoadedListener(lottieDrawable) {
-            @Override
-            public void onCompositionLoaded(@Nullable LottieComposition composition) {
-
-            }
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIC8qIHN5bnRoZXRpYyAqLyBMb3R0aWVEcmF3YWJsZSBmJDE7CgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aGlzLmYkMSA9IHIyOwogICAgICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgZmluYWwgdm9pZCBvbkNvbXBvc2l0aW9uTG9hZGVkKExvdHRpZUNvbXBvc2l0aW9uIGxvdHRpZUNvbXBvc2l0aW9uKSB7Ci8vICAgICAgICAgICAgICAgIExhdW5jaGVyLnRoaXMubGFtYmRhJG9uQ3JlYXRlJDAkTGF1bmNoZXIodGhpcy5mJDEsIGxvdHRpZUNvbXBvc2l0aW9uKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIERhdGFQcm92aWRlci5nZXRJbnN0YW5jZSgpLnJlbG9hZF9hZG1vYigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
