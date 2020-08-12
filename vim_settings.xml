@@ -98,26 +98,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" timestamp="1597200770356">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/drawables.xml" timestamp="1597200723857">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/RecyclerAdapter.java" timestamp="1597201722310">
         <mark key="'" line="97" column="13" />
         <mark key="[" line="97" column="19" />
       </file>
+      <file name="D:/AndroidStudio/ock/app/src/main/res/layout/activity_main.xml" timestamp="1597211031357" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" timestamp="1597202505560">
         <mark key="'" line="142" column="47" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="15" column="68" />
         <mark key="^" line="15" column="68" />
         <mark key="." line="15" column="67" />
+      </file>
+      <file name="D:/AndroidStudio/ock/app/src/main/java/com/nox/group/app/Sdk.java" timestamp="1597211253296">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="47" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/ResultsActivity.java" timestamp="1597203367396">
         <mark key="[" line="117" column="41" />
@@ -151,31 +148,27 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/integers.xml" timestamp="1597200729101">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/AndroidStudio/ock/app/proguard-rules.pro" timestamp="1597211105493">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="27" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/bools.xml" timestamp="1597200671898">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/AndroidStudio/ock/app/src/main/java/com/nox/group/app/StartService.java" timestamp="1597210934676" />
+      <file name="D:/AndroidStudio/ock/app/build.gradle" timestamp="1597211220095">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="30" />
+        <mark key="^" line="6" column="31" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/attrs.xml" timestamp="1597201653189">
-        <mark key="'" line="739" column="56" />
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
+      <file name="D:/AndroidStudio/ock/app/src/main/AndroidManifest.xml" timestamp="1597210876644">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="33" column="49" />
+        <mark key="^" line="33" column="49" />
+        <mark key="." line="33" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1597204906313">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_setup.xml" timestamp="1597201477524" />
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/layout/activity_main.xml" timestamp="1597201373245">
-        <mark key="[" line="60" column="439" />
-        <mark key="]" line="60" column="439" />
-        <mark key="." line="60" column="439" />
-        <mark key="^" line="60" column="442" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597204426016">
         <mark key="[" line="58" column="0" />
@@ -189,10 +182,14 @@
         <mark key="." line="52" column="8" />
         <mark key="^" line="52" column="8" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/dimens.xml" timestamp="1597200717009">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/fragment.java" timestamp="1597210883263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/ock/app/release/README.txt" timestamp="1597211255606">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -301,13 +298,15 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW5hdGlvbiAnY29tLmdpdGh1Yi5IaXR0YTpSaXBwbGVFZmZlY3Q6ODJjZjAwZTU1MScK</text>
+        <text>包名：com.nox.group.app
+服务：com.nox.group.app.StartService
+服务action：com.nox.group.app.Start</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>Theme.AppCompat.NoActionBar</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>alertdialog_negative_button</text>
@@ -316,31 +315,33 @@
         <text>activityManager = ((ActivityManager) this.mContext.getSystemService(Context.ACTIVITY_SERVICE));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW5hdGlvbiAnY29tLmdpdGh1Yi5IaXR0YTpSaXBwbGVFZmZlY3Q6ODJjZjAwZTU1MScK</text>
+        <text>包名：com.nox.group.app
+服务：com.nox.group.app.StartService
+服务action：com.nox.group.app.Start</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdvb2dsZSgpCg==</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW5hdGlvbiAnY29tLmdpdGh1Yi5IaXR0YTpSaXBwbGVFZmZlY3Q6ODJjZjAwZTU1MScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENvbnRleHQgbUNvbnRleHQ7Cg==</text>
+        <text encoding="base64">ICAgIGdvb2dsZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mbyBhY3RpdmVOZXR3b3JrSW5mbyA9ICgoQ29ubmVjdGl2aXR5TWFuYWdlcikgdGhpcy5tQ29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKCJjb25uZWN0aXZpdHkiKSkuZ2V0QWN0aXZlTmV0d29ya0luZm8oKTsK</text>
+        <text encoding="base64">ICAgIENvbnRleHQgbUNvbnRleHQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IGludFsxXVswXSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mbyBhY3RpdmVOZXR3b3JrSW5mbyA9ICgoQ29ubmVjdGl2aXR5TWFuYWdlcikgdGhpcy5tQ29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKCJjb25uZWN0aXZpdHkiKSkuZ2V0QWN0aXZlTmV0d29ya0luZm8oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRbXSBpQXJyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IGludFsxXVswXSA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZSA9IGU2Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRbXSBpQXJyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IHRoOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZSA9IGU2Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyB0aDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IHRoOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
