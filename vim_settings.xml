@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fb_button_bg</entry>
         <entry>borderWidth</entry>
         <entry>layout_anchor</entry>
         <entry>fabSize</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyaXBwbGVNZW51XD4=</entry>
         <entry encoding="base64">XDxSRU9SREVSX1RBU0tTXD4=</entry>
         <entry encoding="base64">XDxkZXN0QWRkclw+</entry>
+        <entry>apk</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -116,6 +116,13 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/vioe/zizge/v.java" timestamp="1597392756980">
+        <mark key="'" line="272" column="14" />
+        <mark key="[" line="350" column="30" />
+        <mark key="]" line="350" column="35" />
+        <mark key="^" line="350" column="35" />
+        <mark key="." line="350" column="34" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/ieng/cvin/InitStart.java" timestamp="1597391942374" />
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1597374485432">
         <mark key="[" line="2" column="9" />
@@ -163,9 +170,6 @@
         <mark key="^" line="355" column="12" />
         <mark key="." line="355" column="11" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/MmsManager.class" timestamp="1597374239424">
-        <mark key="'" line="37" column="62" />
-      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/IPer.java" timestamp="1597377007189">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="13" />
@@ -183,11 +187,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1597391610953">
-        <mark key="[" line="15" column="83" />
-        <mark key="]" line="15" column="82" />
-        <mark key="^" line="15" column="82" />
-        <mark key="." line="15" column="81" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1597392556771">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="41" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="15" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.txt" timestamp="1597391325857">
         <mark key="[" line="1" column="1" />
@@ -200,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="27" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
-      <jump line="80" column="36" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
       <jump line="155" column="16" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
       <jump line="79" column="35" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
       <jump line="90" column="35" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
@@ -300,6 +302,8 @@
       <jump line="358" column="47" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" />
       <jump line="58" column="75" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/MmsManager.class" />
       <jump line="37" column="62" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/MmsManager.class" />
+      <jump line="105" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/vioe/zizge/v.java" />
+      <jump line="272" column="14" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/vioe/zizge/v.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +318,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXN0QWRkclw+</text>
+        <text>apk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1zU2VydmljZS5vbkV2ZW50KGNvbnRleHQsICJwc19zdWNjIiwgIiIsIG5ldyBTdHJpbmcocmF3KSwgIiIpOwo=</text>
@@ -353,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXN0QWRkclw+</last-search>
+      <last-search>apk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXN0QWRkclw+</last-pattern>
+      <last-pattern>apk</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
