@@ -105,7 +105,12 @@
         <mark key="." line="366" column="73" />
         <mark key="^" line="366" column="73" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1597373431213" />
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1597385427509">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" timestamp="1597325550456">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="24" column="53" />
@@ -118,12 +123,19 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="E:/Project/DynamicLoader/app/build.gradle" timestamp="1597385590162">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="31" />
+      </file>
       <file name="D:/AndroidStudio/ock/app/build.gradle" timestamp="1597327189013">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="E:/Project/DynamicLoader/app/src/main/java/jp/wamo/amo/myapplication/MainActivity.java" timestamp="1597385568332" />
       <file name="D:/AndroidStudio/ock/app/src/main/AndroidManifest.xml" timestamp="1597326764102">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="29" column="33" />
@@ -142,7 +154,7 @@
         <mark key="^" line="67" column="51" />
         <mark key="." line="67" column="58" />
       </file>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1597384502397">
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1597385565785">
         <mark key="[" line="22" column="57" />
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="41" />
@@ -299,13 +311,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>c</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXN0QWRkclw+</text>
@@ -314,31 +326,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1zU2VydmljZS5vbkV2ZW50KGNvbnRleHQsICJwc19zdWNjIiwgIiIsIG5ldyBTdHJpbmcocmF3KSwgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nRXZlbnQoIm9uQ3JlYXRlIik7Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uSU5URVJORVQiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBFdmVudHNMb2dnZXIgbG9nZ2VyID0gQXBwRXZlbnRzTG9nZ2VyLm5ld0xvZ2dlcih0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nRXZlbnQoIm9uQ3JlYXRlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEZhY2Vib29rU2RrLnNldEF1dG9Jbml0RW5hYmxlZCh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBBcHBFdmVudHNMb2dnZXIgbG9nZ2VyID0gQXBwRXZlbnRzTG9nZ2VyLm5ld0xvZ2dlcih0aGlzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEZhY2Vib29rU2RrLmZ1bGx5SW5pdGlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEZhY2Vib29rU2RrLnNldEF1dG9Jbml0RW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5zZXRJc0RlYnVnRW5hYmxlZCh0cnVlKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIEZhY2Vib29rU2RrLmZ1bGx5SW5pdGlhbGl6ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW1zTWFuYWdlci5kZWxldGVTVE1lc3NhZ2UoY29udGV4dCwgKTsK</text>
+        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5zZXRJc0RlYnVnRW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5mdWxseUluaXRpYWxpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW1zTWFuYWdlci5kZWxldGVTVE1lc3NhZ2UoY29udGV4dCwgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5zZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5mdWxseUluaXRpYWxpemUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5zZXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
