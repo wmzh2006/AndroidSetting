@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fabSize</entry>
         <entry>FloatingActionButton</entry>
         <entry>layout_anchorGravity</entry>
         <entry>800055</entry>
@@ -25,6 +24,7 @@
         <entry>apk</entry>
         <entry>ap</entry>
         <entry>com.vioe.zizge.ap</entry>
+        <entry>Mobile</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -121,10 +121,10 @@
         <mark key="^" line="5" column="61" />
         <mark key="." line="5" column="60" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MobileApplication.java" timestamp="1597398235625">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="71" />
-        <mark key="." line="40" column="0" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MobileApplication.java" timestamp="1597403950880">
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="49" />
+        <mark key="." line="33" column="49" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/styles.xml" timestamp="1597398653185">
         <mark key="[" line="25" column="85" />
@@ -147,6 +147,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="14" column="9" />
+      </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" timestamp="1597404024978">
+        <mark key="'" line="30" column="57" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="28" />
+        <mark key="." line="44" column="28" />
+        <mark key="^" line="42" column="46" />
       </file>
       <file name="E:/googleplay/app_source/BoosterBatter/src/main/java/com/marvlonely/booster/pl/activities/SplashActivity.java" timestamp="1597398553836">
         <mark key="[" line="92" column="0" />
@@ -175,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="42" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/SplashActivity.kt" />
       <jump line="0" column="0" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/free/SplashActivity.kt" />
       <jump line="63" column="35" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/p024a/C0109a.kt" />
       <jump line="124" column="9" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/p024a/C0109a.kt" />
@@ -275,51 +281,52 @@
       <jump line="153" column="19" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="154" column="19" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="165" column="53" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="30" column="57" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text encoding="base64">TW9iaWxlIA==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">TW9iaWxlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>com.vioe.zizge.ap</text>
+        <text>Mobile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIlRBRyIsICJyZXAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uTmFtZT0iOSIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWJvdXRfZm9vdF90ZXh0Ij5wb3dlcmVkIGJ5IE1vYmlsZVN0dWRpb3M8L3N0cmluZz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uTmFtZT0iOSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKS5wdXRCb29sZWFuKCJhIiwgdHJ1ZSkuYXBwbHkoKTsK</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKS5wdXRCb29sZWFuKCJhIiwgdHJ1ZSkuYXBwbHkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25BY3Rpdml0eVJlc3VsdChpbnQgcmVxdWVzdENvZGUsIGludCByZXN1bHRDb2RlLCBJbnRlbnQgZGF0YSkgewogICAgICAgIHN1cGVyLm9uQWN0aXZpdHlSZXN1bHQocmVxdWVzdENvZGUsIHJlc3VsdENvZGUsIGRhdGEpOwoKICAgIH0=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25BY3Rpdml0eVJlc3VsdChpbnQgcmVxdWVzdENvZGUsIGludCByZXN1bHRDb2RlLCBJbnRlbnQgZGF0YSkgewogICAgICAgIHN1cGVyLm9uQWN0aXZpdHlSZXN1bHQocmVxdWVzdENvZGUsIHJlc3VsdENvZGUsIGRhdGEpOwoKICAgIH0=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -328,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>com.vioe.zizge.ap</last-search>
+      <last-search>Mobile</last-search>
       <last-offset />
-      <last-pattern>com.vioe.zizge.ap</last-pattern>
+      <last-pattern>Mobile</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
