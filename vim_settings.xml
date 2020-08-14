@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>text_numapps_bg</entry>
         <entry>fb_button_bg</entry>
         <entry>borderWidth</entry>
         <entry>layout_anchor</entry>
@@ -25,6 +24,7 @@
         <entry>about_desc_text</entry>
         <entry encoding="base64">XDxyaXBwbGVNZW51XD4=</entry>
         <entry encoding="base64">XDxSRU9SREVSX1RBU0tTXD4=</entry>
+        <entry encoding="base64">XDxkZXN0QWRkclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -98,18 +98,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" timestamp="1597374765650">
+        <mark key="'" line="359" column="47" />
+        <mark key="[" line="366" column="73" />
+        <mark key="]" line="366" column="92" />
+        <mark key="." line="366" column="73" />
+        <mark key="^" line="366" column="73" />
+      </file>
       <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1597373431213" />
-      <file name="E:/Project/AD_SO_SDK_PACKAGE/buildapk.bat" timestamp="1597300789848">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-      </file>
-      <file name="D:/AndroidStudio/ock/app/src/main/java/com/domobile/applockwatcher/App.java" timestamp="1597323108518">
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="16" column="61" />
-        <mark key="^" line="16" column="61" />
-        <mark key="." line="16" column="60" />
-      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" timestamp="1597325550456">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="24" column="53" />
@@ -117,16 +113,10 @@
         <mark key="." line="24" column="53" />
         <mark key="^" line="24" column="53" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1597300781916">
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1597374485432">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/src/main/res/values/strings.xml" timestamp="1597308933305">
-        <mark key="[" line="16" column="59" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="17" column="3" />
       </file>
       <file name="D:/AndroidStudio/ock/app/build.gradle" timestamp="1597327189013">
         <mark key="[" line="8" column="26" />
@@ -140,11 +130,17 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="32" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MobileApplication.java" timestamp="1597372826081">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="33" />
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1597373803906">
+        <mark key="[" line="81" column="43" />
+        <mark key="]" line="81" column="47" />
+        <mark key="^" line="81" column="47" />
+        <mark key="." line="81" column="46" />
+      </file>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/SpecialSms.java" timestamp="1597374398903">
+        <mark key="[" line="68" column="61" />
+        <mark key="]" line="68" column="64" />
+        <mark key="^" line="68" column="64" />
+        <mark key="." line="68" column="63" />
       </file>
       <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1597373476190">
         <mark key="[" line="22" column="41" />
@@ -156,35 +152,42 @@
         <mark key="]" line="116" column="70" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_jsauto/src/f/MsService.java" timestamp="1597374829832">
+        <mark key="[" line="354" column="13" />
+        <mark key="]" line="355" column="12" />
+        <mark key="^" line="355" column="12" />
+        <mark key="." line="355" column="11" />
+      </file>
+      <file name="D:/AndroidStudio/ock/app/src/main/java/com/domobile/applockwatcher/App.java" timestamp="1597323108518">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="61" />
+        <mark key="^" line="16" column="61" />
+        <mark key="." line="16" column="60" />
+      </file>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/MmsManager.class" timestamp="1597374239424">
+        <mark key="'" line="37" column="62" />
+      </file>
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/mobilestudios/mobilebooster/MobileApplication.java" timestamp="1597375106936">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1597371443616">
         <mark key="[" line="79" column="68" />
         <mark key="]" line="79" column="62" />
         <mark key="." line="79" column="62" />
         <mark key="^" line="51" column="14" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/assets/TH(DTAC).js" timestamp="1597299726542">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/AndroidStudio/ock/app/src/main/java/com/domobile/applockwatcher/StartService.java" timestamp="1597323581673">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="15" />
         <mark key="." line="16" column="15" />
-      </file>
-      <file name="E:/googleplay/app_source/BoosterBatter/build.gradle" timestamp="1597308904562">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="71" />
-        <mark key="." line="81" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1597322991809">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="636" column="123" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="638" column="143" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="649" column="32" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="109" column="27" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
       <jump line="80" column="36" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
       <jump line="155" column="16" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/p010b/p011a/p021f/p023b/C0104e.kt" />
@@ -282,51 +285,54 @@
       <jump line="24" column="54" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" />
       <jump line="24" column="7" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
       <jump line="29" column="8" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
+      <jump line="358" column="47" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" />
+      <jump line="58" column="75" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/MmsManager.class" />
+      <jump line="37" column="62" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/MmsManager.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nRXZlbnQoIm9uQ3JlYXRlIik7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>smsData.getSender()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRU9SREVSX1RBU0tTXD4=</text>
+        <text encoding="base64">XDxkZXN0QWRkclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gJ2NvbS5mYWNlYm9vay5hbmRyb2lkOmZhY2Vib29rLWFuZHJvaWQtc2RrOjQuMzUuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5mdWxseUluaXRpYWxpemUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIubG9nRXZlbnQoIm9uQ3JlYXRlIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5zZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBFdmVudHNMb2dnZXIgbG9nZ2VyID0gQXBwRXZlbnRzTG9nZ2VyLm5ld0xvZ2dlcih0aGlzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEZhY2Vib29rU2RrLnNldEF1dG9Jbml0RW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaW5rKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEZhY2Vib29rU2RrLmZ1bGx5SW5pdGlhbGl6ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5zZXRJc0RlYnVnRW5hYmxlZCh0cnVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcExpbmtEYXRhLmdldFJlZigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW1zTWFuYWdlci5kZWxldGVTVE1lc3NhZ2UoY29udGV4dCwgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgYXBwTGlua0RhdGEuZ2V0UmVmZXJlckRhdGEoKS4K</text>
+        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5mdWxseUluaXRpYWxpemUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENsYXNzPD8gZXh0ZW5kcyBBYnNXb3JrU2VydmljZT4gc2VydmljZUNsYXNzLCAvL7jVssW0tL2otcQgU2VydmljZSC21NOmtcQgQ2xhc3MgttTP8y4K</text>
+        <text encoding="base64">ICAgICAgICBGYWNlYm9va1Nkay5zZXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQgYXBwLCAgLy9BcHBsaWNhdGlvbiBDb250ZXh0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -335,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSRU9SREVSX1RBU0tTXD4=</last-search>
+      <last-search encoding="base64">XDxkZXN0QWRkclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRU9SREVSX1RBU0tTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZXN0QWRkclw+</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
