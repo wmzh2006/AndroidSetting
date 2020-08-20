@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>card_color</entry>
-        <entry>text_res_release</entry>
         <entry>card_text_color</entry>
         <entry>toast_msg_text</entry>
         <entry>rv_type</entry>
@@ -25,6 +23,8 @@
         <entry>104702</entry>
         <entry>RESULT_ERROR_GENERIC_FAILURE</entry>
         <entry encoding="base64">XDxSRVNVTFRfRVJST1JfR0VORVJJQ19GQUlMVVJFXD4=</entry>
+        <entry encoding="base64">XDxtb3ZlVGFza1RvQmFja1w+</entry>
+        <entry encoding="base64">XDxnZXRUYXNrSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -101,11 +101,24 @@
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" timestamp="1597739943582">
         <mark key="[" line="135" column="20" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" timestamp="1597907768992">
+        <mark key="'" line="167" column="38" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="114" column="16" />
+        <mark key="." line="177" column="0" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1597804917495">
         <mark key="[" line="198" column="31" />
         <mark key="]" line="198" column="31" />
         <mark key="^" line="197" column="44" />
         <mark key="." line="198" column="31" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1597906977155">
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="13" />
+        <mark key="." line="67" column="12" />
+        <mark key="^" line="67" column="13" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1597822183893" />
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1597742379505">
@@ -136,6 +149,13 @@
       <file name="E:/tools/android/sources/android-24/android/telephony/SmsManager.java" timestamp="1597844522383">
         <mark key="'" line="528" column="18" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1597907346566">
+        <mark key="'" line="227" column="47" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="24" />
+        <mark key="." line="245" column="24" />
+        <mark key="^" line="249" column="12" />
+      </file>
       <file name="E:/Project/DynamicLoader/app/libs/sdk.jar!/com/fourqaz/sixwsx/InitStart.class" timestamp="1597805335750" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/MethodGetUtils.java" timestamp="1597804694539">
         <mark key="[" line="5" column="11" />
@@ -155,32 +175,11 @@
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib2.jar!/com/smshelper/MmsManager.class" timestamp="1597844089271">
         <mark key="[" line="128" column="69" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/USSDController.java" timestamp="1597733588244">
-        <mark key="[" line="212" column="39" />
-        <mark key="]" line="212" column="37" />
-        <mark key="^" line="212" column="37" />
-        <mark key="." line="212" column="36" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/c0.java" timestamp="1597734968786">
-        <mark key="[" line="42" column="57" />
-        <mark key="]" line="42" column="69" />
-        <mark key="^" line="42" column="69" />
-        <mark key="." line="42" column="68" />
-      </file>
       <file name="/fragment.java" timestamp="1597804666829">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2656" column="12" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
-      <jump line="2911" column="45" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
-      <jump line="26" column="39" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/cz.kt" />
-      <jump line="47" column="6" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
-      <jump line="48" column="8" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
-      <jump line="2241" column="14" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
-      <jump line="2240" column="17" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
-      <jump line="38" column="171" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/AndroidManifest.xml" />
-      <jump line="68" column="111" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/AndroidManifest.xml" />
       <jump line="175" column="9" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
       <jump line="601" column="84" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
       <jump line="716" column="54" filename="E:/googleplay/app_source/Camera-kt/kcamera/src/main/java/com/k/camera/KCamera.kt" />
@@ -272,51 +271,60 @@
       <jump line="439" column="19" filename="E:/tools/android/sources/android-24/android/telephony/SmsManager.java" />
       <jump line="525" column="14" filename="E:/tools/android/sources/android-24/android/telephony/SmsManager.java" />
       <jump line="528" column="18" filename="E:/tools/android/sources/android-24/android/telephony/SmsManager.java" />
+      <jump line="223" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="249" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="225" column="49" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="226" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="227" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="113" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
+      <jump line="162" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
+      <jump line="86" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
+      <jump line="167" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlzdXBlci5vblJlc3VtZSgpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>MsService</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRVNVTFRfRVJST1JfR0VORVJJQ19GQUlMVVJFXD4=</text>
+        <text encoding="base64">XDxnZXRUYXNrSWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LkRhdGFVdGlsc3sqO30gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmllbmcuY3Zpbi4qKiB7Kjt9Cg==</text>
+        <text encoding="base64">CQlzdXBlci5vblJlc3VtZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udmlvZS56aXpnZS5TdGFydC5pbml0Owo=</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLsTjtcRiZWFuLioqIHsgKjsgfQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKS5wdXRCb29sZWFuKCJhIiwgdHJ1ZSkuYXBwbHkoKTsK</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmllbmcuY3Zpbi4qKiB7Kjt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWJvdXRfZm9vdF90ZXh0Ij5wb3dlcmVkIGJ5IE1vYmlsZVN0dWRpb3M8L3N0cmluZz4K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20udmlvZS56aXpnZS5TdGFydC5pbml0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uTmFtZT0iOSIK</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLsTjtcRiZWFuLioqIHsgKjsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzLmVkaXQoKS5wdXRCb29sZWFuKCJhIiwgdHJ1ZSkuYXBwbHkoKTsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWJvdXRfZm9vdF90ZXh0Ij5wb3dlcmVkIGJ5IE1vYmlsZVN0dWRpb3M8L3N0cmluZz4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uTmFtZT0iOSIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -325,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSRVNVTFRfRVJST1JfR0VORVJJQ19GQUlMVVJFXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRUYXNrSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRVNVTFRfRVJST1JfR0VORVJJQ19GQUlMVVJFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRUYXNrSWRcPg==</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
