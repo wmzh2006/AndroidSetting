@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>about_desc_text</entry>
         <entry encoding="base64">XDxyaXBwbGVNZW51XD4=</entry>
         <entry encoding="base64">XDxSRU9SREVSX1RBU0tTXD4=</entry>
         <entry encoding="base64">XDxkZXN0QWRkclw+</entry>
@@ -25,6 +24,7 @@
         <entry>intercepter</entry>
         <entry encoding="base64">XDxzaG91bGRJbnRlcmNlcHRSZXF1ZXN0XD4=</entry>
         <entry>offerAdd</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,7 +110,9 @@
         <mark key="." line="67" column="12" />
         <mark key="^" line="67" column="13" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1597822183893" />
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/act.java" timestamp="1597992265506">
+        <mark key="'" line="120" column="133" />
+      </file>
       <file name="D:/AndroidStudio/Ace/app/build.gradle" timestamp="1597921022836">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -120,9 +122,9 @@
       <file name="E:/tools/android/sources/android-24/android/telephony/SmsManager.java" timestamp="1597844522383">
         <mark key="'" line="528" column="18" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1597907346566">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1597991562900">
         <mark key="'" line="227" column="47" />
-        <mark key="[" line="245" column="0" />
+        <mark key="[" line="918" column="9" />
         <mark key="]" line="245" column="24" />
         <mark key="." line="245" column="24" />
         <mark key="^" line="249" column="12" />
@@ -135,7 +137,7 @@
         <mark key="." line="24" column="12" />
       </file>
       <file name="E:/Project/DynamicLoader/app/src/main/AndroidManifest.xml" timestamp="1597989289042" />
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1597927163314">
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1597991892259">
         <mark key="'" line="577" column="35" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1597919804675">
@@ -144,12 +146,12 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" timestamp="1597908305106">
-        <mark key="'" line="76" column="16" />
-        <mark key="[" line="31" column="37" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="32" column="4" />
-        <mark key="." line="32" column="3" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" timestamp="1597991874890">
+        <mark key="'" line="77" column="16" />
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="33" column="4" />
+        <mark key="^" line="33" column="4" />
+        <mark key="." line="33" column="3" />
       </file>
       <file name="D:/AndroidStudio/Ace/app/src/main/java/com/ktyn/dktq/MainActivity.java" timestamp="1597917644647">
         <mark key="[" line="2" column="0" />
@@ -196,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
-      <jump line="12" column="16" filename="E:/Project/DynamicLoader/tsdk/libs/qqqq.jar!/com/ieng/cvin/DataUtils.class" />
       <jump line="54" column="78" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/SpecialSms.java" />
       <jump line="58" column="0" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/SpecialSms.java" />
       <jump line="15" column="67" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/colors.xml" />
@@ -296,6 +296,8 @@
       <jump line="76" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
       <jump line="547" column="35" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="577" column="35" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="39" column="13" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/act.java" />
+      <jump line="120" column="133" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/act.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,7 +312,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>offerAdd</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LkRhdGFVdGlsc3sqO30gCg==</text>
@@ -349,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>offerAdd</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>offerAdd</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
