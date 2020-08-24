@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>104702</entry>
         <entry>RESULT_ERROR_GENERIC_FAILURE</entry>
         <entry encoding="base64">XDxSRVNVTFRfRVJST1JfR0VORVJJQ19GQUlMVVJFXD4=</entry>
         <entry encoding="base64">XDxtb3ZlVGFza1RvQmFja1w+</entry>
@@ -25,6 +24,7 @@
         <entry>as</entry>
         <entry encoding="base64">XDxhc1w+</entry>
         <entry encoding="base64">XDxhZlw+</entry>
+        <entry encoding="base64">XDxhbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,8 +110,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1598240964464">
         <mark key="[" line="0" column="2" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/mapping.txt" timestamp="1598241353492">
-        <mark key="'" line="242" column="46" />
+      <file name="E:/Project/DynamicLoader/tsdk/mapping.txt" timestamp="1598241429935">
+        <mark key="'" line="141" column="33" />
         <mark key="[" line="207" column="35" />
         <mark key="]" line="207" column="35" />
         <mark key="^" line="207" column="35" />
@@ -144,11 +144,11 @@
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1598000632081">
         <mark key="'" line="632" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1598241355055">
-        <mark key="[" line="3" column="41" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1598241431346">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="42" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/uhkf/ekzn/hnjok/FitzSdk.java" timestamp="1598012335186">
         <mark key="[" line="27" column="23" />
@@ -199,13 +199,6 @@
       <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1598013250479" />
     </filemarks>
     <jumps>
-      <jump line="28" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
-      <jump line="40" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
-      <jump line="41" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
-      <jump line="42" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
-      <jump line="43" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
-      <jump line="49" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
-      <jump line="76" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" />
       <jump line="547" column="35" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="577" column="35" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="39" column="13" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/act.java" />
@@ -299,6 +292,13 @@
       <jump line="240" column="55" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="241" column="45" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="242" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="243" column="10" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="154" column="52" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="177" column="32" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="31" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="51" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="59" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="141" column="33" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +313,7 @@
         <text>, this, intent</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZlw+</text>
+        <text encoding="base64">XDxhbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7ImMiLCAgICIoTGFuZHJvaWQvY29udGVudC9Db250ZXh0O0xqYXZhL2xhbmcvT2JqZWN0OylWIiwgKHZvaWQgKikgY30sCg==</text>
@@ -352,9 +352,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZlw+</last-search>
+      <last-search encoding="base64">XDxhbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZlw+</last-pattern>
+      <last-pattern encoding="base64">XDxhbFw+</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
