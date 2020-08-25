@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVNVTFRfRVJST1JfR0VORVJJQ19GQUlMVVJFXD4=</entry>
         <entry encoding="base64">XDxtb3ZlVGFza1RvQmFja1w+</entry>
         <entry encoding="base64">XDxnZXRUYXNrSWRcPg==</entry>
         <entry encoding="base64">XDxtYXBzUHJvY2Vzc09ialw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhc1w+</entry>
         <entry encoding="base64">XDxhbFw+</entry>
         <entry encoding="base64">XDxhaFw+</entry>
+        <entry>QUVT</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -116,19 +116,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1598240964464">
         <mark key="[" line="0" column="2" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/mapping.txt" timestamp="1598318674744">
-        <mark key="'" line="201" column="44" />
-        <mark key="[" line="207" column="35" />
-        <mark key="]" line="207" column="35" />
-        <mark key="^" line="207" column="35" />
-        <mark key="." line="207" column="34" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/HttpRunner.java" timestamp="1598320396648" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" timestamp="1598319716001">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="3" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Impl_Plugin_lib/build.gradle" timestamp="1598004323321">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" timestamp="1598317885673" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/uhkf/ekzn/hnjok/FitzActivity.java" timestamp="1598012739077">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="20" />
@@ -171,11 +165,6 @@
         <mark key="." line="293" column="78" />
         <mark key="^" line="291" column="12" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1598004146124">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/app/src/main/java/jp/wamo/amo/myapplication/MainActivity.java" timestamp="1598273265947">
         <mark key="[" line="14" column="58" />
         <mark key="]" line="5" column="0" />
@@ -183,13 +172,24 @@
         <mark key="^" line="13" column="8" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1598012018334" />
+      <file name="E:/Project/DynamicLoader/tsdk/dictionary.txt" timestamp="1598319951954">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="1" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/rego/zegaze/rizar/InitStart.java" timestamp="1598273096467" />
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/AESUtil.java" timestamp="1598318939516" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/AESUtil.java" timestamp="1598319914784">
+        <mark key="'" line="53" column="24" />
+        <mark key="[" line="73" column="48" />
+        <mark key="]" line="73" column="46" />
+        <mark key="^" line="73" column="46" />
+        <mark key="." line="73" column="45" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndk/release/README.txt" timestamp="1598013244391" />
       <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1598013250479" />
     </filemarks>
     <jumps>
-      <jump line="628" column="137" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="632" column="20" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="284" column="77" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="415" column="75" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
@@ -289,12 +289,25 @@
       <jump line="179" column="82" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="197" column="37" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="201" column="44" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="53" column="24" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/AESUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="8">
+        <text>a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
@@ -303,37 +316,49 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhaFw+</text>
+        <text>QUVT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7ImMiLCAgICIoTGFuZHJvaWQvY29udGVudC9Db250ZXh0O0xqYXZhL2xhbmcvT2JqZWN0OylWIiwgKHZvaWQgKikgY30sCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text>a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIGluaXQoQ29udGV4dCBjb250ZXh0LCBpbnQgaSkgewovLyAgICAgICAgs/ooY29udGV4dCwgaSwgbnVsbCwgbnVsbCwgbnVsbCk7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHN0YXRpYyB2b2lkIGluaXQoQ29udGV4dCBjb250ZXh0LCBpbnQgaSwgU3RyaW5nIHN0cikgewovLyAgICAgICAgs/ooY29udGV4dCwgaSwgbnVsbCwgbnVsbCwgc3RyKTsKLy8gICAgfQovLwovLyAgICBwdWJsaWMgc3RhdGljIHZvaWQgaW5pdChDb250ZXh0IGNvbnRleHQsIGludCBpLCBTdHJpbmcgc3RyLCBTdHJpbmcgc3RyMikgewovLyAgICAgICAgs/ooY29udGV4dCwgaSwgc3RyLCBzdHIyLCBudWxsKTsKLy8gICAgfQovLwovLyAgICBwdWJsaWMgc3RhdGljIHZvaWQgaW5pdChDb250ZXh0IGNvbnRleHQsIGludCBpLCBTdHJpbmcgc3RyLCBTdHJpbmcgc3RyMiwgU3RyaW5nIHN0cjMpIHsKLy8gICAgICAgILP6KGNvbnRleHQsIGksIHN0ciwgc3RyMiwgc3RyMyk7Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHN0YXRpYyB2b2lkIGluaXQoQ29udGV4dCBjb250ZXh0LCBTdHJpbmcgc3RyKSB7Ci8vICAgICAgICB0cnkgewovLyAgICAgICAgICAgIGluaXQoY29udGV4dCwgSW50ZWdlci5wYXJzZUludChzdHIsIDEwKSk7Ci8vICAgICAgICB9IGNhdGNoIChOdW1iZXJGb3JtYXRFeGNlcHRpb24gZSkgewovLyAgICAgICAgfQovLyAgICB9Ci8vCi8vICAgIHByaXZhdGUgc3RhdGljIHZvaWQgs/ooQ29udGV4dCBjb250ZXh0LCBpbnQgaSwgU3RyaW5nIHN0ciwgU3RyaW5nIHN0cjIsIFN0cmluZyBzdHIzKSB7Ci8vICAgICAgICB0cnkgewovLyAgICAgICAgICAgIERhdGFVdGlscy6z+ihjb250ZXh0KTsKLy8gICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICB0cnkgewovLy8vICAgICAgICAgICAgdi5nZXRJbnN0YW5jZSgpLmluaXQoY29udGV4dCwgIjEwNTU2MCIpOwovLyAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKLy8gICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwovLyAgICAgICAgfQovLyAgICAgICAgdHJ5IHsKLy8gICAgICAgICAgICBmaW5hbCBDb250ZXh0IGNvbnRleHQyID0gY29udGV4dDsKLy8gICAgICAgICAgICBmaW5hbCBpbnQgaTIgPSBpOwovLyAgICAgICAgICAgIGZpbmFsIFN0cmluZyBzdHI0ID0gc3RyOwovLyAgICAgICAgICAgIGZpbmFsIFN0cmluZyBzdHI1ID0gc3RyMjsKLy8gICAgICAgICAgICBmaW5hbCBTdHJpbmcgc3RyNiA9IHN0cjM7Ci8vICAgICAgICAgICAgbmV3IEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkucG9zdERlbGF5ZWQobmV3IFJ1bm5hYmxlKCkgewovLyAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7Ci8vICAgICAgICAgICAgICAgICAgICBNZXRob2RHZXRVdGlscy6z+ihjb250ZXh0MiwgbmV3IE9iamVjdFtde2NvbnRleHQyLCBJbnRlZ2VyLnZhbHVlT2YoaTIpLCBzdHI0LCBzdHI1LCBzdHI2fSk7Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9LCAxMDAwKTsKLy8gICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlMikgewovLyAgICAgICAgfQovLyAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYy5pbnZva2UobnVsbCwpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -342,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhaFw+</last-search>
+      <last-search>QUVT</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhaFw+</last-pattern>
+      <last-pattern>QUVT</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
