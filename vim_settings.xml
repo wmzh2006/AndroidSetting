@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>intercepter</entry>
         <entry encoding="base64">XDxzaG91bGRJbnRlcmNlcHRSZXF1ZXN0XD4=</entry>
         <entry>offerAdd</entry>
         <entry>start</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxlbmNyeXB0XD4=</entry>
         <entry encoding="base64">XDxhZGRQYXJhXD4=</entry>
         <entry encoding="base64">XDxhZGRQYXJhc1w+</entry>
+        <entry encoding="base64">XDxMQVVOQ0hFUlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,7 +110,12 @@
       <file name="/a.dummy" timestamp="1598432947228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" timestamp="1598436061928" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" timestamp="1598441965859">
+        <mark key="'" line="84" column="64" />
+        <mark key="[" line="34" column="64" />
+        <mark key="]" line="34" column="64" />
+        <mark key="." line="34" column="64" />
+      </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1598408434638">
         <mark key="[" line="48" column="55" />
         <mark key="]" line="48" column="25" />
@@ -125,16 +130,16 @@
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" timestamp="1598436236332" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/ManagerAdapter.java" timestamp="1598432829327" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/activities/Launcher.java" timestamp="1598436224268" />
-      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1598435709717">
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="24" />
-        <mark key="^" line="38" column="28" />
-        <mark key="." line="42" column="24" />
+      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1598441810245">
+        <mark key="[" line="81" column="58" />
+        <mark key="]" line="81" column="58" />
+        <mark key="^" line="81" column="57" />
+        <mark key="." line="81" column="58" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/MobileApplication.java" timestamp="1598433353468">
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="25" column="56" />
-        <mark key="." line="25" column="55" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/MobileApplication.java" timestamp="1598442157352">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
         <mark key="^" line="25" column="56" />
       </file>
       <file name="/fragment.java" timestamp="1598433253178">
@@ -142,9 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="58" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="60" column="56" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="61" column="110" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="62" column="59" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="63" column="42" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="64" column="63" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -242,51 +244,54 @@
       <jump line="67" column="37" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/HttpDataUtil.java" />
       <jump line="115" column="26" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/HttpRunner.java" />
       <jump line="224" column="19" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/HttpRunner.java" />
+      <jump line="34" column="64" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
+      <jump line="53" column="80" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
+      <jump line="84" column="64" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>false</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRQYXJhc1w+</text>
+        <text encoding="base64">XDxMQVVOQ0hFUlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7ImMiLCAgICIoTGFuZHJvaWQvY29udGVudC9Db250ZXh0O0xqYXZhL2xhbmcvT2JqZWN0OylWIiwgKHZvaWQgKikgY30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExvZy5lKCJUQUciLCAib25jcmVhdGUiKTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uYW5kcm9pZC5sYXVuY2hlci5wZXJtaXNzaW9uLklOU1RBTExfU0hPUlRDVVQiIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIMXk1sPK5LP2o7oK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV0FLRV9MT0NLIi8+Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExvZy5lKCJUQUciLCAib25jcmVhdGUiKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV0FLRV9MT0NLIi8+Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIuTWFpbkFjdGl2aXR5Ij4KICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iIC8+CgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuTEFVTkNIRVIiIC8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4KICAgICAgICA8L2FjdGl2aXR5Pg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -295,9 +300,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhZGRQYXJhc1w+</last-search>
+      <last-search encoding="base64">XDxMQVVOQ0hFUlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRQYXJhc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxMQVVOQ0hFUlw+</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
