@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91bGRJbnRlcmNlcHRSZXF1ZXN0XD4=</entry>
-        <entry>offerAdd</entry>
         <entry>start</entry>
         <entry>onProgressChanged</entry>
         <entry>onReceivedError</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxhZGRQYXJhXD4=</entry>
         <entry encoding="base64">XDxhZGRQYXJhc1w+</entry>
         <entry encoding="base64">XDxMQVVOQ0hFUlw+</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
+        <entry encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -128,7 +128,9 @@
         <mark key="^" line="0" column="4" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/libs/README.txt" timestamp="1598445893176" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1598526870340" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1598529259242">
+        <mark key="'" line="212" column="38" />
+      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" timestamp="1598436236332" />
       <file name="D:/AndroidStudio/App/app/src/main/java/com/iven/yiwan/Sdk.java" timestamp="1598495539783">
         <mark key="[" line="6" column="0" />
@@ -164,19 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="59" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="63" column="42" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="64" column="63" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="65" column="125" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="67" column="69" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="68" column="76" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="71" column="86" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="73" column="137" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="84" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="86" column="35" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="90" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="93" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="94" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="96" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="99" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="100" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -264,6 +253,19 @@
       <jump line="34" column="64" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
       <jump line="53" column="80" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
       <jump line="84" column="64" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
+      <jump line="205" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="283" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="333" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="396" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="432" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="456" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="468" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="531" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="536" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="537" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="539" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="203" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="212" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,7 +280,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMQVVOQ0hFUlw+</text>
+        <text encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
@@ -317,9 +319,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMQVVOQ0hFUlw+</last-search>
+      <last-search encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMQVVOQ0hFUlw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
