@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>onProgressChanged</entry>
-        <entry>onReceivedError</entry>
-        <entry encoding="base64">XDxvblJlY2VpdmVkRXJyb3JcPg==</entry>
-        <entry encoding="base64">XDxkXD4=</entry>
-        <entry>as</entry>
         <entry encoding="base64">XDxhZlw+</entry>
         <entry encoding="base64">XDxhc1w+</entry>
         <entry encoding="base64">XDxhbFw+</entry>
@@ -25,6 +19,12 @@
         <entry encoding="base64">XDxMQVVOQ0hFUlw+</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
         <entry encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</entry>
+        <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
+        <entry encoding="base64">XDx0ZXh0VG9TcGVlY2hcPg==</entry>
+        <entry encoding="base64">XDxBYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
+        <entry>onCreate</entry>
+        <entry encoding="base64">XDxtXD4=</entry>
+        <entry encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,11 +110,19 @@
         <mark key="^" line="483" column="130" />
         <mark key="." line="483" column="129" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" timestamp="1598694045585">
-        <mark key="[" line="1050" column="21" />
-        <mark key="]" line="1050" column="21" />
-        <mark key="." line="1050" column="21" />
-        <mark key="^" line="1049" column="33" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" timestamp="1598694322028">
+        <mark key="'" line="52" column="16" />
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="29" />
+        <mark key="^" line="85" column="29" />
+        <mark key="." line="85" column="28" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" timestamp="1598694723319">
+        <mark key="'" line="327" column="20" />
+        <mark key="[" line="992" column="13" />
+        <mark key="]" line="992" column="14" />
+        <mark key="." line="992" column="13" />
+        <mark key="^" line="992" column="14" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1598689407835" />
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1598686264960">
@@ -145,7 +153,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1598686119429" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" timestamp="1598685534891" />
-      <file name="E:/googleplay/app_source/Cleaner/libs/README.txt" timestamp="1598445893176" />
       <file name="D:/AndroidStudio/App/app/src/main/java/com/iven/yiwan/Sdk.java" timestamp="1598495539783">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="61" />
@@ -175,23 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="99" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="100" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="102" column="35" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="109" column="59" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="113" column="21" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="116" column="52" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="119" column="67" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="120" column="49" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="121" column="49" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="124" column="28" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="129" column="37" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="135" column="35" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="155" column="29" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="162" column="40" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="168" column="44" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="171" column="28" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="181" column="33" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="187" column="79" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="188" column="87" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -275,51 +265,68 @@
       <jump line="539" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="203" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="212" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="14" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
+      <jump line="18" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
+      <jump line="20" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
+      <jump line="11" column="14" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
+      <jump line="9" column="0" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
+      <jump line="91" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
+      <jump line="50" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
+      <jump line="993" column="37" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="27" column="43" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="67" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="141" column="115" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="453" column="80" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="92" column="38" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="834" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="171" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="445" column="50" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="327" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>absWomenApplication</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>absWomenApplication</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</text>
+        <text encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWJzV29tZW5BcHBsaWNhdGlvbiA9IG1haW5FeGNlcmNpc2VBY3Rpdml0eS5tLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWJvb2xlYW4gdXBsb2FkVWEgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFic1dvbWVuQXBwbGljYXRpb24gPSB0aGlzQEFic1dvbWVuQXBwbGljYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWJvb2xlYW4gdXBsb2FkVWEgPSBmYWxzZTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CWJvb2xlYW4gdXBsb2FkVWEgPSBmYWxzZTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CWJvb2xlYW4gdXBsb2FkVWEgPSBmYWxzZTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uYW5kcm9pZC5sYXVuY2hlci5wZXJtaXNzaW9uLklOU1RBTExfU0hPUlRDVVQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -328,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</last-search>
+      <last-search encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</last-pattern>
+      <last-pattern encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
