@@ -96,30 +96,31 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/f/MsService.java" timestamp="1598686173555">
+        <mark key="[" line="483" column="83" />
+        <mark key="]" line="483" column="130" />
+        <mark key="^" line="483" column="130" />
+        <mark key="." line="483" column="129" />
+      </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" timestamp="1598515879981">
         <mark key="[" line="997" column="13" />
         <mark key="]" line="997" column="14" />
         <mark key="." line="997" column="13" />
         <mark key="^" line="997" column="14" />
       </file>
-      <file name="D:/AndroidStudio/App/app/src/main/AndroidManifest.xml" timestamp="1598495385396">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1598432947228">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" timestamp="1598441965859">
-        <mark key="'" line="84" column="64" />
-        <mark key="[" line="34" column="64" />
-        <mark key="]" line="34" column="64" />
-        <mark key="." line="34" column="64" />
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto1/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1598686264960">
+        <mark key="[" line="130" column="48" />
+        <mark key="]" line="93" column="108" />
+        <mark key="^" line="93" column="108" />
+        <mark key="." line="93" column="107" />
       </file>
       <file name="E:/Project/gpjsauto/build_nk_AAR.bat" timestamp="1598442622912">
         <mark key="[" line="1" column="58" />
@@ -127,11 +128,29 @@
         <mark key="." line="1" column="58" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/libs/README.txt" timestamp="1598445893176" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1598666769787">
         <mark key="'" line="212" column="38" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" timestamp="1598436236332" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1598685441429">
+        <mark key="[" line="268" column="47" />
+        <mark key="]" line="268" column="90" />
+        <mark key="." line="268" column="89" />
+        <mark key="^" line="268" column="90" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/fragments/WorkoutFragment.kt" timestamp="1598516341448">
+        <mark key="[" line="203" column="61" />
+        <mark key="]" line="203" column="61" />
+        <mark key="." line="203" column="61" />
+        <mark key="^" line="203" column="45" />
+      </file>
+      <file name="D:/AndroidStudio/App/app/src/main/AndroidManifest.xml" timestamp="1598495385396">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1598686119429" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" timestamp="1598685534891" />
+      <file name="E:/googleplay/app_source/Cleaner/libs/README.txt" timestamp="1598445893176" />
       <file name="D:/AndroidStudio/App/app/src/main/java/com/iven/yiwan/Sdk.java" timestamp="1598495539783">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="61" />
@@ -139,14 +158,6 @@
         <mark key="." line="6" column="60" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/MainWorker.java" timestamp="1598445901488" />
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/activities/Launcher.java" timestamp="1598436224268" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1598685150897" />
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/fragments/WorkoutFragment.kt" timestamp="1598516341448">
-        <mark key="[" line="203" column="61" />
-        <mark key="]" line="203" column="61" />
-        <mark key="." line="203" column="61" />
-        <mark key="^" line="203" column="45" />
-      </file>
       <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1598445878282">
         <mark key="[" line="109" column="43" />
         <mark key="]" line="109" column="43" />
@@ -159,11 +170,11 @@
         <mark key="." line="29" column="49" />
         <mark key="^" line="29" column="53" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1598685282079">
-        <mark key="[" line="122" column="48" />
-        <mark key="]" line="122" column="48" />
-        <mark key="." line="122" column="47" />
-        <mark key="^" line="122" column="48" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1598685360385">
+        <mark key="[" line="92" column="43" />
+        <mark key="]" line="92" column="43" />
+        <mark key="." line="92" column="42" />
+        <mark key="^" line="92" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.txt" timestamp="1598442579479">
         <mark key="[" line="1" column="54" />
@@ -278,13 +289,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>:8087</text>
+        <text>http://52.221.7.34:8087/sms/imsiInfo</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>:8087</text>
+        <text>http://52.221.7.34:8087/sms/imsiInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlUmVsZWFzZURpclw+</text>
