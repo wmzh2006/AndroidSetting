@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZlw+</entry>
         <entry encoding="base64">XDxhc1w+</entry>
         <entry encoding="base64">XDxhbFw+</entry>
         <entry encoding="base64">XDxhaFw+</entry>
@@ -25,6 +24,7 @@
         <entry>onCreate</entry>
         <entry encoding="base64">XDxtXD4=</entry>
         <entry encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
+        <entry>launcher</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -153,23 +153,28 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1598686119429" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" timestamp="1598685534891" />
+      <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" timestamp="1598873814093">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="28" />
+        <mark key="." line="44" column="28" />
+      </file>
       <file name="D:/AndroidStudio/App/app/src/main/java/com/iven/yiwan/Sdk.java" timestamp="1598495539783">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="60" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/MainWorker.java" timestamp="1598445901488" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1598689423638">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/faster/cleaner/phone/booster/MobileApplication.java" timestamp="1598446564076">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="49" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="53" />
+      <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1598874183493">
+        <mark key="[" line="109" column="43" />
+        <mark key="]" line="109" column="43" />
+        <mark key="^" line="81" column="57" />
+        <mark key="." line="109" column="43" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1598685360385">
         <mark key="[" line="92" column="43" />
@@ -182,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="33" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="187" column="79" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="188" column="87" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="189" column="68" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="193" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -282,21 +285,23 @@
       <jump line="171" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
       <jump line="445" column="50" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
       <jump line="327" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
+      <jump line="44" column="32" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" />
+      <jump line="39" column="4" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>absWomenApplication</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>absWomenApplication</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</text>
+        <text>launcher</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
@@ -335,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</last-search>
+      <last-search>launcher</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</last-pattern>
+      <last-pattern>launcher</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
