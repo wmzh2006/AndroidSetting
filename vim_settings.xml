@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbFw+</entry>
-        <entry encoding="base64">XDxhaFw+</entry>
-        <entry>QUVT</entry>
-        <entry encoding="base64">XDxRVVZUTDBOQ1F5OVFTME5UTlZCaFpHUnBibWNcPg==</entry>
         <entry encoding="base64">XDxnXD4=</entry>
         <entry encoding="base64">XDxmXD4=</entry>
         <entry encoding="base64">XDxlbmNyeXB0XD4=</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
         <entry>launcher</entry>
         <entry encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
+        <entry>TUQ1</entry>
+        <entry encoding="base64">XDxsXD4=</entry>
+        <entry encoding="base64">XDxkb250c2hyaW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,13 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" timestamp="1598694322028">
-        <mark key="'" line="52" column="16" />
-        <mark key="[" line="85" column="28" />
-        <mark key="]" line="85" column="29" />
-        <mark key="^" line="85" column="29" />
-        <mark key="." line="85" column="28" />
-      </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" timestamp="1598694723319">
         <mark key="'" line="327" column="20" />
         <mark key="[" line="992" column="13" />
@@ -128,25 +121,37 @@
         <mark key="." line="76" column="53" />
         <mark key="^" line="62" column="49" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1598689407835" />
+      <file name="E:/Project/DynamicLoader/tsdk/mapping.txt" timestamp="1598929423024">
+        <mark key="'" line="180" column="50" />
+      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/RecyclerAdapter.java" timestamp="1598875771552" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" timestamp="1598929383685">
+        <mark key="'" line="29" column="87" />
+        <mark key="[" line="94" column="66" />
+        <mark key="]" line="94" column="66" />
+        <mark key="." line="94" column="66" />
+        <mark key="^" line="94" column="61" />
+      </file>
       <file name="E:/googleplay/app_source/Cleaner/doc/doc.txt" timestamp="1598880846683" />
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1598929716934">
+        <mark key="'" line="22" column="1" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" timestamp="1598877231131">
         <mark key="'" line="39" column="4" />
         <mark key="[" line="44" column="28" />
         <mark key="]" line="44" column="28" />
         <mark key="." line="44" column="28" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/StrProcessing.java" timestamp="1598929744746" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/activities/MainActivity.java" timestamp="1598877544433">
         <mark key="[" line="448" column="51" />
         <mark key="]" line="448" column="52" />
         <mark key="." line="448" column="51" />
         <mark key="^" line="448" column="52" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1598689423638">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1598878266497">
         <mark key="[" line="49" column="20" />
@@ -156,15 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="194" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="199" column="49" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="204" column="24" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="206" column="55" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="207" column="55" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="208" column="45" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="210" column="52" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="211" column="55" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="212" column="64" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="216" column="20" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="220" column="33" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -193,7 +189,6 @@
       <jump line="43" column="28" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="128" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="158" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="178" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="186" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="69" column="31" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="79" column="47" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -256,21 +251,31 @@
       <jump line="39" column="4" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" />
       <jump line="76" column="53" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
       <jump line="59" column="64" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
+      <jump line="58" column="44" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="123" column="31" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="152" column="23" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="178" column="9" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="46" column="39" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" />
+      <jump line="45" column="91" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" />
+      <jump line="94" column="84" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" />
+      <jump line="29" column="87" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" />
+      <jump line="180" column="50" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="22" column="1" filename="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cleaner</text>
+        <text>/</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>cleaner</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</text>
+        <text encoding="base64">XDxkb250c2hyaW5rXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
@@ -309,12 +314,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</last-search>
+      <last-search encoding="base64">XDxkb250c2hyaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkb250c2hyaW5rXD4=</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
