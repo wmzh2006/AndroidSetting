@@ -12,7 +12,6 @@
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDx0ZXh0VG9TcGVlY2hcPg==</entry>
         <entry encoding="base64">XDxBYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
-        <entry>onCreate</entry>
         <entry encoding="base64">XDxtXD4=</entry>
         <entry encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
         <entry>launcher</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxtYWluSGFuZGxlclw+</entry>
         <entry>start</entry>
         <entry encoding="base64">XDxyZWN5Y2xlclZpZXdcPg==</entry>
+        <entry>onCreate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,12 +104,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/layout/appbarmain.xml" timestamp="1598959004108" />
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1598929716934">
+        <mark key="'" line="22" column="1" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" timestamp="1598960812817">
+        <mark key="'" line="41" column="6" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2020090114/README.txt" timestamp="1598942347176">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="10" column="78" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/AndroidManifest.xml" timestamp="1598958650760">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" timestamp="1598929383685">
         <mark key="'" line="29" column="87" />
@@ -118,36 +132,18 @@
         <mark key="." line="94" column="66" />
         <mark key="^" line="94" column="61" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/fragments/WorkoutFragment.kt" timestamp="1598959292879">
-        <mark key="[" line="203" column="61" />
-        <mark key="]" line="203" column="61" />
-        <mark key="." line="203" column="61" />
-        <mark key="^" line="203" column="45" />
-      </file>
-      <file name="E:/googleplay/app_source/Cleaner/doc/doc.txt" timestamp="1598880846683" />
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1598929716934">
-        <mark key="'" line="22" column="1" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" timestamp="1598958939401">
-        <mark key="'" line="467" column="8" />
-      </file>
-      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1598954848133" />
       <file name="E:/Project/DynamicLoader/app/src/main/java/jp/wamo/amo/myapplication/MainActivity.java" timestamp="1598942158491">
         <mark key="[" line="15" column="29" />
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="39" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/AndroidManifest.xml" timestamp="1598958650760">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/fragments/WorkoutFragment.kt" timestamp="1598960438381">
+        <mark key="[" line="203" column="61" />
+        <mark key="]" line="203" column="61" />
+        <mark key="." line="203" column="61" />
+        <mark key="^" line="203" column="45" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/StrProcessing.java" timestamp="1598929744746" />
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/activities/MainActivity.java" timestamp="1598877544433">
         <mark key="[" line="448" column="51" />
         <mark key="]" line="448" column="52" />
@@ -173,9 +169,9 @@
         <mark key="^" line="369" column="19" />
         <mark key="." line="369" column="18" />
       </file>
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/layout/fragmentworkout.xml" timestamp="1598960416496" />
     </filemarks>
     <jumps>
-      <jump line="69" column="31" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="79" column="47" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="82" column="49" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="97" column="49" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -275,6 +271,7 @@
       <jump line="97" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
       <jump line="405" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="467" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
+      <jump line="41" column="6" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -289,7 +286,7 @@
         <text>logo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWN5Y2xlclZpZXdcPg==</text>
+        <text>onCreate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
@@ -328,9 +325,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWN5Y2xlclZpZXdcPg==</last-search>
+      <last-search>onCreate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWN5Y2xlclZpZXdcPg==</last-pattern>
+      <last-pattern>onCreate</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
