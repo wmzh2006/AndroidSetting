@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmNyeXB0XD4=</entry>
         <entry encoding="base64">XDxhZGRQYXJhXD4=</entry>
         <entry encoding="base64">XDxhZGRQYXJhc1w+</entry>
         <entry encoding="base64">XDxMQVVOQ0hFUlw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxkb250c2hyaW5rXD4=</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxtYWluSGFuZGxlclw+</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -149,8 +149,8 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="49" column="21" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" timestamp="1598931282813">
-        <mark key="'" line="245" column="22" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" timestamp="1598939194291">
+        <mark key="'" line="97" column="17" />
         <mark key="[" line="368" column="96" />
         <mark key="]" line="369" column="19" />
         <mark key="^" line="369" column="19" />
@@ -158,9 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="38" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="43" column="28" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="128" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="158" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="186" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="69" column="31" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -258,6 +255,9 @@
       <jump line="61" column="20" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
       <jump line="182" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
       <jump line="245" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
+      <jump line="412" column="15" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
+      <jump line="415" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
+      <jump line="97" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -272,7 +272,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWluSGFuZGxlclw+</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
@@ -311,9 +311,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtYWluSGFuZGxlclw+</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWluSGFuZGxlclw+</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
