@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnXD4=</entry>
-        <entry encoding="base64">XDxmXD4=</entry>
         <entry encoding="base64">XDxlbmNyeXB0XD4=</entry>
         <entry encoding="base64">XDxhZGRQYXJhXD4=</entry>
         <entry encoding="base64">XDxhZGRQYXJhc1w+</entry>
@@ -25,6 +23,8 @@
         <entry>TUQ1</entry>
         <entry encoding="base64">XDxsXD4=</entry>
         <entry encoding="base64">XDxkb250c2hyaW5rXD4=</entry>
+        <entry encoding="base64">XDxhXD4=</entry>
+        <entry encoding="base64">XDxtYWluSGFuZGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,13 +104,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" timestamp="1598694723319">
-        <mark key="'" line="327" column="20" />
-        <mark key="[" line="992" column="13" />
-        <mark key="]" line="992" column="14" />
-        <mark key="." line="992" column="13" />
-        <mark key="^" line="992" column="14" />
-      </file>
       <file name="/a.dummy" timestamp="1598876735994">
         <mark key="[" line="0" column="0" />
       </file>
@@ -120,9 +113,6 @@
         <mark key="]" line="76" column="53" />
         <mark key="." line="76" column="53" />
         <mark key="^" line="62" column="49" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/mapping.txt" timestamp="1598929423024">
-        <mark key="'" line="180" column="50" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/RecyclerAdapter.java" timestamp="1598875771552" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" timestamp="1598929383685">
@@ -159,32 +149,15 @@
         <mark key="^" line="41" column="29" />
         <mark key="." line="49" column="21" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" timestamp="1598931282813">
+        <mark key="'" line="245" column="22" />
+        <mark key="[" line="368" column="96" />
+        <mark key="]" line="369" column="19" />
+        <mark key="^" line="369" column="19" />
+        <mark key="." line="369" column="18" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="64" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="216" column="20" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="220" column="33" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="222" column="65" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="223" column="70" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="224" column="58" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="225" column="54" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="230" column="50" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="231" column="54" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="233" column="28" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="236" column="31" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="237" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="238" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="239" column="86" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="240" column="55" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="241" column="45" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="242" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="243" column="10" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="177" column="32" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="31" column="30" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="51" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="59" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="141" column="33" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
-      <jump line="161" column="13" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="164" column="38" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="43" column="28" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="128" column="43" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -261,6 +234,30 @@
       <jump line="29" column="87" filename="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/MD5Util.java" />
       <jump line="180" column="50" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="22" column="1" filename="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" />
+      <jump line="207" column="50" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="208" column="54" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="210" column="28" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="213" column="31" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="214" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="215" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="216" column="86" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="217" column="55" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="218" column="45" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="219" column="46" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="220" column="40" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="222" column="37" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="223" column="56" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="224" column="48" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="226" column="37" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="227" column="63" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="0" column="44" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="2" column="59" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="5" column="59" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="10" column="23" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="29" column="45" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
+      <jump line="61" column="20" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
+      <jump line="182" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
+      <jump line="245" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,7 +272,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb250c2hyaW5rXD4=</text>
+        <text encoding="base64">XDxtYWluSGFuZGxlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
@@ -314,12 +311,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkb250c2hyaW5rXD4=</last-search>
+      <last-search encoding="base64">XDxtYWluSGFuZGxlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb250c2hyaW5rXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYWluSGFuZGxlclw+</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
