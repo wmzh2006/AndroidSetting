@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXh0VG9TcGVlY2hcPg==</entry>
-        <entry encoding="base64">XDxBYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxtXD4=</entry>
         <entry encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
         <entry>launcher</entry>
@@ -25,6 +23,8 @@
         <entry>onCreate</entry>
         <entry encoding="base64">XDx3b3Jrb3V0RGF0YUxpc3RcPg==</entry>
         <entry encoding="base64">XDxwcm9ncmVzc1w+</entry>
+        <entry>work</entry>
+        <entry encoding="base64">XDx3b3JrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,51 +104,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599033199131">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" timestamp="1598965271393">
-        <mark key="'" line="445" column="35" />
-        <mark key="[" line="451" column="8" />
-        <mark key="]" line="451" column="8" />
-        <mark key="^" line="451" column="8" />
-        <mark key="." line="451" column="7" />
-      </file>
-      <file name="D:/AndroidStudio/Coolf/app/build.gradle" timestamp="1599028902935">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="42" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/MainWorker.java" timestamp="1599033292794">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1599035728732">
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="47" column="26" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1599035096974" />
-      <file name="D:/AndroidStudio/Coolf/app/src/main/AndroidManifest.xml" timestamp="1599028968296">
-        <mark key="[" line="24" column="34" />
-      </file>
       <file name="D:/AndroidStudio/Coolf/app/src/main/java/com/ktyn/coolf/MainService.java" timestamp="1599028957235">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599034862048">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-      </file>
-      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1599035285119">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599036808439">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/Tools.java" timestamp="1599032882369">
         <mark key="[" line="64" column="0" />
@@ -162,10 +126,41 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="40" />
       </file>
+      <file name="/Dummy.txt" timestamp="1599033199131">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/Coolf/app/build.gradle" timestamp="1599028902935">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/MainWorker.java" timestamp="1599036047329">
+        <mark key="[" line="23" column="82" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="23" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1599037642656">
+        <mark key="[" line="70" column="16" />
+        <mark key="]" line="70" column="16" />
+        <mark key="." line="70" column="16" />
+        <mark key="^" line="55" column="66" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1599037685551" />
+      <file name="D:/AndroidStudio/Coolf/app/src/main/AndroidManifest.xml" timestamp="1599028968296">
+        <mark key="[" line="24" column="34" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1599035285119">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1599033154687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599035142653">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoConfig.java" timestamp="1599035952378" />
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599037689523">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="34" />
@@ -174,17 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="456" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="468" column="18" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="531" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="536" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="537" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="539" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="203" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="212" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="14" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
-      <jump line="18" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
       <jump line="20" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
       <jump line="11" column="14" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
       <jump line="9" column="0" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
@@ -274,45 +258,56 @@
       <jump line="445" column="35" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="31" column="53" filename="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" />
       <jump line="18" column="4" filename="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" />
+      <jump line="23" column="77" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="533" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="535" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="536" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="967" column="69" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="969" column="70" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="971" column="70" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="355" column="53" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="356" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="989" column="70" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
+      <jump line="354" column="53" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC53b3JrOndvcmstcnVudGltZToyLjQuCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;105480&quot;</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>&quot;105480&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9ncmVzc1w+</text>
+        <text encoding="base64">XDx3b3JrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC53b3JrOndvcmstcnVudGltZToyLjQuCg==</text>
+        <text encoding="base64">ICAgIEpTQXV0b0NvbmYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC53b3JrOndvcmstcnVudGltZToyLjQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAogICAgfQ==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPcHRpb25zIHsKICAgICAgICBzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob2soY29udGV4dCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob2soY29udGV4dCkpIHsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,9 +322,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9ncmVzc1w+</last-search>
+      <last-search encoding="base64">XDx3b3JrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9ncmVzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx3b3JrXD4=</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
