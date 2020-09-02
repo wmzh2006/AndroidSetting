@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhYnNXb21lbkFwcGxpY2F0aW9uXD4=</entry>
         <entry>launcher</entry>
         <entry encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</entry>
         <entry encoding="base64">XDxpXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>work</entry>
         <entry encoding="base64">XDx3b3JrXD4=</entry>
         <entry>restart</entry>
+        <entry>restartDialog</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -108,7 +108,7 @@
         <mark key="[" line="17" column="77" />
       </file>
       <file name="/AndroidManifest.xml" timestamp="1599039784279" />
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/values/strings.xml" timestamp="1599052166799">
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/values/strings.xml" timestamp="1599054168295">
         <mark key="[" line="327" column="35" />
         <mark key="]" line="327" column="35" />
         <mark key="." line="327" column="35" />
@@ -124,17 +124,14 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" timestamp="1599052354262">
-        <mark key="'" line="205" column="16" />
+      <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" timestamp="1599054917277">
+        <mark key="'" line="190" column="53" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/zakq/uamn/ArfgSdk.java" timestamp="1599039015881">
         <mark key="[" line="50" column="106" />
         <mark key="]" line="50" column="90" />
         <mark key="^" line="50" column="90" />
         <mark key="." line="50" column="90" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1599033199131">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/MainWorker.java" timestamp="1599036047329">
         <mark key="[" line="23" column="82" />
@@ -170,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="14" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
       <jump line="9" column="0" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
       <jump line="91" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
       <jump line="50" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
@@ -270,6 +266,7 @@
       <jump line="989" column="70" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="354" column="53" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="205" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" />
+      <jump line="189" column="53" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -284,7 +281,7 @@
         <text>facebook_app_id</text>
       </register>
       <register name="/" type="4">
-        <text>restart</text>
+        <text>restartDialog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
@@ -323,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>restart</last-search>
+      <last-search>restartDialog</last-search>
       <last-offset />
-      <last-pattern>restart</last-pattern>
+      <last-pattern>restartDialog</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
