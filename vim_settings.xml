@@ -172,11 +172,11 @@
       <file name="/fragment.java" timestamp="1598968834785">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599027528018">
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599028210683">
         <mark key="'" line="20" column="4" />
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="34" column="81" />
+        <mark key="]" line="34" column="81" />
+        <mark key="." line="34" column="81" />
       </file>
     </filemarks>
     <jumps>
@@ -284,14 +284,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YyAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getActivityInfo(this.getComponentName(), 0);</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>GET_ACTIVITIES</text>
+        <text>getActivityInfo(this.getComponentName(), 0);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9ncmVzc1w+</text>
@@ -300,31 +300,31 @@
         <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YyAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mby4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbmZvLnRhcmdldEFjdGl2aXR5CiAgICAgICAgfSBjYXRjaCAoUGFja2FnZU1hbmFnZXIuTmFtZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmkoInRhZyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWN0aXZpdHlJbmZvIGluZm8gPSB0aGlzLmdldFBhY2thZ2VNYW5hZ2VyKCkuZ2V0QWN0aXZpdHlJbmZvKGdldENvbXBvbmVudE5hbWUoKSwgUGFja2FnZU1hbmFnZXIuTUFUQ0hfREVGQVVMVF9PTkxZKTsK</text>
+        <text encoding="base64">YyAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGlzdCA9IGY4NjlhCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbmZvLnRhcmdldEFjdGl2aXR5CiAgICAgICAgfSBjYXRjaCAoUGFja2FnZU1hbmFnZXIuTmFtZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlciA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWN0aXZpdHlJbmZvIGluZm8gPSB0aGlzLmdldFBhY2thZ2VNYW5hZ2VyKCkuZ2V0QWN0aXZpdHlJbmZvKGdldENvbXBvbmVudE5hbWUoKSwgUGFja2FnZU1hbmFnZXIuTUFUQ0hfREVGQVVMVF9PTkxZKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyID0gQWxsRGF5QWRhcHRlcih0aGlzLCB3b3Jrb3V0RGF0YUxpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGlzdCA9IGY4NjlhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRhcHRlciA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyID0gQWxsRGF5QWRhcHRlcih0aGlzLCB3b3Jrb3V0RGF0YUxpc3QpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25CaW5kVmlld0hvbGRlcihob2xkZXI6IFZpZXdIb2xkZXIsIHBvc2l0aW9uOiBJbnQsIHBheWxvYWRzOiBNdXRhYmxlTGlzdDxBbnk+KSB7CiAgICAgICAgc3VwZXIub25CaW5kVmlld0hvbGRlcihob2xkZXIsIHBvc2l0aW9uLCBwYXlsb2FkcykKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
