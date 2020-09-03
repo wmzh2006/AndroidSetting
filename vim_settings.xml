@@ -107,11 +107,11 @@
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/build.gradle" timestamp="1599051150249">
         <mark key="[" line="17" column="77" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/androidTest/java/com/volley/bost/demo3/ExampleInstrumentedTest.java" timestamp="1599103447688">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="25" />
-        <mark key="^" line="44" column="12" />
-        <mark key="." line="45" column="25" />
+      <file name="E:/Project/gpjsauto/demo3/src/androidTest/java/com/volley/bost/demo3/ExampleInstrumentedTest.java" timestamp="1599114109916">
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="57" column="25" />
+        <mark key="^" line="57" column="25" />
+        <mark key="." line="57" column="24" />
       </file>
       <file name="/AndroidManifest.xml" timestamp="1599039784279" />
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/res/values/strings.xml" timestamp="1599054168295">
@@ -126,26 +126,29 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599112772112">
-        <mark key="[" line="616" column="32" />
-        <mark key="]" line="617" column="40" />
-        <mark key="." line="617" column="39" />
-        <mark key="^" line="617" column="40" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/HttpPostData.java" timestamp="1599113967283">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="3" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599113930960">
+        <mark key="[" line="637" column="19" />
+        <mark key="]" line="638" column="20" />
+        <mark key="." line="638" column="19" />
+        <mark key="^" line="638" column="20" />
       </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" timestamp="1599054917277">
         <mark key="'" line="190" column="53" />
+      </file>
+      <file name="/LLDB" timestamp="1599114124552">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/zakq/uamn/ArfgSdk.java" timestamp="1599039015881">
         <mark key="[" line="50" column="106" />
         <mark key="]" line="50" column="90" />
         <mark key="^" line="50" column="90" />
         <mark key="." line="50" column="90" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/MainWorker.java" timestamp="1599036047329">
-        <mark key="[" line="23" column="82" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="23" />
       </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/AndroidManifest.xml" timestamp="1599052606915">
         <mark key="[" line="97" column="18" />
@@ -158,6 +161,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1599113315428" />
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1599037685551" />
       <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1599038622057">
         <mark key="[" line="42" column="0" />
@@ -165,6 +169,9 @@
         <mark key="." line="42" column="0" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/build.gradle" timestamp="1599051212955" />
+      <file name="/fragment.java" timestamp="1599113991432">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599037689523">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="25" column="34" />
@@ -279,46 +286,70 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>f.</text>
+        <text>new String(HttpPostData.httppost)</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>f.</text>
+        <text>new String(HttpPostData.httppost)</text>
       </register>
       <register name="/" type="4">
         <text>restartDialog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25kazpleHBvcnRBQVIgLVBuaz0idHJ1ZSIgLVBjaWQ9IjEwNTQ4MCIgLVB1cmw9IjEwNTQ4MC0yNTk4Njk3NDIuYXAtc291dGhlYXN0LTEuZWxiLmFtYXpvbmF3cy5jb20iIC1QbHVybD0iMTA1NDgwLTI1OTg2OTc0Mi5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIK</text>
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCJcbiIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uUkVCT09UIiAvPgo=</text>
+      <register name="1" type="8">
+        <text>writer.write(
+writer.write(
+writer.write(
+writer.write(
+writer.write(
+writer.write(
+writer.write(
+writer.write(
+writer.write(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTE9DS0VEX0JPT1RfQ09NUExFVEVEIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgd3JpdGVyID0gZi5uZXdXcml0ZXIodHJ1ZSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text>f
+f
+f
+f
+f
+f
+f
+f
+f</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVDRUlWRV9CT09UX0NPTVBMRVRFRCIgLz4K</text>
+      <register name="4" type="8">
+        <text>f.
+f.
+f.
+f.
+f.
+f.
+f.
+f.
+f.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uQk9PVF9DT01QTEVURUQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB3cml0ZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFOlxQcm9qZWN0XGdwanNhdXRvXHJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG9cc3JjXG1haW5camF2YVxyZWxlYXNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29rZXIoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uUkVCT09UIiAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTE9DS0VEX0JPT1RfQ09NUExFVEVEIiAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgd29rZXIoQ29udGV4dCBjb250ZXh0KSB7Ci8vICAgICAgICBDb25zdHJhaW50cyBjb25zdHJhaW50cyA9IG5ldyBDb25zdHJhaW50cy5CdWlsZGVyKCkKLy8gICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgIFBlcmlvZGljV29ya1JlcXVlc3QgcGVyaW9kaWNXb3JrUmVxdWVzdCA9IG5ldyBQZXJpb2RpY1dvcmtSZXF1ZXN0LkJ1aWxkZXIoTWFpbldvcmtlci5jbGFzcywgMTUsIFRpbWVVbml0Lk1JTlVURVMpCi8vICAgICAgICAgICAgICAgIC5zZXRDb25zdHJhaW50cyhjb25zdHJhaW50cykKICAgICAgICAgICAgICAgIC5idWlsZCgpOwoKICAgICAgICBXb3JrTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5lbnF1ZXVlVW5pcXVlUGVyaW9kaWNXb3JrKAogICAgICAgICAgICAgICAgSlNBdXRvQ29uZmlnLnVwZGF0ZWNpZCwKICAgICAgICAgICAgICAgIEV4aXN0aW5nUGVyaW9kaWNXb3JrUG9saWN5LlJFUExBQ0UsCiAgICAgICAgICAgICAgICBwZXJpb2RpY1dvcmtSZXF1ZXN0CiAgICAgICAgKTsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
