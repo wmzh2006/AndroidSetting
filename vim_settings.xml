@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3JrXD4=</entry>
-        <entry>restart</entry>
-        <entry>restartDialog</entry>
         <entry encoding="base64">XDxodHRwUG9zdFw+</entry>
         <entry encoding="base64">XDxleGVjX3Bha1w+</entry>
         <entry encoding="base64">XDxyZVBhY2thZ2VOYW1lXD4=</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxERVhfTkFNRVw+</entry>
         <entry encoding="base64">XDxtZXJnZXBuZ1w+</entry>
         <entry encoding="base64">XDxzYXZlQ29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxPVVRQVVRfRklMRVw+</entry>
+        <entry encoding="base64">XDxJTlBVVF9GSUxFXD4=</entry>
+        <entry encoding="base64">XDxhYnNvbHV0ZVBhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,13 +104,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/mazz/vakf/FyxSdk.java" timestamp="1599126866745" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1599115659039">
-        <mark key="'" line="813" column="78" />
-        <mark key="[" line="823" column="73" />
-        <mark key="]" line="823" column="73" />
-        <mark key="^" line="823" column="59" />
-        <mark key="." line="823" column="73" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/mazz/vakf/FyxSdk.java" timestamp="1599141480321">
+        <mark key="'" line="16" column="41" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicsdkkotlin/src/main/java/com/dihiw/kmat/IfiConstants.kt" timestamp="1599140063983">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/ajvt/ftlft/QvvkSdk.java" timestamp="1599125449997">
         <mark key="'" line="88" column="20" />
@@ -119,6 +123,7 @@
         <mark key="." line="91" column="31" />
         <mark key="^" line="88" column="13" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/mazz/vakf/FyxConstants.java" timestamp="1599139887990" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599125147940">
         <mark key="'" line="506" column="55" />
         <mark key="[" line="506" column="55" />
@@ -126,70 +131,65 @@
         <mark key="." line="506" column="64" />
         <mark key="^" line="506" column="65" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/mrdx/jzcrw/EvgwConstants.java" timestamp="1599124876703">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
+      <file name="E:/Project/gpjsauto/dynamicsdkkotlin/src/main/java/com/tgyz/zodfl/zixr/AiwSdk.kt" timestamp="1599140909047">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="132" column="31" />
+        <mark key="." line="131" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1599118157710">
-        <mark key="[" line="309" column="42" />
-        <mark key="]" line="309" column="67" />
-        <mark key="^" line="309" column="67" />
-        <mark key="." line="309" column="66" />
-      </file>
+      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1599140769848" />
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1599125496977" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/igcw/pppy/ZcnlSdk.java" timestamp="1599124452178">
-        <mark key="'" line="89" column="32" />
-        <mark key="[" line="89" column="39" />
-        <mark key="]" line="89" column="43" />
-        <mark key="^" line="89" column="43" />
-        <mark key="." line="89" column="42" />
-      </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/f/HttpPostData.java" timestamp="1599115209133">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+      <file name="E:/Project/gpjsauto/dynamicsdkkotlin/src/main/java/com/dihiw/kmat/IfiSdk.kt" timestamp="1599140041496">
+        <mark key="'" line="131" column="11" />
+        <mark key="[" line="131" column="33" />
+        <mark key="]" line="131" column="12" />
+        <mark key="^" line="131" column="12" />
+        <mark key="." line="131" column="11" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/assets/59" timestamp="1599125657577" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1599127108328">
+      <file name="E:/Project/gpjsauto/dynamicsdkkotlin/release/README.txt" timestamp="1599141046654" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1599141658102">
+        <mark key="'" line="71" column="8" />
         <mark key="[" line="157" column="51" />
         <mark key="]" line="157" column="62" />
         <mark key="." line="157" column="61" />
         <mark key="^" line="157" column="62" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/HttpPostData.java" timestamp="1599116707822">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="33" />
-      </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1599141553941" />
       <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1599126617499">
         <mark key="[" line="402" column="37" />
         <mark key="]" line="402" column="45" />
         <mark key="^" line="402" column="45" />
         <mark key="." line="402" column="44" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/igcw/pppy/ZcnlConstants.java" timestamp="1599124081311">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="10" column="27" />
+      <file name="E:/Project/gpjsauto/dynamicsdkkotlin/build.gradle" timestamp="1599140059163">
+        <mark key="[" line="292" column="62" />
+        <mark key="]" line="292" column="63" />
+        <mark key="^" line="292" column="63" />
+        <mark key="." line="292" column="62" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1599126560379">
+      <file name="E:/Project/gpjsauto/dynamicsdkkotlin/src/main/java/com/zgbkv/urzv/ghhz/KbpySdk.kt" timestamp="1599141358655">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="59" column="100" />
+        <mark key="]" line="59" column="100" />
+        <mark key="." line="59" column="100" />
+        <mark key="^" line="59" column="102" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/release/README.txt" timestamp="1599138985672" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1599139835201">
         <mark key="'" line="146" column="12" />
         <mark key="[" line="301" column="82" />
         <mark key="]" line="301" column="82" />
         <mark key="^" line="301" column="80" />
         <mark key="." line="301" column="82" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1599114913461" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/DefaultJs.java" timestamp="1599116699175">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="33" />
+      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1599140778349">
+        <mark key="[" line="42" column="53" />
+        <mark key="]" line="43" column="64" />
+        <mark key="." line="43" column="63" />
+        <mark key="^" line="43" column="64" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599125504297">
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599141050315">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="25" column="33" />
         <mark key="]" line="25" column="33" />
@@ -198,11 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="20" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
-      <jump line="182" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
-      <jump line="245" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
-      <jump line="412" column="15" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
-      <jump line="415" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
       <jump line="97" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
       <jump line="405" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="467" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
@@ -298,51 +293,56 @@
       <jump line="506" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="88" column="20" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/ajvt/ftlft/QvvkSdk.java" />
       <jump line="157" column="61" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="131" column="11" filename="E:/Project/gpjsauto/dynamicsdkkotlin/src/main/java/com/dihiw/kmat/IfiSdk.kt" />
+      <jump line="20" column="20" filename="E:/Project/gpjsauto/dynamicsdkkotlin/src/main/java/com/zgbkv/urzv/ghhz/KbpySdk.kt" />
+      <jump line="29" column="56" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/mazz/vakf/FyxSdk.java" />
+      <jump line="16" column="41" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/mazz/vakf/FyxSdk.java" />
+      <jump line="71" column="8" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text encoding="base64">SU5QVVRfRklMRSA=</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">SU5QVVRfRklMRSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlQ29uZmlnXD4=</text>
+        <text encoding="base64">XDxhYnNvbHV0ZVBhdGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiKFtCKUkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbExvbmdNZXRob2QoZW52LCBpcywgc2tpcF9tZXRob2RJRCwgKCplbnYpLT4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW0uc2tpcChTSVpFKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwK</text>
+        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbExvbmdNZXRob2QoZW52LCBpcywgc2tpcF9tZXRob2RJRCwgKCplbnYpLT4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiVEFHIiwgImF2aWxhYmxlOiIgKyBmaXMuYXZhaWxhYmxlKCkgKyAiIGxlbjogIiArIGxlbik7Cg==</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiVEFHIiwgImF2aWxhYmxlOiIgKyBmaXMuYXZhaWxhYmxlKCkgKyAiIGxlbjogIiArIGxlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvTGFzdHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFzayBjb3B5RGV4KGRlKQo=</text>
+        <text encoding="base64">ICAgIGRvTGFzdHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQubmV3V3JpdGVyKCkud3JpdGUobWVyZ2VEYXRhKQo=</text>
+        <text encoding="base64">dGFzayBjb3B5RGV4KGRlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQud3JpdGUobWVyZ2VEYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQubmV3V3JpdGVyKCkud3JpdGUobWVyZ2VEYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVKc0NsYXNzKHNiLCAiRGVmYXVsdEpzIikK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQud3JpdGUobWVyZ2VEYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzYXZlQ29uZmlnXD4=</last-search>
+      <last-search encoding="base64">XDxhYnNvbHV0ZVBhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlQ29uZmlnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhYnNvbHV0ZVBhdGhcPg==</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
