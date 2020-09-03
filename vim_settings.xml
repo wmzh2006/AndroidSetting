@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYWluQWN0aXZpdHlcPg==</entry>
-        <entry encoding="base64">XDxpXD4=</entry>
-        <entry>TUQ1</entry>
-        <entry encoding="base64">XDxsXD4=</entry>
-        <entry encoding="base64">XDxkb250c2hyaW5rXD4=</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxtYWluSGFuZGxlclw+</entry>
         <entry>start</entry>
@@ -25,6 +20,11 @@
         <entry>restart</entry>
         <entry>restartDialog</entry>
         <entry encoding="base64">XDxodHRwUG9zdFw+</entry>
+        <entry encoding="base64">XDxlbmNyeXB0SnNcPg==</entry>
+        <entry encoding="base64">XDxleGVjX3Bha1w+</entry>
+        <entry encoding="base64">XDxyZVBhY2thZ2VOYW1lXD4=</entry>
+        <entry encoding="base64">XDxleHBvcnRFbmNyeVw+</entry>
+        <entry encoding="base64">XDxjb3B5RmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -113,7 +113,6 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="39" />
       </file>
-      <file name="/AndroidManifest.xml" timestamp="1599039784279" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1599115659039">
         <mark key="'" line="813" column="78" />
         <mark key="[" line="823" column="73" />
@@ -133,17 +132,18 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/HttpPostData.java" timestamp="1599115653982">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="25" />
-        <mark key="." line="3" column="25" />
-        <mark key="^" line="3" column="3" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/HttpPostData.java" timestamp="1599116707822">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="33" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599116079948">
-        <mark key="[" line="621" column="4" />
-        <mark key="]" line="621" column="8" />
-        <mark key="." line="621" column="7" />
-        <mark key="^" line="621" column="8" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599116946045">
+        <mark key="'" line="152" column="10" />
+        <mark key="[" line="653" column="16" />
+        <mark key="]" line="653" column="24" />
+        <mark key="." line="653" column="16" />
+        <mark key="^" line="653" column="22" />
       </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" timestamp="1599054917277">
         <mark key="'" line="190" column="53" />
@@ -151,11 +151,11 @@
       <file name="/LLDB" timestamp="1599114124552">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/zakq/uamn/ArfgSdk.java" timestamp="1599039015881">
-        <mark key="[" line="50" column="106" />
-        <mark key="]" line="50" column="90" />
-        <mark key="^" line="50" column="90" />
-        <mark key="." line="50" column="90" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1599116251210">
+        <mark key="[" line="311" column="42" />
+        <mark key="]" line="311" column="67" />
+        <mark key="^" line="311" column="67" />
+        <mark key="." line="311" column="66" />
       </file>
       <file name="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/AndroidManifest.xml" timestamp="1599052606915">
         <mark key="[" line="97" column="18" />
@@ -170,6 +170,12 @@
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1599113315428" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1599114913461" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/DefaultJs.java" timestamp="1599116699175">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="33" />
+      </file>
       <file name="E:/Project/gpjsauto/demo3/src/main/java/f/HttpPostData.java" timestamp="1599115209133">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
@@ -181,21 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="21" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
-      <jump line="50" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/utils/AbsWomenApplication.kt" />
-      <jump line="993" column="37" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="27" column="43" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="67" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="141" column="115" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="453" column="80" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="92" column="38" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="834" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="171" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="445" column="50" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="327" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainExcerciseActivity.kt" />
-      <jump line="44" column="32" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" />
-      <jump line="39" column="4" filename="E:/googleplay/app_source/Cleaner/src/main/res/values/strings.xml" />
-      <jump line="76" column="53" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
       <jump line="59" column="64" filename="E:/googleplay/app_source/Cleaner/src/main/AndroidManifest.xml" />
       <jump line="58" column="44" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="123" column="31" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
@@ -281,21 +272,36 @@
       <jump line="205" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" />
       <jump line="189" column="53" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/abdominal/womenworkout/fragments/ProfileFragment.kt" />
       <jump line="810" column="78" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="582" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="150" column="9" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="167" column="9" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="127" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="254" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="153" column="44" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="158" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="159" column="37" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="160" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="161" column="25" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="162" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="500" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="653" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="654" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="152" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>httpPostjs</text>
+        <text>copyFile</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>httpPostjs</text>
+        <text>copyFile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwUG9zdFw+</text>
+        <text encoding="base64">XDxjb3B5RmlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc2IgPSBmaWxlMmJ5dGVzKCJodHRwUG9zdGpzIikKICAgICAgICBjcmVhdGVKc0NsYXNzKHNiLCAiSHR0cFBvc3REYXRhIikK</text>
@@ -358,9 +364,9 @@ f.</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxodHRwUG9zdFw+</last-search>
+      <last-search encoding="base64">XDxjb3B5RmlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwUG9zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb3B5RmlsZVw+</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
