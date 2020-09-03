@@ -104,6 +104,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/mazz/vakf/FyxSdk.java" timestamp="1599126866745" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1599115659039">
         <mark key="'" line="813" column="78" />
         <mark key="[" line="823" column="73" />
@@ -150,23 +151,11 @@
         <mark key="." line="4" column="4" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/assets/59" timestamp="1599125657577" />
-      <file name="E:/Project/gpjsauto/demo3/src/androidTest/java/com/volley/bost/demo3/ExampleInstrumentedTest.java" timestamp="1599114807402">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="56" column="40" />
-        <mark key="^" line="56" column="40" />
-        <mark key="." line="56" column="39" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1599126752530">
-        <mark key="[" line="148" column="52" />
-        <mark key="]" line="148" column="53" />
-        <mark key="." line="148" column="52" />
-        <mark key="^" line="148" column="53" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.h" timestamp="1599126651712">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="20" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1599127108328">
+        <mark key="[" line="157" column="51" />
+        <mark key="]" line="157" column="62" />
+        <mark key="." line="157" column="61" />
+        <mark key="^" line="157" column="62" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/HttpPostData.java" timestamp="1599116707822">
         <mark key="[" line="4" column="35" />
@@ -209,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="45" filename="E:/Project/DynamicLoader/tsdk/mapping.txt" />
       <jump line="61" column="20" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
       <jump line="182" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
       <jump line="245" column="22" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/v.java" />
@@ -309,18 +297,19 @@
       <jump line="245" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="506" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="88" column="20" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/ajvt/ftlft/QvvkSdk.java" />
+      <jump line="157" column="61" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>B</text>
+        <text>j</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlQ29uZmlnXD4=</text>
@@ -329,31 +318,31 @@
         <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiKFtCKUkiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwK</text>
+        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbExvbmdNZXRob2QoZW52LCBpcywgc2tpcF9tZXRob2RJRCwgKCplbnYpLT4pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiVEFHIiwgImF2aWxhYmxlOiIgKyBmaXMuYXZhaWxhYmxlKCkgKyAiIGxlbjogIiArIGxlbik7Cg==</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiVEFHIiwgImF2aWxhYmxlOiIgKyBmaXMuYXZhaWxhYmxlKCkgKyAiIGxlbjogIiArIGxlbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvTGFzdHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGFzayBjb3B5RGV4KGRlKQo=</text>
+        <text encoding="base64">ICAgIGRvTGFzdHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQubmV3V3JpdGVyKCkud3JpdGUobWVyZ2VEYXRhKQo=</text>
+        <text encoding="base64">dGFzayBjb3B5RGV4KGRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQud3JpdGUobWVyZ2VEYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQubmV3V3JpdGVyKCkud3JpdGUobWVyZ2VEYXRhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVKc0NsYXNzKHNiLCAiRGVmYXVsdEpzIikK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQud3JpdGUobWVyZ2VEYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYiA9IGZpbGUyYnl0ZXMoImRlZmF1bHRKcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVKc0NsYXNzKHNiLCAiRGVmYXVsdEpzIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
