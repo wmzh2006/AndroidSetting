@@ -124,12 +124,12 @@
         <mark key="^" line="43" column="19" />
         <mark key="." line="43" column="18" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1599182747085" />
       <file name="E:/googleplay/app_source/Cleaner/doc/doc.txt" timestamp="1599528988363">
         <mark key="[" line="19" column="9" />
         <mark key="]" line="19" column="7" />
         <mark key="." line="19" column="7" />
       </file>
+      <file name="E:/tools/android/sources/android-21/java/lang/Runtime.java" timestamp="1599534870863" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/LoadLibrary.java" timestamp="1599533901944">
         <mark key="[" line="63" column="49" />
         <mark key="]" line="63" column="50" />
@@ -157,11 +157,11 @@
         <mark key="^" line="347" column="99" />
         <mark key="." line="347" column="98" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1599533930221">
-        <mark key="[" line="118" column="79" />
-        <mark key="]" line="118" column="78" />
-        <mark key="^" line="118" column="78" />
-        <mark key="." line="118" column="77" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_PACKAGE/src/main/java/com/android/providers/helpserver/Servicehelpserver.java" timestamp="1599535107589">
+        <mark key="[" line="116" column="86" />
+        <mark key="]" line="116" column="85" />
+        <mark key="^" line="116" column="85" />
+        <mark key="." line="116" column="84" />
       </file>
       <file name="E:/googleplay/app_source/Cleaner/doc/key.txt" timestamp="1599442375132">
         <mark key="[" line="0" column="6" />
@@ -301,13 +301,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>runtime</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>runtime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</text>
@@ -316,31 +316,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImFwcCBpcyBudWxsIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW0uc2tpcChTSVpFKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUnVudGltZSBydW50aW1lID0gUnVudGltZS5nZXRSdW50aW1lKCk7Ly8ubG9hZChuYXRpdmVMaWJQYXRoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbExvbmdNZXRob2QoZW52LCBpcywgc2tpcF9tZXRob2RJRCwgKCplbnYpLT4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IG9ial9SdW50aW1lID0gZ2V0UnVudGltZS5pbnZva2UobnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRTdHJlYW0uc2tpcChTSVpFKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuaSgiVEFHIiwgImF2aWxhYmxlOiIgKyBmaXMuYXZhaWxhYmxlKCkgKyAiIGxlbjogIiArIGxlbik7Cg==</text>
+        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbExvbmdNZXRob2QoZW52LCBpcywgc2tpcF9tZXRob2RJRCwgKCplbnYpLT4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCByZWFkX21ldGhvZElEID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBpcyksICJyZWFkIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvTGFzdHsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSgiVEFHIiwgImF2aWxhYmxlOiIgKyBmaXMuYXZhaWxhYmxlKCkgKyAiIGxlbjogIiArIGxlbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGFzayBjb3B5RGV4KGRlKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQubmV3V3JpdGVyKCkud3JpdGUobWVyZ2VEYXRhKQo=</text>
+        <text encoding="base64">ICAgIGRvTGFzdHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQud3JpdGUobWVyZ2VEYXRhKQo=</text>
+        <text encoding="base64">dGFzayBjb3B5RGV4KGRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
