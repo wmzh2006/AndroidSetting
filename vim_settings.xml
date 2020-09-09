@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZVBhY2thZ2VOYW1lXD4=</entry>
-        <entry encoding="base64">XDxjb3B5RmlsZVw+</entry>
-        <entry encoding="base64">XDxKU19GSUxFX05BTUVcPg==</entry>
-        <entry encoding="base64">XDxIVFRQX1BPU1RfSlNcPg==</entry>
         <entry encoding="base64">XDxnZXRFbmNyeUtleVw+</entry>
         <entry encoding="base64">XDxlbmNyeVw+</entry>
         <entry encoding="base64">XDxFTkNSWV9ERVhfUEFUSFw+</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxvbGROYW1lXD4=</entry>
         <entry encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</entry>
         <entry encoding="base64">XDxlbmNyeXB0SnNcPg==</entry>
+        <entry>a</entry>
+        <entry encoding="base64">XDxhXD4=</entry>
+        <entry>SetByteArrayRegion</entry>
+        <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -119,11 +119,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="D:/AndroidStudio/cumcuber/mair/src/main/AndroidManifest.xml" timestamp="1599549297270">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-      </file>
       <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1599618923005">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="33" />
@@ -148,10 +143,12 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" timestamp="1599647926596">
+      <file name="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" timestamp="1599649501638">
+        <mark key="'" line="132" column="7" />
         <mark key="[" line="94" column="35" />
-        <mark key="]" line="94" column="57" />
-        <mark key="." line="94" column="57" />
+        <mark key="]" line="96" column="53" />
+        <mark key="." line="96" column="52" />
+        <mark key="^" line="96" column="53" />
       </file>
       <file name="D:/AndroidStudio/cumcuber/mair/src/main/java/com/senseri/semso/Sdk.java" timestamp="1599549495598">
         <mark key="[" line="2" column="18" />
@@ -166,13 +163,14 @@
       </file>
       <file name="E:/Project/gpjsauto/demo3/libs/README.txt" timestamp="1599648273917" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/itools/cleaner/booster/plain/LmqConstants.java" timestamp="1599618195951" />
-      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1599647878948">
-        <mark key="'" line="71" column="8" />
-        <mark key="[" line="96" column="35" />
-        <mark key="]" line="289" column="83" />
-        <mark key="." line="289" column="83" />
-        <mark key="^" line="77" column="36" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1599651174367">
+        <mark key="'" line="189" column="92" />
+        <mark key="[" line="169" column="76" />
+        <mark key="]" line="168" column="11" />
+        <mark key="." line="168" column="10" />
+        <mark key="^" line="168" column="11" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/release/README.txt" timestamp="1599650173545" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/wealth/colae/boad/InitStart.java" timestamp="1599552170608">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="7" column="50" />
@@ -182,7 +180,7 @@
       <file name="/fragment.java" timestamp="1599549308238">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599648286102">
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1599650035128">
         <mark key="'" line="22" column="4" />
         <mark key="[" line="25" column="33" />
         <mark key="]" line="25" column="33" />
@@ -191,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
-      <jump line="45" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/database/DatabaseOperations.kt" />
-      <jump line="69" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/database/DatabaseOperations.kt" />
       <jump line="172" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="173" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="175" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
@@ -291,21 +286,24 @@
       <jump line="152" column="66" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/receiver/MainWorker.java" />
       <jump line="164" column="8" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/receiver/MainWorker.java" />
       <jump line="507" column="42" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="181" column="92" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
+      <jump line="96" column="52" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
+      <jump line="132" column="7" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSLnJhdy50ZXN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>a().a</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmNyeXB0SnNcPg==</text>
+        <text encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImFwcCBpcyBudWxsIik7Cg==</text>
@@ -344,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlbmNyeXB0SnNcPg==</last-search>
+      <last-search encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmNyeXB0SnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
