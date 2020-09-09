@@ -7,7 +7,6 @@
       <history-search>
         <entry encoding="base64">XDxyZVBhY2thZ2VOYW1lXD4=</entry>
         <entry encoding="base64">XDxjb3B5RmlsZVw+</entry>
-        <entry encoding="base64">XDxlbmNyeXB0SnNcPg==</entry>
         <entry encoding="base64">XDxKU19GSUxFX05BTUVcPg==</entry>
         <entry encoding="base64">XDxIVFRQX1BPU1RfSlNcPg==</entry>
         <entry encoding="base64">XDxnZXRFbmNyeUtleVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhYnNvbHV0ZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxvbGROYW1lXD4=</entry>
         <entry encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxlbmNyeXB0SnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,6 +104,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599638151478">
+        <mark key="'" line="507" column="42" />
+        <mark key="[" line="147" column="77" />
+        <mark key="]" line="147" column="78" />
+        <mark key="." line="147" column="78" />
+        <mark key="^" line="147" column="78" />
+      </file>
       <file name="D:/AndroidStudio/cumcuber/mair/src/main/AndroidManifest.xml" timestamp="1599549297270">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
@@ -164,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="170" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="45" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/database/DatabaseOperations.kt" />
       <jump line="69" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/database/DatabaseOperations.kt" />
@@ -264,6 +270,7 @@
       <jump line="247" column="49" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/receiver/MainWorker.java" />
       <jump line="152" column="66" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/receiver/MainWorker.java" />
       <jump line="164" column="8" filename="E:/googleplay/app_source/Cleaner/src/main/java/com/itools/cleaner/booster/receiver/MainWorker.java" />
+      <jump line="507" column="42" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,7 +285,7 @@
         <text>a().a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</text>
+        <text encoding="base64">XDxlbmNyeXB0SnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImFwcCBpcyBudWxsIik7Cg==</text>
@@ -317,9 +324,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</last-search>
+      <last-search encoding="base64">XDxlbmNyeXB0SnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbmNyeXB0SnNcPg==</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
