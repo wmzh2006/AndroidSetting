@@ -124,13 +124,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1599706971655">
+      <file name="/LLDB" timestamp="1599708520705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1599704418554" />
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1599619436773">
-        <mark key="[" line="198" column="49" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/java/com/itools/cleaner/booster/plain/RunzSdk.java" timestamp="1599656383491" />
       <file name="E:/Project/gpjsauto/utils/build.gradle" timestamp="1599706276889">
         <mark key="[" line="8" column="23" />
@@ -151,12 +148,11 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="42" column="64" />
       </file>
-      <file name="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" timestamp="1599705645721">
-        <mark key="'" line="247" column="0" />
-        <mark key="[" line="179" column="47" />
-        <mark key="]" line="179" column="47" />
-        <mark key="." line="179" column="47" />
-        <mark key="^" line="174" column="66" />
+      <file name="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" timestamp="1599708493321">
+        <mark key="'" line="507" column="37" />
+        <mark key="[" line="176" column="39" />
+        <mark key="]" line="176" column="39" />
+        <mark key="." line="176" column="39" />
       </file>
       <file name="E:/Project/gpjsauto/demo3/libs/README.txt" timestamp="1599648273917" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1599655848522">
@@ -172,6 +168,13 @@
         <mark key="." line="15" column="8" />
         <mark key="^" line="15" column="8" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndk/build.gradle" timestamp="1599708655381">
+        <mark key="'" line="401" column="38" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="347" column="99" />
+        <mark key="." line="9" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1599656018231">
         <mark key="[" line="0" column="0" />
       </file>
@@ -185,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="177" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="178" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="180" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
@@ -285,51 +287,52 @@
       <jump line="132" column="7" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
       <jump line="142" column="29" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
       <jump line="246" column="0" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
+      <jump line="505" column="37" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bufferSize</text>
+        <text>size</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>bufferSize</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>skip_len</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiVEFHIiwgImFwcCBpcyBudWxsIik7Cg==</text>
+        <text encoding="base64">ICAgIGpieXRlQXJyYXkgYnVmZmVyID0gKCplbnYpLT5OZXdCeXRlQXJyYXkoZW52LCBzaXplKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5nZXRBc3NldHMoKS5vcAo=</text>
+        <text encoding="base64">ICAgICgqZW52KS0+Qgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaXMucmUK</text>
+        <text encoding="base64">ICAgICgqZW52KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24obmFtZTogJ3JsJywgZXh0OiAnYWFyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5nZXRBc3NldHMoKS5vcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaXRvb2xzLmNsZWFuZXIuYm9vc3Rlci5wbGFpbi5SdW56Q29uc3RhbnRzLkxJQl9OQU1FOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaXMucmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSLnJhdy50ZXN0Cg==</text>
+        <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24obmFtZTogJ3JsJywgZXh0OiAnYWFyJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaXRvb2xzLmNsZWFuZXIuYm9vc3Rlci5wbGFpbi5SdW56Q29uc3RhbnRzLkxJQl9OQU1FOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBSLnJhdy50ZXN0Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZm91cnFhei5zaXh3c3g7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
