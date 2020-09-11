@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmNyeVw+</entry>
-        <entry encoding="base64">XDxFTkNSWV9ERVhfUEFUSFw+</entry>
-        <entry encoding="base64">XDxFTkNSWV9ERVhfS0VZXD4=</entry>
-        <entry encoding="base64">XDxleHBvcnRFbmNyeVw+</entry>
         <entry encoding="base64">XDxTSVpFXD4=</entry>
         <entry encoding="base64">XDxERVhfU0laRVw+</entry>
         <entry encoding="base64">XDxERVhfTkFNRVw+</entry>
@@ -25,6 +21,10 @@
         <entry>SetByteArrayRegion</entry>
         <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
         <entry>skip_len</entry>
+        <entry encoding="base64">XDxpbml0d3ZfYWZcPg==</entry>
+        <entry>initwv</entry>
+        <entry>begin_run</entry>
+        <entry>begin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -142,13 +142,6 @@
         <mark key="^" line="347" column="99" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1599648040295">
-        <mark key="'" line="507" column="42" />
-        <mark key="[" line="597" column="20" />
-        <mark key="]" line="147" column="78" />
-        <mark key="." line="147" column="78" />
-        <mark key="^" line="147" column="78" />
-      </file>
       <file name="/LLDB" timestamp="1599717347791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,11 +169,11 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="25" column="41" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1599794270613">
+        <mark key="'" line="279" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
-      <jump line="178" column="20" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
-      <jump line="180" column="41" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="46" column="17" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/activities/MainActivity.kt" />
       <jump line="44" column="8" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/fragments/WorkoutFragment.kt" />
       <jump line="52" column="16" filename="D:/AndroidStudioProjects/Abs Workout For Women/app/src/main/java/com/fitness/minutesabsworkout/fragments/WorkoutFragment.kt" />
@@ -278,6 +271,9 @@
       <jump line="142" column="29" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
       <jump line="246" column="0" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
       <jump line="505" column="37" filename="E:/Project/gpjsauto/utils/src/main/cpp/native-lib.c" />
+      <jump line="218" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="924" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="279" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,7 +288,7 @@
         <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>skip_len</text>
+        <text>begin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGpieXRlQXJyYXkgYnVmZmVyID0gKCplbnYpLT5OZXdCeXRlQXJyYXkoZW52LCBzaXplKTsK</text>
@@ -331,9 +327,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>skip_len</last-search>
+      <last-search>begin</last-search>
       <last-offset />
-      <last-pattern>skip_len</last-pattern>
+      <last-pattern>begin</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
