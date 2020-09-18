@@ -104,15 +104,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" timestamp="1600421473715">
-        <mark key="[" line="47" column="60" />
-        <mark key="]" line="47" column="59" />
-        <mark key="." line="47" column="58" />
-        <mark key="^" line="47" column="59" />
-      </file>
-      <file name="/a.dummy" timestamp="1600413584315">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" timestamp="1600422936028" />
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferModel.java" timestamp="1600419854635">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="31" column="68" />
@@ -125,7 +117,7 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1600421620474">
+      <file name="/LLDB" timestamp="1600423001959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" timestamp="1600415631817">
@@ -139,20 +131,24 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRepository.java" timestamp="1600422017324">
-        <mark key="'" line="20" column="24" />
-        <mark key="[" line="33" column="66" />
-        <mark key="]" line="33" column="65" />
-        <mark key="." line="33" column="64" />
-        <mark key="^" line="33" column="65" />
+      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRepository.java" timestamp="1600423425106">
+        <mark key="'" line="18" column="24" />
+        <mark key="[" line="31" column="66" />
+        <mark key="]" line="31" column="65" />
+        <mark key="." line="31" column="64" />
+        <mark key="^" line="31" column="65" />
       </file>
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/Rquest.java" timestamp="1600413545974">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="17" />
+      <file name="D:/AndroidStudio/ROOTSDK_Plugin_onlyjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1600422477083">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" timestamp="1600421399249">
+      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponseParser.java" timestamp="1600422730775">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" timestamp="1600422906581">
         <mark key="'" line="350" column="15" />
       </file>
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" timestamp="1600415257606">
@@ -162,7 +158,6 @@
         <mark key="." line="45" column="24" />
         <mark key="^" line="55" column="28" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/PhoneUtil.class" timestamp="1600413239914" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/HttpRunner.class" timestamp="1600421942567" />
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/res/layout/activity_main.xml" timestamp="1600415941237">
         <mark key="[" line="15" column="27" />
@@ -186,9 +181,6 @@
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1600415546496">
         <mark key="'" line="141" column="60" />
-      </file>
-      <file name="/fragment.java" timestamp="1600413786191">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -296,14 +288,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHQuU3VjY2VzczxPZmZlclJlc3BvbnNlPihvZmZlclJlc3BvbnNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>UnsupportedEncoding</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsS2V5Qnl0ZXNcPg==</text>
