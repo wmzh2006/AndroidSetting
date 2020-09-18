@@ -104,7 +104,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" timestamp="1600422936028" />
+      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" timestamp="1600426518178">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="32" />
+        <mark key="." line="54" column="32" />
+        <mark key="^" line="77" column="8" />
+      </file>
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferModel.java" timestamp="1600419854635">
         <mark key="'" line="14" column="21" />
         <mark key="[" line="31" column="68" />
@@ -112,7 +117,8 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="/LLDB" timestamp="1600425303398">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/KeyUtil.java" timestamp="1600426700831" />
+      <file name="/LLDB" timestamp="1600426171438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/ssl/SSLUtils.java" timestamp="1600424721794" />
@@ -142,24 +148,18 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" timestamp="1600422906581">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" timestamp="1600426048892">
         <mark key="'" line="350" column="15" />
       </file>
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" timestamp="1600425498514">
-        <mark key="'" line="33" column="16" />
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="24" />
-        <mark key="." line="45" column="24" />
-        <mark key="^" line="55" column="28" />
+      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" timestamp="1600427010324">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="22" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="22" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/HttpRunner.class" timestamp="1600423713243" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/release/RealseConfig.java" timestamp="1600415981883" />
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/MainActivity.java" timestamp="1600419728775">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="17" column="27" />
-        <mark key="." line="20" column="0" />
-      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_impl_plugin_lib.jar!/com/impl_plugin/uitl/MD5Util.class" timestamp="1600425565128" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1600425258016">
         <mark key="'" line="141" column="60" />
       </file>
@@ -169,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="53" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="227" column="11" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="652" column="2" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="249" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="526" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -269,18 +267,20 @@
       <jump line="26" column="16" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" />
       <jump line="916" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
       <jump line="141" column="60" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="58" column="21" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" />
+      <jump line="38" column="8" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;YXBwbGljYXRpb24vanNvbg==&quot;)</text>
+        <text>D</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;YXBwbGljYXRpb24vanNvbg==&quot;)</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsS2V5Qnl0ZXNcPg==</text>
@@ -289,31 +289,31 @@
         <text encoding="base64">ICAgICAgICBwYXJhbXMucHV0KCJzMSIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBieXRlW10gZW5jb2RlKFN0cmluZyByYXdEYXRhKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gZGF0YSA9IG51bGw7CiAgICAgICAgdHJ5IHsKLy8JCQlMb2dVdGlsLncoaXNMb2csVEFHLCAiPT09PT09PT09PT09PT09PUVuY3J5cHQ9PT09PT09PT09PT09PT09PT09OiIrU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgICAgICAgICBTdHJpbmcgc2lnbiA9IE1ENShyYXdEYXRhKTsKICAgICAgICAgICAgU3RyaW5nIHJlYWxLZXkgPSBGZXRjaFJlYWxLZXkoc2lnbik7CiAgICAgICAgICAgIC8vYmFzZTY0seDC6wogICAgICAgICAgICBTdHJpbmcgYmFzZTY0RGF0YSA9IEJhc2U2NC5lbmNvZGVUb1N0cmluZygocmF3RGF0YSArIHNpZ24pLmdldEJ5dGVzKCksIEJhc2U2NC5ERUZBVUxUKTsKICAgICAgICAgICAgLy/X1r3a0sbOuwogICAgICAgICAgICBieXRlW10gYmFzZTY0RGF0YUJ5dGVzID0gZXhjbHVzaXZlT3IoYmFzZTY0RGF0YS5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CiAgICAgICAgICAgIC8vtv69+NbGyv2+3ca0vdMKICAgICAgICAgICAgYnl0ZVtdIHJlYWxLZXlCeXRlcyA9IHJlYWxLZXkuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCk7CiAgICAgICAgICAgIGludCByZWFsS2V5Qnl0ZXNMZW5ndGggPSByZWFsS2V5Qnl0ZXMubGVuZ3RoOwogICAgICAgICAgICBpbnQgYmFzZTY0RGF0YUJ5dGVzTGVuZ3RoID0gYmFzZTY0RGF0YUJ5dGVzLmxlbmd0aDsKICAgICAgICAgICAgZGF0YSA9IG5ldyBieXRlW3JlYWxLZXlCeXRlc0xlbmd0aCArIGJhc2U2NERhdGFCeXRlc0xlbmd0aF07CiAgICAgICAgICAgIC8vcmVhbEtleUJ5dGVzyse3xdTax7DD5rXECiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcmVhbEtleUJ5dGVzTGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIGRhdGFbaV0gPSByZWFsS2V5Qnl0ZXNbaV07CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy9iYXNlNjREYXRhQnl0ZXPKx9TauvPD5rXECiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYmFzZTY0RGF0YUJ5dGVzTGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIGRhdGFbaSArIHJlYWxLZXlCeXRlc0xlbmd0aF0gPSBiYXNlNjREYXRhQnl0ZXNbaV07CiAgICAgICAgICAgIH0KLy8JCQlMb2dVdGlsLncoaXNMb2csVEFHLCAiU3lzdGVtIGVuY3J5cHQgZW5kOiIrU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwovLwkJCUxvZ1V0aWwudyhpc0xvZyxUQUcsICJzaWduOiIrc2lnbisiIHJlYWxLZXk6IityZWFsS2V5KTsKLy8JCQlMb2dVdGlsLncoaXNMb2csVEFHLCAiSFRUUCBSZXF1ZXN0IFJhd0RhdGE6IisgcmF3RGF0YSk7Ci8vCQkJTG9nVXRpbC53KGlzTG9nLFRBRywgImVuY3J5cHRCYXNlNjQocmF3RGF0YStzaWduKToiK2Jhc2U2NERhdGEpOwovLwkJCUxvZ1V0aWwudyhpc0xvZyxUQUcsInJlYWxLZXlCeXRlcy4uLi4uLi4uLi4uLi4uLi4uLjoiK0FycmF5cy50b1N0cmluZyhyZWFsS2V5Qnl0ZXMpKTsKLy8JCQlMb2dVdGlsLncoaXNMb2csVEFHLCJlbmNyeUJhc2U2NERhdGFCeXRlcy4uLi4uLi4uLi4uLi4uLi4uLjoiK0FycmF5cy50b1N0cmluZyhiYXNlNjREYXRhQnl0ZXMpKTsKLy8JCQlMb2dVdGlsLncoaXNMb2csVEFHLCJkYXRhLi4uLi4uLi4uLi4uLi4uLi4uOiIrQXJyYXlzLnRvU3RyaW5nKGRhdGEpKTsKLy8JCQlpZihJbXBsQ29uZmlnLnRlc3RFbmN5cHQpCWRlY3J5cHQoZGF0YSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQ8T2ZmZXJSZXNwb25zZT4gbWFrZVN5bmNocm9ub3VzT2ZmZXJSZXF1ZXN0KFN0cmluZyBqc29uQm9keSkgewogICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIFVSTCB1cmwgPSBuZXcgVVJMKG9mZmVyVXJsKTsKICAgICAgICAgICAgSHR0cFVSTENvbm5lY3Rpb24gaHR0cENvbm5lY3Rpb24gPSAoSHR0cFVSTENvbm5lY3Rpb24pIHVybC5vcGVuQ29ubmVjdGlvbigpOwogICAgICAgICAgICBodHRwQ29ubmVjdGlvbi5zZXRSZXF1ZXN0TWV0aG9kKCJQT1NUIik7CiAgICAgICAgICAgIGh0dHBDb25uZWN0aW9uLnNldFJlcXVlc3RQcm9wZXJ0eSgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKTsKICAgICAgICAgICAgaHR0cENvbm5lY3Rpb24uc2V0UmVxdWVzdFByb3BlcnR5KCJBY2NlcHQiLCAiYXBwbGljYXRpb24vanNvbiIpOwogICAgICAgICAgICBodHRwQ29ubmVjdGlvbi5zZXREb091dHB1dCh0cnVlKTsKICAgICAgICAgICAgaHR0cENvbm5lY3Rpb24uZ2V0T3V0cHV0U3RyZWFtKCkud3JpdGUoanNvbkJvZHkuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCkpOwogICAgICAgICAgICBpbnQgY29kZSA9IGh0dHBDb25uZWN0aW9uLmdldFJlc3BvbnNlQ29kZSgpOwogICAgICAgICAgICBpZihjb2RlID09IDIwMCl7CiAgICAgICAgICAgICAgICBPZmZlclJlc3BvbnNlIG9mZmVyUmVzcG9uc2UgPSByZXNwb25zZVBhcnNlci5wYXJzZShodHRwQ29ubmVjdGlvbi5nZXRJbnB1dFN0cmVhbSgpKTsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUmVzdWx0LlN1Y2Nlc3M8T2ZmZXJSZXNwb25zZT4ob2ZmZXJSZXNwb25zZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihodHRwQ29ubmVjdGlvbi5nZXRSZXF1ZXN0TWV0aG9kKCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmVzdWx0LkVycm9yPE9mZmVyUmVzcG9uc2U+KGUpOwogICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQ8T2ZmZXJSZXNwb25zZT4gbWFrZVN5bmNocm9ub3VzT2ZmZXJSZXF1ZXN0KFN0cmluZyBqc29uQm9keSkgewogICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIFVSTCB1cmwgPSBuZXcgVVJMKG9mZmVyVXJsKTsKICAgICAgICAgICAgSHR0cFVSTENvbm5lY3Rpb24gaHR0cENvbm5lY3Rpb24gPSAoSHR0cFVSTENvbm5lY3Rpb24pIHVybC5vcGVuQ29ubmVjdGlvbigpOwogICAgICAgICAgICBodHRwQ29ubmVjdGlvbi5zZXRSZXF1ZXN0TWV0aG9kKCJQT1NUIik7CiAgICAgICAgICAgIGh0dHBDb25uZWN0aW9uLnNldFJlcXVlc3RQcm9wZXJ0eSgiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKTsKICAgICAgICAgICAgaHR0cENvbm5lY3Rpb24uc2V0UmVxdWVzdFByb3BlcnR5KCJBY2NlcHQiLCAiYXBwbGljYXRpb24vanNvbiIpOwogICAgICAgICAgICBodHRwQ29ubmVjdGlvbi5zZXREb091dHB1dCh0cnVlKTsKICAgICAgICAgICAgaHR0cENvbm5lY3Rpb24uZ2V0T3V0cHV0U3RyZWFtKCkud3JpdGUoanNvbkJvZHkuZ2V0Qnl0ZXMoU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCkpOwogICAgICAgICAgICBpbnQgY29kZSA9IGh0dHBDb25uZWN0aW9uLmdldFJlc3BvbnNlQ29kZSgpOwogICAgICAgICAgICBpZihjb2RlID09IDIwMCl7CiAgICAgICAgICAgICAgICBPZmZlclJlc3BvbnNlIG9mZmVyUmVzcG9uc2UgPSByZXNwb25zZVBhcnNlci5wYXJzZShodHRwQ29ubmVjdGlvbi5nZXRJbnB1dFN0cmVhbSgpKTsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUmVzdWx0LlN1Y2Nlc3M8T2ZmZXJSZXNwb25zZT4ob2ZmZXJSZXNwb25zZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihodHRwQ29ubmVjdGlvbi5nZXRSZXF1ZXN0TWV0aG9kKCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUmVzdWx0LkVycm9yPE9mZmVyUmVzcG9uc2U+KGUpOwogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgUmVzdWx0PE9mZmVyUmVzcG9uc2U+IG1ha2VTeW5jaHJvbm91c09mZmVyUmVxdWVzdChTdHJpbmcganNvbkJvZHkpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBVUkwgdXJsID0gbmV3IFVSTChvZmZlclVybCk7CiAgICAgICAgICAgIEh0dHBVUkxDb25uZWN0aW9uIGh0dHBDb25uZWN0aW9uID0gKEh0dHBVUkxDb25uZWN0aW9uKSB1cmwub3BlbkNvbm5lY3Rpb24oKTsKICAgICAgICAgICAgaHR0cENvbm5lY3Rpb24uc2V0UmVxdWVzdE1ldGhvZCgiUE9TVCIpOwogICAgICAgICAgICBodHRwQ29ubmVjdGlvbi5zZXRSZXF1ZXN0UHJvcGVydHkoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04Iik7CiAgICAgICAgICAgIGh0dHBDb25uZWN0aW9uLnNldFJlcXVlc3RQcm9wZXJ0eSgiQWNjZXB0IiwgImFwcGxpY2F0aW9uL2pzb24iKTsKICAgICAgICAgICAgaHR0cENvbm5lY3Rpb24uc2V0RG9PdXRwdXQodHJ1ZSk7CiAgICAgICAgICAgIGh0dHBDb25uZWN0aW9uLmdldE91dHB1dFN0cmVhbSgpLndyaXRlKGpzb25Cb2R5LmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKTsKICAgICAgICAgICAgaW50IGNvZGUgPSBodHRwQ29ubmVjdGlvbi5nZXRSZXNwb25zZUNvZGUoKTsKICAgICAgICAgICAgaWYoY29kZSA9PSAyMDApewogICAgICAgICAgICAgICAgT2ZmZXJSZXNwb25zZSBvZmZlclJlc3BvbnNlID0gcmVzcG9uc2VQYXJzZXIucGFyc2UoaHR0cENvbm5lY3Rpb24uZ2V0SW5wdXRTdHJlYW0oKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFJlc3VsdC5TdWNjZXNzPE9mZmVyUmVzcG9uc2U+KG9mZmVyUmVzcG9uc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oaHR0cENvbm5lY3Rpb24uZ2V0UmVxdWVzdE1ldGhvZCgpKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICByZXR1cm4gbmV3IFJlc3VsdC5FcnJvcjxPZmZlclJlc3BvbnNlPihlKTsKICAgICAgICB9CiAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
