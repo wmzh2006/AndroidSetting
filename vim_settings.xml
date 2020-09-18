@@ -117,12 +117,12 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponseParser.java" timestamp="1600396462754">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="76" column="43" />
-        <mark key="]" line="76" column="43" />
-        <mark key="." line="76" column="43" />
-        <mark key="^" line="76" column="37" />
+      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponseParser.java" timestamp="1600410606521">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="77" column="26" />
+        <mark key="." line="77" column="25" />
+        <mark key="^" line="77" column="26" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" timestamp="1600332089889">
         <mark key="'" line="350" column="15" />
@@ -136,6 +136,13 @@
         <mark key="." line="4" column="14" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_plugin_lib.jar!/com/lib/util/Util.class" timestamp="1600328387530" />
+      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" timestamp="1600410277371">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_impl_plugin_lib.jar!/com/impl_plugin/uitl/MD5Util.class" timestamp="1600331416668" />
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/Result.java" timestamp="1600324874446">
         <mark key="[" line="15" column="17" />
@@ -157,7 +164,7 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="35" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1600396476123" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1600410178318" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/dictionary.txt" timestamp="1600398036582">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,9 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="654" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="152" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="500" column="42" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="131" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="179" column="33" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="420" column="71" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -275,18 +279,21 @@
       <jump line="75" column="85" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" />
       <jump line="48" column="31" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponseParser.java" />
       <jump line="59" column="0" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponseParser.java" />
+      <jump line="13" column="23" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" />
+      <jump line="20" column="3" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" />
+      <jump line="28" column="0" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsS2V5Qnl0ZXNcPg==</text>
@@ -295,31 +302,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBqcyA9IG9iamVjdC5vcHRTdHJpbmcoImpzIiwgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mZmVyRGF0YS5jZiA9IGNmOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGludCBzdGE7CiAgICBpbnQgY2Y7CiAgICBTdHJpbmcgdGw7CiAgICBTdHJpbmc=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPILSmwO1ob29ranNVcmxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgd2ViUGhvbmVOdW1iZXIgPSBqc29uLm9wdFN0cmluZygicGgiLCAiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPILSmwO1ob29ranNVcmxzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd2ViUGhvbmVOdW1iZXIgPSBqc29uLm9wdFN0cmluZygicGgiLCAiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
