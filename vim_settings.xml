@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>initwv</entry>
         <entry>begin_run</entry>
         <entry>begin</entry>
         <entry encoding="base64">XDxyZWFsS2V5XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx3ZWJ2aWV3X0JlYW5cPg==</entry>
         <entry encoding="base64">XDx3ZWJ2aWV3XD4=</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJcPg==</entry>
+        <entry encoding="base64">XDxtT2ZmZXJsaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,11 +104,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/DataCheckHookJSUrl.kt" timestamp="1600660175933">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/DataCheckHookJSUrl.kt" timestamp="1600668773188">
         <mark key="[" line="59" column="40" />
         <mark key="]" line="59" column="40" />
         <mark key="^" line="45" column="23" />
         <mark key="." line="59" column="40" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" timestamp="1600669316631">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="105" column="26" />
+        <mark key="]" line="105" column="26" />
+        <mark key="." line="105" column="26" />
+        <mark key="^" line="105" column="26" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/HttpRunner.kt" timestamp="1600661020297">
         <mark key="'" line="253" column="24" />
@@ -117,12 +124,23 @@
         <mark key="." line="90" column="36" />
         <mark key="^" line="90" column="37" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/WebviewTwoCaptcha.kt" timestamp="1600668896949">
+        <mark key="[" line="466" column="52" />
+        <mark key="]" line="466" column="52" />
+        <mark key="." line="466" column="52" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/WebviewInterceptRequest.kt" timestamp="1600667045934">
         <mark key="'" line="740" column="16" />
         <mark key="[" line="246" column="40" />
         <mark key="]" line="246" column="41" />
         <mark key="^" line="246" column="41" />
         <mark key="." line="246" column="40" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/HttpCompatSSLSocketFactory.kt" timestamp="1600668744615">
+        <mark key="[" line="96" column="75" />
+        <mark key="]" line="96" column="76" />
+        <mark key="^" line="96" column="76" />
+        <mark key="." line="96" column="75" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSRunOffer.kt" timestamp="1600667597496">
         <mark key="[" line="53" column="50" />
@@ -137,16 +155,17 @@
         <mark key="^" line="160" column="67" />
         <mark key="." line="160" column="66" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/CaptchaKeywords.kt" timestamp="1600658608725">
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="56" column="37" />
-        <mark key="." line="56" column="37" />
-      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/NService.kt" timestamp="1600667723192">
         <mark key="[" line="104" column="114" />
         <mark key="]" line="104" column="114" />
         <mark key="." line="104" column="114" />
         <mark key="^" line="104" column="114" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/AESUtil.kt" timestamp="1600669177978">
+        <mark key="[" line="127" column="46" />
+        <mark key="]" line="127" column="46" />
+        <mark key="^" line="422" column="94" />
+        <mark key="." line="127" column="46" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1600659913449">
         <mark key="'" line="504" column="28" />
@@ -160,11 +179,11 @@
         <mark key="^" line="50" column="17" />
         <mark key="." line="50" column="16" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/IframeCheckHookJSUrl.kt" timestamp="1600668491755">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="48" />
-        <mark key="." line="2" column="48" />
-        <mark key="^" line="3" column="8" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/IframeCheckHookJSUrl.kt" timestamp="1600668838299">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="1" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/Main.kt" timestamp="1600667848822">
         <mark key="[" line="147" column="100" />
@@ -192,12 +211,6 @@
         <mark key="." line="42" column="42" />
         <mark key="^" line="42" column="43" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/WebviewCaptcha.kt" timestamp="1600659147794">
-        <mark key="[" line="225" column="37" />
-        <mark key="]" line="225" column="38" />
-        <mark key="^" line="225" column="38" />
-        <mark key="." line="225" column="37" />
-      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/act.kt" timestamp="1600667526007">
         <mark key="[" line="57" column="50" />
         <mark key="]" line="57" column="51" />
@@ -210,14 +223,8 @@
         <mark key="." line="101" column="65" />
         <mark key="^" line="101" column="65" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/bean/WebviewBaseBean.java" timestamp="1600658011401" />
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/ThreadPool.java" />
-      <jump line="17" column="48" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" />
-      <jump line="20" column="0" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" />
-      <jump line="27" column="95" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" />
-      <jump line="13" column="8" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" />
       <jump line="457" column="43" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
       <jump line="458" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
       <jump line="264" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
@@ -313,21 +320,26 @@
       <jump line="119" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="48" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/b.kt" />
       <jump line="53" column="49" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/util/HostUtil.kt" />
+      <jump line="97" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
+      <jump line="103" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
+      <jump line="104" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
+      <jump line="105" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
+      <jump line="25" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbWV0ZXJcPg==</text>
+        <text encoding="base64">XDxtT2ZmZXJsaXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZSAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8nCg==</text>
@@ -336,29 +348,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIG9wZXJhdG9yIGZ1biBpbnZva2UoKTogSWZyYW1lQ2hlY2tIb29rSlNVcmwgewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBmdW4gZ2V0V2Vidmlld19CZWFuKCk6IFdlYnZpZXdCYXNlQmVhbj8gewogICAgICAgIHJldHVybiBtV2Vidmlld19CZWFuCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>Runnable{
-        }</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICB2YXIgaW5zdGFuY2U6IElmcmFtZUNoZWNrSG9va0pTVXJsID0gSWZyYW1lQ2hlY2tIb29rSlNVcmwKICAgICAgICBwcml2YXRlIHNldAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLnd2LmF1dG8uZnVjdGlvbi5XZWJ2aWV3QXV0b1Byb2Nlc3MuYmVnaW5Mb2FkKHdlYlZpZXcsIG5ld0xvYWRBY3Rpb25VcmwpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2ViVmlld1V0aWwuQ29tcGFuaW9uLm9uRXZlbnQod2ViVmlldy5jb250ZXh0LCBldmVudE5hbWUsIG5ld0xvYWRBY3Rpb25VcmwsICIzeHhWaWV3TG9hZFVSTCIsICJbIiArIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpICsgIl06IiArIHNyY1VybCArICIgO2g9IiArIHNyY1NlbmRIZWFkZXJNYXApCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIG9wZXJhdG9yIGZ1biBpbnZva2UoKTogSWZyYW1lQ2hlY2tIb29rSlNVcmwgewogICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG92ZXJyaWRlIGZ1biBzaG91bGRJbnRlcmNlcHRSZXF1ZXN0KHZpZXc6IFdlYlZpZXcsIHJlcXVlc3Q6IFdlYlJlc291cmNlUmVxdWVzdCk6IFdlYlJlc291cmNlUmVzcG9uc2U/IHsgLy8gNS4wxvC0pbeiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBmdW4gZ2V0V2Vidmlld19CZWFuKCk6IFdlYnZpZXdCYXNlQmVhbj8gewogICAgICAgIHJldHVybiBtV2Vidmlld19CZWFuCiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -367,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXJhbWV0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxtT2ZmZXJsaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbWV0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtT2ZmZXJsaXN0XD4=</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
