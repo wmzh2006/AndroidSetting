@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>begin_run</entry>
-        <entry>begin</entry>
-        <entry encoding="base64">XDxyZWFsS2V5XD4=</entry>
         <entry encoding="base64">XDxyZWFsS2V5Qnl0ZXNcPg==</entry>
         <entry encoding="base64">XDxtSlNydW5uYWJsZVw+</entry>
         <entry>jsDelay</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDx3ZWJ2aWV3XD4=</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxtT2ZmZXJsaXN0XD4=</entry>
+        <entry>mOfferGroupMap</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxpc0Rpc3BsYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -104,44 +104,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/CRWebviewAutoProcess.java" timestamp="1600669709569">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/DataCheckHookJSUrl.kt" timestamp="1600668773188">
-        <mark key="[" line="59" column="40" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/DataCheckHookJSUrl.kt" timestamp="1600671116273">
+        <mark key="[" line="40" column="4" />
         <mark key="]" line="59" column="40" />
         <mark key="^" line="45" column="23" />
         <mark key="." line="59" column="40" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" timestamp="1600669523313">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" timestamp="1600671810246">
         <mark key="'" line="25" column="8" />
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="51" />
+        <mark key="[" line="146" column="111" />
+        <mark key="]" line="146" column="111" />
+        <mark key="." line="146" column="111" />
         <mark key="^" line="22" column="52" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/WebviewTwoCaptcha.kt" timestamp="1600668896949">
-        <mark key="[" line="466" column="52" />
-        <mark key="]" line="466" column="52" />
-        <mark key="." line="466" column="52" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/WebviewInterceptRequest.kt" timestamp="1600672299261">
+        <mark key="'" line="740" column="16" />
+        <mark key="[" line="1285" column="35" />
+        <mark key="]" line="1285" column="35" />
+        <mark key="^" line="1056" column="54" />
+        <mark key="." line="1285" column="35" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/HttpCompatSSLSocketFactory.kt" timestamp="1600668744615">
-        <mark key="[" line="96" column="75" />
-        <mark key="]" line="96" column="76" />
-        <mark key="^" line="96" column="76" />
-        <mark key="." line="96" column="75" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSAutoOffer.kt" timestamp="1600671976431">
+        <mark key="[" line="965" column="57" />
+        <mark key="]" line="965" column="61" />
+        <mark key="^" line="965" column="61" />
+        <mark key="." line="965" column="60" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoUser.java" timestamp="1600669862112">
-        <mark key="^" line="159" column="41" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSRunOffer.kt" timestamp="1600672246697">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="46" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/util/HostUtil.kt" timestamp="1600667981303">
-        <mark key="'" line="53" column="49" />
-        <mark key="[" line="160" column="66" />
-        <mark key="]" line="160" column="67" />
-        <mark key="^" line="160" column="67" />
-        <mark key="." line="160" column="66" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewPinBean.kt" timestamp="1600672221039">
+        <mark key="[" line="101" column="29" />
+        <mark key="]" line="101" column="34" />
+        <mark key="." line="101" column="33" />
+        <mark key="^" line="101" column="34" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/util/PermissionUtil.kt" timestamp="1600670174106">
         <mark key="[" line="42" column="22" />
@@ -149,94 +148,82 @@
         <mark key="." line="42" column="22" />
         <mark key="^" line="42" column="23" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/util/WebViewUtil.kt" timestamp="1600670144487">
-        <mark key="[" line="308" column="45" />
-        <mark key="]" line="305" column="46" />
-        <mark key="." line="308" column="45" />
-        <mark key="^" line="305" column="46" />
+      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1600670773755">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="25" column="26" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/NService.kt" timestamp="1600667723192">
-        <mark key="[" line="104" column="114" />
-        <mark key="]" line="104" column="114" />
-        <mark key="." line="104" column="114" />
-        <mark key="^" line="104" column="114" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/AESUtil.kt" timestamp="1600669177978">
-        <mark key="[" line="127" column="46" />
-        <mark key="]" line="127" column="46" />
-        <mark key="^" line="422" column="94" />
-        <mark key="." line="127" column="46" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRWebviewAutoProcess.kt" timestamp="1600669795456">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRWebviewAutoProcess.kt" timestamp="1600671944490">
         <mark key="[" line="99" column="119" />
         <mark key="]" line="99" column="119" />
-        <mark key="^" line="87" column="97" />
+        <mark key="^" line="87" column="99" />
         <mark key="." line="99" column="119" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/util/HttpRunnerUploadFile_chaojiying.kt" timestamp="1600670042711">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewBaseBean.kt" timestamp="1600671477529">
+        <mark key="'" line="93" column="17" />
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="24" />
+        <mark key="^" line="72" column="17" />
+        <mark key="." line="72" column="24" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/IframeCheckHookJSUrl.kt" timestamp="1600668838299">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/IframeCheckHookJSUrl.kt" timestamp="1600671675188">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="1" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/Main.kt" timestamp="1600667848822">
-        <mark key="[" line="147" column="100" />
-        <mark key="]" line="147" column="100" />
-        <mark key="^" line="141" column="54" />
-        <mark key="." line="147" column="100" />
+      <file name="E:/Project/gpjsauto/build.gradle" timestamp="1600670782112">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/util/HttpRunnerUploadFile.kt" timestamp="1600670033734">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSManualOffer.kt" timestamp="1600671984703">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="41" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" timestamp="1600667699520">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" timestamp="1600671487762">
+        <mark key="'" line="57" column="12" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" timestamp="1600672077231">
         <mark key="'" line="119" column="24" />
         <mark key="[" line="453" column="38" />
-        <mark key="]" line="71" column="130" />
-        <mark key="." line="71" column="129" />
-        <mark key="^" line="71" column="130" />
+        <mark key="]" line="453" column="42" />
+        <mark key="." line="453" column="41" />
+        <mark key="^" line="453" column="42" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/b.kt" timestamp="1600667767631">
-        <mark key="'" line="48" column="28" />
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="42" column="43" />
-        <mark key="." line="42" column="42" />
-        <mark key="^" line="42" column="43" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/b.kt" timestamp="1600672394160">
+        <mark key="'" line="49" column="28" />
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="42" />
+        <mark key="^" line="43" column="43" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/util/NetUtil.kt" timestamp="1600668014759">
-        <mark key="[" line="101" column="65" />
-        <mark key="]" line="101" column="65" />
-        <mark key="." line="101" column="65" />
-        <mark key="^" line="101" column="65" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/act.kt" timestamp="1600671803495">
+        <mark key="[" line="63" column="56" />
+        <mark key="]" line="63" column="60" />
+        <mark key="^" line="63" column="60" />
+        <mark key="." line="63" column="59" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/OfferType.kt" timestamp="1600671217382">
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="47" column="50" />
+        <mark key="." line="47" column="50" />
+        <mark key="^" line="57" column="28" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/AndroidManifest.xml" timestamp="1600672693832" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1600670989830">
+        <mark key="'" line="980" column="15" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="457" column="43" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="458" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="264" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="283" column="58" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="359" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="398" column="43" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="399" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="418" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="423" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="426" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="437" column="86" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="270" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="271" column="37" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="276" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="286" column="82" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="350" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" />
-      <jump line="75" column="85" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" />
-      <jump line="48" column="31" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponseParser.java" />
-      <jump line="59" column="0" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponseParser.java" />
-      <jump line="13" column="23" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" />
       <jump line="20" column="3" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" />
       <jump line="28" column="0" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferResponse.java" />
       <jump line="12" column="36" filename="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/Request.java" />
@@ -317,6 +304,26 @@
       <jump line="104" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
       <jump line="105" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
       <jump line="25" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
+      <jump line="148" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="978" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="980" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
+      <jump line="16" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="24" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="26" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="35" column="11" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="36" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="39" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="40" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="44" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="45" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="49" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="50" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="54" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="55" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="59" column="11" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="60" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
+      <jump line="72" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewBaseBean.kt" />
+      <jump line="93" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewBaseBean.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,37 +338,37 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtT2ZmZXJsaXN0XD4=</text>
+        <text encoding="base64">XDxpc0Rpc3BsYXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZSAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbGVfYnl0ZSA9IGZpbGVfYnl0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbGVfYnl0ZSA9IGZpbGVfYnl0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53di51dGlsLkJhc2VDb250ZXh0Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUhhbmRsZXJfQ2FsbGJhY2sgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBpc01hdGNoSG9va0pTVXJsKGN1clVybDogU3RyaW5nPyk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBzdXBlci5pc01hdGNoSG9va0pTVXJsKGN1clVybCkKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUhhbmRsZXJfQ2FsbGJhY2sgPSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGhhbmRsZXJfQ2FsbGJhY2s6IEhhbmRsZXIuQ2FsbGJhY2sgPSBtSGFuZGxlcl9DYWxsYmFjawo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2YXIgbmFtZTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHNldAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -370,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtT2ZmZXJsaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxpc0Rpc3BsYXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtT2ZmZXJsaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc0Rpc3BsYXlcPg==</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
