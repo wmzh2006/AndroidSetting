@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZWdpbkxvYWRcPg==</entry>
         <entry>webViewLoadURL</entry>
         <entry>getWebview</entry>
         <entry>Webview</entry>
@@ -25,6 +24,7 @@
         <entry>onPageStarted</entry>
         <entry>overied</entry>
         <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
+        <entry>override</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -181,12 +181,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" timestamp="1600673807578">
-        <mark key="'" line="273" column="10" />
-        <mark key="[" line="533" column="47" />
-        <mark key="]" line="533" column="47" />
-        <mark key="^" line="533" column="47" />
-        <mark key="." line="533" column="47" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" timestamp="1600674580415">
+        <mark key="'" line="182" column="145" />
+        <mark key="[" line="257" column="38" />
+        <mark key="]" line="257" column="39" />
+        <mark key="^" line="257" column="39" />
+        <mark key="." line="257" column="38" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/efqps/yivj/b.kt" timestamp="1600672394160">
         <mark key="'" line="49" column="28" />
@@ -208,20 +208,11 @@
         <mark key="^" line="57" column="28" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/AndroidManifest.xml" timestamp="1600672693832" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1600670989830">
-        <mark key="'" line="980" column="15" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1600673032431">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="390" column="54" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="392" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="394" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="395" column="56" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="396" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
@@ -319,12 +310,15 @@
       <jump line="388" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="272" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="273" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
+      <jump line="559" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
+      <jump line="560" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
+      <jump line="182" column="145" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
@@ -333,37 +327,37 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdmVycmlkZVw+</text>
+        <text>override</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZSAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25Qcm9ncmVzc0NoYW5nZWQodmlldywgbmV3UHJvZ3Jlc3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnNob3VsZE92ZXJyaWRlVXJsTG9hZGluZyh2aWV3LCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLm9uSnNBbGVydCh2aWV3LCB1cmwsIG1lc3NhZ2UsIHJlc3VsdCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25SZWNlaXZlZEVycm9yKHZpZXcsIHJlcXVlc3QsIGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25FeGNlZWRlZERhdGFiYXNlUXVvdGEodXJsLCBkYXRhYmFzZUlkZW50aWZpZXIsIHF1b3RhLCBlc3RpbWF0ZWREYXRhYmFzZVNpemUsIHRvdGFsUXVvdGEsIHF1b3RhVXBkYXRlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25SZWNlaXZlZFNzbEVycm9yKHZpZXcsIGhhbmRsZXIsIGVycm9yKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvbnJlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
@@ -372,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvdmVycmlkZVw+</last-search>
+      <last-search>override</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdmVycmlkZVw+</last-pattern>
+      <last-pattern>override</last-pattern>
       <last-replace>c0098eArr</last-replace>
       <last-substitute>*c0098eArr</last-substitute>
       <last-dir>1</last-dir>
