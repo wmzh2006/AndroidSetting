@@ -104,11 +104,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/DataCheckHookJSUrl.kt" timestamp="1600671116273">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="59" column="40" />
-        <mark key="^" line="45" column="23" />
-        <mark key="." line="59" column="40" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/InitEnvironmentCallback.kt" timestamp="1600676632745">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" timestamp="1600671810246">
         <mark key="'" line="25" column="8" />
@@ -145,11 +145,11 @@
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/build/outputs/mapping/release/mapping.txt" timestamp="1600673274946">
         <mark key="'" line="1583" column="10" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1600672981886">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="35" />
+      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1600676037470">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="26" />
         <mark key="^" line="9" column="35" />
-        <mark key="." line="9" column="34" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRWebviewAutoProcess.kt" timestamp="1600671944490">
         <mark key="[" line="99" column="119" />
@@ -168,6 +168,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/Main.kt" timestamp="1600676916600">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="73" column="60" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSManualOffer.kt" timestamp="1600671984703">
         <mark key="[" line="28" column="37" />
@@ -200,12 +206,6 @@
         <mark key="]" line="63" column="60" />
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="59" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/OfferType.kt" timestamp="1600671217382">
-        <mark key="[" line="47" column="50" />
-        <mark key="]" line="47" column="50" />
-        <mark key="." line="47" column="50" />
-        <mark key="^" line="57" column="28" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/AndroidManifest.xml" timestamp="1600672693832" />
       <file name="/fragment.java" timestamp="1600673032431">
@@ -318,13 +318,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>CoreConstant.dataCid</text>
       </register>
       <register name="/" type="4">
         <text>override</text>
@@ -333,31 +333,31 @@
         <text encoding="base64">aW5jbHVkZSAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25Qcm9ncmVzc0NoYW5nZWQodmlldywgbmV3UHJvZ3Jlc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV09SS19QQVRIX1BEID0gRW52Q29uc3QuV09SS19QQVRILnN1YnN0cmluZygwLCBjZGlyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNkaXI6IEludCA9IEVudkNvbnN0LldPUktfUEFUSC5sYXN0SW5kZXhPZihTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkx3PT0iKSAvKiIvIiovKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLm9uSnNBbGVydCh2aWV3LCB1cmwsIG1lc3NhZ2UsIHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgV09SS19QQVRIX0QgPSBFbnZDb25zdC5XT1JLX1BBVEggKyBTdHJQcm9jZXNzaW5nLkRlY3J5cHQoIkx3PT0iKSAvKiIvIiovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW52Q29uc3QuV09SS19QQVRIID0gRmlsZVV0aWwuZ2V0V29ya1BhdGgobUN0eCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25FeGNlZWRlZERhdGFiYXNlUXVvdGEodXJsLCBkYXRhYmFzZUlkZW50aWZpZXIsIHF1b3RhLCBlc3RpbWF0ZWREYXRhYmFzZVNpemUsIHRvdGFsUXVvdGEsIHF1b3RhVXBkYXRlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUEhPTkVfTUlEID0gbWlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25SZWNlaXZlZFNzbEVycm9yKHZpZXcsIGhhbmRsZXIsIGVycm9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy+78cihycy7p2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1pZDogU3RyaW5nPyA9IG1hcC5nZXQoQ29yZUNvbnN0YW50LmRhdGFNaWQpIGFzIFN0cmluZz8K</text>
       </register>
       <register name=":" type="4">
         <text>%s/*c0098eArr/c0098eArr/gc</text>
