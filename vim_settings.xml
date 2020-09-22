@@ -5,14 +5,11 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWJ2aWV3X0JlYW5cPg==</entry>
-        <entry encoding="base64">XDx3ZWJ2aWV3XD4=</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxtT2ZmZXJsaXN0XD4=</entry>
         <entry>mOfferGroupMap</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxpc0Rpc3BsYXlcPg==</entry>
-        <entry>c.h.b.c.b</entry>
         <entry>b</entry>
         <entry encoding="base64">XDxiXD4=</entry>
         <entry>l$e</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxyT09UU0RLX1BsdWdpbl9vbmx5anNhdXRvX2t0XD4=</entry>
         <entry>on</entry>
         <entry encoding="base64">XDxvblw+</entry>
+        <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
+        <entry>c.h.b.c.b</entry>
+        <entry>c\.h\.b\.c\.b</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -142,18 +142,19 @@
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/util/Tools.kt" timestamp="1600741560908">
         <mark key="[" line="36" column="39" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" timestamp="1600697203896">
-        <mark key="[" line="88" column="51" />
-        <mark key="]" line="88" column="52" />
-        <mark key="^" line="88" column="52" />
-        <mark key="." line="88" column="51" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" timestamp="1600761797503">
+        <mark key="'" line="42" column="47" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="26" />
+        <mark key="^" line="37" column="26" />
+        <mark key="." line="37" column="25" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/util/XConstants.kt" timestamp="1600741133171" />
-      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1600737851570">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
+      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1600761152235">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="26" />
         <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/proguard.cfg" timestamp="1600737324512">
         <mark key="[" line="38" column="30" />
@@ -172,21 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="475" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="740" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/web/WebviewInterceptRequest.kt" />
-      <jump line="1194" column="49" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="1294" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="504" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
-      <jump line="530" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
-      <jump line="777" column="37" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="782" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="70" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="71" column="95" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="77" column="43" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="68" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="69" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="73" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="114" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="115" column="39" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="116" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
@@ -272,51 +258,66 @@
       <jump line="243" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/Reflect.class" />
       <jump line="252" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/Reflect.class" />
       <jump line="180" column="85" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
+      <jump line="109" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="144" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="145" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="146" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="147" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="148" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="149" column="75" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="150" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="177" column="52" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="180" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="184" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="185" column="81" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="188" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="189" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="42" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>!</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblw+</text>
+        <text>c\.h\.b\.c\.b</text>
       </register>
       <register name="0" type="4">
         <text>var keydeststr22</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vblN0b3A6IittQ3VySUQgICk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vblBhdXNlOiIrbUN1cklEICk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vbk5ld0ludGVudDoiK3RoaXMrICI9IiArbUN1cklEICk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vbkRlc3Ryb3k6IittQ3VySUQgICk7Cg==</text>
+        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vblN0b3A6IittQ3VySUQgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlNc1NlcnZpY2Uub25FdmVudChtQ29udGV4dCwgImFjdF9vbkRlc3Ryb3kiLCBtQ3VyVVJMLCBtQ3VySUQsICIiKTsK</text>
+        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vblBhdXNlOiIrbUN1cklEICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vbkNyZWF0ZToiK3RoaXMrICI9IiArbUN1cklEICsgIix1cmw9IiArIG1DdXJVUkwpOwo=</text>
+        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vbk5ld0ludGVudDoiK3RoaXMrICI9IiArbUN1cklEICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vblJlc3VtZToiK21DdXJJRCAgKTsK</text>
+        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vbkRlc3Ryb3k6IittQ3VySUQgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vblN0YXJ0OiIrbUN1cklEICk7Cg==</text>
+        <text encoding="base64">CQlNc1NlcnZpY2Uub25FdmVudChtQ29udGV4dCwgImFjdF9vbkRlc3Ryb3kiLCBtQ3VyVVJMLCBtQ3VySUQsICIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAJTXNTZXJ2aWNlLm9uRXZlbnQobUNvbnRleHQsICJhY3Rfb25TdGFydCIsIG1vdmVUb0Zyb250RnJvbXdoZXJlLCBtQ3VySUQsICIiKTsK</text>
+        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vbkNyZWF0ZToiK3RoaXMrICI9IiArbUN1cklEICsgIix1cmw9IiArIG1DdXJVUkwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.lib\.util\.//gc</text>
@@ -325,9 +326,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvblw+</last-search>
+      <last-search>c\.h\.b\.c\.b</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblw+</last-pattern>
+      <last-pattern>c\.h\.b\.c\.b</last-pattern>
       <last-replace />
       <last-substitute>com\.lib\.util\.</last-substitute>
       <last-dir>1</last-dir>
