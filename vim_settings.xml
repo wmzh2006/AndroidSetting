@@ -107,17 +107,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSOperationStatistics.kt" timestamp="1600694692419">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
-        <mark key="^" line="63" column="55" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/build.gradle" timestamp="1600737366182">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="26" />
+        <mark key="." line="28" column="26" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" timestamp="1600697203896">
         <mark key="[" line="88" column="51" />
         <mark key="]" line="88" column="52" />
         <mark key="^" line="88" column="52" />
         <mark key="." line="88" column="51" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/proguard.cfg" timestamp="1600737324512">
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/MyWebView.kt" timestamp="1600696301036">
         <mark key="[" line="47" column="34" />
@@ -131,21 +136,23 @@
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/reflect/NULL.java" timestamp="1600696124260" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/reflect/NULL.kt" timestamp="1600694944116" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/reflect/ReflectException.java" timestamp="1600696192181" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSDebugLog.kt" timestamp="1600694603162">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRWebviewAutoProcess.kt" timestamp="1600694574528">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="86" column="99" />
-        <mark key="." line="8" column="0" />
+      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1600737851570">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cerl/gnuqc/IgqcService.java" timestamp="1600696799987" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/reflect/Reflect.java" timestamp="1600696158389" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/ReflectException.class" timestamp="1600696190060" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/NULL.class" timestamp="1600696121089" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" timestamp="1600737318801">
+        <mark key="'" line="181" column="145" />
+        <mark key="[" line="594" column="17" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="256" column="39" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/reflect/Reflect.kt" timestamp="1600696012895">
         <mark key="[" line="475" column="60" />
         <mark key="]" line="475" column="63" />
@@ -163,9 +170,6 @@
         <mark key="]" line="63" column="60" />
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="59" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/rOOTSDK_Plugin_onlyjsauto_kt.iml" timestamp="1600690755685">
-        <mark key="'" line="5" column="51" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/reflect/ReflectException.kt" timestamp="1600694895045" />
       <file name="/fragment.java" timestamp="1600696180151">
@@ -277,14 +281,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlKU0RlYnVnTG9nLmUoImFjdF9vblN0b3A6IittQ3VySUQgICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>curActivity</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblw+</text>
