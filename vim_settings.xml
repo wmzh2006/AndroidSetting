@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxtT2ZmZXJsaXN0XD4=</entry>
         <entry>mOfferGroupMap</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
@@ -18,13 +17,14 @@
         <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
         <entry>override</entry>
         <entry encoding="base64">JzwsJz4=</entry>
-        <entry>com\.lib\.util\.</entry>
         <entry encoding="base64">XDxyT09UU0RLX1BsdWdpbl9vbmx5anNhdXRvX2t0XD4=</entry>
         <entry>on</entry>
         <entry encoding="base64">XDxvblw+</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry>c.h.b.c.b</entry>
         <entry>c\.h\.b\.c\.b</entry>
+        <entry>com\.lib\.util\.</entry>
+        <entry>com\.r1zAgWk\.y57lzAy\.lightmusic</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -41,6 +41,8 @@
         <entry encoding="base64">cy8nPCwnPi8vZ2M=</entry>
         <entry>s/com\.lib\.util\.//gc</entry>
         <entry>%s/com\.lib\.util\.//gc</entry>
+        <entry>%s/com\.lib\.util\.//g</entry>
+        <entry>s/com\.r1zAgWk\.y57lzAy\.lightmusic//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,7 +109,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1600759717255" />
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/parser/AESParser.java" timestamp="1600846514367">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="8" />
@@ -120,6 +121,11 @@
         <mark key="." line="100" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferModel.java" timestamp="1600846790874" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1600849578664">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" timestamp="1600846873520">
         <mark key="[" line="34" column="36" />
         <mark key="]" line="34" column="35" />
@@ -134,16 +140,21 @@
       <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20200910092807444590224413225.jar!/com/well/done/InitStart.class" timestamp="1600766636518" />
       <file name="E:/Project/DynamicLoader/tsdk/release/2020091009/README.txt" timestamp="1600766657790" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/rootsdk_impl_plugin_lib.jar!/com/impl_plugin/uitl/MD5Util.class" timestamp="1600843036186" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1600849592384">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="27" column="31" />
+      </file>
       <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1600766293086">
         <mark key="[" line="12" column="55" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1600848544891" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" timestamp="1600761797503">
-        <mark key="'" line="42" column="47" />
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="26" />
-        <mark key="^" line="37" column="26" />
-        <mark key="." line="37" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1600849700992">
+        <mark key="'" line="5" column="340" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="5" column="341" />
+        <mark key="^" line="5" column="341" />
+        <mark key="." line="5" column="340" />
       </file>
       <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/MainActivity.java" timestamp="1600846794516" />
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1600845621155">
@@ -169,8 +180,6 @@
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoConfig.java" timestamp="1600846769087" />
     </filemarks>
     <jumps>
-      <jump line="114" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="115" column="39" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="116" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="356" column="62" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="415" column="69" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
@@ -269,64 +278,66 @@
       <jump line="188" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
       <jump line="189" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
       <jump line="42" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
+      <jump line="2" column="160" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
+      <jump line="5" column="340" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_kt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>_kt</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>c\.h\.b\.c\.b</text>
+        <text>com\.r1zAgWk\.y57lzAy\.lightmusic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgaW1wbGVtZW50YXRpb24gcHJvamVjdChwYXRoOiAnOnJPT1RTREtfUGx1Z2luX29ubHlqc2F1dG9fa3QnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwUnVubmVyLnNldERvUG9zdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBodHRwUnVubmVyLnNldERvUG9zdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCQlMb2dVdGlsLncoaXNTaG93TG9nLFRBRywicmVhbEtleUJ5dGVzLi4uLi4uLi4uLi4uLi4uLi4uOiIrQXJyYXlzLnRvU3RyaW5nKHJlYWxLZXlCeXRlcykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/com\.lib\.util\.//gc</text>
+        <text>s/com\.r1zAgWk\.y57lzAy\.lightmusic//gc</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>c\.h\.b\.c\.b</last-search>
+      <last-search>com\.r1zAgWk\.y57lzAy\.lightmusic</last-search>
       <last-offset />
-      <last-pattern>c\.h\.b\.c\.b</last-pattern>
+      <last-pattern>com\.r1zAgWk\.y57lzAy\.lightmusic</last-pattern>
       <last-replace />
-      <last-substitute>com\.lib\.util\.</last-substitute>
+      <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
