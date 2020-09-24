@@ -130,9 +130,7 @@
         <mark key="." line="454" column="126" />
         <mark key="^" line="455" column="12" />
       </file>
-      <file name="/LLDB" timestamp="1600846829252">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1600932796217" />
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/cerl/gnuqc/IgqcService.java" timestamp="1600914537609">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="12" />
@@ -144,22 +142,11 @@
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1600852766721">
-        <mark key="[" line="9" column="16" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1600929086097" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1600852460307">
-        <mark key="'" line="5" column="340" />
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="5" column="341" />
-        <mark key="^" line="5" column="341" />
-        <mark key="." line="5" column="340" />
-      </file>
-      <file name="E:/Project/gpjsauto/onlyjsauto/src/main/java/com/oa/twioce/nioke/onlyjsauto/OfferRequest.java" timestamp="1600846873520">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="34" column="35" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/release/README.txt" timestamp="1600933577948" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/proguard-rules.pro" timestamp="1600933109977">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1600914100565">
         <mark key="[" line="3" column="35" />
@@ -182,13 +169,18 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1600847903319">
-        <mark key="[" line="927" column="41" />
-        <mark key="]" line="926" column="43" />
-        <mark key="^" line="926" column="43" />
-        <mark key="." line="926" column="42" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/proguard.cfg" timestamp="1600933095423">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1600929089688" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/build.gradle" timestamp="1600932334248">
+        <mark key="[" line="363" column="33" />
+        <mark key="]" line="363" column="34" />
+        <mark key="." line="363" column="34" />
+        <mark key="^" line="358" column="36" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1600933581545" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" timestamp="1600928605612">
         <mark key="'" line="4" column="131" />
         <mark key="[" line="2" column="14" />
@@ -302,44 +294,48 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q29udGV4dCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29udGV4dCA=</text>
+        <text>matcher.group(1) + newName + &quot;.${NEW_CLS_PREFIX}Service&quot; + matcher.group(4)</text>
       </register>
       <register name="/" type="4">
         <text>com\.r1zAgWk\.y57lzAy\.lightmusic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJUQUciLCAiYWN0aW9uIGlzbid0IG1hdGNoIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gbGluZSA9fiAvKC4qLWtlZXAgY2xhc3NccyspKC4qKShcLlx3KlNkaykoLiopLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbC5sbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbC5sb2FkQ2xhc3MoKQo=</text>
+        <text>-keepclassmembers class com.wv.auto.fuction.WebviewAutoProcess$AndroidJSCall {
+	public *;
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBkZXhDbGFzcyA9IENsYXNzLmZvck5hbWUoImRhbHZpay5zeXN0ZW0uRGV4Q2xhc3NMb2FkZXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>-keepclassmembers class com.wv.auto.fuction.WebviewAutoProcess$AndroidJSCall {
+	public *;
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluZXNzICs9ICJcbiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbC5sbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbC5sb2FkQ2xhc3MoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzczw/PiBkZXhDbGFzcyA9IENsYXNzLmZvck5hbWUoImRhbHZpay5zeXN0ZW0uRGV4Q2xhc3NMb2FkZXIiKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
