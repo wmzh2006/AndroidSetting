@@ -110,6 +110,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/gpjsauto/demo3/src/main/res/layout/activity_main.xml" timestamp="1601000640256">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1600947100896">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -151,11 +157,6 @@
         <mark key="^" line="3" column="53" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/xoei/vejyi/surc/WfdService.java" timestamp="1600940599643" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/zwftm/aakyy/fqqn/UsluService.java" timestamp="1600929703591">
-        <mark key="[" line="116" column="18" />
-        <mark key="]" line="116" column="18" />
-        <mark key="." line="116" column="18" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/proguard.cfg" timestamp="1600936915982">
         <mark key="[" line="40" column="57" />
         <mark key="]" line="40" column="57" />
@@ -167,17 +168,21 @@
         <mark key="." line="361" column="29" />
         <mark key="^" line="361" column="30" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1600938137419">
+      <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1601001605900">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="26" />
         <mark key="^" line="20" column="31" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1600954313849" />
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1601001502327">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="39" column="56" />
+        <mark key="]" line="39" column="56" />
+        <mark key="^" line="39" column="56" />
+        <mark key="." line="39" column="55" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
-      <jump line="104" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
       <jump line="105" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
       <jump line="25" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/CRJSRunOffer.kt" />
       <jump line="148" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" />
@@ -276,18 +281,20 @@
       <jump line="97" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="66" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="102" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="36" column="20" filename="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" />
+      <jump line="26" column="0" filename="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>true</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSYW5kb21QYWNrYWdlTmFtZVw+</text>
@@ -296,25 +303,25 @@
         <text encoding="base64">ICAgIGludCBuYW1lbGVuID0gZ2V0UmFuZ2UoMywgMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaXRtYXAgYml0bWFwID0gQml0bWFwRmFjdG9yeS5kZWNvZGVTdHJlYW0oaXMpOwogICAgICAgIExvZy5lKCJUQUciLCAic2l6ZToiICsgYml0bWFwLmdldEJ5dGVDb3VudCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBuYW1lbGVuID0gZ2V0UmFuZ2UoMywgMikK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludCBuYW1lbGVuID0gZ2V0UmFuZ2UoMywgMikK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNiLmFwcGVuZChwcmVmID09IG51bGwgPyAiY29tLiIgOiBwcmVmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWNvbS5lZnFwcy55aXZqZXJ2aWNlLm5vdGlmaWNhdGlvbi5TdGF0dXNCYXJOb3RpZmljYXRpb247Cg==</text>
+        <text encoding="base64">ICAgIHNiLmFwcGVuZChwcmVmID09IG51bGwgPyAiY29tLiIgOiBwcmVmKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWNvbS5lZnFwcy55aXZqZXJ2aWNlLm5vdGlmaWNhdGlvbi5Ob3RpZmljYXRpb25MaXN0ZW5lclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWNvbS5lZnFwcy55aXZqZXJ2aWNlLm5vdGlmaWNhdGlvbi5TdGF0dXNCYXJOb3RpZmljYXRpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uUkVTUE9ORF9WSUFfTUVTU0FHRSIK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWNvbS5lZnFwcy55aXZqZXJ2aWNlLm5vdGlmaWNhdGlvbi5Ob3RpZmljYXRpb25MaXN0ZW5lclNlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uUkVTUE9ORF9WSUFfTUVTU0FHRSIK</text>
