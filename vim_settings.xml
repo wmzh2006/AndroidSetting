@@ -110,33 +110,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1601259471014">
+        <mark key="[" line="191" column="27" />
+        <mark key="]" line="197" column="44" />
+        <mark key="^" line="197" column="44" />
+        <mark key="." line="197" column="43" />
+      </file>
       <file name="E:/Project/gpjsauto/demo3/src/main/res/layout/activity_main.xml" timestamp="1601000640256">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2020092814/readme.txt" timestamp="1601273221718">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/wwemt/ixlra/CabrSdk.java" timestamp="1601013858759">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/app/src/main/java/com/wbzi/beoze/era/Sdk.java" timestamp="1601272978768">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="7" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/shot/GMSRecvService.java" timestamp="1601168861688">
-        <mark key="[" line="87" column="57" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1601258992280" />
-      <file name="E:/Project/DynamicLoader/tsdk/release/2020091009/README.txt" timestamp="1601273150550" />
-      <file name="E:/Project/DynamicLoader/tsdk/README.txt" timestamp="1601258888190" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/InitStart.java" timestamp="1601259526623">
         <mark key="[" line="42" column="9" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/SDK.java" timestamp="1601273176962">
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/SDK.java" timestamp="1601279972858">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="7" column="50" />
         <mark key="^" line="7" column="48" />
@@ -147,16 +146,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1601168682981">
-        <mark key="[" line="164" column="33" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1601259471014">
-        <mark key="[" line="191" column="27" />
-        <mark key="]" line="197" column="44" />
-        <mark key="^" line="197" column="44" />
-        <mark key="." line="197" column="43" />
-      </file>
-      <file name="E:/Project/DynamicLoader/app/build.gradle" timestamp="1601272645280" />
       <file name="E:/Project/DynamicLoader/settings.gradle" timestamp="1601168274441">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="3" column="37" />
@@ -167,17 +156,23 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/release/2020092814/readme.txt" timestamp="1601273221718">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
+      <file name="E:/Project/DynamicLoader/app/src/main/java/com/wbzi/beoze/era/Sdk.java" timestamp="1601279975910">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" timestamp="1601259270669" />
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1601168682981">
+        <mark key="[" line="164" column="33" />
+      </file>
       <file name="E:/Project/gpjsauto/demo3/build.gradle" timestamp="1601001605900">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="26" />
         <mark key="^" line="20" column="31" />
         <mark key="." line="25" column="26" />
+      </file>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/shot/GMSRecvService.java" timestamp="1601168861688">
+        <mark key="[" line="87" column="57" />
       </file>
       <file name="/fragment.java" timestamp="1601272048532">
         <mark key="[" line="0" column="0" />
@@ -295,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>105600</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmJiLmNjLnYxMC5pZGsuKiogeyAqOyB9Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
@@ -311,31 +306,31 @@
         <text encoding="base64">ICAgIGludCBuYW1lbGVuID0gZ2V0UmFuZ2UoMywgMikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmJiLmNjLnYxMC5pZGsuKiogeyAqOyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmJiLmNjLnYxMC5pZGsuKiogeyAqOyB9IAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CjMuPz8/Pz8KICAgPz8/Pz8/Pz9EL2luaXQ6IGluaXQgc3VjY2VzcyAhID8/Pz8/Pz8/Pz8/Pz8KICA/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Cgo0Lj8/Pz8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pz8/qK4/Pz8/Pz8/Pz8/Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29tLmJiLmNjLnYxMC5pZGsuU2RrLmluaXRpYWxpemUodGhpcywgU3RyaW5nIGFwcGtleSk7ICAgYXBwa2V5Pz8/Pz8/Pz8/Pz8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Mi4/Pz8/Pwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmJiLmNjLnYxMC5pZGsuKiogeyAqOyB9IAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CjMuPz8/Pz8KICAgPz8/Pz8/Pz9EL2luaXQ6IGluaXQgc3VjY2VzcyAhID8/Pz8/Pz8/Pz8/Pz8KICA/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Cgo0Lj8/Pz8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pz8/qK4/Pz8/Pz8/Pz8/Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29tLmJiLmNjLnYxMC5pZGsuU2RrLmluaXRpYWxpemUodGhpcywgU3RyaW5nIGFwcGtleSk7ICAgYXBwa2V5Pz8/Pz8/Pz8/Pz8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Mi4/Pz8/Pwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxhcHBsaWNhdGlvbgogICAgICAgIGFuZHJvaWQ6YWxsb3dCYWNrdXA9InRydWUiCiAgICAgICAgYW5kcm9pZDppY29uPSJAbWlwbWFwL2ljX2xhdW5jaGVyIgogICAgICAgIGFuZHJvaWQ6bGFiZWw9IkBzdHJpbmcvYXBwX25hbWUiCiAgICAgICAgYW5kcm9pZDpyb3VuZEljb249IkBtaXBtYXAvaWNfbGF1bmNoZXJfcm91bmQiCiAgICAgICAgYW5kcm9pZDpzdXBwb3J0c1J0bD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvQXBwVGhlbWUiPgogICAgICAgIDxhY3Rpdml0eSBhbmRyb2lkOm5hbWU9Ii5NYWluQWN0aXZpdHkiPgogICAgICAgICAgICA8aW50ZW50LWZpbHRlcj4KICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5hY3Rpb24uTUFJTiIgLz4KCiAgICAgICAgICAgICAgICA8Y2F0ZWdvcnkgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmludGVudC5jYXRlZ29yeS5MQVVOQ0hFUiIgLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgIDwvYWN0aXZpdHk+CiAgICA8L2FwcGxpY2F0aW9uPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
