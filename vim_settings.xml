@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdmVycmlkZVw+</entry>
-        <entry>override</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">XDxyT09UU0RLX1BsdWdpbl9vbmx5anNhdXRvX2t0XD4=</entry>
         <entry>on</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx0aW1lVGFza1w+</entry>
         <entry encoding="base64">XDxzdGFydFRpbWVyXD4=</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
+        <entry>stop</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,26 +110,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/sdk.java" timestamp="1603283453849">
-        <mark key="[" line="48" column="83" />
-        <mark key="]" line="48" column="83" />
-        <mark key="." line="48" column="83" />
-        <mark key="^" line="48" column="86" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/AcService.java" timestamp="1602485924380">
-        <mark key="[" line="385" column="65" />
-        <mark key="]" line="385" column="65" />
-        <mark key="." line="385" column="64" />
-        <mark key="^" line="385" column="65" />
-      </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/wv/auto/fuction/JSAutoUser.java" timestamp="1602484858983">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="42" />
-        <mark key="." line="179" column="0" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/sdk.java" timestamp="1603286845577">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="363" column="5" />
+        <mark key="]" line="345" column="36" />
+        <mark key="." line="345" column="35" />
+        <mark key="^" line="345" column="36" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ConfigData.java" timestamp="1603282732411" />
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1603283413385">
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1603286843513">
         <mark key="'" line="374" column="75" />
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="396" column="11" />
+        <mark key="." line="396" column="10" />
+        <mark key="^" line="396" column="11" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/IConfig.java" timestamp="1603286535975">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/SpUtils.java" timestamp="1603283194251">
         <mark key="[" line="6" column="47" />
@@ -142,6 +142,12 @@
         <mark key="]" line="3" column="53" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/AESUtil.java" timestamp="1603285030535">
+        <mark key="[" line="85" column="30" />
+        <mark key="]" line="85" column="30" />
+        <mark key="." line="85" column="30" />
+        <mark key="^" line="85" column="30" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/Constans.java" timestamp="1603283352832">
         <mark key="[" line="15" column="44" />
         <mark key="]" line="15" column="45" />
@@ -149,50 +155,54 @@
         <mark key="." line="15" column="44" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/SpUtils.java" timestamp="1603283131431" />
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/act.java" timestamp="1602465865533">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="/Dummy.txt" timestamp="1603287035777">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/ConfigData.java" timestamp="1603282743806" />
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/USSDController.java" timestamp="1602486459128">
-        <mark key="[" line="212" column="38" />
-        <mark key="]" line="212" column="38" />
-        <mark key="^" line="212" column="42" />
-        <mark key="." line="212" column="38" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/HttpRunner.java" timestamp="1603284868009">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/demo/src/main/AndroidManifest.xml" timestamp="1602309787611">
-        <mark key="[" line="22" column="39" />
+      <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1603287053441">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1603282780032">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="53" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1602486109084">
-        <mark key="[" line="173" column="49" />
-      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/Constans.java" timestamp="1603283251865" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/LoadTask.java" timestamp="1603286661694">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="22" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/Util.java" timestamp="1603284855112">
+        <mark key="[" line="175" column="23" />
+        <mark key="]" line="175" column="23" />
+        <mark key="." line="175" column="23" />
+        <mark key="^" line="175" column="19" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo/build.gradle" timestamp="1603287472029">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="8" column="30" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/DynEntry.java" timestamp="1603282493068">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" timestamp="1602486092174">
-        <mark key="'" line="36" column="16" />
-        <mark key="[" line="441" column="11" />
-        <mark key="]" line="36" column="24" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="24" />
-      </file>
-      <file name="/fragment.java" timestamp="1603283234215">
+      <file name="/fragment.java" timestamp="1603285882525">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewDefaultBean.kt" />
-      <jump line="72" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewBaseBean.kt" />
-      <jump line="93" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/bean/WebviewBaseBean.kt" />
       <jump line="26" column="62" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/build/outputs/mapping/release/mapping.txt" />
       <jump line="27" column="40" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/build/outputs/mapping/release/mapping.txt" />
       <jump line="30" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/build/outputs/mapping/release/mapping.txt" />
@@ -290,36 +300,39 @@
       <jump line="363" column="13" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="366" column="16" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="374" column="75" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="52" column="4" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/sdk.java" />
+      <jump line="42" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/sdk.java" />
+      <jump line="45" column="4" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/oa/twioce/nioke/tsdk_t/sdk.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0XD4=</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgbG9uZyB2ZXJzaW9uID0gMjAyMDEwMjEyMDEwTDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIHBfdXJsID0gU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJjIik7Ly9jCg==</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b24gYnV0dG9uID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ci8vICAgICAgICBMb2djYXRBY3Rpb24uaW5pdChjdHgsIFJlbGVhc2VDb25maWcudmVyc2lvbiArICIiLCBjaWQsIFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiZEhOa2F3PT0iKS8qdHNkayovLCBjb20ubXlwcy51dGlsLlN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYUhSMGNEb3ZMMnh2Wnk1cmIyRndhMjF2WW1rdVkyOXQiKSk7Ly8iaHR0cDovL2xvZy5rb2Fwa21vYmkuY29tIgovLyAgICAgICAgTG9nY2F0QWN0aW9ub25FdmVudChjdHgsIFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiYVc1cGRBPT0iKS8qImluaXQiKi8sICIiCi8vICAgICAgICAgICAgICAgICwgU3RyUHJvY2Vzc2luZy5EZWNyeXB0KCJabWx5YzNRPSIpLyoiZmlyc3QiKi8sICIiKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -328,17 +341,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdGFuY2U7Cg==</text>
+        <text>//            LogUtil.i(TAG, StrProcessing.Decrypt(&quot;aGFkIGluaXQ=&quot;)/*&quot;had init&quot;*/);
+//            LogcatActiononEvent(ctx, StrProcessing.Decrypt(&quot;aW5pdA==&quot;)/*&quot;init&quot;*/, &quot;&quot;,
+//                    StrProcessing.Decrypt(&quot;cmVwZWF0IHRvIGludm9rZQ==&quot;)/*repeat to invoke*/, &quot;&quot;);</text>
       </register>
-      <register name="8" type="8">
-        <text>private
-private
-private
-private
-private</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHYgaW5zdGFuY2UgPSBuZXcgdigpOwo=</text>
+        <text>//            LogUtil.i(TAG, StrProcessing.Decrypt(&quot;dGltZXIgaXMgcnVubmln&quot;)/*&quot;timer is runnig&quot;*/);
+//            LogcatActiononEvent(ctx, StrProcessing.Decrypt(&quot;aW5pdA==&quot;)/*&quot;init&quot;*/, &quot;&quot;,
+//                    StrProcessing.Decrypt(&quot;dGltZXIgaXMgcnVubmln&quot;)/*timer is running*/, &quot;&quot;);</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -347,9 +360,9 @@ private</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpbml0XD4=</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0XD4=</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
