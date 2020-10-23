@@ -110,19 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1603335955534">
-        <mark key="'" line="85" column="67" />
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
-        <mark key="^" line="39" column="12" />
-      </file>
-      <file name="E:/tools/android/platforms/android-29/android.jar!/java/util/TimerTask.class" timestamp="1603335155234" />
-      <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20201022116714523567602295792.jar!/com/fourqaz/sixwsx/g.class" timestamp="1603336211433">
-        <mark key="'" line="82" column="8" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1603330604478" />
-      <file name="E:/Project/DynamicLoader/tsdk/release/2020091009/README.txt" timestamp="1603335486621" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" timestamp="1603420683305" />
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/fourqaz/sixwsx/InitStart.java" timestamp="1603336016338">
         <mark key="[" line="40" column="9" />
       </file>
@@ -130,6 +118,18 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1603335582204">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1603335955534">
+        <mark key="'" line="85" column="67" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="12" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/ReleaseConfig.java" timestamp="1603336167319">
         <mark key="[" line="2" column="0" />
@@ -140,12 +140,27 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="51" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1603336498264">
+      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1603420696072">
         <mark key="'" line="228" column="0" />
-        <mark key="[" line="197" column="47" />
-        <mark key="]" line="197" column="47" />
+        <mark key="[" line="206" column="29" />
+        <mark key="]" line="206" column="29" />
         <mark key="^" line="192" column="1" />
-        <mark key="." line="197" column="47" />
+        <mark key="." line="206" column="29" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo/build.gradle" timestamp="1603337031969">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="24" column="26" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/release/2020102210/README.txt" timestamp="1603335622026">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20201022116714523567602295792.jar!/com/fourqaz/sixwsx/g.class" timestamp="1603336211433">
+        <mark key="'" line="82" column="8" />
       </file>
       <file name="E:/Project/DynamicLoader/demo/proguard-rules.pro" timestamp="1603332286001">
         <mark key="[" line="20" column="38" />
@@ -153,26 +168,6 @@
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/Constans.java" timestamp="1603336157935">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/LoadTask.java" timestamp="1603334425951" />
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/fourqaz/sixwsx/sdk.java" timestamp="1603336162941" />
-      <file name="E:/Project/DynamicLoader/tsdk_t/release/2020102210/README.txt" timestamp="1603335622026">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="40" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1603335582204">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo/build.gradle" timestamp="1603335266741">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/HttpRunner.java" timestamp="1603336407130" />
       <file name="/fragment.java" timestamp="1603335817784">
         <mark key="[" line="0" column="0" />
       </file>
@@ -283,13 +278,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>LoadTask</text>
+        <text>true</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>LoadTask</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
