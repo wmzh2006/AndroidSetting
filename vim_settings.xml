@@ -110,7 +110,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" timestamp="1603420683305" />
+      <file name="$USER_HOME$/Desktop/shadowsocks-android-master/gradle/wrapper/gradle-wrapper.properties" timestamp="1603972246418">
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="69" />
+        <mark key="." line="2" column="69" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/fourqaz/sixwsx/InitStart.java" timestamp="1603336016338">
         <mark key="[" line="40" column="9" />
       </file>
@@ -140,7 +144,7 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="51" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1603420696072">
+      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1603420793690">
         <mark key="'" line="228" column="0" />
         <mark key="[" line="206" column="29" />
         <mark key="]" line="206" column="29" />
@@ -158,6 +162,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/release/2020102310/README.txt" timestamp="1603420802931">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20201022116714523567602295792.jar!/com/fourqaz/sixwsx/g.class" timestamp="1603336211433">
         <mark key="'" line="82" column="8" />
@@ -277,14 +286,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>InitStart</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -293,31 +302,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgbG9uZyB2ZXJzaW9uID0gMjAyMDEwMjEyMDEwTDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uZm91cnFhei5zaXh3c3guSW5pdFN0YXJ0LmluaXQoY29udGV4dCwgNTMyODkzMSk7Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBmaWxlVHJlZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb20uZm91cnFhei5zaXh3c3guSW5pdFN0YXJ0LmluaXQoY29udGV4dCwgNTMyODkzMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Byb19zZGstMjAyMDEwMjIxMC5qYXInKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBmaWxlVHJlZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Nka2trLmphcicpCg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Byb19zZGstMjAyMDEwMjIxMC5qYXInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Nkay5qYXInKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Nka2trLmphcicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zb2EuaXZlLnBvZS5zZGs7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Nkay5qYXInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b24gYnV0dG9uID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb2EuaXZlLnBvZS5zZGs7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b24gYnV0dG9uID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
