@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>on</entry>
-        <entry encoding="base64">XDxvblw+</entry>
         <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry>c.h.b.c.b</entry>
         <entry>c\.h\.b\.c\.b</entry>
@@ -25,6 +23,8 @@
         <entry>init</entry>
         <entry>eve</entry>
         <entry>run</entry>
+        <entry>startMy</entry>
+        <entry>isSecureUrl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,6 +110,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/irwg/znkz/XxmActivity.java" timestamp="1605171120376">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/act.java" timestamp="1605169733953">
+        <mark key="[" line="255" column="5" />
+      </file>
       <file name="$USER_HOME$/Desktop/shadowsocks-android-master/gradle/wrapper/gradle-wrapper.properties" timestamp="1603972246418">
         <mark key="[" line="2" column="68" />
         <mark key="]" line="2" column="69" />
@@ -124,6 +132,9 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1605170368436">
+        <mark key="'" line="413" column="38" />
       </file>
       <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1605074825065">
         <mark key="[" line="6" column="0" />
@@ -173,20 +184,20 @@
       <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20201022116714523567602295792.jar!/com/fourqaz/sixwsx/g.class" timestamp="1603336211433">
         <mark key="'" line="82" column="8" />
       </file>
-      <file name="E:/Project/DynamicLoader/demo/proguard-rules.pro" timestamp="1603332286001">
-        <mark key="[" line="20" column="38" />
-      </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/Constans.java" timestamp="1603336157935">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1603335817784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/ab/ec/ba/WR.java" timestamp="1605074591542" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1605170758197">
+        <mark key="'" line="73" column="34" />
+        <mark key="[" line="268" column="54" />
+        <mark key="]" line="268" column="54" />
+        <mark key="." line="268" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1583" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/build/outputs/mapping/release/mapping.txt" />
-      <jump line="457" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="388" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="272" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="273" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
@@ -285,51 +296,60 @@
       <jump line="42" column="0" filename="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" />
       <jump line="213" column="0" filename="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" />
       <jump line="82" column="8" filename="$USER_HOME$/AppData/Local/Temp/pro_sdk-20201022116714523567602295792.jar!/com/fourqaz/sixwsx/g.class" />
+      <jump line="73" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
+      <jump line="413" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Iy1yZXBhY2thZ2VjbGFzc2VzICBjb20uZm91cnFhei5zaXh3c3gK</text>
+        <text encoding="base64">ICAgICAgICBlKCk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>**{*;}</text>
+        <text>com.wv.util.XConstants.</text>
       </register>
       <register name="/" type="4">
-        <text>run</text>
+        <text>isSecureUrl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Iy1yZXBhY2thZ2VjbGFzc2VzICBjb20uZm91cnFhei5zaXh3c3gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
+        <text encoding="base64">ICAgICAgICBlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uZm91cnFhei5zaXh3c3guSW5pdFN0YXJ0LmluaXQoY29udGV4dCwgNTMyODkzMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiBmaWxlVHJlZShkaXI6ICdsaWJzJywgaW5jbHVkZTogWycqLmphciddKQo=</text>
+        <text encoding="base64">ICAgICAgICBiKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Byb19zZGstMjAyMDEwMjIxMC5qYXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Nka2trLmphcicpCg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL3Nkay5qYXInKQo=</text>
+        <text encoding="base64">ICAgIAoKCiAgICBwcml2YXRlIHZvaWQgZSgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBNZXRob2QgYyA9IFh4bVNkay5zZGsuZ2V0TWV0aG9kKCJlIik7CiAgICAgICAgICAgIGMuaW52b2tlKG51bGwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zb2EuaXZlLnBvZS5zZGs7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZCgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBNZXRob2QgYyA9IFh4bVNkay5zZGsuZ2V0TWV0aG9kKCJkIik7CiAgICAgICAgICAgIGMuaW52b2tlKG51bGwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b24gYnV0dG9uID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
+      <register name="8" type="4">
+        <text>private void b() {
+        try {
+            Method c = XxmSdk.sdk.getMethod(&quot;c&quot;, Activity.class, Intent.class);
+            c.invoke(null, this, getIntent());
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0T25DbGlja0xpc3RlbmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -338,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>run</last-search>
+      <last-search>isSecureUrl</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>isSecureUrl</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
