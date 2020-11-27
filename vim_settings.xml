@@ -123,6 +123,11 @@
         <mark key="]" line="2" column="69" />
         <mark key="." line="2" column="69" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/dict.txt" timestamp="1606440494522">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/fourqaz/sixwsx/InitStart.java" timestamp="1604976081673">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="37" />
@@ -157,12 +162,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="7" column="51" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1605074803217">
-        <mark key="'" line="234" column="0" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="38" />
-        <mark key="^" line="211" column="30" />
-        <mark key="." line="215" column="0" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1606440769081">
+        <mark key="'" line="241" column="0" />
+        <mark key="[" line="48" column="53" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/demo/build.gradle" timestamp="1603337031969">
         <mark key="[" line="24" column="25" />
@@ -302,14 +307,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>com.wv.util.XConstants.</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>isSecureUrl</text>
@@ -318,27 +323,30 @@
         <text encoding="base64">Iy1yZXBhY2thZ2VjbGFzc2VzICBjb20uZm91cnFhei5zaXh3c3gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlKCk7Cg==</text>
+        <text encoding="base64">c3luY2hyb25pemVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoKCiAgICBwcml2YXRlIHZvaWQgZSgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBNZXRob2QgYyA9IFh4bVNkay5zZGsuZ2V0TWV0aG9kKCJlIik7CiAgICAgICAgICAgIGMuaW52b2tlKG51bGwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIAoKCiAgICBwcml2YXRlIHZvaWQgZSgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBNZXRob2QgYyA9IFh4bVNkay5zZGsuZ2V0TWV0aG9kKCJlIik7CiAgICAgICAgICAgIGMuaW52b2tlKG51bGwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgZCgpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBNZXRob2QgYyA9IFh4bVNkay5zZGsuZ2V0TWV0aG9kKCJkIik7CiAgICAgICAgICAgIGMuaW52b2tlKG51bGwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>private void b() {
         try {
             Method c = XxmSdk.sdk.getMethod(&quot;c&quot;, Activity.class, Intent.class);
@@ -347,9 +355,6 @@
             e.printStackTrace();
         }
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
