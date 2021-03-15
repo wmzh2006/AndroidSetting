@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRlbnRcPg==</entry>
         <entry>c.h.b.c.b</entry>
         <entry>c\.h\.b\.c\.b</entry>
         <entry>com\.lib\.util\.</entry>
@@ -25,6 +24,7 @@
         <entry>run</entry>
         <entry>startMy</entry>
         <entry>isSecureUrl</entry>
+        <entry encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -178,11 +178,11 @@
         <mark key="^" line="77" column="44" />
         <mark key="." line="77" column="43" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615776375211">
-        <mark key="[" line="222" column="29" />
-        <mark key="]" line="223" column="71" />
-        <mark key="^" line="223" column="71" />
-        <mark key="." line="223" column="70" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615778207741">
+        <mark key="[" line="221" column="53" />
+        <mark key="]" line="221" column="53" />
+        <mark key="^" line="244" column="55" />
+        <mark key="." line="221" column="53" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1615615635976">
         <mark key="[" line="63" column="11" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="272" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="273" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="559" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
@@ -298,51 +297,52 @@
       <jump line="82" column="8" filename="$USER_HOME$/AppData/Local/Temp/pro_sdk-20201022116714523567602295792.jar!/com/fourqaz/sixwsx/g.class" />
       <jump line="73" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="413" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
+      <jump line="256" column="31" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>typeStr</text>
+        <text>typeIdsList</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>typeStr</text>
+        <text>typeIdsList</text>
       </register>
       <register name="/" type="4">
-        <text>isSecureUrl</text>
+        <text encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Integer.toHexString(</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJ0eXBlOiIrc3RyaW5nTGlzdC5nZXQoaW5kZXgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmdGcm9tSk5JKCk7Cg==</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJyZXR1cm5fdHlwZV9pZHg6ICIgKyB0eXBlSWRzTGlzdC5nZXQoaXRlbS5yZXR1cm5fdHlwZV9pZHgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJyZXR1cm5fdHlwZV9pZHg6ICIgKyB0eXBlSWRzTGlzdC5nZXQoaXRlbS5yZXR1cm5fdHlwZV9pZHgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkRleEZpbGVQYXJzZXIuaCIK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIjoiK3NpemUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlcihOVUxMKTsK</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJ0eXBlOiIrc3RyaW5nTGlzdC5nZXQodHlwZUxpc3QuZ2V0KGkpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3luY2hyb25pemVkCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlKCk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkKCk7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiKCk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgUHJvdG9JZHNJdGVtIHBhcnNlclJldHVyblR5cGUoYnl0ZVtdIHNyYywgaW50IHN0YXJ0T2ZmLCApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYoaXRlbS5yZXR1cm5fdHlwZV9pZHggIT0gMCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>isSecureUrl</last-search>
+      <last-search encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>isSecureUrl</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
