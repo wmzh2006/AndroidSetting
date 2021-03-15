@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Logcat</entry>
         <entry>com\.r1zAgWk\.y57lzAy\.lightmusic</entry>
         <entry encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</entry>
         <entry encoding="base64">XDxnZXRSYW5kb21QYWNrYWdlTmFtZVw+</entry>
@@ -25,6 +24,7 @@
         <entry>677</entry>
         <entry>00056BA7</entry>
         <entry>ACC_PUBLIC</entry>
+        <entry encoding="base64">XDxjbGFzc0lkc0xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -172,10 +172,11 @@
         <mark key="^" line="100" column="46" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615792749188">
-        <mark key="[" line="446" column="0" />
-        <mark key="]" line="447" column="49" />
-        <mark key="." line="446" column="0" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615795429797">
+        <mark key="[" line="455" column="12" />
+        <mark key="]" line="447" column="44" />
+        <mark key="." line="447" column="43" />
+        <mark key="^" line="447" column="44" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1615615635976">
         <mark key="[" line="63" column="11" />
@@ -183,8 +184,8 @@
         <mark key="^" line="63" column="11" />
         <mark key="." line="61" column="8" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1615771795100">
-        <mark key="[" line="293" column="39" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1615793486154">
+        <mark key="[" line="513" column="39" />
         <mark key="]" line="291" column="37" />
         <mark key="^" line="291" column="37" />
         <mark key="." line="291" column="37" />
@@ -194,9 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="273" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
-      <jump line="559" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="560" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="182" column="145" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.kt" />
       <jump line="193" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/wv/auto/fuction/JSAutoOffer.kt" />
@@ -294,51 +292,54 @@
       <jump line="73" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" />
       <jump line="413" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" />
       <jump line="256" column="31" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="61" column="37" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="315" column="12" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="318" column="32" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJaW50IGluZGV4ID0gMDsK</text>
+      <register name="&quot;" type="4">
+        <text>direct_methods.length</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>direct_methods.length</text>
       </register>
       <register name="/" type="4">
-        <text>ACC_PUBLIC</text>
+        <text encoding="base64">XDxjbGFzc0lkc0xpc3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>stringList.get(typeItem.descriptor_idx)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJkaXJlY3RfbWV0aG9kczogIiArIGl0ZW0uZGlyZWN0X21ldGhvZHMubGVuZ3RoICsgIiBtZXRob2RzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaW50IGluZGV4ID0gMDsK</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigidmlydHVhbCBtZXRob2Q6Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJpdGVtOiIraXRlbSk7Cg==</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiXHRkaXJlY3QgbWV0aG9kOiAiICsgaXRlbTEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJkZXNjWyIgK2luZGV4ICsiXTogIitpdGVtLmRlc2NyaXB0b3JfaWR4KTsK</text>
+        <text encoding="base64">CQkJY2xhc3NEZWZJdGVtLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJyZXR1cm5fdHlwZV9pZHg6ICIgKyB0eXBlSWRzTGlzdC5nZXQoaXRlbS5yZXR1cm5fdHlwZV9pZHgpKTsK</text>
+        <text encoding="base64">CQkJaW5kZXgrKzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJyZXR1cm5fdHlwZV9pZHg6ICIgKyB0eXBlSWRzTGlzdC5nZXQoaXRlbS5yZXR1cm5fdHlwZV9pZHgpKTsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIjoiK3NpemUpOwo=</text>
+        <text encoding="base64">CQlpbnQgaW5kZXggPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJ0eXBlOiIrc3RyaW5nTGlzdC5nZXQodHlwZUxpc3QuZ2V0KGkpKSk7Cg==</text>
+        <text encoding="base64">CQlmb3IoQ2xhc3NEZWZJdGVtIGl0ZW0gOiBjbGFzc0lkc0xpc3Qpewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgTGlzdDxDbGFzc0RlZkl0ZW0+IGNsYXNzSWRzTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbigiY2xhc3NfZGVmWyIgKyBpbmRleCArIl06ICIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -347,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ACC_PUBLIC</last-search>
+      <last-search encoding="base64">XDxjbGFzc0lkc0xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>ACC_PUBLIC</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc0lkc0xpc3RcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
