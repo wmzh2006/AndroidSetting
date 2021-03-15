@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>c.h.b.c.b</entry>
-        <entry>c\.h\.b\.c\.b</entry>
-        <entry>com\.lib\.util\.</entry>
         <entry>myps</entry>
         <entry>Logcat</entry>
         <entry>com\.r1zAgWk\.y57lzAy\.lightmusic</entry>
@@ -25,6 +22,9 @@
         <entry>startMy</entry>
         <entry>isSecureUrl</entry>
         <entry encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</entry>
+        <entry>f</entry>
+        <entry>677</entry>
+        <entry>00056BA7</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -178,11 +178,11 @@
         <mark key="^" line="77" column="44" />
         <mark key="." line="77" column="43" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615778207741">
-        <mark key="[" line="221" column="53" />
-        <mark key="]" line="221" column="53" />
-        <mark key="^" line="244" column="55" />
-        <mark key="." line="221" column="53" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615780326917">
+        <mark key="[" line="223" column="34" />
+        <mark key="]" line="220" column="34" />
+        <mark key="^" line="220" column="34" />
+        <mark key="." line="220" column="33" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1615615635976">
         <mark key="[" line="63" column="11" />
@@ -302,47 +302,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>typeIdsList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJkZXNjWyIgK2luZGV4ICsiXTogIitpdGVtLmRlc2NyaXB0b3JfaWR4KTsK</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>typeIdsList</text>
+        <text>(&quot; +Integer.toHexString(item.return_type_idx) +&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</text>
+        <text>00056BA7</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJ0eXBlOiIrc3RyaW5nTGlzdC5nZXQoaW5kZXgpKTsK</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJ0eXBlX2lkWyIgKyBpbmRleCsiXTogIitzdHJpbmdMaXN0LmdldChpdGVtLmRlc2NyaXB0b3JfaWR4KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJyZXR1cm5fdHlwZV9pZHg6ICIgKyB0eXBlSWRzTGlzdC5nZXQoaXRlbS5yZXR1cm5fdHlwZV9pZHgpKTsK</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJkZXNjWyIgK2luZGV4ICsiXTogIitpdGVtLmRlc2NyaXB0b3JfaWR4KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJyZXR1cm5fdHlwZV9pZHg6ICIgKyB0eXBlSWRzTGlzdC5nZXQoaXRlbS5yZXR1cm5fdHlwZV9pZHgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIjoiK3NpemUpOwo=</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJyZXR1cm5fdHlwZV9pZHg6ICIgKyB0eXBlSWRzTGlzdC5nZXQoaXRlbS5yZXR1cm5fdHlwZV9pZHgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJ0eXBlOiIrc3RyaW5nTGlzdC5nZXQodHlwZUxpc3QuZ2V0KGkpKSk7Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIjoiK3NpemUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludGxuKCJ0eXBlOiIrc3RyaW5nTGlzdC5nZXQodHlwZUxpc3QuZ2V0KGkpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgUHJvdG9JZHNJdGVtIHBhcnNlclJldHVyblR5cGUoYnl0ZVtdIHNyYywgaW50IHN0YXJ0T2ZmLCApIHsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYoaXRlbS5yZXR1cm5fdHlwZV9pZHggIT0gMCkK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgUHJvdG9JZHNJdGVtIHBhcnNlclJldHVyblR5cGUoYnl0ZVtdIHNyYywgaW50IHN0YXJ0T2ZmLCApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</last-search>
+      <last-search>00056BA7</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</last-pattern>
+      <last-pattern>00056BA7</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
