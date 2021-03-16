@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSYW5kb21QYWNrYWdlTmFtZVw+</entry>
-        <entry encoding="base64">XDxTY3JlZW5zaG90XD4=</entry>
         <entry encoding="base64">XDxiXD4=</entry>
         <entry encoding="base64">XDx0aW1lVGFza1w+</entry>
         <entry encoding="base64">XDxzdGFydFRpbWVyXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxjbGFzc0lkc0xpc3RcPg==</entry>
         <entry>insns:</entry>
         <entry>insns</entry>
+        <entry encoding="base64">IHdyaXRlQnl0ZVRvQ2FycmF5</entry>
+        <entry encoding="base64">XDxyZWFkVW5zaWduZWRMZWIxMjhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -126,21 +126,22 @@
         <mark key="." line="87" column="45" />
         <mark key="^" line="87" column="46" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615859575094">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615863959795">
         <mark key="'" line="497" column="11" />
-        <mark key="[" line="337" column="59" />
-        <mark key="]" line="337" column="60" />
-        <mark key="." line="337" column="59" />
-        <mark key="^" line="337" column="60" />
+        <mark key="[" line="450" column="22" />
+        <mark key="]" line="451" column="45" />
+        <mark key="." line="451" column="44" />
+        <mark key="^" line="451" column="45" />
       </file>
       <file name="D:/StudioProjects/ApkParseDemo/app/build.gradle" timestamp="1615807767045">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1615801604412">
-        <mark key="[" line="513" column="39" />
-        <mark key="]" line="291" column="37" />
-        <mark key="^" line="291" column="37" />
-        <mark key="." line="291" column="37" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1615863398137">
+        <mark key="'" line="393" column="25" />
+        <mark key="[" line="412" column="27" />
+        <mark key="]" line="412" column="28" />
+        <mark key="^" line="412" column="27" />
+        <mark key="." line="412" column="28" />
       </file>
       <file name="D:/StudioProjects/ApkParseDemo/app/src/main/java/org/jf/dexlib/EncodedValue/EncodedValue.java" timestamp="1615810405320" />
       <file name="/Dummy.txt" timestamp="1615802618882">
@@ -175,16 +176,12 @@
         <mark key="^" line="100" column="46" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1615859275286">
+      <file name="/fragment.java" timestamp="1615861048905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/ApkParseDemo/app/src/main/java/org/jf/dexlib/CodeItem.java" timestamp="1615808761337" />
     </filemarks>
     <jumps>
-      <jump line="202" column="128" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/util/HostUtil.kt" />
-      <jump line="199" column="59" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/init/env/util/HostUtil.kt" />
-      <jump line="5" column="51" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/rOOTSDK_Plugin_onlyjsauto_kt.iml" />
-      <jump line="61" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/Reflect.class" />
       <jump line="74" column="71" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/Reflect.class" />
       <jump line="80" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/Reflect.class" />
       <jump line="243" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/libs/sms-plugin-lib.jar!/com/reflect/Reflect.class" />
@@ -281,51 +278,55 @@
       <jump line="494" column="30" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="495" column="42" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="497" column="11" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="470" column="6" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
+      <jump line="406" column="22" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
+      <jump line="407" column="21" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
+      <jump line="387" column="25" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q2xhc3NEZWZJdGVtIA==</text>
+        <text>ClassDataItem item : dataItemList</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q2xhc3NEZWZJdGVtIA==</text>
+        <text>ClassDataItem item : dataItemList</text>
       </register>
       <register name="/" type="4">
-        <text>insns</text>
+        <text encoding="base64">XDxyZWFkVW5zaWduZWRMZWIxMjhcPg==</text>
       </register>
       <register name="0" type="4">
         <text>org.jf.dexlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBieXRlW10gYnl0ZUFyeSA9IFV0aWxzLnJlYWRVbnNpZ25lZExlYjEyOChzcmNCeXRlLCBvZmZzZXQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
+        <text encoding="base64">CQlpbnQgaSA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGlyZWN0TWV0aG9kLm1ldGhvZElkID0gbWV0aG9kaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgrKzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBpbnQgbWV0aG9kSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJZGlyZWN0TWV0aG9kLm1ldGhvZElkID0gbWV0aG9kaWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBpbnQgbWV0aG9kSWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY2xhc3NEYXRhSXRlbSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NEYXRhSXRlbSA9IGNscy5nZXRDbGFzc0RhdGEoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY2xhc3NEYXRhSXRlbSA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -334,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>insns</last-search>
+      <last-search encoding="base64">XDxyZWFkVW5zaWduZWRMZWIxMjhcPg==</last-search>
       <last-offset />
-      <last-pattern>insns</last-pattern>
+      <last-pattern encoding="base64">XDxyZWFkVW5zaWduZWRMZWIxMjhcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
