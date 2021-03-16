@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>startMy</entry>
-        <entry>isSecureUrl</entry>
-        <entry encoding="base64">XDxwYXJzZXJSZXR1cm5UeXBlXD4=</entry>
         <entry>f</entry>
         <entry>677</entry>
         <entry>00056BA7</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxkZFw+</entry>
         <entry encoding="base64">XDxwcmVtaWRcPg==</entry>
         <entry encoding="base64">XDxkZXhfcGF0aFw+</entry>
+        <entry encoding="base64">XDxkdW1wTG9jYWxzXD4=</entry>
+        <entry encoding="base64">XDxkdW1wTWV0aG9kXD4=</entry>
+        <entry encoding="base64">XDxkdW1wQ2xhc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,6 +110,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.h" timestamp="1615898936636">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="27" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/structure/DexEncodedValueType.java" timestamp="1615875748185" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexEncodedValueImpl.java" timestamp="1615875806466" />
       <file name="/LLDB" timestamp="1615897868807">
@@ -123,7 +129,6 @@
         <mark key="." line="412" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.txt" timestamp="1615884458331" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/test/java/dex/reader/DexTestsCommon.java" timestamp="1615874586713" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexClassImpl.java" timestamp="1615883453366">
         <mark key="[" line="197" column="8" />
         <mark key="]" line="197" column="12" />
@@ -169,6 +174,10 @@
         <mark key="." line="38" column="46" />
         <mark key="^" line="38" column="47" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615899121928">
+        <mark key="'" line="182" column="20" />
+        <mark key="[" line="317" column="1" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" timestamp="1615897850578">
         <mark key="'" line="95" column="22" />
         <mark key="[" line="69" column="43" />
@@ -176,13 +185,7 @@
         <mark key="^" line="95" column="26" />
         <mark key="." line="69" column="43" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/test/java/dex/reader/DexFileReaderTests.java" timestamp="1615874923079">
-        <mark key="[" line="58" column="49" />
-        <mark key="]" line="59" column="55" />
-        <mark key="." line="59" column="54" />
-        <mark key="^" line="59" column="55" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615897553062">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615898875095">
         <mark key="'" line="114" column="67" />
         <mark key="[" line="148" column="62" />
         <mark key="]" line="148" column="65" />
@@ -194,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
-      <jump line="189" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
-      <jump line="42" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
       <jump line="2" column="160" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
       <jump line="5" column="340" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
       <jump line="455" column="9" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -294,21 +294,24 @@
       <jump line="431" column="57" filename="/ParseDexUtils.java" />
       <jump line="432" column="16" filename="/ParseDexUtils.java" />
       <jump line="95" column="22" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" />
+      <jump line="328" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
+      <jump line="235" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
+      <jump line="182" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>202103092317</text>
+        <text>Insns</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>202103092317</text>
+        <text>Insns</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXhfcGF0aFw+</text>
+        <text encoding="base64">XDxkdW1wQ2xhc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGlzRmlyc3RNZXRob2QpIHsKICAgICAgICAgICAgICAgICAgICBpc0ZpcnN0TWV0aG9kID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9Cg==</text>
@@ -347,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXhfcGF0aFw+</last-search>
+      <last-search encoding="base64">XDxkdW1wQ2xhc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXhfcGF0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkdW1wQ2xhc3NcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
