@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0XD4=</entry>
-        <entry>stop</entry>
         <entry>init</entry>
         <entry>eve</entry>
         <entry>run</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry>da</entry>
         <entry encoding="base64">XDxjb2RlX29mZlw+</entry>
+        <entry encoding="base64">XDxkaXJlY3RNZXRob2RDb2RlSXRlbUxpc3RcPg==</entry>
+        <entry encoding="base64">XDxkaXJlY3RNZXRob2RDb2RlSXRlbU1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -126,8 +126,8 @@
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexAnnotationAttributeImpl.java" timestamp="1615874515171" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/structure/DexEncodedValueType.java" timestamp="1615875748185" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexEncodedValueImpl.java" timestamp="1615875806466" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615880643198">
-        <mark key="'" line="508" column="11" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615881846363">
+        <mark key="'" line="54" column="34" />
         <mark key="[" line="467" column="33" />
         <mark key="]" line="468" column="65" />
         <mark key="." line="468" column="64" />
@@ -140,7 +140,9 @@
         <mark key="^" line="412" column="27" />
         <mark key="." line="412" column="28" />
       </file>
-      <file name="D:/StudioProjects/ApkParseDemo/app/src/main/java/org/jf/dexlib/EncodedValue/EncodedValue.java" timestamp="1615810405320" />
+      <file name="/ParseDexUtils.java" timestamp="1615881990876">
+        <mark key="'" line="50" column="44" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/app/build.gradle" timestamp="1615865890541" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/test/java/dex/reader/util/JavaSourceToDexUtil.java" timestamp="1615866737431">
         <mark key="[" line="32" column="0" />
@@ -174,21 +176,21 @@
         <mark key="." line="59" column="54" />
         <mark key="^" line="59" column="55" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615879196882">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615881440655">
         <mark key="'" line="114" column="67" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="100" column="46" />
-        <mark key="." line="21" column="26" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="80" />
+        <mark key="^" line="149" column="80" />
+        <mark key="." line="149" column="79" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1615881782750">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1615879981747">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
-      <jump line="145" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
-      <jump line="146" column="38" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
       <jump line="147" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
       <jump line="148" column="47" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
       <jump line="149" column="75" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto_kt/src/main/java/com/shower/bayion/er/act.kt" />
@@ -286,6 +288,9 @@
       <jump line="168" column="21" filename="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" />
       <jump line="184" column="22" filename="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" />
       <jump line="114" column="67" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
+      <jump line="51" column="44" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="54" column="34" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="50" column="44" filename="/ParseDexUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,7 +305,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2RlX29mZlw+</text>
+        <text encoding="base64">XDxkaXJlY3RNZXRob2RDb2RlSXRlbU1hcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oImRpcmVjdCBtZXRob2RzIGNvZGVfb2ZmIGlzIDAhIik7Cg==</text>
@@ -339,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb2RlX29mZlw+</last-search>
+      <last-search encoding="base64">XDxkaXJlY3RNZXRob2RDb2RlSXRlbU1hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2RlX29mZlw+</last-pattern>
+      <last-pattern encoding="base64">XDxkaXJlY3RNZXRob2RDb2RlSXRlbU1hcFw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
