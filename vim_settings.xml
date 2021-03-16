@@ -110,6 +110,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/struct/ClassDefItem.java" timestamp="1615858679920">
+        <mark key="[" line="68" column="173" />
+        <mark key="]" line="68" column="159" />
+        <mark key="^" line="68" column="159" />
+        <mark key="." line="68" column="159" />
+      </file>
       <file name="D:/StudioProjects/ApkParseDemo/app/src/main/java/org/jf/util/Parser.java" timestamp="1615808548985" />
       <file name="/LLDB" timestamp="1615628217442">
         <mark key="[" line="0" column="0" />
@@ -120,12 +126,12 @@
         <mark key="." line="87" column="45" />
         <mark key="^" line="87" column="46" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615812097957">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615859575094">
         <mark key="'" line="497" column="11" />
-        <mark key="[" line="457" column="36" />
-        <mark key="]" line="343" column="0" />
-        <mark key="." line="343" column="0" />
-        <mark key="^" line="343" column="0" />
+        <mark key="[" line="337" column="59" />
+        <mark key="]" line="337" column="60" />
+        <mark key="." line="337" column="59" />
+        <mark key="^" line="337" column="60" />
       </file>
       <file name="D:/StudioProjects/ApkParseDemo/app/build.gradle" timestamp="1615807767045">
         <mark key="[" line="29" column="0" />
@@ -163,18 +169,13 @@
         <mark key="]" line="28" column="20" />
       </file>
       <file name="D:/StudioProjects/ApkParseDemo/app/src/main/java/org/jf/dexlib/HeaderItem.java" timestamp="1615810129701" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" timestamp="1615627617081">
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="16" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615790874746">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="^" line="100" column="46" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1615808311123">
+      <file name="/fragment.java" timestamp="1615859275286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/StudioProjects/ApkParseDemo/app/src/main/java/org/jf/dexlib/CodeItem.java" timestamp="1615808761337" />
@@ -285,13 +286,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">Q2xhc3NEZWZJdGVtIA==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">Q2xhc3NEZWZJdGVtIA==</text>
       </register>
       <register name="/" type="4">
         <text>insns</text>
@@ -300,31 +301,31 @@
         <text>org.jf.dexlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZGlyZWN0TWV0aG9kLm1ldGhvZElkID0gbWV0aG9kaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgrKzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBpbnQgbWV0aG9kSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJZGlyZWN0TWV0aG9kLm1ldGhvZElkID0gbWV0aG9kaWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">CXB1YmxpYyBpbnQgbWV0aG9kSWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoY2xhc3NEYXRhSXRlbSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NEYXRhSXRlbSA9IGNscy5nZXRDbGFzc0RhdGEoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoY2xhc3NEYXRhSXRlbSA9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ5dGVBcnJheUlucHV0U3RyZWFtIGJ5dGVBcnJheUlucHV0ID0gbmV3IEJ5dGVBcnJheUlucHV0U3RyZWFtKGlucHV0U3RyZWFtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3NEYXRhSXRlbSA9IGNscy5nZXRDbGFzc0RhdGEoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnB1dFN0cmVhbSBpbnB1dFN0cmVhbSA9IGdldEFzc2V0cygpLm9wZW4oImRleF8yMDIxMDMwOTIzMTcuZGV4Iik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
