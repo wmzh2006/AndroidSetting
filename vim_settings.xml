@@ -120,7 +120,7 @@
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexAnnotationAttributeImpl.java" timestamp="1615874515171" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/structure/DexEncodedValueType.java" timestamp="1615875748185" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexEncodedValueImpl.java" timestamp="1615875806466" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615863959795">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615876469477">
         <mark key="'" line="497" column="11" />
         <mark key="[" line="450" column="22" />
         <mark key="]" line="451" column="45" />
@@ -147,7 +147,13 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/test/java/dex/reader/DexTestsCommon.java" timestamp="1615874586713" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/struct/CodeItem.java" timestamp="1615875387126">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexClassImpl.java" timestamp="1615877621908">
+        <mark key="[" line="197" column="8" />
+        <mark key="]" line="197" column="8" />
+        <mark key="^" line="197" column="8" />
+        <mark key="." line="197" column="8" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/struct/CodeItem.java" timestamp="1615877107872">
         <mark key="[" line="38" column="48" />
         <mark key="]" line="38" column="47" />
         <mark key="." line="38" column="46" />
@@ -157,8 +163,7 @@
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="20" />
       </file>
-      <file name="D:/StudioProjects/ApkParseDemo/app/src/main/java/org/jf/dexlib/HeaderItem.java" timestamp="1615810129701" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" timestamp="1615876048109">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" timestamp="1615877291765">
         <mark key="'" line="184" column="22" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/test/java/dex/reader/DexFileReaderTests.java" timestamp="1615874923079">
@@ -167,7 +172,7 @@
         <mark key="." line="59" column="54" />
         <mark key="^" line="59" column="55" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615875472355">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615876359529">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="^" line="100" column="46" />
@@ -282,14 +287,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRleENsYXNzLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bnQg</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW1wbCA=</text>
+        <text encoding="base64">bnQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
