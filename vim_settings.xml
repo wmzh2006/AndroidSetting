@@ -110,25 +110,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/struct/ClassDataItem.java" timestamp="1615878175431">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="50" />
+        <mark key="." line="38" column="49" />
+        <mark key="^" line="38" column="50" />
+      </file>
+      <file name="/ParseDexUtils.java" timestamp="1615882341694">
+        <mark key="'" line="432" column="16" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.h" timestamp="1615898936636">
         <mark key="[" line="36" column="26" />
         <mark key="]" line="36" column="28" />
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/structure/DexEncodedValueType.java" timestamp="1615875748185" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexEncodedValueImpl.java" timestamp="1615875806466" />
-      <file name="/LLDB" timestamp="1615897868807">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1615884655199">
-        <mark key="'" line="393" column="25" />
-        <mark key="[" line="412" column="27" />
-        <mark key="]" line="412" column="28" />
-        <mark key="^" line="412" column="27" />
-        <mark key="." line="412" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.txt" timestamp="1615884458331" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexClassImpl.java" timestamp="1615883453366">
         <mark key="[" line="197" column="8" />
         <mark key="]" line="197" column="12" />
@@ -146,37 +142,18 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" timestamp="1615877291765">
-        <mark key="'" line="184" column="22" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1615881782750">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/struct/ClassDataItem.java" timestamp="1615878175431">
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="50" />
-        <mark key="." line="38" column="49" />
-        <mark key="^" line="38" column="50" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615883873655">
-        <mark key="'" line="51" column="44" />
-        <mark key="[" line="497" column="68" />
-        <mark key="]" line="497" column="68" />
-        <mark key="." line="497" column="68" />
-        <mark key="^" line="473" column="16" />
-      </file>
-      <file name="/ParseDexUtils.java" timestamp="1615882341694">
-        <mark key="'" line="432" column="16" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/struct/CodeItem.java" timestamp="1615877107872">
         <mark key="[" line="38" column="48" />
         <mark key="]" line="38" column="47" />
         <mark key="." line="38" column="46" />
         <mark key="^" line="38" column="47" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615899121928">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615949123820">
         <mark key="'" line="182" column="20" />
         <mark key="[" line="317" column="1" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" timestamp="1615877291765">
+        <mark key="'" line="184" column="22" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" timestamp="1615897850578">
         <mark key="'" line="95" column="22" />
@@ -185,12 +162,32 @@
         <mark key="^" line="95" column="26" />
         <mark key="." line="69" column="43" />
       </file>
+      <file name="/LLDB" timestamp="1615897868807">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1615898875095">
         <mark key="'" line="114" column="67" />
         <mark key="[" line="148" column="62" />
         <mark key="]" line="148" column="65" />
         <mark key="^" line="148" column="65" />
         <mark key="." line="148" column="64" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1615883873655">
+        <mark key="'" line="51" column="44" />
+        <mark key="[" line="497" column="68" />
+        <mark key="]" line="497" column="68" />
+        <mark key="." line="497" column="68" />
+        <mark key="^" line="473" column="16" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1615884655199">
+        <mark key="'" line="393" column="25" />
+        <mark key="[" line="412" column="27" />
+        <mark key="]" line="412" column="28" />
+        <mark key="^" line="412" column="27" />
+        <mark key="." line="412" column="28" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1615881782750">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1615879981747">
         <mark key="[" line="0" column="0" />
