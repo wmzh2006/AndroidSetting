@@ -119,11 +119,13 @@
       <file name="/ParseDexUtils.java" timestamp="1615882341694">
         <mark key="'" line="432" column="16" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.h" timestamp="1615898936636">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="36" column="27" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileImpl.java" timestamp="1615950417523" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFile.h" timestamp="1615950383375" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.h" timestamp="1615951017460">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="33" />
+        <mark key="." line="53" column="32" />
+        <mark key="^" line="53" column="33" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexClassImpl.java" timestamp="1615883453366">
         <mark key="[" line="197" column="8" />
@@ -148,9 +150,12 @@
         <mark key="." line="38" column="46" />
         <mark key="^" line="38" column="47" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615949123820">
-        <mark key="'" line="182" column="20" />
-        <mark key="[" line="317" column="1" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615951107372">
+        <mark key="'" line="177" column="20" />
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="90" column="20" />
+        <mark key="." line="90" column="19" />
+        <mark key="^" line="90" column="20" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" timestamp="1615877291765">
         <mark key="'" line="184" column="22" />
@@ -194,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="160" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
       <jump line="5" column="340" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
       <jump line="455" column="9" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="196" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
@@ -294,51 +298,52 @@
       <jump line="328" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
       <jump line="235" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
       <jump line="182" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
+      <jump line="177" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Insns</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIERleENsYXNzRGVmKiogY2xhc3NJZHNBcnJhcnk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>Insns</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdW1wQ2xhc3NcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGlzRmlyc3RNZXRob2QpIHsKICAgICAgICAgICAgICAgICAgICBpc0ZpcnN0TWV0aG9kID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>DexHeader *</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERleENsYXNzRGVmKiogY2xhc3NJZHNBcnJhcnk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGlzRmlyc3RNZXRob2QpIHsKICAgICAgICAgICAgICAgICAgICBpc0ZpcnN0TWV0aG9kID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZW1pZCA9IGluZGV4Owo=</text>
+        <text encoding="base64">CURleEhlYWRlciogaGVhZGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpZF9pbmRleCA9IEludGVnZXIudmFsdWVPZihIZXhTdHIsIDE2KSArIHByZW1pZDsK</text>
+        <text encoding="base64">ICAgIGhlYWRlciA9IChEZXhIZWFkZXIqKSBkZXg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBIZXhTdHIgPSBVdGlscy5ieXRlc1RvSGV4U3RyaW5nKGl0ZW0xLm1ldGhvZF9pZHhfZGlmZikudHJpbSgpOwo=</text>
+        <text encoding="base64">ICAgIGRleF9maWxlID0gKERleEZpZWxkKilkZXg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZW1pZCA9IGluZGV4Owo=</text>
+        <text encoding="base64">ICAgIGlmIChkZXgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBIZXhTdHIgPSBVdGlscy5ieXRlc1RvSGV4U3RyaW5nKGl0ZW0xLm1ldGhvZF9pZHhfZGlmZikudHJpbSgpOwo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBkZXhfZmlsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpZF9pbmRleCA9IEludGVnZXIudmFsdWVPZihIZXhTdHIsIDE2KSArIHByZW1pZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
