@@ -124,11 +124,11 @@
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFile.h" timestamp="1615961846078">
         <mark key="'" line="628" column="20" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.h" timestamp="1615961727772">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="13" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.h" timestamp="1615962989402">
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="65" column="50" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexClassImpl.java" timestamp="1615883453366">
         <mark key="[" line="197" column="8" />
@@ -141,7 +141,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" timestamp="1615897625965">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" timestamp="1615964697902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -158,7 +158,7 @@
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" timestamp="1615877291765">
         <mark key="'" line="184" column="22" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" timestamp="1615897850578">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" timestamp="1615964513823">
         <mark key="'" line="95" column="22" />
         <mark key="[" line="69" column="43" />
         <mark key="]" line="69" column="43" />
@@ -302,46 +302,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>t</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdW1wTWV0aG9kXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsYXNzSWRzQXJyYXJ5ID0gbmV3IERleENsYXNzRGVmKiBbaGVhZGVyLT5jbGFzc0RlZnNTaXplXTsK</text>
+        <text encoding="base64">CW1hcDxzdHJpbmcsIERleENvZGUqPiBkaXJlY3RNZXRob2RDb2RlSXRlbU1hcDsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CWNoYXIqKiBkaXJlY3RNZXRob2ROYW1lQXJyYXk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">LCBib29sIGlzVmlydHVhbE1ldGhvZCkgewogICAgRGV4TWV0aG9kSWQgKm1ldGhvZF9pZCA9IGdldE1ldGhvZElkKGRleF9maWxlLCBtZXRob2QtPm1ldGhvZElkeCk7CiAgICBMT0dwcmludGYoIlx0TWV0aG9kOiAlc1xuIiwgZ2V0U3RyaW5nQnlJZChkZXhfZmlsZSwgbWV0aG9kX2lkLT5uYW1lSWR4KSk7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGlmKG1ldGhvZC0+Y29kZU9mZiA9PSAwKSB7CiAgICAgICAgcmV0dXJuOwogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGlmKG1ldGhvZC0+Y29kZU9mZiA9PSAwKSB7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IGlmKGlzVmlydHVhbE1ldGhvZCkgewogICAgICAgdmlydHVhbE1ldGhvZENvZGVJdGVtQXJyYXlbXSAKICAgIH1lbHNlIHsKICAgICAgICAKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERleENsYXNzRGVmKiogY2xhc3NJZHNBcnJhcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERleENsYXNzRGVmKiogY2xhc3NJZHNBcnJhcnk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CURleEhlYWRlciogaGVhZGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
