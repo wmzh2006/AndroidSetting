@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>00056BA7</entry>
         <entry>ACC_PUBLIC</entry>
         <entry encoding="base64">XDxjbGFzc0lkc0xpc3RcPg==</entry>
         <entry>insns:</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxnZXRNZXRob2REZXhDb2RlXD4=</entry>
         <entry encoding="base64">XDxkdW1wTWV0aG9kXD4=</entry>
         <entry encoding="base64">XDxkdW1wQ2xhc3NcPg==</entry>
+        <entry encoding="base64">XDxMY29tX29tZGhqX3F3cnlkX3pfX2NsaW5pdF9fVl9fVlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -141,10 +141,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" timestamp="1615975187374">
-        <mark key="[" line="19691" column="2" />
-        <mark key="]" line="19693" column="0" />
-        <mark key="." line="19693" column="0" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" timestamp="1615983642337">
+        <mark key="[" line="19692" column="0" />
+        <mark key="]" line="19692" column="0" />
+        <mark key="." line="19692" column="0" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615970326053">
         <mark key="'" line="178" column="20" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="521" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="0" column="177" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" />
       <jump line="2" column="230" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" />
@@ -296,51 +295,52 @@
       <jump line="628" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFile.h" />
       <jump line="237" column="24" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
       <jump line="178" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
+      <jump line="19693" column="13" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2hhciBfMDAwID0gImFhIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>http://directreach.net/du-wap/Subscribe/en?q=4071</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdW1wQ2xhc3NcPg==</text>
+        <text encoding="base64">XDxMY29tX29tZGhqX3F3cnlkX3pfX2NsaW5pdF9fVl9fVlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CW1hcDxzdHJpbmcsIERleENvZGUqPiBkaXJlY3RNZXRob2RDb2RlSXRlbU1hcDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2hhciBfMDAwID0gImFhIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNoYXIqKiBkaXJlY3RNZXRob2ROYW1lQXJyYXk7Cg==</text>
+        <text encoding="base64">Y2hhciBhYWFbXVtdID0ge0xjb21fb21kaGpfcXdyeWRfel9fY2xpbml0X19WX19WfTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LCBib29sIGlzVmlydHVhbE1ldGhvZCkgewogICAgRGV4TWV0aG9kSWQgKm1ldGhvZF9pZCA9IGdldE1ldGhvZElkKGRleF9maWxlLCBtZXRob2QtPm1ldGhvZElkeCk7CiAgICBMT0dwcmludGYoIlx0TWV0aG9kOiAlc1xuIiwgZ2V0U3RyaW5nQnlJZChkZXhfZmlsZSwgbWV0aG9kX2lkLT5uYW1lSWR4KSk7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y2hhclswXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKG1ldGhvZC0+Y29kZU9mZiA9PSAwKSB7CiAgICAgICAgcmV0dXJuOwogICAgfQo=</text>
+        <text encoding="base64">Y2hhciBfMDAwID0gImFhIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKG1ldGhvZC0+Y29kZU9mZiA9PSAwKSB7Cg==</text>
+        <text encoding="base64">CWNoYXIqKiBkaXJlY3RNZXRob2ROYW1lQXJyYXk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IGlmKGlzVmlydHVhbE1ldGhvZCkgewogICAgICAgdmlydHVhbE1ldGhvZENvZGVJdGVtQXJyYXlbXSAKICAgIH1lbHNlIHsKICAgICAgICAKICAgIH0=</text>
+        <text encoding="base64">LCBib29sIGlzVmlydHVhbE1ldGhvZCkgewogICAgRGV4TWV0aG9kSWQgKm1ldGhvZF9pZCA9IGdldE1ldGhvZElkKGRleF9maWxlLCBtZXRob2QtPm1ldGhvZElkeCk7CiAgICBMT0dwcmludGYoIlx0TWV0aG9kOiAlc1xuIiwgZ2V0U3RyaW5nQnlJZChkZXhfZmlsZSwgbWV0aG9kX2lkLT5uYW1lSWR4KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKG1ldGhvZC0+Y29kZU9mZiA9PSAwKSB7CiAgICAgICAgcmV0dXJuOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERleENsYXNzRGVmKiogY2xhc3NJZHNBcnJhcnk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKG1ldGhvZC0+Y29kZU9mZiA9PSAwKSB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGlmKGlzVmlydHVhbE1ldGhvZCkgewogICAgICAgdmlydHVhbE1ldGhvZENvZGVJdGVtQXJyYXlbXSAKICAgIH1lbHNlIHsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -349,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkdW1wQ2xhc3NcPg==</last-search>
+      <last-search encoding="base64">XDxMY29tX29tZGhqX3F3cnlkX3pfX2NsaW5pdF9fVl9fVlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdW1wQ2xhc3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxMY29tX29tZGhqX3F3cnlkX3pfX2NsaW5pdF9fVl9fVlw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
