@@ -21,10 +21,10 @@
         <entry encoding="base64">XDxwcmVtaWRcPg==</entry>
         <entry encoding="base64">XDxkZXhfcGF0aFw+</entry>
         <entry encoding="base64">XDxkdW1wTG9jYWxzXD4=</entry>
-        <entry encoding="base64">XDxkdW1wQ2xhc3NcPg==</entry>
         <entry encoding="base64">XDxwYXJzZUNvZGVJdGVtXD4=</entry>
         <entry encoding="base64">XDxnZXRNZXRob2REZXhDb2RlXD4=</entry>
         <entry encoding="base64">XDxkdW1wTWV0aG9kXD4=</entry>
+        <entry encoding="base64">XDxkdW1wQ2xhc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -147,12 +147,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615961911913">
-        <mark key="'" line="239" column="24" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1615970326053">
+        <mark key="'" line="178" column="20" />
         <mark key="[" line="231" column="43" />
-        <mark key="]" line="231" column="43" />
-        <mark key="." line="231" column="43" />
-        <mark key="^" line="231" column="48" />
+        <mark key="]" line="178" column="24" />
+        <mark key="." line="178" column="23" />
+        <mark key="^" line="178" column="24" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFile.cpp" timestamp="1615960102234" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" timestamp="1615877291765">
@@ -197,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1401" column="42" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="539" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="521" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build/outputs/mapping/release/mapping.txt" />
       <jump line="0" column="177" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" />
@@ -297,6 +296,7 @@
       <jump line="505" column="28" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="628" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFile.h" />
       <jump line="237" column="24" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
+      <jump line="178" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +311,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdW1wTWV0aG9kXD4=</text>
+        <text encoding="base64">XDxkdW1wQ2xhc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CW1hcDxzdHJpbmcsIERleENvZGUqPiBkaXJlY3RNZXRob2RDb2RlSXRlbU1hcDsK</text>
@@ -350,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkdW1wTWV0aG9kXD4=</last-search>
+      <last-search encoding="base64">XDxkdW1wQ2xhc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdW1wTWV0aG9kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkdW1wQ2xhc3NcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
