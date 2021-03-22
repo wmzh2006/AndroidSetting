@@ -110,12 +110,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" timestamp="1616406014662">
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" timestamp="1616412572753">
         <mark key="'" line="7" column="71" />
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="8" column="58" />
-        <mark key="." line="8" column="58" />
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="7" column="61" />
+        <mark key="." line="7" column="61" />
         <mark key="^" line="8" column="59" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/CMakeLists.txt" timestamp="1616143856673">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="36" column="8" />
+        <mark key="." line="36" column="7" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Common.h" timestamp="1616143532039">
         <mark key="[" line="69" column="13" />
@@ -133,44 +139,15 @@
         <mark key="]" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20210322165608937891555523889.jar!/com/wat/ozo/cdw/this.class" timestamp="1616402835529" />
-      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1616402119188">
-        <mark key="[" line="88" column="65" />
-        <mark key="]" line="88" column="73" />
-        <mark key="." line="88" column="65" />
-      </file>
-      <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20210322165608937891555523889.jar!/com/wat/ozo/cdw/for.class" timestamp="1616402885411" />
-      <file name="/LLDB" timestamp="1616144076025">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Project/DynamicLoader/icon/release/README.txt" timestamp="1616406977679">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="1" column="77" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1616122072741">
-        <mark key="'" line="393" column="25" />
-        <mark key="[" line="412" column="27" />
-        <mark key="]" line="412" column="28" />
-        <mark key="^" line="412" column="27" />
-        <mark key="." line="412" column="28" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/release/2021032216/README.txt" timestamp="1616406833958">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="14" column="61" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/CMakeLists.txt" timestamp="1616143856673">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="8" />
-        <mark key="^" line="36" column="8" />
-        <mark key="." line="36" column="7" />
-      </file>
-      <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20210322165608937891555523889.jar!/com/wat/ozo/cdw/do.class" timestamp="1616402913273" />
       <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1616406030964">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="23" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1616402119188">
+        <mark key="[" line="88" column="65" />
+        <mark key="]" line="88" column="73" />
+        <mark key="." line="88" column="65" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1616143544170">
         <mark key="'" line="178" column="20" />
@@ -179,7 +156,6 @@
         <mark key="." line="63" column="5" />
         <mark key="^" line="63" column="6" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" timestamp="1616143399127" />
       <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1616404922177">
         <mark key="[" line="225" column="19" />
         <mark key="]" line="225" column="33" />
@@ -198,6 +174,28 @@
         <mark key="]" line="8" column="78" />
         <mark key="." line="8" column="77" />
         <mark key="^" line="8" column="78" />
+      </file>
+      <file name="/LLDB" timestamp="1616144076025">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/icon/release/README.txt" timestamp="1616406977679">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="1" column="77" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/test/Test.java" timestamp="1616417878722">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/release/2021032216/README.txt" timestamp="1616406833958">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="14" column="61" />
+      </file>
+      <file name="/fragment.java" timestamp="1616416840529">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -306,13 +304,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.oopa.ooa.icon</text>
+        <text>;</text>
       </register>
       <register name="+" type="4">
         <text>com.oopa.ooa.icon</text>
       </register>
       <register name="-" type="4">
-        <text>@string/app_name</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>;pMs#</text>
