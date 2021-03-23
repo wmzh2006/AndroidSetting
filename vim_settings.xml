@@ -110,14 +110,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" timestamp="1616412572753">
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" timestamp="1616467687113">
         <mark key="'" line="7" column="71" />
         <mark key="[" line="7" column="60" />
         <mark key="]" line="7" column="61" />
         <mark key="." line="7" column="61" />
         <mark key="^" line="8" column="59" />
       </file>
-      <file name="E:/Project/DynamicLoader/icon/src/main/java/com/oopa/ooa/icon/StartService.java" timestamp="1616406518958">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Common.h" timestamp="1616467438854">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="5" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="71" column="5" />
+      </file>
+      <file name="E:/Project/DynamicLoader/icon/src/main/java/com/oopa/ooa/icon/StartService.java" timestamp="1616467739826">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -127,12 +133,7 @@
         <mark key="]" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1616402119188">
-        <mark key="[" line="88" column="65" />
-        <mark key="]" line="88" column="73" />
-        <mark key="." line="88" column="65" />
-      </file>
-      <file name="/LLDB" timestamp="1616464571776">
+      <file name="/LLDB" timestamp="1616467321201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/build.gradle" timestamp="1616419297196">
@@ -146,11 +147,14 @@
         <mark key="^" line="1" column="77" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="/fragment.cpp" timestamp="1616465651655">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1616464854405">
-        <mark key="[" line="34" column="84" />
-        <mark key="]" line="34" column="85" />
-        <mark key="^" line="34" column="85" />
-        <mark key="." line="34" column="84" />
+        <mark key="[" line="35" column="84" />
+        <mark key="]" line="35" column="85" />
+        <mark key="^" line="35" column="85" />
+        <mark key="." line="35" column="84" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/release/2021032216/README.txt" timestamp="1616406833958">
         <mark key="[" line="5" column="0" />
@@ -161,18 +165,28 @@
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" timestamp="1616467399838">
+        <mark key="'" line="178" column="20" />
+        <mark key="[" line="63" column="3" />
+        <mark key="]" line="63" column="6" />
+        <mark key="." line="63" column="5" />
+        <mark key="^" line="63" column="6" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" timestamp="1616465867612">
+        <mark key="'" line="28" column="16" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1616404922177">
         <mark key="[" line="225" column="19" />
         <mark key="]" line="225" column="33" />
         <mark key="^" line="217" column="14" />
         <mark key="." line="225" column="19" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" timestamp="1616144446961">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/main.cpp" timestamp="1616466709537">
         <mark key="'" line="95" column="22" />
-        <mark key="[" line="72" column="50" />
-        <mark key="]" line="72" column="51" />
-        <mark key="^" line="95" column="26" />
-        <mark key="." line="72" column="51" />
+        <mark key="[" line="108" column="4" />
+        <mark key="]" line="108" column="5" />
+        <mark key="^" line="107" column="28" />
+        <mark key="." line="108" column="5" />
       </file>
       <file name="E:/Project/DynamicLoader/icon/src/main/AndroidManifest.xml" timestamp="1616406855653">
         <mark key="[" line="8" column="77" />
@@ -180,7 +194,7 @@
         <mark key="." line="8" column="77" />
         <mark key="^" line="8" column="78" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616464153660">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616465874490">
         <mark key="'" line="141" column="5" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/test/Test.java" timestamp="1616417878722">
@@ -195,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="131" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" />
       <jump line="59" column="82" filename="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/hilb/qegxk/drpa/MckSdk.java" />
       <jump line="264" column="45" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="329" column="101" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -294,6 +307,7 @@
       <jump line="7" column="71" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" />
       <jump line="194" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="225" column="6" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="28" column="16" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
       <jump line="141" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
