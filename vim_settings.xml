@@ -117,6 +117,7 @@
         <mark key="." line="7" column="61" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/AndroidManifest.xml" timestamp="1616551327746" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Common.h" timestamp="1616467438854">
         <mark key="[" line="71" column="4" />
         <mark key="]" line="71" column="5" />
@@ -130,6 +131,11 @@
       </file>
       <file name="/LLDB" timestamp="1616487555191">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/jp/wamo/amo/dcloader/MainActivity.java" timestamp="1616551049030">
+        <mark key="[" line="53" column="52" />
+        <mark key="]" line="53" column="52" />
+        <mark key="." line="53" column="52" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/build.gradle" timestamp="1616468238500">
         <mark key="[" line="8" column="26" />
@@ -183,19 +189,12 @@
       </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/release/2021032310/README.txt" timestamp="1616467996995" />
       <file name="E:/tools/android/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/jni.h" timestamp="1616481125556" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/test/Test.java" timestamp="1616417878722">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="3" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.txt" timestamp="1616483002970">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="6" column="12" />
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="E:/tools/android/platforms/android-29/android.jar!/dalvik/system/InMemoryDexClassLoader.class" timestamp="1616464047266" />
     </filemarks>
     <jumps>
       <jump line="387" column="71" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
@@ -302,14 +301,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEZXhDbGFzc0xvYWRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>com.tgb825.yhn46.Sdk</text>
       </register>
       <register name="+" type="4">
         <text>com.oopa.ooa.icon</text>
       </register>
       <register name="-" type="4">
-        <text>buf</text>
+        <text>com.tgb825.yhn46.Sdk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZXIyXD4=</text>
