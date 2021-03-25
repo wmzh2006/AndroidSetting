@@ -172,8 +172,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616678817548">
-        <mark key="'" line="724" column="1" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616680601420">
+        <mark key="'" line="457" column="54" />
         <mark key="[" line="747" column="0" />
         <mark key="]" line="747" column="0" />
         <mark key="^" line="747" column="33" />
@@ -186,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="21" filename="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" />
       <jump line="184" column="22" filename="D:/AndroidStudio/DalvikBytecode/DexTools/src/main/java/dex/reader/DexFileReader.java" />
       <jump line="114" column="67" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
       <jump line="54" column="34" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
@@ -286,6 +285,7 @@
       <jump line="17" column="19" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
       <jump line="4" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
       <jump line="724" column="1" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="457" column="54" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
