@@ -123,6 +123,12 @@
       <file name="/LLDB" timestamp="1616678109784">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1616724224873">
+        <mark key="[" line="535" column="65" />
+        <mark key="]" line="535" column="66" />
+        <mark key="." line="535" column="65" />
+        <mark key="^" line="535" column="66" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/CMakeLists.txt" timestamp="1616565460934">
         <mark key="[" line="37" column="20" />
         <mark key="]" line="38" column="20" />
@@ -133,7 +139,7 @@
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="24" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" timestamp="1616678932289" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" timestamp="1616724208889" />
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" timestamp="1616642122024">
         <mark key="[" line="117" column="77" />
       </file>
@@ -286,13 +292,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="+" type="4">
         <text>com.o.testso</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>call</text>
@@ -301,31 +307,31 @@
         <text encoding="base64">ICAgIGZwID0gZm9wZW4oZGV4X3BhdGgsICJ3YiIpOwogICAgaWYgKGZwID09IE5VTEwpIHsKICAgICAgICBwcmludGYoIkZpbGUgJXMgb3BlbiBmYWlsZWRcbiIsIGRleF9wYXRoKTsKICAgICAgICByZXR1cm47CiAgICB9CgogICAgY2hhciAqZGV4X2NvbnQgPSBiYXNlX2FkZHI7CgogICAgaW50IHJldCA9IGZ3cml0ZShkZXhfY29udCwgMSwgZGV4TGVuLCBmcCk7CiAgICBwcmludGYoImxlbjogJWQiLCByZXQpOwogICAgZmNsb3NlKGZwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBieXRlW10gTGNuX3dqZGlhbmtvbmdfY29yZWRleF9Db3JlVXRpbHNfX2luaXRfX1ZfX1Z7CiAgICAgICAgMHg3MCwgMHgxMCwgMHgxMCwgMHgwMCwgMHgwMSwgMHgwMCwgMHgxYSwgMHgwMCwgMHgyYiwgMHgwMCwgMHg1YiwgMHgxMCwgMHgwMSwgMHgwMCwgMHgwZSwgMHgwMAogICAgfTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXIgKmRleF9jb250ID0gYmFzZV9hZGRyOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEZJTEUqIGZwID0gZm9wZW4oKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoIm1vZGlmaWVzIG1lbW9yeSBmYWlsISIpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNoYXIgKmRleF9jb250ID0gYmFzZV9hZGRyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEZJTEUqIGZwID0gZm9wZW4oKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoIm1vZGlmaWVzIG1lbW9yeSBmYWlsISIpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8jZGVmaW5lIFBBR0VfU1RBUlQoYWRkcikgKChhZGRyKSAmIFBBR0VfTUFTSykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2RlZmluZSBQQUdFX0VORChhZGRyKSAgIChQQUdFX1NUQVJUKGFkZHIpICsgUEFHRV9TSVpFKQo=</text>
+        <text encoding="base64">Ly8jZGVmaW5lIFBBR0VfU1RBUlQoYWRkcikgKChhZGRyKSAmIFBBR0VfTUFTSykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2RlZmluZSBQQUdFX1NUQVJUKGFkZHIpICgoYWRkcikgJiBQQUdFX01BU0spCg==</text>
+        <text encoding="base64">I2RlZmluZSBQQUdFX0VORChhZGRyKSAgIChQQUdFX1NUQVJUKGFkZHIpICsgUEFHRV9TSVpFKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
