@@ -127,11 +127,11 @@
         <mark key="." line="67" column="5" />
         <mark key="^" line="22" column="10" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.h" timestamp="1616746975114">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="8" column="8" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.h" timestamp="1616758658691">
+        <mark key="[" line="17" column="70" />
+        <mark key="]" line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex1.c" timestamp="1616742871032">
         <mark key="'" line="39644" column="7" />
@@ -151,11 +151,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" timestamp="1616757718187">
-        <mark key="[" line="73" column="30" />
-        <mark key="]" line="73" column="31" />
-        <mark key="." line="73" column="30" />
-        <mark key="^" line="73" column="31" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" timestamp="1616758508890">
+        <mark key="]" line="104" column="19" />
+        <mark key="." line="104" column="18" />
+        <mark key="^" line="104" column="19" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Utils.c" timestamp="1616744773055">
         <mark key="[" line="15" column="0" />
@@ -220,7 +219,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616749608043">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616758314478">
         <mark key="'" line="365" column="12" />
         <mark key="[" line="364" column="4" />
         <mark key="]" line="364" column="11" />
@@ -334,13 +333,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dTQg</text>
+        <text>成功返回dex的路径,否则返回NULL</text>
       </register>
       <register name="+" type="4">
         <text>com.o.testso</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dTQg</text>
+        <text>成功返回dex的路径,否则返回NULL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlRGV4XD4=</text>
