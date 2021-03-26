@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkZXJEZXhcPg==</entry>
-        <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
-        <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxwYXJzZXIyXD4=</entry>
         <entry encoding="base64">XDxuZWVkUHJvdGVjdFNpemVcPg==</entry>
         <entry encoding="base64">XDxnZXRwYWdlc2l6ZVw+</entry>
         <entry encoding="base64">XDxtb2RpZnlNZW1BY2Nlc3NcPg==</entry>
         <entry encoding="base64">XDxob29rXD4=</entry>
         <entry encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</entry>
-        <entry encoding="base64">XDxjYWxsX2RleENsYXNzTG9hZGVyXD4=</entry>
         <entry>call</entry>
         <entry encoding="base64">XDxkZXhIZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxyZWdpc3Rlck5hdGl2ZXNcPg==</entry>
         <entry encoding="base64">XDxfX2NwbHVzcGx1c1w+</entry>
-        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry encoding="base64">XDxjY1w+</entry>
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxob29rRGV4TWVtb3J5XD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlXD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlRGV4XD4=</entry>
+        <entry encoding="base64">XDxjYWxsX2RleENsYXNzTG9hZGVyXD4=</entry>
+        <entry encoding="base64">XDxGaW5kQ2xhc3NcPg==</entry>
+        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
+        <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
+        <entry encoding="base64">XDxhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -132,8 +132,8 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" timestamp="1616743471601">
-        <mark key="'" line="7" column="20" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" timestamp="1616761850850">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="5" column="20" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
@@ -146,21 +146,21 @@
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="31" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.h" timestamp="1616760565381">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="15" column="80" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.h" timestamp="1616761787044">
+        <mark key="[" line="19" column="74" />
+        <mark key="]" line="19" column="75" />
+        <mark key="." line="19" column="74" />
+        <mark key="^" line="19" column="75" />
       </file>
       <file name="/fragment.c" timestamp="1616757954738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1616761368233">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1616762340651">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="36" column="44" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="42" />
-        <mark key="^" line="36" column="43" />
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+        <mark key="^" line="52" column="17" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.cc" timestamp="1616748505754">
         <mark key="'" line="22" column="5" />
@@ -221,23 +221,15 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616758314478">
-        <mark key="'" line="365" column="12" />
-        <mark key="[" line="364" column="4" />
-        <mark key="]" line="364" column="11" />
-        <mark key="." line="364" column="10" />
-        <mark key="^" line="364" column="11" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616762133769">
+        <mark key="'" line="342" column="0" />
+        <mark key="[" line="375" column="58" />
+        <mark key="]" line="375" column="59" />
+        <mark key="." line="375" column="58" />
+        <mark key="^" line="375" column="59" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
-      <jump line="505" column="28" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
-      <jump line="628" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFile.h" />
-      <jump line="237" column="24" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
-      <jump line="178" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
-      <jump line="19693" column="13" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex.c" />
-      <jump line="179" column="65" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
-      <jump line="7" column="71" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" />
       <jump line="225" column="6" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="626" column="100" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
       <jump line="271" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -245,7 +237,6 @@
       <jump line="202" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="258" column="7" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="145" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="62" column="29" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="188" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="292" column="52" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="298" column="37" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -330,6 +321,15 @@
       <jump line="7" column="4" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/CppWrapper.cpp" />
       <jump line="29" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="15" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" />
+      <jump line="22" column="19" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
+      <jump line="9" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
+      <jump line="62" column="7" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="76" column="18" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="105" column="34" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="190" column="44" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="67" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="201" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="342" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,37 +344,37 @@
         <text>NULL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBsYWNlRGV4XD4=</text>
+        <text encoding="base64">XDxhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">amNsYXNzIEZpbmRDbGFzcyhKTklFbnYgKmVudiwgam9iamVjdCBvYmosIGptZXRob2RJRCBtZXRob2RJZCwgY2hhciAqbmFtZSkg</text>
+      <register name="0" type="2">
+        <text encoding="base64">anN0cmluZyBHZXREaXJBYnNvbHV0ZVBhdGgoSk5JRW52ICplbnYsIGpvYmplY3QgY29udGV4dCwgY29uc3QgY2hhciAqbmFtZSkgewogICAgam9iamVjdCBkaXIgPSBHZXREaXIoZW52LCBjb250ZXh0LCBuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">am9iamVjdCBkaXIgPSBHZXREaXIoZW52LCBjb250ZXh0LCBuYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpzdHJpbmcgcGF5bG9hZF9kZXggPSAoKmVudiktPk5ld1N0cmluZ1VURihlbnYsICJwZCIpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGpzdHJpbmcgcGF5bG9hZF9kZXggPSAoKmVudiktPk5ld1N0cmluZ1VURihlbnYsICJwZCIpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">I2RlZmluZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPD4K</text>
+        <text encoding="base64">I2RlZmluZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2V0RGlyKCkK</text>
+        <text encoding="base64">I2luY2x1ZGUgPD4K</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="7" type="2">
+        <text encoding="base64">Z2V0RGlyKCkK</text>
       </register>
       <register name="8" type="8">
         <text encoding="base64">IAog</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAog</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
@@ -383,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXBsYWNlRGV4XD4=</last-search>
+      <last-search encoding="base64">XDxhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBsYWNlRGV4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
