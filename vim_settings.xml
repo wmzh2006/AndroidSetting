@@ -120,22 +120,16 @@
       <file name="/fragment.c" timestamp="1616567537306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/file_utils.cpp" timestamp="1616566737350">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="11" column="0" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.h" timestamp="1616728871741">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="16" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Utils.cpp" timestamp="1616729963082">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="9" />
-        <mark key="^" line="32" column="9" />
-        <mark key="." line="32" column="8" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Utils.cpp" timestamp="1616730807285">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="74" />
+        <mark key="^" line="33" column="60" />
+        <mark key="." line="33" column="59" />
       </file>
       <file name="/LLDB" timestamp="1616678109784">
         <mark key="[" line="0" column="0" />
@@ -145,6 +139,12 @@
         <mark key="]" line="535" column="66" />
         <mark key="." line="535" column="65" />
         <mark key="^" line="535" column="66" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Utils.h" timestamp="1616730812939">
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="64" />
+        <mark key="^" line="8" column="65" />
       </file>
       <file name="D:/AndroidStudio/Testso/app/src/main/AndroidManifest.xml" timestamp="1616578997345">
         <mark key="[" line="2" column="13" />
@@ -186,12 +186,12 @@
         <mark key="." line="72" column="36" />
       </file>
       <file name="E:/tools/android/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/inttypes.h" timestamp="1616652457592" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616729769598">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616730635051">
         <mark key="'" line="456" column="54" />
         <mark key="[" line="709" column="91" />
-        <mark key="]" line="709" column="91" />
-        <mark key="^" line="709" column="156" />
-        <mark key="." line="709" column="91" />
+        <mark key="]" line="709" column="135" />
+        <mark key="^" line="709" column="135" />
+        <mark key="." line="710" column="34" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1616677581659">
         <mark key="[" line="20" column="65" />
@@ -305,46 +305,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bool isSaneDex(const char *l, int lLen, const char* r, int rLen)</text>
       </register>
       <register name="+" type="4">
         <text>com.o.testso</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Ym9vbCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXhIZWFkZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DexField</text>
+        <text>bool isSaneDex(const char *l, int lLen, const char* r, int rLen)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkRleEZpbGVQYXJzZXIuaCIK</text>
-      </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
-      </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiA=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIERleEhlYWRlciAqaGVhZGVyID0gKERleEhlYWRlciAqKSBkZXg7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIkNvbW1vbi5oIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHU0IGZpbGVTaXplOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ym9vbCBpc1NhbmVEZXgoY29uc3QgY2hhciAqbCwgaW50IGxMZW4sIGNvbnN0IGNoYXIqIHIsIGludCByTGVuKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIkNvbW1vbi5oIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIkRleEZpbGVQYXJzZXIuaCIK</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvb2wgcmVjb3Zlcnk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERleEhlYWRlciAqZGV4SGVhZGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
