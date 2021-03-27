@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZXIyXD4=</entry>
         <entry encoding="base64">XDxuZWVkUHJvdGVjdFNpemVcPg==</entry>
         <entry encoding="base64">XDxnZXRwYWdlc2l6ZVw+</entry>
         <entry encoding="base64">XDxtb2RpZnlNZW1BY2Nlc3NcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
         <entry encoding="base64">XDxhXD4=</entry>
+        <entry encoding="base64">XDxsb2FkZXJEZXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -218,17 +218,15 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616812171857">
-        <mark key="'" line="343" column="0" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="26" />
-        <mark key="^" line="42" column="27" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616813471904">
+        <mark key="'" line="272" column="7" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="17" />
+        <mark key="^" line="42" column="18" />
+        <mark key="." line="42" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="626" column="100" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexFileParser.cpp" />
-      <jump line="271" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="141" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="202" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="258" column="7" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -327,21 +325,23 @@
       <jump line="67" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="201" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="342" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="343" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="265" column="7" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="+" type="4">
         <text>com.o.testso</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhXD4=</text>
+        <text encoding="base64">XDxsb2FkZXJEZXhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">anN0cmluZyBHZXREaXJBYnNvbHV0ZVBhdGgoSk5JRW52ICplbnYsIGpvYmplY3QgY29udGV4dCwgY29uc3QgY2hhciAqbmFtZSkgewogICAgam9iamVjdCBkaXIgPSBHZXREaXIoZW52LCBjb250ZXh0LCBuYW1lKTsK</text>
@@ -380,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkZXJEZXhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkZXJEZXhcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
