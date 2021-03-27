@@ -185,11 +185,11 @@
         <mark key="." line="328" column="10" />
         <mark key="^" line="328" column="11" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" timestamp="1616829869867">
-        <mark key="[" line="53" column="18" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="23" />
-        <mark key="^" line="53" column="24" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" timestamp="1616830972406">
+        <mark key="[" line="111" column="4" />
+        <mark key="]" line="111" column="4" />
+        <mark key="." line="111" column="4" />
+        <mark key="^" line="108" column="17" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/Utils.c" timestamp="1616744773055">
         <mark key="[" line="15" column="0" />
@@ -222,11 +222,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616830519383">
-        <mark key="'" line="369" column="0" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="." line="407" column="27" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1616831629321">
+        <mark key="'" line="373" column="0" />
+        <mark key="[" line="125" column="25" />
+        <mark key="]" line="125" column="24" />
+        <mark key="^" line="125" column="24" />
+        <mark key="." line="125" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -341,7 +342,7 @@
         <text>com.o.testso</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -353,28 +354,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+UmVsZWFzZVN0cmluZ1VURkNoYXJzKGVudiwgZGV4X3BhdGgsIGNfcGF0aCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Ly8gICAgaWYoaXNDb3B5ID09IEpOSV9UUlVFKXsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICgqZW52KS0+UmVsZWFzZVN0cmluZ1VURkNoYXJzKGVudiwgZGV4X3BhdGgsIGNfcGF0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKmVudiktPkRlbGV0ZUxvY2FsUmVmKGVudiwgZGV4X3BhdGgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpzdHJpbmcgakRleFBhdGggPSAoKmVudiktPk5ld1N0cmluZ1VURihlbnYsIGNEZXhQYXRoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBqRGV4RGlyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyZWUoY0RleGRpcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
