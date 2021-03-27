@@ -152,12 +152,12 @@
       <file name="/fragment.c" timestamp="1616757954738">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1616828012497">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="105" column="59" />
-        <mark key="]" line="106" column="6" />
-        <mark key="^" line="106" column="6" />
-        <mark key="." line="106" column="5" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1616834638766">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="129" column="76" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/Common.h" timestamp="1616828143217">
         <mark key="[" line="70" column="7" />
@@ -335,14 +335,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>dex_path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>com.o.testso</text>
       </register>
       <register name="-" type="4">
-        <text>dex_path</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhXD4=</text>
@@ -351,31 +351,32 @@
         <text encoding="base64">I3NldChDTUFLRV9CVUlMRF9UWVBFICJEZWJ1ZyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqYm9vbGVhbiBpc0NvcHk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPkRlbGV0ZUxvY2FsUmVmKGVudiwgZGV4X3BhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoIkNhbm5vdCBmaW5kIG1ldGhvZDogY3VycmVudEFwcGxpY2F0aW9uKCkgaW4gQWN0aXZpdHlUaHJlYWQuIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoKmVudiktPlJlbGVhc2VTdHJpbmdVVEZDaGFycyhlbnYsIGRleF9wYXRoLCBjX3BhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbiA9ICgqZW52KS0+Q2FsbFN0YXRpY09iamVjdE1ldGhvZChlbnYsIGFjdGl2aXR5X3RocmVhZF9jbHosCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QXBwbGljYXRpb24pOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>else {
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgaWYoaXNDb3B5ID09IEpOSV9UUlVFKXsK</text>
+        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoIkNhbm5vdCBmaW5kIGNsYXNzOiBhbmRyb2lkLmFwcC5BY3Rpdml0eVRocmVhZCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICgqZW52KS0+UmVsZWFzZVN0cmluZ1VURkNoYXJzKGVudiwgZGV4X3BhdGgsIGNfcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYm9vbGVhbiBpc0NvcHk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
