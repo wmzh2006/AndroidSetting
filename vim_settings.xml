@@ -110,19 +110,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/java/com/dexfileparser/MyService.java" timestamp="1617003219055">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="22" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="22" column="22" />
-      </file>
       <file name="E:/tools/android/sources/android-28/java/lang/System.java" timestamp="1617003998724" />
       <file name="/LLDB" timestamp="1617019027056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/tools/android/sources/android-28/java/lang/Object.java" timestamp="1617011286358" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1617015099434">
-        <mark key="[" line="30" column="18" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1617022203426">
+        <mark key="[" line="36" column="0" />
         <mark key="]" line="30" column="18" />
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="21" />
@@ -147,6 +141,10 @@
         <mark key="[" line="22" column="19" />
       </file>
       <file name="E:/tools/android/platforms/android-29/android.jar!/dalvik/system/InMemoryDexClassLoader.class" timestamp="1617011472695" />
+      <file name="E:/tools/android/sources/android-29/android/content/Context.java" timestamp="1617022220037">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="22" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/BaseDexClassLoaderHookHelper.java" timestamp="1617016353544">
         <mark key="[" line="60" column="71" />
         <mark key="]" line="55" column="14" />
@@ -159,18 +157,11 @@
         <mark key="." line="7" column="61" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/release/2021032916/README.txt" timestamp="1617006805471" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1617019009108">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="40" />
-        <mark key="." line="41" column="39" />
-        <mark key="^" line="41" column="40" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617000564219">
-        <mark key="'" line="127" column="20" />
-        <mark key="[" line="114" column="40" />
-        <mark key="]" line="114" column="41" />
-        <mark key="." line="114" column="41" />
-        <mark key="^" line="328" column="11" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1617022238710">
+        <mark key="[" line="199" column="78" />
+        <mark key="]" line="199" column="71" />
+        <mark key="." line="199" column="71" />
+        <mark key="^" line="199" column="83" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/java/cn/wjdiankong/coredex/CoreUtils.java" timestamp="1617005722635">
         <mark key="[" line="13" column="0" />
@@ -184,19 +175,25 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617019641901">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617021600376">
         <mark key="'" line="72" column="8" />
         <mark key="[" line="467" column="20" />
         <mark key="]" line="165" column="36" />
         <mark key="^" line="165" column="36" />
         <mark key="." line="165" column="35" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617021843583">
+        <mark key="'" line="178" column="8" />
+        <mark key="[" line="179" column="21" />
+        <mark key="]" line="179" column="21" />
+        <mark key="." line="179" column="21" />
+        <mark key="^" line="179" column="21" />
+      </file>
       <file name="/fragment.java" timestamp="1617004201493">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="670" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="28" column="16" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
       <jump line="329" column="7" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -296,24 +293,25 @@
       <jump line="108" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="234" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="70" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="178" column="8" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>stringencode</text>
+        <text>android.content</text>
       </register>
       <register name="+" type="4">
         <text>dalvik.system.DexPathList</text>
       </register>
       <register name="-" type="4">
-        <text>stringencode</text>
+        <text>fhisd.mofh.fewue.b.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdJbk1lbW9yeURleExvYWRlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBzdHJpbmdlbmNvZGUpOwo=</text>
+      <register name="0" type="4">
+        <text>android.content</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBjbHMpOwo=</text>
