@@ -159,11 +159,11 @@
         <mark key="." line="7" column="61" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk_t/release/2021032916/README.txt" timestamp="1617006805471" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1617017515578">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="140" column="65" />
-        <mark key="." line="177" column="0" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1617018647520">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="39" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617000564219">
         <mark key="'" line="127" column="20" />
@@ -184,12 +184,12 @@
         <mark key="." line="14" column="52" />
         <mark key="^" line="14" column="53" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617017262642">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="133" column="26" />
-        <mark key="]" line="133" column="38" />
-        <mark key="." line="133" column="38" />
-        <mark key="^" line="94" column="67" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617018915044">
+        <mark key="'" line="72" column="8" />
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="68" column="44" />
+        <mark key="." line="68" column="43" />
+        <mark key="^" line="68" column="44" />
       </file>
       <file name="/fragment.java" timestamp="1617004201493">
         <mark key="[" line="0" column="0" />
@@ -300,47 +300,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgKCplbnYpLT5DYWxsU3RhdGljVm9pZE1ldGhvZChlbnYsc3lzdGVtQ2xhenosIGFycmF5Y29weSwgbmV3X2RleEVsZW1lbnQsIGRleEVsZW1lbnRzU2l6ZSwgcGFyZW50RGV4RWxlbWVudHMsIDAsICBwYXJlbnREZXhFbGVtZW50c1NpemUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="+" type="4">
         <text>dalvik.system.DexPathList</text>
       </register>
       <register name="-" type="4">
-        <text>, loader</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdJbk1lbW9yeURleExvYWRlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgamNsYXNzIHBhcmVudENsYXp6ICA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgImRhbHZpay9zeXN0ZW0vQmFzZURleENsYXNzTG9hZGVyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAoKmVudiktPkRlbGV0ZUxvY2FsUmVmKGVudiwgZGV4X3BhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgKCplbnYpLT5DYWxsU3RhdGljVm9pZE1ldGhvZChlbnYsc3lzdGVtQ2xhenosIGFycmF5Y29weSwgbmV3X2RleEVsZW1lbnQsIGRleEVsZW1lbnRzU2l6ZSwgcGFyZW50RGV4RWxlbWVudHMsIDAsICBwYXJlbnREZXhFbGVtZW50c1NpemUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgKCplbnYpLT5DYWxsU3RhdGljVm9pZE1ldGhvZChlbnYsc3lzdGVtQ2xhenosIGFycmF5Y29weSwgbmV3X2RleEVsZW1lbnQsIDAsIGRleEVsZW1lbnRzLCAwLCBkZXhFbGVtZW50c1NpemUpOwo=</text>
+        <text encoding="base64">c3RhdGljIGptZXRob2RJRCBnZXRDb21wb25lbnRUeXBlID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgam1ldGhvZElEICBhcnJheWNvcHkgPSBHZXRNZXRob2RJRChlbnYsIHN5c3RlbUNsYXp6LCAiYXJyYXljb3B5IiwgIihMamF2YS9sYW5nL09iamVjdDtJTGphdmEvbGFuZy9PYmplY3Q7SUkpViIpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgamNsYXNzICBzeXN0ZW1DbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgImphdmEvbGFuZy9TeXN0ZW0iKTsK</text>
+        <text encoding="base64">Y2xhc3MgamF2YV9sYW5nX0NsYXNzX2dldENvbXBvbmVudFR5cGUoSk5JRW52ICplbnYsIGpjbGFzcyB0aGlzKSB7CiAgIGpjbGFzcyByZXN1bHQgPSBOVUxMOwogICBpZiAoSk5JX01FVEhPRChnZXRDb21wb25lbnRUeXBlLCBlbnYsICJqYXZhL2xhbmcvQ2xhc3MiLCAiZ2V0Q29tcG9uZW50VHlwZSIsCiAgICAgICAgICAgICAgICAgICIoKUxqYXZhL2xhbmcvQ2xhc3M7IikpIHsKICAgICAgIHJlc3VsdCA9IChqY2xhc3MpICgqZW52KS0+Q2FsbE9iamVjdE1ldGhvZChlbnYsIHRoaXMsIGdldENvbXBvbmVudFR5cGUpOwogICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBnQ2xhc3NMb2FkZXIsIGxvYWRlcik7Cg==</text>
+      <register name="5" type="8">
+        <text>j
+ 
+ 
+ 
+ 
+ 
+k</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBwYXJlbnRDbGF6eiAgPSAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgImRhbHZpay9zeXN0ZW0vQmFzZURleENsYXNzTG9hZGVyIik7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXRoTGlzdCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgamNsYXNzIHBhcmVudENsYXp6ICA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgImRhbHZpay9zeXN0ZW0vQmFzZURleENsYXNzTG9hZGVyIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXRoTGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpvYmplY3QgcGF0aExpc3QgPSBHZXRQYXRoTGlzdChlbnYsIGNsYXNzTG9hZGVyKTsgCg==</text>
+        <text encoding="base64">Ly8gICAgKCplbnYpLT5DYWxsU3RhdGljVm9pZE1ldGhvZChlbnYsc3lzdGVtQ2xhenosIGFycmF5Y29weSwgbmV3X2RleEVsZW1lbnQsIGRleEVsZW1lbnRzU2l6ZSwgcGFyZW50RGV4RWxlbWVudHMsIDAsICBwYXJlbnREZXhFbGVtZW50c1NpemUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
