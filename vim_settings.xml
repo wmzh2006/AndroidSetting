@@ -114,7 +114,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/build.gradle" timestamp="1616836725509" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jxws/ovkc/RefInvoke.java" timestamp="1616837515721" />
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jxws/ovkc/RefInvoke.java" timestamp="1616982853717" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/CMakeLists.txt" timestamp="1616828568210">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="0" />
@@ -136,21 +136,21 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.h" timestamp="1616841106043">
-        <mark key="[" line="10" column="62" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="4" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.h" timestamp="1616983727288">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="1" />
       </file>
-      <file name="/fragment.c" timestamp="1616757954738">
+      <file name="/fragment.c" timestamp="1616981228302">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1616980847258">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1616983722397">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="150" column="71" />
-        <mark key="]" line="150" column="71" />
-        <mark key="." line="150" column="70" />
-        <mark key="^" line="150" column="71" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="162" column="2" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/Common.h" timestamp="1616828143217">
         <mark key="[" line="70" column="7" />
@@ -162,13 +162,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.cc" timestamp="1616748505754">
-        <mark key="'" line="22" column="5" />
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="67" column="5" />
-        <mark key="." line="67" column="5" />
-        <mark key="^" line="22" column="10" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.h" timestamp="1616826409963">
         <mark key="[" line="8" column="45" />
@@ -188,6 +181,9 @@
         <mark key="]" line="111" column="4" />
         <mark key="." line="111" column="4" />
         <mark key="^" line="108" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1616981228310">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/CppWrapper.h" timestamp="1616750033243">
         <mark key="[" line="12" column="79" />
@@ -310,47 +306,48 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">amNsYXNzIA==</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="+" type="4">
         <text>com.o.testso</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">amNsYXNzIA==</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdJbk1lbW9yeURleExvYWRlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>elementClass</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGpjbGFzcyBwYXJlbnRDbGF6eiA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBjbGFzc0xvYWRlcik7CiAgICBqZmllbGRJRCBwYXRoTGlzdEZpZWxkSUQgPSBHZXRGaWVsZElEKGVudiwgcGFyZW50Q2xhenosICJwYXRoTGlzdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJMZGFsdmlrL3N5c3RlbS9EZXhQYXRoTGlzdDsiKTsKICAgIGpvYmplY3QgcGF0aExpc3QgPSAoKmVudiktPkdldE9iamVjdEZpZWxkKGVudiwgY2xhc3NMb2FkZXIsIHBhdGhMaXN0RmllbGRJRCk7CgogICAgamZpZWxkSUQgZGV4RWxlbWVudHNGaWVsZElEID0gR2V0RmllbGRJRChlbnYsIHBhdGhMaXN0LCAiZGV4RWxlbWVudHMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiW0xkYWx2aWsvc3lzdGVtL0VsZW1lbnQ7Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCBnZXRDb21wb25lbnRUeXBlID0gR2V0TWV0aG9kSUQoZW52LCAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgZGV4RWxlbWVudHMpLCAiIikK</text>
+        <text encoding="base64">ICAgIHJldHVybiAxOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9iamVjdCBnQ29udGV4dDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoIkNhbm5vdCBmaW5kIG1ldGhvZDogY3VycmVudEFwcGxpY2F0aW9uKCkgaW4gQWN0aXZpdHlUaHJlYWQuIik7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGpmaWVsZElEIGRleEVsZW1lbnRzRmllbGRJRCA9IEdldEZpZWxkSUQoZW52LCBwYXRoTGlzdCwgImRleEVsZW1lbnRzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIltMZGFsdmlrL3N5c3RlbS9FbGVtZW50OyIpOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>void setAccessible(JNIEnv* env, jobject this) {
+
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBsaWNhdGlvbiA9ICgqZW52KS0+Q2FsbFN0YXRpY09iamVjdE1ldGhvZChlbnYsIGFjdGl2aXR5X3RocmVhZF9jbHosCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QXBwbGljYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICgqZW52KS0+U2V0Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>else {
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGpjbGFzcyBjbGFzc0xvYWRlckNsYXp6ID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoIkNhbm5vdCBmaW5kIGNsYXNzOiBhbmRyb2lkLmFwcC5BY3Rpdml0eVRocmVhZCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
