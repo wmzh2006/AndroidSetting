@@ -110,8 +110,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/LLDB" timestamp="1616998243035">
+      <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/java/com/dexfileparser/MyService.java" timestamp="1617003219055">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="22" column="22" />
+      </file>
+      <file name="/LLDB" timestamp="1617002465511">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1617003063058">
+        <mark key="[" line="90" column="45" />
+        <mark key="]" line="90" column="43" />
+        <mark key="." line="90" column="42" />
+        <mark key="^" line="90" column="43" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1617000240192">
         <mark key="[" line="79" column="46" />
@@ -133,15 +145,15 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jxws/ovkc/SbwSdk.java" timestamp="1616997922121" />
-      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jxws/ovkc/BaseDexClassLoaderHookHelper.java" timestamp="1616997969414">
+      <file name="E:/Project/gpjsauto/dynamicsdk/src/main/java/com/jxws/ovkc/BaseDexClassLoaderHookHelper.java" timestamp="1617002913766">
         <mark key="[" line="22" column="19" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1616997896848">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1617002446146">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="188" column="5" />
-        <mark key="]" line="189" column="4" />
-        <mark key="^" line="189" column="4" />
-        <mark key="." line="189" column="3" />
+        <mark key="[" line="193" column="59" />
+        <mark key="]" line="193" column="59" />
+        <mark key="." line="193" column="59" />
+        <mark key="^" line="193" column="61" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/java/cn/wjdiankong/coredex/MyService.java" timestamp="1616989889485">
         <mark key="[" line="21" column="65" />
@@ -162,12 +174,6 @@
         <mark key="^" line="21" column="64" />
         <mark key="." line="21" column="63" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/res/layout/activity_main.xml" timestamp="1616989701187">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="1" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/java/cn/wjdiankong/coredex/CoreUtils.java" timestamp="1617000455797">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="36" />
@@ -177,10 +183,12 @@
       <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/res/layout/activity_mai.xml" timestamp="1616989830092">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/java/cn/wjdiankong/coredex/MainActivity.java" timestamp="1616989825743">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617002314477">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="133" column="47" />
+        <mark key="]" line="133" column="46" />
+        <mark key="." line="133" column="45" />
+        <mark key="^" line="133" column="46" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617000276294">
         <mark key="[" line="20" column="51" />
@@ -298,48 +306,48 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>onStartCommond</text>
       </register>
-      <register name="+" type="8">
+      <register name="+" type="4">
         <text>com.dexfileparser</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>onStartCommond</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFuZ2VTdHJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>com.dexfileparser</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgIm9uU3RhcnRDb21tb25kKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgKCplbnYpLT5TZXRPYmplY3RGaWVsZChwYXRoTGlzdCwgZGV4RWxlbWVudHNpZCwgbmV3X2RleEVsZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAic3RhcnQgc2VydmljZSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCAib25TdGFydENvbW1vbmQiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXJlbnRDbGF6eik7Cg==</text>
+        <text encoding="base64">Ly8gICAgKCplbnYpLT5TZXRPYmplY3RBcnJheUVsZW1lbnQoZW52LCBuZXdfZGV4RWxlbWVudCwgMCwgZWxlbWVudF9vYmopOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGpjbGFzcyBFbGVtZW50Q2xhc3MgPSBlbnYtPkZpbmRDbGFzcygiZGFsdmlrL3N5c3RlbS9EZXhQYXRoTGlzdCRFbGVtZW50Iik7IC8vIGRhbHZpay9zeXN0ZW0vRGV4UGF0aExpc3QkRWxlbWVudAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgKCplbnYpLT5TZXRPYmplY3RGaWVsZChwYXRoTGlzdCwgZGV4RWxlbWVudHNpZCwgbmV3X2RleEVsZW1lbnQpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXJlbnRDbGF6eik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
         <text>extern
 extern
 extern</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcGFyZW50RGV4RWxlbWVudHNTaXplOyArK2kpIHsKICAgICAgICAoKmVudiktPlNldE9iamVjdEFycmF5RWxlbWVudChlbnYsIG5ld19kZXhFbGVtZW50LCBpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgqZW52KS0+R2V0T2JqZWN0QXJyYXlFbGVtZW50KGVudiwgcGFyZW50RGV4RWxlbWVudHMsIGkpKTsKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlcl9yb3VuZCIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJAc3RyaW5nL2FwcF9uYW1lIgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
