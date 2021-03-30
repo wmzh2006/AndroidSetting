@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdGlvbk5hbWVcPg==</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZUhlYWRlckZpbGVcPg==</entry>
         <entry encoding="base64">XDxtZXRob2ROYW1lXD4=</entry>
         <entry encoding="base64">XDxnZXRNZXRob2RBcmdzQ291bnRcPg==</entry>
         <entry encoding="base64">XDxNZXRob2RJZHNJdGVtXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxleGVjXD4=</entry>
         <entry encoding="base64">XDxQcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</entry>
+        <entry>generate</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVN0clw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -132,6 +132,9 @@
         <mark key="." line="13" column="68" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/build_nk_plus_AAR.bat" timestamp="1617125409696">
+        <mark key="[" line="1" column="22" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617112072206">
         <mark key="[" line="173" column="70" />
         <mark key="]" line="173" column="71" />
@@ -162,12 +165,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617125107872">
-        <mark key="'" line="270" column="29" />
-        <mark key="[" line="314" column="92" />
-        <mark key="]" line="314" column="80" />
-        <mark key="." line="314" column="79" />
-        <mark key="^" line="314" column="80" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617125681709">
+        <mark key="'" line="209" column="85" />
+        <mark key="[" line="279" column="24" />
+        <mark key="]" line="279" column="30" />
+        <mark key="." line="279" column="29" />
+        <mark key="^" line="279" column="30" />
       </file>
       <file name="/LLDB" timestamp="1617085653298">
         <mark key="[" line="0" column="0" />
@@ -205,12 +208,6 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="79" column="12" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1617071761485">
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="59" column="27" />
-        <mark key="." line="59" column="26" />
-        <mark key="^" line="59" column="27" />
-      </file>
       <file name="E:/Project/gpjsauto/build.gradle" timestamp="1617113108121">
         <mark key="[" line="59" column="26" />
         <mark key="]" line="59" column="27" />
@@ -229,9 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="24" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="233" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="373" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="127" column="20" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="155" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" />
       <jump line="108" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -329,21 +323,24 @@
       <jump line="222" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="237" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="270" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="175" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="205" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="209" column="85" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>command</text>
       </register>
       <register name="+" type="4">
         <text>com.wjdiankong.parsedex</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</text>
+        <text encoding="base64">XDxnZW5lcmF0ZVN0clw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJVSUxEX05ESyA9IHByb2plY3QuaGFzUHJvcGVydHkoIm5rIikgPyBwcm9qZWN0LnByb3BlcnR5KCJuayIpIDogZmFsc2UK</text>
@@ -388,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZVN0clw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxORVdfUEFDS0FHRV9OQU1FXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZVN0clw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
