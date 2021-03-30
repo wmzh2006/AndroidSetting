@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
         <entry encoding="base64">XDxhXD4=</entry>
         <entry encoding="base64">XDxjYWxsX2RleENsYXNzTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxpbml0X2RleENsYXNzTG9hZGVyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>f</entry>
         <entry encoding="base64">XDxkeW5hbWljbmRrUGx1c1w+</entry>
         <entry>dynamicndk</entry>
+        <entry encoding="base64">XDxCVUlMRF9OREtcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -123,13 +123,6 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/dex.c" timestamp="1617067445237">
-        <mark key="'" line="340" column="21" />
-        <mark key="[" line="39681" column="4" />
-        <mark key="]" line="39681" column="6" />
-        <mark key="." line="39681" column="5" />
-        <mark key="^" line="39681" column="6" />
-      </file>
       <file name="/a.dummy" timestamp="1617095206087">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,6 +161,13 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617121534846">
+        <mark key="'" line="168" column="4" />
+        <mark key="[" line="169" column="70" />
+        <mark key="]" line="169" column="71" />
+        <mark key="." line="169" column="70" />
+        <mark key="^" line="169" column="71" />
       </file>
       <file name="/LLDB" timestamp="1617085653298">
         <mark key="[" line="0" column="0" />
@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="44" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="374" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="67" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="201" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -329,12 +328,13 @@
       <jump line="205" column="69" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
       <jump line="5" column="51" filename="E:/Project/gpjsauto/dynamicndkPlus/dynamicndkPlus.iml" />
       <jump line="1" column="37" filename="E:/Project/gpjsauto/dynamicndkPlus/dynamicndkPlus.iml" />
+      <jump line="168" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>project(':dynamicndkPluss').projectDir = new File('dynamicndkPlus')</text>
+        <text encoding="base64">ICAgIEJVSUxEX05ESyA9IHByb2plY3QuaGFzUHJvcGVydHkoIm5rIikgPyBwcm9qZWN0LnByb3BlcnR5KCJuayIpIDogZmFsc2UK</text>
       </register>
       <register name="+" type="4">
         <text>com.wjdiankong.parsedex</text>
@@ -343,10 +343,10 @@
         <text>out</text>
       </register>
       <register name="/" type="4">
-        <text>dynamicndk</text>
+        <text encoding="base64">XDxCVUlMRF9OREtcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>dynamicndk</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEJVSUxEX05ESyA9IHByb2plY3QuaGFzUHJvcGVydHkoIm5rIikgPyBwcm9qZWN0LnByb3BlcnR5KCJuayIpIDogZmFsc2UK</text>
       </register>
       <register name="1" type="2">
         <text>project(':dynamicndkPluss').projectDir = new File('dynamicndkPlus')</text>
@@ -388,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dynamicndk</last-search>
+      <last-search encoding="base64">XDxCVUlMRF9OREtcPg==</last-search>
       <last-offset />
-      <last-pattern>dynamicndk</last-pattern>
+      <last-pattern encoding="base64">XDxCVUlMRF9OREtcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
