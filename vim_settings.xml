@@ -171,7 +171,11 @@
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1617025592779">
         <mark key="'" line="653" column="26" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1617022367520" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/build.gradle" timestamp="1617091383219">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/fhisd/mofh/fewue/EewueService.java" timestamp="1617075356653">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="4" column="61" />
@@ -205,13 +209,13 @@
         <mark key="." line="110" column="15" />
         <mark key="^" line="110" column="16" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617025001113">
-        <mark key="[" line="182" column="24" />
-        <mark key="]" line="183" column="8" />
-        <mark key="." line="183" column="7" />
-        <mark key="^" line="183" column="8" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617094620491">
+        <mark key="[" line="61" column="44" />
+        <mark key="]" line="61" column="44" />
+        <mark key="." line="61" column="44" />
+        <mark key="^" line="60" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1617075326426">
+      <file name="/fragment.java" timestamp="1617094639031">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -321,46 +325,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dexFileOutPath</text>
+        <text>newDexCDataPath</text>
       </register>
-      <register name="+" type="8">
-        <text>it's failure to load dex file!</text>
+      <register name="+" type="4">
+        <text>java_dex_parser/dex/dex_2021032718_105720.dex</text>
       </register>
       <register name="-" type="4">
-        <text>dexFileOutPath</text>
+        <text>newDexCDataPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXhfb3V0X3BhdGhcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>it's failure to load dex file!</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRhdGEgcGF0aDogIiArIG5ld0RleENEYXRhUGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlKGRleEZpbGVPdXRQYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlpKGVudiwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpaShlbnYsIGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoSEVMUF9TVFJJTkcgPT0gbnVsbCkgewo=</text>
+      </register>
+      <register name="u" type="4">
+        <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBob29rU3VjY2VzcyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZE9wdGlvbigibyIsIHRydWUsICJ0aGUgb3V0cHV0IGRpcmVjdG9yeSBvZiB0aGUgZmlsZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSI6YWEiCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZE9wdGlvbigiZiIsIHRydWUsICJkZXggZmlsZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBzaXplID0gcGFyc2VyLT5nZXRGaWxlU2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZE9wdGlvbigiaGVscCIsIGZhbHNlLCAidXNhZ2UgaGVscCIpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXIqIGJ1ZmZlciA9IHBhcnNlci0+Z2V0RGV4KCk7Cg==</text>
+      <register name="9" type="4">
+        <text>)</text>
+      </register>
+      <register name="y" type="4">
+        <text>the path of encode dex file</text>
       </register>
       <register name=":" type="4">
         <text>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</text>
