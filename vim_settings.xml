@@ -164,10 +164,12 @@
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1617025592779">
         <mark key="'" line="653" column="26" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/build.gradle" timestamp="1617091383219">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/build.gradle" timestamp="1617107550778">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/fhisd/mofh/fewue/EewueService.java" timestamp="1617075356653">
         <mark key="[" line="2" column="25" />
@@ -209,19 +211,17 @@
         <mark key="." line="110" column="15" />
         <mark key="^" line="110" column="16" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617105379602">
-        <mark key="'" line="321" column="26" />
-        <mark key="[" line="258" column="59" />
-        <mark key="]" line="258" column="59" />
-        <mark key="." line="258" column="59" />
-        <mark key="^" line="330" column="35" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617108018424">
+        <mark key="'" line="328" column="26" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1617094716349">
+      <file name="/fragment.java" timestamp="1617106792854">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" />
       <jump line="22" column="19" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
       <jump line="9" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" />
       <jump line="62" column="7" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -321,63 +321,55 @@
       <jump line="285" column="12" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="289" column="34" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="321" column="26" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
+      <jump line="19" column="19" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>fhisd/mofh/fewue/b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="+" type="4">
-        <text>java_dex_parser/dex/dex_2021032718_105720.dex</text>
+        <text>com.wjdiankong.parsedex</text>
       </register>
       <register name="-" type="4">
-        <text>fhisd/mofh/fewue/b</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNZXRob2RpZ25lZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>stringList.get(classIndex)</text>
+        <text>the initial method that the form likes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
-      <register name="2" type="4">
-        <text>if(key.startsWith(&quot;L&quot;+classname.replace(&quot;.&quot;, &quot;/&quot;) + &quot;;&quot;+methodname)) {
-            Pattern pattern = Pattern.compile(&quot;.*#(.*\\))&quot;);
-            Matcher matcher = pattern.matcher(key);
-            if(matcher.find()) {
-                String signedName = matcher.group(1);
-                index = signedName.indexOf(&quot;(&quot;);
-
-
-            }
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0TWV0aG9kU2lnbmVkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRNZXRob2RTaWduZWQgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNob3J0U3RyID0gc3RyaW5nTGlzdC5nZXQoc2hvcnRJbmRleCk7CiAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBwYXJhbUxpc3QgPSBwcm90b0lkc0xpc3QuZ2V0KGl0ZW0ucHJvdG9faWR4KS5wYXJhbWV0ZXJzTGlzdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjbHVkZSAnTUVUQS1JTkYvREVQRU5ERU5DSUVTJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgJ01FVEEtSU5GL0RFUEVOREVOQ0lFUycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNZXRob2RJZHNJdGVtIG1ldGhvZEl0ZW0gPSBtZXRob2RJZHNMaXN0LmdldChwcmVtaWQpOwo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgJ01FVEEtSU5GL0xJQ0VOU0UnLCAnTUVUQS1JTkYvTElDRU5TRS50eHQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRNZXRob2RpZ25lZCgiZmhpc2QubW9maC5mZXd1ZS5iLmkoQ29udGV4dCwgU3RyaW5nLCApIiwgIiIpOwo=</text>
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgJ01FVEEtSU5GL05PVElDRScsICdNRVRBLUlORi9OT1RJQ0UudHh0Jwo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
