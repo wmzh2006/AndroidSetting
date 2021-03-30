@@ -198,11 +198,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617086909625">
-        <mark key="'" line="124" column="16" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="29" />
-        <mark key="." line="141" column="0" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617088613000">
+        <mark key="'" line="125" column="16" />
+        <mark key="[" line="110" column="17" />
+        <mark key="]" line="110" column="16" />
+        <mark key="." line="110" column="15" />
+        <mark key="^" line="110" column="16" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617025001113">
         <mark key="[" line="182" column="24" />
@@ -319,14 +320,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlKGRleEZpbGVPdXRQYXRoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>dexFileOutPath</text>
       </register>
       <register name="+" type="8">
         <text>it's failure to load dex file!</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>dexFileOutPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXhfb3V0X3BhdGhcPg==</text>
