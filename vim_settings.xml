@@ -110,7 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1617095206087">
+      <file name="/Dummy.txt" timestamp="1617155021481">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" timestamp="1617126952956">
@@ -119,9 +119,13 @@
         <mark key="^" line="76" column="0" />
         <mark key="." line="75" column="50" />
       </file>
-      <file name="E:/Project/gpjsauto/build_nk_plus_AAR.bat" timestamp="1617125409696">
-        <mark key="[" line="1" column="22" />
+      <file name="E:/Project/gpjsauto/build_nk_plus_AAR.bat" timestamp="1617157973607">
+        <mark key="[" line="2" column="182" />
+        <mark key="]" line="2" column="182" />
+        <mark key="." line="2" column="182" />
+        <mark key="^" line="1" column="4" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617157896223" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617126883767">
         <mark key="'" line="189" column="28" />
         <mark key="[" line="221" column="79" />
@@ -147,6 +151,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/java/com/itools/cleaner/booster/plain/JyzSdk.java" timestamp="1617157744415">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="30" />
+      </file>
       <file name="E:/Project/gpjsauto/settings.gradle" timestamp="1617113116828">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -159,12 +169,25 @@
         <mark key="." line="279" column="26" />
         <mark key="^" line="279" column="30" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617111073730">
+        <mark key="'" line="214" column="69" />
+        <mark key="[" line="83" column="59" />
+        <mark key="]" line="83" column="66" />
+        <mark key="." line="83" column="65" />
+        <mark key="^" line="83" column="66" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1617105322285">
         <mark key="'" line="289" column="34" />
         <mark key="[" line="737" column="12" />
         <mark key="]" line="737" column="13" />
         <mark key="^" line="739" column="33" />
         <mark key="." line="737" column="13" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo3/libs/README.txt" timestamp="1617157873194" />
+      <file name="D:/AndroidStudio/DalvikBytecode/README.md" timestamp="1617156774870">
+        <mark key="[" line="3" column="149" />
+        <mark key="]" line="3" column="149" />
+        <mark key="." line="3" column="149" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1617126930608">
         <mark key="[" line="33" column="0" />
@@ -176,34 +199,10 @@
         <mark key="." line="59" column="27" />
         <mark key="^" line="50" column="26" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" timestamp="1617086619029">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="76" column="41" />
-        <mark key="]" line="76" column="42" />
-        <mark key="." line="76" column="42" />
-        <mark key="^" line="52" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1617155021481">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/dex.h" timestamp="1617154187951" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617088613000">
-        <mark key="'" line="125" column="16" />
-        <mark key="[" line="110" column="17" />
-        <mark key="]" line="110" column="16" />
-        <mark key="." line="110" column="15" />
-        <mark key="^" line="110" column="16" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1617111073730">
-        <mark key="'" line="214" column="69" />
-        <mark key="[" line="83" column="59" />
-        <mark key="]" line="83" column="66" />
-        <mark key="." line="83" column="65" />
-        <mark key="^" line="83" column="66" />
-      </file>
       <file name="/fragment.java" timestamp="1617155027005">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1617157371591" />
     </filemarks>
     <jumps>
       <jump line="155" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" />
@@ -311,19 +310,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>-Pdn=&quot;com.itools.cleaner.booster.plain&quot;</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>-Pdn=&quot;com.itools.cleaner.booster.plain&quot;</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEJVSUxEX05ESyA9IHByb2plY3QuaGFzUHJvcGVydHkoIm5rIikgPyBwcm9qZWN0LnByb3BlcnR5KCJuayIpIDogZmFsc2UK</text>
+        <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25ka1BsdXM6ZXhwb3J0QUFSIC1QbmtwPSJ0cnVlIiAtUGNpZD0iMTA1NTQxIiAtUHVybD0iMTA1NTQxLTkzMDk4OTkwNy5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIgLVBsdXJsPSIxMDU1NDEtOTMwOTg5OTA3LmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tIiAtUGRuPSJjb20uaXRvb2xzLmNsZWFuZXIuYm9vc3Rlci5wbGFpbiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
