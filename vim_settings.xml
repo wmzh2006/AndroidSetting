@@ -117,13 +117,16 @@
         <mark key="^" line="39" column="0" />
         <mark key="." line="38" column="76" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" timestamp="1617162434982">
+        <mark key="]" line="74" column="50" />
+      </file>
       <file name="E:/Project/gpjsauto/build_nk_plus_AAR.bat" timestamp="1617157973607">
         <mark key="[" line="2" column="182" />
         <mark key="]" line="2" column="182" />
         <mark key="." line="2" column="182" />
         <mark key="^" line="1" column="4" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617158622306" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617162754784" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.c" timestamp="1617159902269">
         <mark key="[" line="183" column="0" />
         <mark key="]" line="183" column="0" />
@@ -134,13 +137,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/build.gradle" timestamp="1617156029958">
-        <mark key="'" line="19" column="19" />
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="21" column="25" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/java/com/itools/cleaner/booster/plain/JyzSdk.java" timestamp="1617157744415">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="31" />
@@ -148,6 +144,10 @@
         <mark key="." line="8" column="30" />
       </file>
       <file name="E:/Project/gpjsauto/demo3/libs/README.txt" timestamp="1617157873194" />
+      <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1617162428215">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="39" column="50" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" timestamp="1617158950799">
         <mark key="'" line="150" column="32" />
         <mark key="[" line="347" column="36" />
@@ -181,19 +181,14 @@
         <mark key="]" line="3" column="149" />
         <mark key="." line="3" column="149" />
       </file>
-      <file name="/fragment.java" timestamp="1617155027005">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/dex.h" timestamp="1617158737246">
         <mark key="[" line="12" column="58" />
       </file>
-      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1617158628042">
-        <mark key="[" line="35" column="71" />
+      <file name="E:/Project/gpjsauto/demo3/src/main/java/com/volley/bost/demo3/MainActivity.java" timestamp="1617162760450">
+        <mark key="[" line="35" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="11" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="304" column="0" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="319" column="23" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="416" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="312" column="7" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -292,18 +287,20 @@
       <jump line="455" column="18" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="47" column="15" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="68" column="49" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="16" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" />
+      <jump line="62" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
+        <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</text>
@@ -312,25 +309,25 @@
         <text encoding="base64">ICAgICAgICBmb3Mud3JpdGUoIiNpbmNsdWRlIDxzdHJpbmcuaD5cblxuIi5nZXRCeXRlcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgYXNnLmhyZS54ZWthLioqeyo7fQo=</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgYXNnLmhyZS54ZWthLioqeyo7fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50IGluaXQoSk5JRW52ICplbnYsIGpvYmplY3QgY29udGV4dCwgam9iamVjdCBjbGFzc0xvYWRlciwgam1ldGhvZElEIGZpbmRDbGFzcykgewogICAgamNsYXNzIHNkayA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgImZoaXNkL21vZmgvZmV3dWUvYiIpOwogICAgam1ldGhvZElEIGltZXRob2QgPSAoKmVudiktPkdldFN0YXRpY01ldGhvZElEKGVudiwgc2RrLCAiaSIsICIoTGFuZHJvaWQvY29udGVudC9Db250ZXh0OylWIik7CiAgICAoKmVudiktPkNhbGxTdGF0aWNWb2lkTWV0aG9kKGVudiwgY2xhc3NMb2FkZXIsIGltZXRob2QsIGNvbnRleHQpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIHNkayk7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50IGluaXQoSk5JRW52ICplbnYsIGpvYmplY3QgY29udGV4dCwgam9iamVjdCBjbGFzc0xvYWRlciwgam1ldGhvZElEIGZpbmRDbGFzcykgewogICAgamNsYXNzIHNkayA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgImZoaXNkL21vZmgvZmV3dWUvYiIpOwogICAgam1ldGhvZElEIGltZXRob2QgPSAoKmVudiktPkdldFN0YXRpY01ldGhvZElEKGVudiwgc2RrLCAiaSIsICIoTGFuZHJvaWQvY29udGVudC9Db250ZXh0OylWIik7CiAgICAoKmVudiktPkNhbGxTdGF0aWNWb2lkTWV0aG9kKGVudiwgY2xhc3NMb2FkZXIsIGltZXRob2QsIGNvbnRleHQpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIHNkayk7Cn0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -339,7 +336,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBzZGsgPSAoKmVudiktPkZpbmRDbGFzcyhlbnYsICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
