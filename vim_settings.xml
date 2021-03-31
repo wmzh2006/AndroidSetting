@@ -295,13 +295,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>metho</text>
+        <text>android:theme=&quot;@style/AppTheme&quot;</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>metho</text>
+        <text>android:theme=&quot;@style/AppTheme&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Lfhisd</text>
@@ -310,34 +310,34 @@
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcGFyYW1MaXN0ID0gcHJvdG9JZHNMaXN0LmdldChpdGVtLnByb3RvX2lkeCkucGFyYW1ldGVyc0xpc3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnMgc2l6ZToiICsgaW5zbnNfc2l6ZSArICIsb2Zmc2V0OiIgKyBpbnNuc09mZnNldCArIixrZXk6ICIgKyBrZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdW5kSWNvbj0iQG1pcG1hcC9pY19sYXVuY2hlciIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPR3ByaW50ZigiZGV4Q29kZVNpemU6ICVkLCBkYXRhU2l6ZTogJWRcbiIsIGluc25zU2l6ZSwgbGVuKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmljb249IkBtaXBtYXAvaWNfbGF1bmNoZXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmV4aXQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnMgc2l6ZToiICsgaW5zbnNfc2l6ZSArICIsb2Zmc2V0OiIgKyBpbnNuc09mZnNldCArIixrZXk6ICIgKyBrZXkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHZhbGUgPSBwYXJhbWV0ZXJzLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgIExPR3ByaW50ZigiZGV4Q29kZVNpemU6ICVkLCBkYXRhU2l6ZTogJWRcbiIsIGluc25zU2l6ZSwgbGVuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IE1ldGhvZHNTaWduZWRTdHIgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmV4aXQoMSk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJldHZhbGUgPSBwYXJhbWV0ZXJzLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
+        <text encoding="base64">ICAgIFNldDxTdHJpbmc+IE1ldGhvZHNTaWduZWRTdHIgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgYXNnLmhyZS54ZWthLioqeyo7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgY29tLmZvdXJxYXouc2l4d3N4LioqIHsqO30K</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
