@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDw4ODQyNzM3MjUxNzJcPg==</entry>
-        <entry encoding="base64">XDw4ODQyNzM3MjUxNzNcPg==</entry>
-        <entry encoding="base64">XDw5NzI0Njk2MTVcPg==</entry>
         <entry encoding="base64">XDw5MDgzNTAxMjE4NDM1XD4=</entry>
         <entry encoding="base64">XDw4NDUzNDkxMTQxMzE3XD4=</entry>
         <entry encoding="base64">XDw4NzUyMDU3MjUxMDVcPg==</entry>
@@ -15,7 +12,6 @@
         <entry encoding="base64">XDxfOTcwMzQ5MTEzMzI1MFw+</entry>
         <entry encoding="base64">XDxfODc4MzUwMTIyNzQyMVw+</entry>
         <entry>1193491133250</entry>
-        <entry encoding="base64">XDxnZXRNZXRob2RTaW5nU3RyXD4=</entry>
         <entry encoding="base64">XDxfMTQxNDI1XD4=</entry>
         <entry encoding="base64">XDxnZXRNZXRob2RTaWduU3RyXD4=</entry>
         <entry>buildSo</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxub3BCeXRlc1w+</entry>
         <entry encoding="base64">XDxsYXN0Qnl0ZXNcPg==</entry>
         <entry>119250</entry>
+        <entry encoding="base64">XDxnZXRNZXRob2RTaW5nU3RyXD4=</entry>
+        <entry>size:9</entry>
+        <entry>offset:34200</entry>
+        <entry>Lfhisd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -110,7 +110,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/wat/ozo/cdw/WR.java" timestamp="1617159706306" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/JniUntils.h" timestamp="1617159907091">
         <mark key="[" line="38" column="75" />
         <mark key="]" line="38" column="76" />
@@ -134,8 +133,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1617179699354">
         <mark key="'" line="1114" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1617180474131">
-        <mark key="'" line="1113" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1617181838548">
+        <mark key="'" line="442" column="4" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617178253527">
         <mark key="'" line="209" column="60" />
@@ -147,23 +146,23 @@
       <file name="/LLDB" timestamp="1617178967428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1617181277986">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1617182728780">
         <mark key="'" line="694" column="26" />
-        <mark key="[" line="702" column="98" />
-        <mark key="]" line="702" column="97" />
-        <mark key="." line="702" column="96" />
-        <mark key="^" line="702" column="97" />
+        <mark key="[" line="703" column="126" />
+        <mark key="]" line="701" column="27" />
+        <mark key="." line="701" column="26" />
+        <mark key="^" line="701" column="27" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1617162428215">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="39" column="50" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617180686479">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617181888466">
         <mark key="'" line="594" column="22" />
-        <mark key="[" line="321" column="0" />
-        <mark key="]" line="321" column="65" />
-        <mark key="^" line="614" column="71" />
-        <mark key="." line="321" column="0" />
+        <mark key="[" line="321" column="75" />
+        <mark key="]" line="321" column="56" />
+        <mark key="^" line="321" column="56" />
+        <mark key="." line="321" column="55" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" timestamp="1617178539155">
         <mark key="'" line="26893" column="21" />
@@ -180,6 +179,7 @@
         <mark key="]" line="12" column="83" />
         <mark key="." line="12" column="83" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/struct/ProtoIdsItem.java" timestamp="1617182652614" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617160281836">
         <mark key="'" line="68" column="49" />
         <mark key="[" line="347" column="36" />
@@ -197,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="10" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" />
-      <jump line="48" column="10" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" />
-      <jump line="52" column="4" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" />
       <jump line="124" column="16" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="263" column="46" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
       <jump line="284" column="52" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
@@ -271,7 +268,6 @@
       <jump line="36426" column="15" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
       <jump line="33345" column="21" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
       <jump line="593" column="22" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="594" column="22" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="28761" column="26" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
       <jump line="34658" column="20" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
       <jump line="34666" column="15" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
@@ -297,24 +293,28 @@
       <jump line="246" column="19" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
       <jump line="251" column="19" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
       <jump line="1113" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+      <jump line="594" column="22" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="390" column="49" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+      <jump line="412" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+      <jump line="442" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnMgc2l6ZToiICsgaW5zbnNfc2l6ZSArICIsb2Zmc2V0OiIgKyBpbnNuc09mZnNldCArIixrZXk6ICIgKyBrZXkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>parametersList</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parametersList</text>
       </register>
       <register name="/" type="4">
-        <text>119250</text>
+        <text>Lfhisd</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bWV0aG9kX2lkLT5jbGFzc0lkeA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcGFyYW1MaXN0ID0gcHJvdG9JZHNMaXN0LmdldChpdGVtLnByb3RvX2lkeCkucGFyYW1ldGVyc0xpc3Q7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpbnMgc2l6ZToiICsgaW5zbnNfc2l6ZSArICIsb2Zmc2V0OiIgKyBpbnNuc09mZnNldCArIixrZXk6ICIgKyBrZXkpOwo=</text>
@@ -356,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>119250</last-search>
-      <last-offset />
-      <last-pattern>119250</last-pattern>
+      <last-search>Lfhisd</last-search>
+      <last-offset>mofh/fewue/aZP</last-offset>
+      <last-pattern>Lfhisd</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
