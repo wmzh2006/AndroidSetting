@@ -146,26 +146,24 @@
       <file name="/LLDB" timestamp="1617178967428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1617182728780">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1617182920999">
         <mark key="'" line="694" column="26" />
-        <mark key="[" line="703" column="126" />
-        <mark key="]" line="701" column="27" />
-        <mark key="." line="701" column="26" />
-        <mark key="^" line="701" column="27" />
+        <mark key="[" line="703" column="50" />
+        <mark key="]" line="703" column="50" />
+        <mark key="." line="703" column="50" />
+        <mark key="^" line="703" column="49" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFile.h" timestamp="1617183099950" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/CMakeLists.txt" timestamp="1617162428215">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="39" column="50" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617181888466">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617183378260">
         <mark key="'" line="594" column="22" />
-        <mark key="[" line="321" column="75" />
-        <mark key="]" line="321" column="56" />
-        <mark key="^" line="321" column="56" />
-        <mark key="." line="321" column="55" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" timestamp="1617178539155">
-        <mark key="'" line="26893" column="21" />
+        <mark key="[" line="616" column="99" />
+        <mark key="]" line="616" column="99" />
+        <mark key="^" line="616" column="85" />
+        <mark key="." line="616" column="99" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/dex.c" timestamp="1617178973513">
         <mark key="'" line="36485" column="0" />
@@ -302,13 +300,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>parametersList</text>
+        <text>metho</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>parametersList</text>
+        <text>metho</text>
       </register>
       <register name="/" type="4">
         <text>Lfhisd</text>
