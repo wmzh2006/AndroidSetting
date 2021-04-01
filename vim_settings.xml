@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxOZXdJbk1lbW9yeURleExvYWRlclw+</entry>
         <entry encoding="base64">XDxsb2FkZXJEZXhcPg==</entry>
         <entry encoding="base64">XDxnZXRNZXRob2RTaW5nU3RyXD4=</entry>
         <entry encoding="base64">XDxkdW1wTWV0aG9kXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxob29rRGV4TWVtb3J5XD4=</entry>
         <entry encoding="base64">XDxjYWxsX2RleENsYXNzTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxidWlsZEZpbmlzaGVkXD4=</entry>
+        <entry encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -112,7 +112,7 @@
     <filemarks>
       <file name="E:/Project/gpjsauto/cofig.json" timestamp="1617248277717" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617256127479" />
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617256632787">
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617266010098">
         <mark key="'" line="519" column="15" />
         <mark key="[" line="319" column="0" />
         <mark key="]" line="319" column="0" />
@@ -131,12 +131,12 @@
         <mark key="." line="72" column="11" />
         <mark key="^" line="72" column="12" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617264331186">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617266016008">
         <mark key="'" line="561" column="81" />
-        <mark key="[" line="561" column="81" />
-        <mark key="]" line="561" column="82" />
-        <mark key="." line="561" column="81" />
-        <mark key="^" line="561" column="82" />
+        <mark key="[" line="598" column="19" />
+        <mark key="]" line="601" column="9" />
+        <mark key="." line="601" column="8" />
+        <mark key="^" line="601" column="9" />
       </file>
       <file name="/LLDB" timestamp="1617242690625">
         <mark key="[" line="0" column="0" />
@@ -212,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="31" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="270" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="175" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="205" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="189" column="28" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
       <jump line="347" column="38" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" />
@@ -311,55 +308,58 @@
       <jump line="52" column="4" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" />
       <jump line="155" column="15" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="214" column="7" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="607" column="69" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="185" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="186" column="50" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="561" column="81" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>NotifiService.class.getCanonicalName()</text>
+        <text>Service</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>NotifiService.class.getCanonicalName()</text>
+        <text>Service</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZEZpbmlzaGVkXD4=</text>
+        <text encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE5FV19JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgPSBnZXRDbGFzc1ByZWZpeCgpICsgIlNlcnZpY2UiIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcGxhY2VQYWNrYWdlTmFtZShORVdfUEFDS0FHRV9OQU1FLCBPTERfUEFDS0FHRV9OQU1FLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGYubmFtZS5jb250YWlucygiQWN0aXZpdHkiKSkgewogICAgICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldFBhcmVudEZpbGUoKS5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJHtORVdfQ0xTX1BSRUZJWH1BY3Rpdml0eS5qYXZhIiksIGxpbmVzKQogICAgICAgICAgICBmLmRlbGV0ZSgpCiAgICAgICAgfWVsc2UgaWYgKGYubmFtZS5jb250YWlucygiSGF4IikpIHsKICAgICAgICAgICAgd3JpdGVGaWxlKGZpbGUoZi5nZXRQYXJlbnRGaWxlKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyR7TkVXX0NMU19QUkVGSVh9SGF4LmphdmEiKSwgbGluZXMpCiAgICAgICAgICAgIGYuZGVsZXRlKCkKICAgICAgICB9ZWxzZSBpZiAoZi5uYW1lLmNvbnRhaW5zKCJUb29sIikpIHsKICAgICAgICAgICAgd3JpdGVGaWxlKGZpbGUoZi5nZXRQYXJlbnRGaWxlKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyR7TkVXX0NMU19QUkVGSVh9VG9vbC5qYXZhIiksIGxpbmVzKQogICAgICAgICAgICBmLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9leHRlcm4gaW50IHBhcnNlcihjaGFyICogcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZi5uYW1lLmNvbnRhaW5zKCJDb25zdGFudHMiKSkgewogICAgICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldFBhcmVudEZpbGUoKS5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJHtORVdfQ0xTX1BSRUZJWH1Db25zdGFudHMuamF2YSIpLCBsaW5lcykKICAgICAgICAgICAgZi5kZWxldGUoKQogICAgICAgIH0gZWxzZSBpZiAoZi5uYW1lLmNvbnRhaW5zKCJTZGsiKSkgewogICAgICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldFBhcmVudEZpbGUoKS5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJHtORVdfQ0xTX1BSRUZJWH1TZGsuamF2YSIpLCBsaW5lcykKICAgICAgICAgICAgZi5kZWxldGUoKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICBpZiAoZi5uCiAgICAgIHdyaQogICAgICBmLmQKICB9IGVsc2UgCiAgICAgIHdyaQogICAgICBmLmQKICB9IGVsc2Ug</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly+78cihZGV41vfA4GNsYXNzCnZvaWQgQ3JlYXRlSW5pdENsYXp6KEpOSUVudiAqZW52KSB7Ly+78cih08W7r8K3vrYKICAgIGpjbGFzcyBzZGtfY2xhenogPSBGaW5kQ2xhc3NCeURleExvYWRlcihlbnYsIElOSVRfQ0xBU1NOQU1FKTsKICAgIGdfbWFpbl9jbGFzcyA9ICgqZW52KS0+TmV3R2xvYmFsUmVmKGVudiwgc2RrX2NsYXp6KTsKfQo=</text>
+        <text encoding="base64">ICAgIHJlcGxhY2VQYWNrYWdlTmFtZShORVdfUEFDS0FHRV9OQU1FLCBPTERfUEFDS0FHRV9OQU1FLCB0cnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly9leHRlcm4gaW50IHBhcnNlcihjaGFyICogcGF0aCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ19tYWluX2NsYXNzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dFKCJnIG1haW4gY2xhc3MhIik7Cg==</text>
+        <text encoding="base64">Ly+78cihZGV41vfA4GNsYXNzCnZvaWQgQ3JlYXRlSW5pdENsYXp6KEpOSUVudiAqZW52KSB7Ly+78cih08W7r8K3vrYKICAgIGpjbGFzcyBzZGtfY2xhenogPSBGaW5kQ2xhc3NCeURleExvYWRlcihlbnYsIElOSVRfQ0xBU1NOQU1FKTsKICAgIGdfbWFpbl9jbGFzcyA9ICgqZW52KS0+TmV3R2xvYmFsUmVmKGVudiwgc2RrX2NsYXp6KTsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChOVUxMICE9IGdfbWFpbl9jbGFzcykgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBnX21haW5fY2xhc3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ19tYWluX2NsYXNzOwo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -371,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxidWlsZEZpbmlzaGVkXD4=</last-search>
+      <last-search encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZEZpbmlzaGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
