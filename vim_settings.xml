@@ -111,13 +111,13 @@
     <globalmarks />
     <filemarks>
       <file name="E:/Project/gpjsauto/cofig.json" timestamp="1617248277717" />
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617250164988" />
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617250193159">
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617256127479" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617255919169">
         <mark key="'" line="523" column="15" />
-        <mark key="[" line="328" column="69" />
-        <mark key="]" line="328" column="99" />
+        <mark key="[" line="487" column="166" />
+        <mark key="]" line="487" column="166" />
         <mark key="^" line="321" column="98" />
-        <mark key="." line="328" column="69" />
+        <mark key="." line="487" column="166" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/build.gradle" timestamp="1617241701895">
         <mark key="[" line="26" column="23" />
@@ -147,6 +147,12 @@
         <mark key="]" line="703" column="50" />
         <mark key="." line="703" column="50" />
         <mark key="^" line="703" column="49" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1617256133350">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="19" column="34" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="34" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1617244974524">
         <mark key="'" line="100" column="25" />
@@ -304,13 +310,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>+&quot;.&quot;+NEW_CLS_PREFIX+&quot;Activity&quot;</text>
+        <text>,</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>+&quot;.&quot;+NEW_CLS_PREFIX+&quot;Activity&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</text>
