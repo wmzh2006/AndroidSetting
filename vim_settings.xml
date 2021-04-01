@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxvcGVuQXNzZXRzXD4=</entry>
         <entry encoding="base64">XDxDc3RyMkpTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxiXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxSZW5hbWVOb3RpZmljYXRpb25TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</entry>
+        <entry encoding="base64">XDxJTlRFUl9TRVJWSUNFX05BTUVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -137,11 +137,12 @@
         <mark key="." line="5" column="70" />
         <mark key="^" line="5" column="70" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617268340949">
-        <mark key="[" line="562" column="47" />
-        <mark key="]" line="562" column="58" />
-        <mark key="." line="562" column="47" />
-        <mark key="^" line="549" column="53" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617271134000">
+        <mark key="'" line="243" column="34" />
+        <mark key="[" line="396" column="69" />
+        <mark key="]" line="396" column="69" />
+        <mark key="." line="396" column="69" />
+        <mark key="^" line="396" column="69" />
       </file>
       <file name="/LLDB" timestamp="1617242690625">
         <mark key="[" line="0" column="0" />
@@ -210,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" />
-      <jump line="62" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" />
       <jump line="36421" column="15" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
       <jump line="33255" column="21" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
       <jump line="36426" column="15" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
@@ -294,7 +293,6 @@
       <jump line="214" column="7" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="607" column="69" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="185" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="186" column="50" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="561" column="81" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="592" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="613" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -310,56 +308,59 @@
       <jump line="573" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="616" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="595" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="393" column="56" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="186" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="243" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgIXJlc3RvcmU=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmICFyZXN0b3Jl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</text>
+        <text encoding="base64">XDxJTlRFUl9TRVJWSUNFX05BTUVcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JiYgIXJlc3RvcmU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLk5vdGlmaVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHpycXBlZy5yb3F0Lk5vdGlmaVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gcmVwbGFjZUNsYXNzTmFtZShsaW5lLCBjbHMpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnByaXZhdGUgU3RyaW5nIHJlcGxhY2VDbGFzc05hbWUoU3RyaW5nIGxpbmUsIFNldDxTdHJpbmc+IGtleVdvcmRzKSB7CiAgICBkZWYgckxpbmUgPSBsaW5lCiAgICBrZXlXb3Jkcy5lYWNoIHsga2V5V29yZCAtPgoKICAgICAgICBwcmludGxuKGtleVdvcmQpCgovLyAgICAgICAgZGVmIHRlbXBMaW5lID0gIiIKLy8gICAgICAgIGRlZiBjb25zdGFudHNNYXRoZXIgPSByTGluZSA9fiAvKC4qP1wuPykoXHcrPyR7a2V5V29yZH0pKC4qKS8KLy8gICAgICAgIGlmIChjb25zdGFudHNNYXRoZXIubWF0Y2hlcygpKSB7Ci8vICAgICAgICAgICAgZGVmIGNvdW50ID0gY29uc3RhbnRzTWF0aGVyLmdyb3VwQ291bnQoKQovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGNvdW50OyBpKyspIHsKLy8gICAgICAgICAgICAgICAgZGVmIHN0ciA9IGNvbnN0YW50c01hdGhlci5ncm91cChpKQovLyAgICAgICAgICAgICAgICBpZiAoc3RyLmNvbnRhaW5zKCIke2tleVdvcmR9IikgJiYgIXN0ci5jb250YWlucygiTm90aWZpY2F0aW9uTGlzdGVuZXJTZXJ2aWNlIikgJiYgIXN0ci5jb250YWlucygiZXh0ZW5kcyIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICB0ZW1wTGluZSArPSAiJHtORVdfQ0xTX1BSRUZJWH0ke2tleVdvcmR9IgovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgdGVtcExpbmUgKz0gc3RyCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgckxpbmUgPSB0ZW1wTGluZQovLyAgICAgICAgfQogICAgICAgIHJMaW5lLnJlcGxhY2UoKQogICAgfQogICAgcmV0dXJuIHJMaW5lICsgIlxuIgp9</text>
+        <text encoding="base64">aW1wb3J0IHpycXBlZy5yb3F0Lk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gcmVwbGFjZUNsYXNzTmFtZShsaW5lLCBjbHMpCg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CnByaXZhdGUgU3RyaW5nIHJlcGxhY2VDbGFzc05hbWUoU3RyaW5nIGxpbmUsIFNldDxTdHJpbmc+IGtleVdvcmRzKSB7CiAgICBkZWYgckxpbmUgPSBsaW5lCiAgICBrZXlXb3Jkcy5lYWNoIHsga2V5V29yZCAtPgoKICAgICAgICBwcmludGxuKGtleVdvcmQpCgovLyAgICAgICAgZGVmIHRlbXBMaW5lID0gIiIKLy8gICAgICAgIGRlZiBjb25zdGFudHNNYXRoZXIgPSByTGluZSA9fiAvKC4qP1wuPykoXHcrPyR7a2V5V29yZH0pKC4qKS8KLy8gICAgICAgIGlmIChjb25zdGFudHNNYXRoZXIubWF0Y2hlcygpKSB7Ci8vICAgICAgICAgICAgZGVmIGNvdW50ID0gY29uc3RhbnRzTWF0aGVyLmdyb3VwQ291bnQoKQovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGNvdW50OyBpKyspIHsKLy8gICAgICAgICAgICAgICAgZGVmIHN0ciA9IGNvbnN0YW50c01hdGhlci5ncm91cChpKQovLyAgICAgICAgICAgICAgICBpZiAoc3RyLmNvbnRhaW5zKCIke2tleVdvcmR9IikgJiYgIXN0ci5jb250YWlucygiTm90aWZpY2F0aW9uTGlzdGVuZXJTZXJ2aWNlIikgJiYgIXN0ci5jb250YWlucygiZXh0ZW5kcyIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICB0ZW1wTGluZSArPSAiJHtORVdfQ0xTX1BSRUZJWH0ke2tleVdvcmR9IgovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgdGVtcExpbmUgKz0gc3RyCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgckxpbmUgPSB0ZW1wTGluZQovLyAgICAgICAgfQogICAgICAgIHJMaW5lLnJlcGxhY2UoKQogICAgfQogICAgcmV0dXJuIHJMaW5lICsgIlxuIgp9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>else {
             writeFile(file(f.getAbsolutePath()), lines)
         }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gIiMjIyMjXG4ke2xpbmVzfSIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gZi5uYW1lCg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -371,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxJTlRFUl9TRVJWSUNFX05BTUVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxJTlRFUl9TRVJWSUNFX05BTUVcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
