@@ -5,13 +5,7 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkZXJEZXhcPg==</entry>
-        <entry encoding="base64">XDxnZXRNZXRob2RTaW5nU3RyXD4=</entry>
-        <entry encoding="base64">XDxkdW1wTWV0aG9kXD4=</entry>
-        <entry encoding="base64">XDxtYXRjaGVyXD4=</entry>
-        <entry encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</entry>
         <entry encoding="base64">XDxTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</entry>
         <entry encoding="base64">XDxvcGVuQXNzZXRzXD4=</entry>
         <entry encoding="base64">XDxDc3RyMkpTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxiXD4=</entry>
@@ -24,7 +18,13 @@
         <entry encoding="base64">XDxob29rRGV4TWVtb3J5XD4=</entry>
         <entry encoding="base64">XDxjYWxsX2RleENsYXNzTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxidWlsZEZpbmlzaGVkXD4=</entry>
+        <entry encoding="base64">XDxSZW5hbWVcPg==</entry>
         <entry encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</entry>
+        <entry encoding="base64">XDxPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</entry>
+        <entry encoding="base64">XDxyZXN0b3JlXD4=</entry>
+        <entry encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</entry>
+        <entry encoding="base64">XDxSZW5hbWVOb3RpZmljYXRpb25TZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -112,7 +112,7 @@
     <filemarks>
       <file name="E:/Project/gpjsauto/cofig.json" timestamp="1617248277717" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617256127479" />
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617266010098">
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617269407953">
         <mark key="'" line="519" column="15" />
         <mark key="[" line="319" column="0" />
         <mark key="]" line="319" column="0" />
@@ -131,22 +131,20 @@
         <mark key="." line="72" column="11" />
         <mark key="^" line="72" column="12" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617266016008">
-        <mark key="'" line="561" column="81" />
-        <mark key="[" line="598" column="19" />
-        <mark key="]" line="601" column="9" />
-        <mark key="." line="601" column="8" />
-        <mark key="^" line="601" column="9" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1617268160530">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="70" />
+        <mark key="." line="5" column="70" />
+        <mark key="^" line="5" column="70" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617268340949">
+        <mark key="[" line="562" column="47" />
+        <mark key="]" line="562" column="58" />
+        <mark key="." line="562" column="47" />
+        <mark key="^" line="549" column="53" />
       </file>
       <file name="/LLDB" timestamp="1617242690625">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1617241068600">
-        <mark key="'" line="728" column="25" />
-        <mark key="[" line="703" column="50" />
-        <mark key="]" line="703" column="50" />
-        <mark key="." line="703" column="50" />
-        <mark key="^" line="703" column="49" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1617256133350">
         <mark key="[" line="30" column="71" />
@@ -188,7 +186,7 @@
         <mark key="^" line="9" column="0" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.cpp" timestamp="1617241923229" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617262050837">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617268881965">
         <mark key="'" line="155" column="15" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="155" column="0" />
@@ -212,20 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="189" column="28" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="347" column="38" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" />
-      <jump line="348" column="46" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" />
-      <jump line="48" column="17" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" />
-      <jump line="68" column="63" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" />
-      <jump line="145" column="48" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" />
-      <jump line="150" column="32" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" />
-      <jump line="48" column="17" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="358" column="32" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="434" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="455" column="18" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="47" column="15" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
-      <jump line="68" column="49" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="16" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" />
       <jump line="62" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" />
       <jump line="36421" column="15" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.c" />
@@ -312,54 +296,70 @@
       <jump line="185" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="186" column="50" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="561" column="81" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="592" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="613" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="593" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="184" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="615" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="511" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="546" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="346" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="352" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="356" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="274" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="573" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="616" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="595" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Service</text>
+        <text encoding="base64">JiYgIXJlc3RvcmU=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text encoding="base64">ICYmICFyZXN0b3Jl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</text>
+        <text encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE5FV19JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgPSBnZXRDbGFzc1ByZWZpeCgpICsgIlNlcnZpY2UiIAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JiYgIXJlc3RvcmU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGYubmFtZS5jb250YWlucygiQWN0aXZpdHkiKSkgewogICAgICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldFBhcmVudEZpbGUoKS5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJHtORVdfQ0xTX1BSRUZJWH1BY3Rpdml0eS5qYXZhIiksIGxpbmVzKQogICAgICAgICAgICBmLmRlbGV0ZSgpCiAgICAgICAgfWVsc2UgaWYgKGYubmFtZS5jb250YWlucygiSGF4IikpIHsKICAgICAgICAgICAgd3JpdGVGaWxlKGZpbGUoZi5nZXRQYXJlbnRGaWxlKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyR7TkVXX0NMU19QUkVGSVh9SGF4LmphdmEiKSwgbGluZXMpCiAgICAgICAgICAgIGYuZGVsZXRlKCkKICAgICAgICB9ZWxzZSBpZiAoZi5uYW1lLmNvbnRhaW5zKCJUb29sIikpIHsKICAgICAgICAgICAgd3JpdGVGaWxlKGZpbGUoZi5nZXRQYXJlbnRGaWxlKCkuZ2V0QWJzb2x1dGVQYXRoKCkgKyAiLyR7TkVXX0NMU19QUkVGSVh9VG9vbC5qYXZhIiksIGxpbmVzKQogICAgICAgICAgICBmLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZi5uYW1lLmNvbnRhaW5zKCJDb25zdGFudHMiKSkgewogICAgICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldFBhcmVudEZpbGUoKS5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJHtORVdfQ0xTX1BSRUZJWH1Db25zdGFudHMuamF2YSIpLCBsaW5lcykKICAgICAgICAgICAgZi5kZWxldGUoKQogICAgICAgIH0gZWxzZSBpZiAoZi5uYW1lLmNvbnRhaW5zKCJTZGsiKSkgewogICAgICAgICAgICB3cml0ZUZpbGUoZmlsZShmLmdldFBhcmVudEZpbGUoKS5nZXRBYnNvbHV0ZVBhdGgoKSArICIvJHtORVdfQ0xTX1BSRUZJWH1TZGsuamF2YSIpLCBsaW5lcykKICAgICAgICAgICAgZi5kZWxldGUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHpycXBlZy5yb3F0Lk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICBpZiAoZi5uCiAgICAgIHdyaQogICAgICBmLmQKICB9IGVsc2UgCiAgICAgIHdyaQogICAgICBmLmQKICB9IGVsc2Ug</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gcmVwbGFjZUNsYXNzTmFtZShsaW5lLCBjbHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcGxhY2VQYWNrYWdlTmFtZShORVdfUEFDS0FHRV9OQU1FLCBPTERfUEFDS0FHRV9OQU1FLCB0cnVlKQo=</text>
+        <text encoding="base64">CnByaXZhdGUgU3RyaW5nIHJlcGxhY2VDbGFzc05hbWUoU3RyaW5nIGxpbmUsIFNldDxTdHJpbmc+IGtleVdvcmRzKSB7CiAgICBkZWYgckxpbmUgPSBsaW5lCiAgICBrZXlXb3Jkcy5lYWNoIHsga2V5V29yZCAtPgoKICAgICAgICBwcmludGxuKGtleVdvcmQpCgovLyAgICAgICAgZGVmIHRlbXBMaW5lID0gIiIKLy8gICAgICAgIGRlZiBjb25zdGFudHNNYXRoZXIgPSByTGluZSA9fiAvKC4qP1wuPykoXHcrPyR7a2V5V29yZH0pKC4qKS8KLy8gICAgICAgIGlmIChjb25zdGFudHNNYXRoZXIubWF0Y2hlcygpKSB7Ci8vICAgICAgICAgICAgZGVmIGNvdW50ID0gY29uc3RhbnRzTWF0aGVyLmdyb3VwQ291bnQoKQovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGNvdW50OyBpKyspIHsKLy8gICAgICAgICAgICAgICAgZGVmIHN0ciA9IGNvbnN0YW50c01hdGhlci5ncm91cChpKQovLyAgICAgICAgICAgICAgICBpZiAoc3RyLmNvbnRhaW5zKCIke2tleVdvcmR9IikgJiYgIXN0ci5jb250YWlucygiTm90aWZpY2F0aW9uTGlzdGVuZXJTZXJ2aWNlIikgJiYgIXN0ci5jb250YWlucygiZXh0ZW5kcyIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICB0ZW1wTGluZSArPSAiJHtORVdfQ0xTX1BSRUZJWH0ke2tleVdvcmR9IgovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgdGVtcExpbmUgKz0gc3RyCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgckxpbmUgPSB0ZW1wTGluZQovLyAgICAgICAgfQogICAgICAgIHJMaW5lLnJlcGxhY2UoKQogICAgfQogICAgcmV0dXJuIHJMaW5lICsgIlxuIgp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9leHRlcm4gaW50IHBhcnNlcihjaGFyICogcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly+78cihZGV41vfA4GNsYXNzCnZvaWQgQ3JlYXRlSW5pdENsYXp6KEpOSUVudiAqZW52KSB7Ly+78cih08W7r8K3vrYKICAgIGpjbGFzcyBzZGtfY2xhenogPSBGaW5kQ2xhc3NCeURleExvYWRlcihlbnYsIElOSVRfQ0xBU1NOQU1FKTsKICAgIGdfbWFpbl9jbGFzcyA9ICgqZW52KS0+TmV3R2xvYmFsUmVmKGVudiwgc2RrX2NsYXp6KTsKfQo=</text>
+      <register name="7" type="4">
+        <text>else {
+            writeFile(file(f.getAbsolutePath()), lines)
+        }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gIiMjIyMjXG4ke2xpbmVzfSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ19tYWluX2NsYXNzOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50bG4gZi5uYW1lCg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -371,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</last-search>
+      <last-search encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBsYWNlQ2xhc3NOYW1lXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
