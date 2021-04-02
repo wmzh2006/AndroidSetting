@@ -110,6 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1617345584316" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/CMakeLists.txt" timestamp="1617343176987" />
       <file name="/LLDB" timestamp="1617342586964">
         <mark key="[" line="0" column="0" />
@@ -137,7 +138,6 @@
         <mark key="^" line="74" column="16" />
         <mark key="." line="74" column="15" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/gradle/wrapper/gradle-wrapper.properties" timestamp="1617284941006" />
       <file name="E:/tools/android/sources/android-29/java/lang/ClassLoader.java" timestamp="1617332431367" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1617343689894">
         <mark key="'" line="354" column="8" />
@@ -162,12 +162,12 @@
         <mark key="." line="40385" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/Common.h" timestamp="1617328902229" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617343567371">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617345125037">
         <mark key="'" line="68" column="63" />
-        <mark key="[" line="144" column="5" />
-        <mark key="]" line="147" column="58" />
-        <mark key="." line="147" column="57" />
-        <mark key="^" line="147" column="58" />
+        <mark key="[" line="146" column="45" />
+        <mark key="]" line="146" column="45" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="149" column="58" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1617343153848">
         <mark key="[" line="89" column="4" />
@@ -287,8 +287,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sdkClazz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBkZXhMb2FkZXIsIGxvYWRlcik7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -303,19 +303,19 @@
         <text encoding="base64">ICAgIGptZXRob2RJRCBtZXRob2RJZCA9ICgqZW52KS0+R2V0TWV0aG9kSUQoZW52LCBzZGtDbGF6eiwgImdldFNpbXBsZU5hbWUiLCAiKClMamF2YS9sYW5nL1N0cmluZzsiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbFN0YXRpY1ZvaWRNZXRob2QoZW52LCBzZGtDbGF6eiwgaW1ldGhvZCwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBkZXhMb2FkZXIsIGxvYWRlcik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBzZGtDbGF6eiA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBzZGspOwo=</text>
+        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbFN0YXRpY1ZvaWRNZXRob2QoZW52LCBzZGtDbGF6eiwgaW1ldGhvZCwgY29udGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIvPgo=</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBzZGtDbGF6eiA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBzZGspOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2RrLmdldENhbm9uaWNhbE5hbWUoKQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uV1JJVEVfRVhURVJOQUxfU1RPUkFHRSIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2RrLmdldENhbm9uaWNhbE5hbWUoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
@@ -324,13 +324,13 @@
         <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBjbHMgPSAoKmVudiktPkZpbmRDbGFzcyhlbnYsIGdDbGFzc0xvYWRlcik7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgamNsYXNzIHNkayA9IEZpbmRDbGFzcyhlbnYsIGdDbGFzc0xvYWRlciwgZ0ZpbmRDbGFzc01ldGhvZCwgImZoaXNkL21vZmgvZmV3dWUvYiIpOwo=</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBjbHMgPSAoKmVudiktPkZpbmRDbGFzcyhlbnYsIGdDbGFzc0xvYWRlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdGaW5kQ2xhc3NNZXRob2QgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgY2xzLCAibG9hZENsYXNzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIoTGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xhbmcvQ2xhc3M7Iik7Cg==</text>
+        <text encoding="base64">Ly8gICAgamNsYXNzIHNkayA9IEZpbmRDbGFzcyhlbnYsIGdDbGFzc0xvYWRlciwgZ0ZpbmRDbGFzc01ldGhvZCwgImZoaXNkL21vZmgvZmV3dWUvYiIpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
