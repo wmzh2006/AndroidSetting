@@ -166,18 +166,25 @@
         <mark key="." line="84" column="12" />
         <mark key="^" line="84" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/build.gradle" timestamp="1617284991758">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/build.gradle" timestamp="1617328376462">
         <mark key="[" line="74" column="39" />
         <mark key="]" line="74" column="16" />
         <mark key="^" line="74" column="16" />
         <mark key="." line="74" column="15" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/gradle/wrapper/gradle-wrapper.properties" timestamp="1617284941006" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617326157095">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617328247655">
         <mark key="'" line="19" column="70" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="16" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617284291334">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617328096543">
         <mark key="'" line="440" column="8" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/build.gradle" timestamp="1617284815891" />
       <file name="/fragment.java" timestamp="1617249710330">
@@ -289,8 +296,29 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -304,37 +332,56 @@
       <register name="0" type="4">
         <text encoding="base64">JiYgIXJlc3RvcmU=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLk5vdGlmaVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHpycXBlZy5yb3F0Lk5vdGlmaVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gcmVwbGFjZUNsYXNzTmFtZShsaW5lLCBjbHMpCg==</text>
+        <text encoding="base64">aW1wb3J0IHpycXBlZy5yb3F0Lk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnByaXZhdGUgU3RyaW5nIHJlcGxhY2VDbGFzc05hbWUoU3RyaW5nIGxpbmUsIFNldDxTdHJpbmc+IGtleVdvcmRzKSB7CiAgICBkZWYgckxpbmUgPSBsaW5lCiAgICBrZXlXb3Jkcy5lYWNoIHsga2V5V29yZCAtPgoKICAgICAgICBwcmludGxuKGtleVdvcmQpCgovLyAgICAgICAgZGVmIHRlbXBMaW5lID0gIiIKLy8gICAgICAgIGRlZiBjb25zdGFudHNNYXRoZXIgPSByTGluZSA9fiAvKC4qP1wuPykoXHcrPyR7a2V5V29yZH0pKC4qKS8KLy8gICAgICAgIGlmIChjb25zdGFudHNNYXRoZXIubWF0Y2hlcygpKSB7Ci8vICAgICAgICAgICAgZGVmIGNvdW50ID0gY29uc3RhbnRzTWF0aGVyLmdyb3VwQ291bnQoKQovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGNvdW50OyBpKyspIHsKLy8gICAgICAgICAgICAgICAgZGVmIHN0ciA9IGNvbnN0YW50c01hdGhlci5ncm91cChpKQovLyAgICAgICAgICAgICAgICBpZiAoc3RyLmNvbnRhaW5zKCIke2tleVdvcmR9IikgJiYgIXN0ci5jb250YWlucygiTm90aWZpY2F0aW9uTGlzdGVuZXJTZXJ2aWNlIikgJiYgIXN0ci5jb250YWlucygiZXh0ZW5kcyIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICB0ZW1wTGluZSArPSAiJHtORVdfQ0xTX1BSRUZJWH0ke2tleVdvcmR9IgovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgdGVtcExpbmUgKz0gc3RyCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgckxpbmUgPSB0ZW1wTGluZQovLyAgICAgICAgfQogICAgICAgIHJMaW5lLnJlcGxhY2UoKQogICAgfQogICAgcmV0dXJuIHJMaW5lICsgIlxuIgp9</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gcmVwbGFjZUNsYXNzTmFtZShsaW5lLCBjbHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CnByaXZhdGUgU3RyaW5nIHJlcGxhY2VDbGFzc05hbWUoU3RyaW5nIGxpbmUsIFNldDxTdHJpbmc+IGtleVdvcmRzKSB7CiAgICBkZWYgckxpbmUgPSBsaW5lCiAgICBrZXlXb3Jkcy5lYWNoIHsga2V5V29yZCAtPgoKICAgICAgICBwcmludGxuKGtleVdvcmQpCgovLyAgICAgICAgZGVmIHRlbXBMaW5lID0gIiIKLy8gICAgICAgIGRlZiBjb25zdGFudHNNYXRoZXIgPSByTGluZSA9fiAvKC4qP1wuPykoXHcrPyR7a2V5V29yZH0pKC4qKS8KLy8gICAgICAgIGlmIChjb25zdGFudHNNYXRoZXIubWF0Y2hlcygpKSB7Ci8vICAgICAgICAgICAgZGVmIGNvdW50ID0gY29uc3RhbnRzTWF0aGVyLmdyb3VwQ291bnQoKQovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGNvdW50OyBpKyspIHsKLy8gICAgICAgICAgICAgICAgZGVmIHN0ciA9IGNvbnN0YW50c01hdGhlci5ncm91cChpKQovLyAgICAgICAgICAgICAgICBpZiAoc3RyLmNvbnRhaW5zKCIke2tleVdvcmR9IikgJiYgIXN0ci5jb250YWlucygiTm90aWZpY2F0aW9uTGlzdGVuZXJTZXJ2aWNlIikgJiYgIXN0ci5jb250YWlucygiZXh0ZW5kcyIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICB0ZW1wTGluZSArPSAiJHtORVdfQ0xTX1BSRUZJWH0ke2tleVdvcmR9IgovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgdGVtcExpbmUgKz0gc3RyCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgckxpbmUgPSB0ZW1wTGluZQovLyAgICAgICAgfQogICAgICAgIHJMaW5lLnJlcGxhY2UoKQogICAgfQogICAgcmV0dXJuIHJMaW5lICsgIlxuIgp9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-            writeFile(file(f.getAbsolutePath()), lines)
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
