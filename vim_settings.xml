@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVNYWluQ2xhenpcPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVJbml0Q2xhenpcPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVDbGFzc0xvYWRlclw+</entry>
@@ -23,8 +22,9 @@
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxpaVw+</entry>
         <entry encoding="base64">XDxpbml0X2RleENsYXNzTG9hZGVyXD4=</entry>
-        <entry>fhisd</entry>
         <entry>Lfhisd</entry>
+        <entry encoding="base64">XDxnX21haW5fY2xhc3NcPg==</entry>
+        <entry>fhisd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -154,19 +154,18 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/dex.c" timestamp="1617330332582">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/dex.c" timestamp="1617330834037">
         <mark key="[" line="40382" column="66" />
         <mark key="]" line="40382" column="43" />
         <mark key="^" line="40382" column="43" />
         <mark key="." line="40382" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/Common.h" timestamp="1617328902229" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617329842034">
-        <mark key="'" line="450" column="5" />
-        <mark key="[" line="506" column="37" />
-        <mark key="]" line="523" column="15" />
-        <mark key="." line="523" column="14" />
-        <mark key="^" line="523" column="15" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617331532025">
+        <mark key="'" line="354" column="0" />
+        <mark key="[" line="349" column="0" />
+        <mark key="]" line="349" column="0" />
+        <mark key="." line="349" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1617329168693" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617328096543">
@@ -177,12 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="634" column="69" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="804" column="62" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="810" column="60" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="898" column="62" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="170" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="522" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="591" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="206" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="209" column="60" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -277,12 +270,18 @@
       <jump line="19" column="70" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="523" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="450" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="334" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="336" column="62" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="339" column="62" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="318" column="14" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="322" column="16" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="353" column="0" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGptZXRob2RJRCBsb2FkQ2xhc3NNZXRob2RJZAo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -291,15 +290,21 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>Lfhisd</text>
+        <text>fhisd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoInNkayBjbGFzcyBpcyBudWxsIik7Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;fhisd/mofh/fewue/b&quot;</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGptZXRob2RJRCBsb2FkQ2xhc3NNZXRob2RJZAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZoaXNkL21vZmgvZmV3dWUvYgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>//
 //
 //
@@ -323,29 +328,23 @@
 //
 //</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLk5vdGlmaVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHpycXBlZy5yb3F0Lk5vdGlmaVNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBvbGRTID0gIXJlc3RvcmUgPyBPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FIDogTkVXX0lOVEVSX1NFUlZJQ0VfQ0xBU1NfTkFNRTsKICAgIGRlZiBuZXdTID0gcmVzdG9yZSA/IE9MRF9JTlRFUl9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gcmVwbGFjZUNsYXNzTmFtZShsaW5lLCBjbHMpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnByaXZhdGUgU3RyaW5nIHJlcGxhY2VDbGFzc05hbWUoU3RyaW5nIGxpbmUsIFNldDxTdHJpbmc+IGtleVdvcmRzKSB7CiAgICBkZWYgckxpbmUgPSBsaW5lCiAgICBrZXlXb3Jkcy5lYWNoIHsga2V5V29yZCAtPgoKICAgICAgICBwcmludGxuKGtleVdvcmQpCgovLyAgICAgICAgZGVmIHRlbXBMaW5lID0gIiIKLy8gICAgICAgIGRlZiBjb25zdGFudHNNYXRoZXIgPSByTGluZSA9fiAvKC4qP1wuPykoXHcrPyR7a2V5V29yZH0pKC4qKS8KLy8gICAgICAgIGlmIChjb25zdGFudHNNYXRoZXIubWF0Y2hlcygpKSB7Ci8vICAgICAgICAgICAgZGVmIGNvdW50ID0gY29uc3RhbnRzTWF0aGVyLmdyb3VwQ291bnQoKQovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IGNvdW50OyBpKyspIHsKLy8gICAgICAgICAgICAgICAgZGVmIHN0ciA9IGNvbnN0YW50c01hdGhlci5ncm91cChpKQovLyAgICAgICAgICAgICAgICBpZiAoc3RyLmNvbnRhaW5zKCIke2tleVdvcmR9IikgJiYgIXN0ci5jb250YWlucygiTm90aWZpY2F0aW9uTGlzdGVuZXJTZXJ2aWNlIikgJiYgIXN0ci5jb250YWlucygiZXh0ZW5kcyIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICB0ZW1wTGluZSArPSAiJHtORVdfQ0xTX1BSRUZJWH0ke2tleVdvcmR9IgovLyAgICAgICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgdGVtcExpbmUgKz0gc3RyCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgckxpbmUgPSB0ZW1wTGluZQovLyAgICAgICAgfQogICAgICAgIHJMaW5lLnJlcGxhY2UoKQogICAgfQogICAgcmV0dXJuIHJMaW5lICsgIlxuIgp9</text>
+        <text encoding="base64">aW1wb3J0IHpycXBlZy5yb3F0Lk5vdGlmaVNlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZXMgKz0gcmVwbGFjZUNsYXNzTmFtZShsaW5lLCBjbHMpCg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -357,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Lfhisd</last-search>
+      <last-search>fhisd</last-search>
       <last-offset>mofh/fewue/b</last-offset>
-      <last-pattern>Lfhisd</last-pattern>
+      <last-pattern>fhisd</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
