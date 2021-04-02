@@ -110,14 +110,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617271345041" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1617271134000">
-        <mark key="'" line="243" column="34" />
-        <mark key="[" line="396" column="69" />
-        <mark key="]" line="396" column="69" />
-        <mark key="." line="396" column="69" />
-        <mark key="^" line="396" column="69" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1617324464284">
         <mark key="'" line="100" column="25" />
         <mark key="[" line="107" column="0" />
@@ -125,6 +117,7 @@
         <mark key="^" line="101" column="4" />
         <mark key="." line="107" column="0" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/Sdk.java" timestamp="1617332435372" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/build.gradle" timestamp="1617328376462">
         <mark key="[" line="74" column="39" />
         <mark key="]" line="74" column="16" />
@@ -133,6 +126,7 @@
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/gradle/wrapper/gradle-wrapper.properties" timestamp="1617284941006" />
       <file name="D:/AndroidStudio/DalvikBytecode/build.gradle" timestamp="1617284815891" />
+      <file name="E:/tools/android/sources/android-29/java/lang/ClassLoader.java" timestamp="1617332431367" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/build.gradle" timestamp="1617284752236" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/gradle/wrapper/gradle-wrapper.properties" timestamp="1617284824965" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CMakeLists.txt" timestamp="1617326134295">
@@ -154,19 +148,19 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/dex.c" timestamp="1617332123726">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/dex.c" timestamp="1617332884845">
         <mark key="[" line="40382" column="66" />
         <mark key="]" line="40382" column="43" />
         <mark key="^" line="40382" column="43" />
         <mark key="." line="40382" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/Common.h" timestamp="1617328902229" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617332367274">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617332979810">
         <mark key="'" line="68" column="63" />
-        <mark key="[" line="145" column="54" />
-        <mark key="]" line="145" column="63" />
-        <mark key="." line="145" column="62" />
-        <mark key="^" line="145" column="63" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="145" column="58" />
+        <mark key="." line="145" column="57" />
+        <mark key="^" line="145" column="58" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1617329168693" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617328096543">
@@ -273,7 +267,7 @@
       <jump line="322" column="16" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="353" column="0" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="347" column="46" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="350" column="40" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="350" column="38" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="351" column="95" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="48" column="17" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="68" column="63" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
@@ -282,13 +276,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>findClass</text>
+        <text>d</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>findClass</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnRmluZENsYXNzTWV0aG9kXD4=</text>
