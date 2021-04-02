@@ -110,7 +110,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/cofig.json" timestamp="1617248277717" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1617271345041" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1617269407953">
         <mark key="'" line="519" column="15" />
@@ -121,6 +120,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/build.gradle" timestamp="1617284752236" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/gradle/wrapper/gradle-wrapper.properties" timestamp="1617284824965" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CMakeLists.txt" timestamp="1617326134295">
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="81" column="8" />
+        <mark key="^" line="81" column="8" />
+        <mark key="." line="81" column="7" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1617268160530">
         <mark key="[" line="5" column="70" />
         <mark key="]" line="5" column="70" />
@@ -168,6 +173,9 @@
         <mark key="." line="74" column="15" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/gradle/wrapper/gradle-wrapper.properties" timestamp="1617284941006" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617326157095">
+        <mark key="'" line="19" column="70" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" timestamp="1617284291334">
         <mark key="'" line="440" column="8" />
       </file>
@@ -175,14 +183,8 @@
       <file name="/fragment.java" timestamp="1617249710330">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/settings.gradle" timestamp="1617245905447">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="694" column="26" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="300" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="598" column="70" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="634" column="69" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -282,6 +284,7 @@
       <jump line="333" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="346" column="5" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="440" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
+      <jump line="19" column="70" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
