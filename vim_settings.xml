@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnRmluZENsYXNzTWV0aG9kXD4=</entry>
-        <entry>fhisd</entry>
         <entry encoding="base64">XDxzZGtfY2xhenpcPg==</entry>
         <entry encoding="base64">XDxnX21haW5fY2xhc3NcPg==</entry>
         <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
@@ -24,7 +22,9 @@
         <entry encoding="base64">XDxkdW1wTWFwTGlzdFw+</entry>
         <entry encoding="base64">XDxkZXhcPg==</entry>
         <entry encoding="base64">XDx3cml0ZVVpbnRcPg==</entry>
+        <entry encoding="base64">XDxhZGxlcjMyXD4=</entry>
         <entry encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</entry>
+        <entry encoding="base64">XDxzaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -130,7 +130,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1617706022911">
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1617716708161">
         <mark key="[" line="50" column="9" />
         <mark key="]" line="51" column="63" />
         <mark key="^" line="51" column="63" />
@@ -143,12 +143,12 @@
         <mark key="." line="10" column="15" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/AndroidManifest.xml" timestamp="1617678922243" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617703456902">
-        <mark key="'" line="620" column="20" />
-        <mark key="[" line="632" column="22" />
-        <mark key="]" line="632" column="23" />
-        <mark key="." line="632" column="22" />
-        <mark key="^" line="632" column="23" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617717132141">
+        <mark key="'" line="149" column="30" />
+        <mark key="[" line="624" column="45" />
+        <mark key="]" line="624" column="45" />
+        <mark key="." line="624" column="45" />
+        <mark key="^" line="624" column="62" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/BaseDexClassLoaderHookHelper.java" timestamp="1617679294532" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1617673533411">
@@ -204,13 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="511" column="34" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="546" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="346" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="352" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="356" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="274" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="573" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="616" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="595" column="15" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="393" column="56" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -297,61 +290,68 @@
       <jump line="208" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="65" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="324" column="11" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="621" column="31" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="623" column="11" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="626" column="26" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="660" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="628" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="123" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="620" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="640" column="18" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="621" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="123" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="633" column="42" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="634" column="44" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="96" column="39" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="98" column="54" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="149" column="32" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="150" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>SIGNATURE_LEN</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>SIGNATURE_LEN</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</text>
+        <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0NsYXNzTG9hZGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRjaENsYXNzTG9hZGVyKGVudiwgZ0RleExvYWRlciwgZ0NsYXNzTG9hZGVyKTsK</text>
+        <text encoding="base64">I2RlZmluZSBTSUdOQVRVUkVfTEVOIDB4MDAxNAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2RlZmluZSBTSUdOQVRVUkVfTEVOIDB4MDAxNAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpvYmplY3QgYXBwbGljYXRpb24gPSAoKmVudiktPkNhbGxPYmplY3RNZXRob2QoZW52LCBhdCwgZ2V0QXBwbGljYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIGZpbGVTaXplID0gZGV4X2ZpbGUtPnBIZWFkZXItPmZpbGVTaXplOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCBnZXRBcHBsaWNhdGlvbkNvbnRleHRNZXRob2RJRCA9ICgqZW52KS0+R2V0TWV0aG9kSUQoZW52LCAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgYXBwbGljYXRpb24pLCAiZ2V0QXBwbGljYXRpb25Db250ZXh0IiwgIigpTGFuZHJvaWQvY29udGVudC9Db250ZXh0OyIpCg==</text>
+        <text encoding="base64">ICAgIHUxICpjaGVja3N1bSA9IGhlYWRlci0+c2lnbmF0dXJlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXJlbnRDbGF6eik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBkZXhMb2FkZXIsIGxvYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXRjaENsYXNzTG9hZGVyKGVudiwgZ0RleExvYWRlciwgZ0NsYXNzTG9hZGVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KGNvbnRleHQsIE15U2VydmljZS5jbGFzcykpOwo=</text>
+        <text encoding="base64">ICAgIGpvYmplY3QgYXBwbGljYXRpb24gPSAoKmVudiktPkNhbGxPYmplY3RNZXRob2QoZW52LCBhdCwgZ2V0QXBwbGljYXRpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCBnZXRBcHBsaWNhdGlvbkNvbnRleHRNZXRob2RJRCA9ICgqZW52KS0+R2V0TWV0aG9kSUQoZW52LCAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgYXBwbGljYXRpb24pLCAiZ2V0QXBwbGljYXRpb25Db250ZXh0IiwgIigpTGFuZHJvaWQvY29udGVudC9Db250ZXh0OyIpCg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -363,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</last-search>
+      <last-search encoding="base64">XDxzaXplXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaXplXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
