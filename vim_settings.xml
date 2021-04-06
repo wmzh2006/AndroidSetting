@@ -120,11 +120,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1617689445138">
-        <mark key="[" line="122" column="32" />
-        <mark key="]" line="122" column="43" />
-        <mark key="." line="122" column="42" />
-        <mark key="^" line="122" column="43" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1617690164152">
+        <mark key="[" line="182" column="51" />
+        <mark key="]" line="182" column="51" />
+        <mark key="^" line="178" column="67" />
+        <mark key="." line="182" column="51" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/CMakeLists.txt" timestamp="1617343176987" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/AndroidManifest.xml" timestamp="1617678544895">
@@ -171,12 +171,12 @@
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617678986287">
-        <mark key="'" line="259" column="11" />
-        <mark key="[" line="150" column="45" />
-        <mark key="]" line="150" column="56" />
-        <mark key="." line="150" column="55" />
-        <mark key="^" line="150" column="56" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617689509973">
+        <mark key="'" line="260" column="11" />
+        <mark key="[" line="151" column="45" />
+        <mark key="]" line="151" column="45" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="149" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1617676097676">
         <mark key="'" line="52" column="4" />
@@ -302,13 +302,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dexLoader</text>
+        <text>L</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>dexLoader</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlRGV4XD4=</text>
@@ -317,34 +317,34 @@
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBhdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXJlbnRDbGF6eik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KGNvbnRleHQsIE15U2VydmljZS5jbGFzcykpOwo=</text>
+        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBkZXhMb2FkZXIsIGxvYWRlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KGNvbnRleHQsIE15U2VydmljZS5jbGFzcykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
+        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
+        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBkZXhMb2FkZXIsIGxvYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
