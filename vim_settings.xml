@@ -127,18 +127,10 @@
         <mark key="^" line="122" column="43" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/CMakeLists.txt" timestamp="1617343176987" />
-      <file name="/LLDB" timestamp="1617342586964">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/AndroidManifest.xml" timestamp="1617342719089">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/AndroidManifest.xml" timestamp="1617678544895">
+        <mark key="[" line="96" column="54" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/Sdk.java" timestamp="1617334519646">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CppWrapper.cpp" timestamp="1617673848126">
         <mark key="'" line="10" column="4" />
@@ -146,6 +138,7 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/AndroidManifest.xml" timestamp="1617678922243" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/build.gradle" timestamp="1617350211745">
         <mark key="[" line="74" column="39" />
         <mark key="]" line="74" column="16" />
@@ -157,15 +150,9 @@
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="E:/tools/android/sources/android-29/java/lang/ClassLoader.java" timestamp="1617332431367" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/BaseDexClassLoaderHookHelper.java" timestamp="1617679294532" />
       <file name="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" timestamp="1617673533411">
         <mark key="'" line="354" column="8" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/dex.h" timestamp="1617329992196">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/dex.c" timestamp="1617343836686">
         <mark key="[" line="40385" column="42" />
@@ -173,17 +160,23 @@
         <mark key="^" line="40385" column="45" />
         <mark key="." line="40385" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/Common.h" timestamp="1617328902229" />
+      <file name="D:/AndroidStudio/DalvikBytecode/dex/src/main/java/cn/wjdiankong/coredex/CoreUtils.java" timestamp="1617678277704">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CppWrapper.h" timestamp="1617673857527">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617677330604">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617678986287">
         <mark key="'" line="259" column="11" />
-        <mark key="[" line="457" column="0" />
-        <mark key="]" line="457" column="0" />
-        <mark key="." line="457" column="0" />
+        <mark key="[" line="150" column="45" />
+        <mark key="]" line="150" column="56" />
+        <mark key="." line="150" column="55" />
+        <mark key="^" line="150" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1617676097676">
         <mark key="'" line="52" column="4" />
@@ -191,6 +184,15 @@
         <mark key="]" line="100" column="4" />
         <mark key="." line="100" column="4" />
         <mark key="^" line="93" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1617678434010">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/settings.gradle" timestamp="1617678207678">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="E:/tools/android/platforms/android-30/android.jar!/android/content/Context.class" timestamp="1617672944542" />
     </filemarks>
@@ -300,13 +302,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>printf</text>
+        <text>dexLoader</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>printf</text>
+        <text>dexLoader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXBsYWNlRGV4XD4=</text>
@@ -315,34 +317,34 @@
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBhdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KGNvbnRleHQsIE15U2VydmljZS5jbGFzcykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
+        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
+        <text encoding="base64">ICAgIGNscyA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBsb2FkZXIpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBkZXhMb2FkZXIsIGxvYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+Q2FsbFN0YXRpY1ZvaWRNZXRob2QoZW52LCBzZGtDbGF6eiwgaW1ldGhvZCwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBzZGtDbGF6eiA9ICgqZW52KS0+R2V0T2JqZWN0Q2xhc3MoZW52LCBzZGspOwo=</text>
+        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBkZXhMb2FkZXIsIGxvYWRlcik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
