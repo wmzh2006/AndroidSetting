@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxPTERfSU5URVJfU0VSVklDRV9DTEFTU19OQU1FXD4=</entry>
         <entry encoding="base64">XDxyZXN0b3JlXD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxSZW5hbWVOb3RpZmljYXRpb25TZXJ2aWNlXD4=</entry>
@@ -14,7 +13,6 @@
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxpaVw+</entry>
         <entry>Lfhisd</entry>
-        <entry encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxnRmluZENsYXNzTWV0aG9kXD4=</entry>
         <entry>fhisd</entry>
         <entry encoding="base64">XDxzZGtfY2xhenpcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry encoding="base64">XDxjb3B5QXNzZXRzRmlsZXNcPg==</entry>
         <entry encoding="base64">XDxyZXBsYWNlRGV4XD4=</entry>
+        <entry>init</entry>
+        <entry encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -170,12 +170,12 @@
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617691041429">
-        <mark key="'" line="260" column="11" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617695096483">
+        <mark key="'" line="68" column="49" />
         <mark key="[" line="145" column="26" />
         <mark key="]" line="145" column="26" />
         <mark key="." line="145" column="26" />
-        <mark key="^" line="149" column="56" />
+        <mark key="^" line="145" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1617676097676">
         <mark key="'" line="52" column="4" />
@@ -196,14 +196,6 @@
       <file name="E:/tools/android/platforms/android-30/android.jar!/android/content/Context.class" timestamp="1617672944542" />
     </filemarks>
     <jumps>
-      <jump line="317" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="318" column="31" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="339" column="20" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="319" column="56" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="149" column="4" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="208" column="12" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="406" column="81" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
-      <jump line="427" column="88" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
       <jump line="523" column="15" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
       <jump line="125" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
       <jump line="201" column="8" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/native-lib.c" />
@@ -266,13 +258,11 @@
       <jump line="353" column="0" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="347" column="46" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="351" column="95" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="148" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="350" column="46" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="352" column="48" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="363" column="40" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="364" column="95" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="48" column="17" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="68" column="63" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="653" column="26" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="414" column="12" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
       <jump line="545" column="15" filename="E:/Project/gpjsauto/dynamicndk/src/main/cpp/native-lib.c" />
@@ -296,6 +286,16 @@
       <jump line="115" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="259" column="11" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="10" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CppWrapper.cpp" />
+      <jump line="148" column="33" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="182" column="68" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="211" column="70" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="251" column="69" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="365" column="24" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="366" column="81" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="453" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="476" column="18" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="47" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="68" column="49" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,7 +310,7 @@
         <text>loader</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBsYWNlRGV4XD4=</text>
+        <text encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBhdCk7Cg==</text>
@@ -355,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXBsYWNlRGV4XD4=</last-search>
+      <last-search encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBsYWNlRGV4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
