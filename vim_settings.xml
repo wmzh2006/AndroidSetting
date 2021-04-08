@@ -110,6 +110,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" timestamp="1617845581558">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/DexFileParser.h" timestamp="1617779464421">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="37" />
@@ -131,7 +137,6 @@
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/sha1.cpp" timestamp="1617777513787" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/DexFileParser.cpp" timestamp="1617779239321">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="48" />
@@ -144,12 +149,6 @@
         <mark key="." line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFile.cpp" timestamp="1617785427423" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/CMakeLists.txt" timestamp="1617775149383">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="18" column="8" />
-        <mark key="^" line="18" column="8" />
-        <mark key="." line="18" column="7" />
-      </file>
       <file name="E:/tools/android/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdint.h" timestamp="1617781416974">
         <mark key="'" line="69" column="22" />
       </file>
@@ -163,13 +162,20 @@
         <mark key="]" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary.txt" timestamp="1617845964816">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617785797531">
         <mark key="'" line="310" column="4" />
         <mark key="[" line="475" column="0" />
         <mark key="]" line="475" column="33" />
         <mark key="." line="475" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/sha1.h" timestamp="1617777506153" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/proguard-rules.pro" timestamp="1617845592006">
+        <mark key="[" line="43" column="42" />
+      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1617781931713">
         <mark key="'" line="52" column="4" />
         <mark key="[" line="86" column="15" />
@@ -185,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="11" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="10" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CppWrapper.cpp" />
       <jump line="148" column="33" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="182" column="68" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="211" column="70" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
@@ -285,54 +289,56 @@
       <jump line="276" column="16" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="281" column="54" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="282" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="0" column="1" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
+      <jump line="47" column="0" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXBsYWNlRGV4KGRleCwgZGV4X2xlbik7Cg==</text>
+        <text encoding="base64">MDBvMG8K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>(char *)</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>Method:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgbWVtY3B5KGRleCArIFNJR05BVFVSRV9PRkYsIGhhc2guZGF0YSgpLCAyMCk7Ly8g0N64xHNoYS0x1rWjqDEyLTMxo6kK</text>
+        <text encoding="base64">MG8wbzBvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXBsYWNlRGV4KGRleCwgZGV4X2xlbik7Cg==</text>
+        <text encoding="base64">MDBvMG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlcGxhY2VEZXgoZGV4LCBkZXhfbGVuKTsK</text>
+        <text encoding="base64">MG8wbzBvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBob29rU3VjY2VzcyA9IDE7Cg==</text>
+        <text encoding="base64">MG8wbzAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MG9vMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHpsaWIuaD4K</text>
+        <text encoding="base64">MG9vCg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ME9PME8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ME9PME8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHU0IGRleENvbXB1dGVDaGVja3N1bShjb25zdCBEZXhIZWFkZXIqIHBIZWFkZXIpCg==</text>
+        <text encoding="base64">ME9PMAo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
