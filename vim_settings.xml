@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcmNCeXRlXD4=</entry>
         <entry encoding="base64">XDxiYXNlX2FkZHJcPg==</entry>
         <entry encoding="base64">XDxob29rRGV4TWVtb3J5XD4=</entry>
         <entry encoding="base64">XDxnZXRNYXBJdGVtVHlwZVN0clw+</entry>
@@ -25,6 +24,7 @@
         <entry>Method</entry>
         <entry>Method:</entry>
         <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
+        <entry>b;i</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -131,11 +131,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1618216117643">
-        <mark key="[" line="726" column="0" />
-        <mark key="]" line="726" column="0" />
-        <mark key="." line="726" column="0" />
-        <mark key="^" line="718" column="105" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1618217200197">
+        <mark key="[" line="726" column="69" />
+        <mark key="]" line="726" column="70" />
+        <mark key="^" line="726" column="70" />
+        <mark key="." line="726" column="69" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" timestamp="1617938071422">
         <mark key="[" line="89" column="4" />
@@ -298,50 +298,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXR1cEpWTVw+</text>
+        <text>b;i</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">MG8wbzBvCg==</text>
+      <register name="0" type="4">
+        <text>getMethodSignStr(methodItem)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJzLmFwcGVuZCgiXyIpLmFwcGVuZChjbGFzc0luZGV4KS5hcHBlbmQoaXRlbS5uYW1lX2lkeCkuYXBwZW5kKHJldHVybkluZGV4KS5hcHBlbmQocGFyYW1ldGVyc19vZmYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzZXREZXhDaGVja1N1bShzcmNCeXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MDBvMG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MG8wbzBvCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzZXREZXhDaGVja1N1bShzcmNCeXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MG8wbzAK</text>
+        <text encoding="base64">ICAgICAgICB0cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MG9vMAo=</text>
+        <text encoding="base64">MDBvMG8K</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -353,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTZXR1cEpWTVw+</last-search>
+      <last-search>b;i</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXR1cEpWTVw+</last-pattern>
+      <last-pattern>b;i</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
