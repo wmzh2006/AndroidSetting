@@ -18,13 +18,13 @@
         <entry encoding="base64">XDxpbnRwdHJfdFw+</entry>
         <entry encoding="base64">XDxnRGV4TG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</entry>
-        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry encoding="base64">XDxkdW1wTWFwTGlzdFw+</entry>
         <entry encoding="base64">XDxkZXhDb21wdXRlQ2hlY2tzdW1cPg==</entry>
         <entry encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</entry>
         <entry encoding="base64">XDxjbGFzc19kYXRhXD4=</entry>
         <entry>Method</entry>
         <entry>Method:</entry>
+        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -126,7 +126,7 @@
         <mark key="^" line="24" column="48" />
         <mark key="." line="24" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/AndroidManifest.xml" timestamp="1617851499738">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/AndroidManifest.xml" timestamp="1618196824685">
         <mark key="[" line="100" column="46" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -159,7 +159,7 @@
         <mark key="^" line="31" column="42" />
       </file>
       <file name="E:/Project/gpjsauto/local.properties" timestamp="1617949542603" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1617785797531">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618196848959">
         <mark key="'" line="310" column="4" />
         <mark key="[" line="475" column="0" />
         <mark key="]" line="475" column="33" />
@@ -257,8 +257,6 @@
       <jump line="152" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="48" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="150" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="116" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="310" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="207" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="64" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="763" column="18" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -294,6 +292,8 @@
       <jump line="282" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="0" column="1" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
       <jump line="47" column="0" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
+      <jump line="116" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="310" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +308,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>Method:</text>
+        <text encoding="base64">XDxTZXR1cEpWTVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MG8wbzBvCg==</text>
@@ -353,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Method:</last-search>
+      <last-search encoding="base64">XDxTZXR1cEpWTVw+</last-search>
       <last-offset />
-      <last-pattern>Method:</last-pattern>
+      <last-pattern encoding="base64">XDxTZXR1cEpWTVw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
