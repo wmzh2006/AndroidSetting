@@ -111,12 +111,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/dcloader/src/main/java/f/s0.java" timestamp="1617849514185">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="48" />
-        <mark key="^" line="24" column="48" />
-        <mark key="." line="24" column="47" />
-      </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_jsauto/src/f/c0.java" timestamp="1618228026719" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/AndroidManifest.xml" timestamp="1618196824685">
         <mark key="[" line="100" column="46" />
@@ -134,6 +128,12 @@
         <mark key="]" line="97" column="28" />
         <mark key="." line="97" column="28" />
         <mark key="^" line="97" column="22" />
+      </file>
+      <file name="D:/AndroidStudio/KeepAlive/local.properties" timestamp="1618228820516">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1618225106611">
         <mark key="[" line="0" column="0" />
@@ -286,13 +286,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIiA=</text>
+        <text>/</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lIiA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>b;i</text>
