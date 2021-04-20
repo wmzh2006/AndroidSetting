@@ -126,11 +126,11 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618919857399">
-        <mark key="[" line="163" column="203" />
-        <mark key="]" line="163" column="201" />
-        <mark key="^" line="163" column="201" />
-        <mark key="." line="163" column="200" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618921528479">
+        <mark key="[" line="165" column="10" />
+        <mark key="]" line="165" column="9" />
+        <mark key="." line="165" column="8" />
+        <mark key="^" line="165" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.h" timestamp="1618919201097">
         <mark key="[" line="32" column="81" />
@@ -162,7 +162,7 @@
         <mark key="]" line="132" column="42" />
         <mark key="." line="132" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618909605657">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618921134230">
         <mark key="[" line="105" column="46" />
         <mark key="]" line="105" column="46" />
         <mark key="." line="105" column="46" />
@@ -303,13 +303,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCBtYWtlSW5NZW1vcnlEZXhFbGVtZW50c01ldGhvZElEID0gKCplbnYpLT5HZXRTdGF0aWNNZXRob2RJRChlbnYsIGRleFBhdGhMaXN0Q2xhenosICJtYWtlSW5NZW1vcnlEZXhFbGVtZW50cyIsICIoW0xqYXZhL25pby9CeXRlQnVmZmVyO0xqYXZhL3V0aWwvTGlzdDspW0xkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0JEVsZW1lbnQ7Iik7CiAgICBqb2JqZWN0QXJyYXkgIGVsZW1lbnRzID0gKCplbnYpLT5DYWxsU3RhdGljT2JqZWN0TWV0aG9kKGVudiwgZGV4UGF0aExpc3RDbGF6eiwgbWFrZUluTWVtb3J5RGV4RWxlbWVudHNNZXRob2RJRCwgLCBOVUxMKTsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEVsZW1lbnRbXQ==</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>b;i</text>
@@ -318,15 +318,24 @@
         <text>getMethodSignStr(methodItem)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGptZXRob2RJRCBtYWtlSW5NZW1vcnlEZXhFbGVtZW50c01ldGhvZElEID0gKCplbnYpLT5HZXRTdGF0aWNNZXRob2RJRChlbnYsIGRleFBhdGhMaXN0Q2xhenosICJtYWtlSW5NZW1vcnlEZXhFbGVtZW50cyIsICIoW0xqYXZhL25pby9CeXRlQnVmZmVyO0xqYXZhL3V0aWwvTGlzdDspW0xkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0JEVsZW1lbnQ7Iik7CiAgICBqb2JqZWN0QXJyYXkgIGVsZW1lbnRzID0gKCplbnYpLT5DYWxsU3RhdGljT2JqZWN0TWV0aG9kKGVudiwgZGV4UGF0aExpc3RDbGF6eiwgbWFrZUluTWVtb3J5RGV4RWxlbWVudHNNZXRob2RJRCwgLCBOVUxMKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHN0YXRpYyBjbGFzcyBFbGVtZW50IHsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHN0YXRpYyBjbGFzcyBFbGVtZW50IHsKICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="u" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="2">
         <text>#add_library( # Sets the name of the library.
 #        native-lib
 #
@@ -356,20 +365,11 @@
 #        dex/sha1.cpp
 #        )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoZGV4ICR7RElSX1NSQ1N9KQo=</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkX2xpYnJhcnkoZGV4ICR7RElSX1NSQ1N9KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
