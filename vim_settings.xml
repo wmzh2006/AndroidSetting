@@ -111,6 +111,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1618912640757">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/KeepAlive/library/build.gradle" timestamp="1618389367268">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/dalvik/system/DexPathList.java" timestamp="1618912277609">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618908899564" />
       <file name="D:/AndroidStudio/KeepAlive/local.properties" timestamp="1618233750193">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="11" />
@@ -120,17 +136,18 @@
       <file name="/Dummy.txt" timestamp="1618225106611">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/DexPathLista.java" timestamp="1618912385487" />
       <file name="$USER_HOME$/Desktop/KeepAlive/local.properties" timestamp="1618390412964">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="D:/AndroidStudio/KeepAlive/library/build.gradle" timestamp="1618389367268">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-        <mark key="." line="15" column="52" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/BootstrapClass.java" timestamp="1618912508093">
+        <mark key="'" line="93" column="34" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/build.gradle" timestamp="1618234245653">
         <mark key="[" line="132" column="42" />
@@ -148,17 +165,6 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618196848959">
-        <mark key="'" line="310" column="4" />
-        <mark key="[" line="475" column="0" />
-        <mark key="]" line="475" column="33" />
-        <mark key="." line="475" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/dex2/src/main/AndroidManifest.xml" timestamp="1618224976792">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-      </file>
       <file name="D:/AndroidStudio/KeepAlive/library/src/main/cpp/CMakeLists.txt" timestamp="1618234467781">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="24" />
@@ -174,43 +180,16 @@
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/build.gradle" timestamp="1618798368756">
         <mark key="[" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618908899564" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1618215627832">
-        <mark key="'" line="255" column="50" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
-      </file>
       <file name="D:/AndroidStudio/KeepAlive/library/src/main/cpp/utils/CMakeLists.txt" timestamp="1618233542406">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1618218746405">
-        <mark key="[" line="726" column="11" />
-        <mark key="]" line="726" column="10" />
-        <mark key="^" line="726" column="10" />
-        <mark key="." line="726" column="9" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/dex2/src/main/java/zvsr/aesv/b.java" timestamp="1618224689473">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="/fragment.java" timestamp="1618912181227">
+      <file name="/fragment.java" timestamp="1618912343576">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/DexRestorer.c" timestamp="1618224871955">
-        <mark key="[" line="97" column="28" />
-        <mark key="]" line="97" column="28" />
-        <mark key="." line="97" column="28" />
-        <mark key="^" line="97" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="33" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="182" column="68" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="211" column="70" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="251" column="69" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="365" column="24" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
@@ -309,18 +288,20 @@
       <jump line="47" column="0" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
       <jump line="116" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="310" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="91" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/BootstrapClass.java" />
+      <jump line="88" column="34" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/BootstrapClass.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ObjectMethod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>ObjectMethod</text>
+        <text encoding="base64">IEVsZW1lbnRbXQ==</text>
       </register>
       <register name="/" type="4">
         <text>b;i</text>
@@ -329,9 +310,15 @@
         <text>getMethodSignStr(methodItem)</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IHN0YXRpYyBjbGFzcyBFbGVtZW50IHsKICAgIH0=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text>#add_library( # Sets the name of the library.
 #        native-lib
 #
@@ -361,12 +348,6 @@
 #        dex/sha1.cpp
 #        )</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YWRkX2xpYnJhcnkoZGV4ICR7RElSX1NSQ1N9KQo=</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -374,17 +355,13 @@
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWRkX2xpYnJhcnkoZGV4ICR7RElSX1NSQ1N9KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>target_link_libraries(
-        dex
-
-        ${z-lib}
-)</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
