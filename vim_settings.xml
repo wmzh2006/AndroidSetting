@@ -114,20 +114,8 @@
       <file name="/fragment.c" timestamp="1618988462236">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618975890376">
-        <mark key="[" line="220" column="37" />
-        <mark key="]" line="220" column="38" />
-        <mark key="." line="220" column="37" />
-        <mark key="^" line="220" column="38" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1618991753726" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1618996348031" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1618991622717" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.h" timestamp="1618975800790">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="5" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="40" column="5" />
-      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/dalvik/system/DexPathList.java" timestamp="1618986544321">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -143,8 +131,10 @@
         <mark key="." line="253" column="30" />
         <mark key="^" line="271" column="24" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1618991758888">
-        <mark key="[" line="30" column="72" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1618996501250">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.h" timestamp="1618989353953">
         <mark key="[" line="55" column="38" />
@@ -288,7 +278,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb20uZ2dvYS5id2VtLnF4Y2ZvLlFxeVNkay5pbml0KGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMTA1NTQxIik7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -303,13 +293,13 @@
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBkZXhGaWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb20uZ2dvYS5id2VtLnF4Y2ZvLlFxeVNkay5pbml0KGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMTA1NTQxIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0RleExvYWRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0RleExvYWRlcjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -321,20 +311,20 @@
         <text>)</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text>JNIEXPORT jobject JNICALL Java_com_laurna_nice_wallpaper_BootstrapClass_getMyJniClassloader(
         JNIEnv *env,
         jobject this) {
     return gDexLoader;
 }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBjbHMpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGxvYWRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBjbHMpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGxvYWRlcik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
