@@ -5,15 +5,12 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnRwdHJfdFw+</entry>
-        <entry encoding="base64">XDxnRGV4TG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxkdW1wTWFwTGlzdFw+</entry>
         <entry encoding="base64">XDxkZXhDb21wdXRlQ2hlY2tzdW1cPg==</entry>
         <entry encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</entry>
         <entry encoding="base64">XDxjbGFzc19kYXRhXD4=</entry>
         <entry>Method</entry>
         <entry>Method:</entry>
-        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry>b;i</entry>
         <entry encoding="base64">XDxkYWx2aWtcPg==</entry>
         <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxGaW5kQ2xhc3NcPg==</entry>
         <entry encoding="base64">XDxGaW5kQ2xhc3NCeURleExvYWRlclw+</entry>
         <entry encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</entry>
+        <entry encoding="base64">XDxTREtfSU5UXD4=</entry>
+        <entry encoding="base64">XDxpbml0X2RleENsYXNzTG9hZGVyXD4=</entry>
+        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,12 +111,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/KeepAlive/local.properties" timestamp="1618390412964">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="11" />
-      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/BootstrapClass.java" timestamp="1618912508093">
         <mark key="'" line="93" column="34" />
         <mark key="[" line="118" column="0" />
@@ -132,10 +126,14 @@
         <mark key="^" line="19" column="92" />
         <mark key="." line="19" column="78" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618974856571">
-        <mark key="[" line="147" column="81" />
-        <mark key="]" line="147" column="81" />
-        <mark key="." line="147" column="81" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/activities/MyApplication.java" timestamp="1618975186984">
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618975890376">
+        <mark key="[" line="220" column="37" />
+        <mark key="]" line="220" column="38" />
+        <mark key="." line="220" column="37" />
+        <mark key="^" line="220" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618972885879">
         <mark key="'" line="148" column="3" />
@@ -144,8 +142,11 @@
         <mark key="." line="148" column="12" />
         <mark key="^" line="148" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.h" timestamp="1618974504616">
-        <mark key="[" line="32" column="82" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/JniUntils.h" timestamp="1618975800790">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="5" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="40" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/dalvik.system/DexPathList.java" timestamp="1618912087248">
         <mark key="[" line="8" column="93" />
@@ -159,12 +160,12 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618974166453">
-        <mark key="'" line="68" column="63" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="^" line="147" column="58" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618976479559">
+        <mark key="'" line="312" column="4" />
+        <mark key="[" line="155" column="19" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="155" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1618974693593">
         <mark key="[" line="94" column="15" />
@@ -196,11 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="628" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="620" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="621" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="123" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="634" column="44" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="96" column="39" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="98" column="54" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="149" column="32" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -258,7 +254,6 @@
       <jump line="282" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="0" column="1" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
       <jump line="47" column="0" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
-      <jump line="116" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="310" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="91" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/BootstrapClass.java" />
       <jump line="88" column="34" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/BootstrapClass.java" />
@@ -296,54 +291,60 @@
       <jump line="494" column="18" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="47" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="68" column="63" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="569" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="571" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="497" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="503" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="116" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="312" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGRleExvYWRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</text>
+        <text encoding="base64">XDxTZXR1cEpWTVw+</text>
       </register>
       <register name="0" type="4">
         <text>jclass dexPathListClazz =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGRleExvYWRlcik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGdEZXhMb2FkZXIgPSAoKmVudiktPk5ld0dsb2JhbFJlZihlbnYsIGRleExvYWRlcik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0RleExvYWRlcjsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhdGNoQ2xhc3NMb2FkZXIoZW52LCBsb2FkZXIsIGJ1ZiwgbGVuKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkkiKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgamNsYXNzIGRleFBhdGhMaXN0Q2xhenogPSBGaW5kQ2xhc3MoZW52LCBwYXJlbnRDbGFzc0xvYWRlciwgbG9hZENsYXNzTWV0aG9kSUQsICJkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgam9iamVjdEFycmF5IGRleEVsZW1lbnRzID0gR2V0RWxlbWVudHMoZW52LCBwYXRjaFBhdGhMaXN0T2JqKTsK</text>
+        <text encoding="base64">Ly8gICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGRleExvYWRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgam9iamVjdCBwYXRjaFBhdGhMaXN0T2JqID0gR2V0UGF0aExpc3QoZW52LCBjbGFzc0xvYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgIGdEZXhMb2FkZXIgPSAoKmVudiktPk5ld0dsb2JhbFJlZihlbnYsIGRleExvYWRlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRleFBhdGhMaXN0Q2xhenogPSgqZW52KS0+Q2FsbE9iamVjdE1ldGhvZChlbnYsIHBhcmVudENsYXNzTG9hZGVyLCBsb2FkQ2xhc3NNZXRob2RJRCwgZGV4UGF0aExpc3QpOwo=</text>
+        <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0RleExvYWRlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpjbGFzcyBkZXhQYXRoTGlzdENsYXp6ID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCAiZGFsdmlrL3N5c3RlbS9EZXhQYXRoTGlzdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -355,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxTZXR1cEpWTVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTZXR1cEpWTVw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
