@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGxlcjMyXD4=</entry>
-        <entry encoding="base64">XDxzaGExXD4=</entry>
         <entry encoding="base64">XDxmaXhDaGVja1N1bUhlYWRlclw+</entry>
         <entry encoding="base64">XDxpbnRwdHJfdFw+</entry>
         <entry encoding="base64">XDxnRGV4TG9hZGVyXD4=</entry>
@@ -25,6 +23,8 @@
         <entry>init</entry>
         <entry encoding="base64">XDxnTG9hZENsYXNzTWV0aG9kXD4=</entry>
         <entry encoding="base64">XDxGaW5kQ2xhc3NcPg==</entry>
+        <entry encoding="base64">XDxwYXRjaENsYXNzTG9hZGVyXD4=</entry>
+        <entry encoding="base64">XDxkZXhQYXRoTGlzdENsYXp6XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -143,12 +143,12 @@
         <mark key="]" line="132" column="42" />
         <mark key="." line="132" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618969565695">
-        <mark key="'" line="50" column="17" />
-        <mark key="[" line="144" column="61" />
-        <mark key="]" line="144" column="29" />
-        <mark key="." line="144" column="28" />
-        <mark key="^" line="144" column="29" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618972885879">
+        <mark key="'" line="148" column="3" />
+        <mark key="[" line="142" column="56" />
+        <mark key="]" line="148" column="13" />
+        <mark key="." line="148" column="12" />
+        <mark key="^" line="148" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/dalvik.system/DexPathList.java" timestamp="1618912087248">
         <mark key="[" line="8" column="93" />
@@ -168,18 +168,17 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="/LLDB" timestamp="1618970971655">
+      <file name="/LLDB" timestamp="1618972717943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/build.gradle" timestamp="1618798368756">
         <mark key="[" line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618970502315">
-        <mark key="'" line="107" column="36" />
-        <mark key="[" line="162" column="4" />
-        <mark key="]" line="162" column="29" />
-        <mark key="." line="162" column="4" />
-        <mark key="^" line="162" column="85" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618972616896">
+        <mark key="'" line="163" column="79" />
+        <mark key="[" line="160" column="63" />
+        <mark key="]" line="160" column="64" />
+        <mark key="." line="160" column="64" />
       </file>
       <file name="/fragment.java" timestamp="1618912343576">
         <mark key="[" line="0" column="0" />
@@ -192,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" />
-      <jump line="52" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" />
-      <jump line="26" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="27" column="27" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="28" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="165" column="12" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -285,61 +281,64 @@
       <jump line="137" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="163" column="76" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="50" column="17" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="161" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="156" column="37" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="159" column="40" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="204" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="17" column="34" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="23" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="107" column="36" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
+      <jump line="148" column="3" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="161" column="11" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
+      <jump line="163" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
+      <jump line="164" column="79" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>jclass dexPathListClazz =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRleFBhdGhMaXN0Q2xhenogPSgqZW52KS0+Q2FsbE9iamVjdE1ldGhvZChlbnYsIHBhcmVudENsYXNzTG9hZGVyLCBsb2FkQ2xhc3NNZXRob2RJRCwgZGV4UGF0aExpc3QpOwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">amNsYXNzIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaW5kQ2xhc3NcPg==</text>
+        <text encoding="base64">XDxkZXhQYXRoTGlzdENsYXp6XD4=</text>
       </register>
       <register name="0" type="4">
         <text>jclass dexPathListClazz =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZpbmRDbGFzcygpCg==</text>
+        <text encoding="base64">ICAgIGRleFBhdGhMaXN0Q2xhenogPSgqZW52KS0+Q2FsbE9iamVjdE1ldGhvZChlbnYsIHBhcmVudENsYXNzTG9hZGVyLCBsb2FkQ2xhc3NNZXRob2RJRCwgZGV4UGF0aExpc3QpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpvYmplY3QgYmJ1ZiA9ICgqZW52KS0+TmV3RGlyZWN0Qnl0ZUJ1ZmZlcihlbnYsIGJ1ZiwgbGVuKTsKICAgIGpjbGFzcyBieXRlQnVmZmVyQ2xhenogPSAoKmVudiktPkZpbmRDbGFzcyhlbnYsICJqYXZhL25pby9CeXRlQnVmZmVyIik7CiAgICBqb2JqZWN0QXJyYXkgYnl0ZUJ1ZmZlckFycmF5ID0gKCplbnYpLT5OZXdPYmplY3RBcnJheShlbnYsIDEsIGJ5dGVCdWZmZXJDbGF6eiwgTlVMTCk7CiAgICAoKmVudiktPlNldE9iamVjdEFycmF5RWxlbWVudChlbnYsIGJ5dGVCdWZmZXJBcnJheSwgMSwgYmJ1Zik7CgogICAgamNsYXNzIGRleFBhdGhMaXN0Q2xhenogPSAoKmVudiktPkZpbmRDbGFzcyhlbnYsICJkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0Iik7CiAgICBqbWV0aG9kSUQgbWFrZUluTWVtb3J5RGV4RWxlbWVudHNNZXRob2RJRCA9ICgqZW52KS0+R2V0U3RhdGljTWV0aG9kSUQoZW52LCBkZXhQYXRoTGlzdENsYXp6LCAibWFrZUluTWVtb3J5RGV4RWxlbWVudHMiLCAiKFtMamF2YS9uaW8vQnl0ZUJ1ZmZlcjtMamF2YS91dGlsL0xpc3Q7KVtMZGFsdmlrL3N5c3RlbS9EZXhQYXRoTGlzdCRFbGVtZW50OyIpOwogICAgam9iamVjdEFycmF5ICBlbGVtZW50cyA9ICgqZW52KS0+Q2FsbFN0YXRpY09iamVjdE1ldGhvZChlbnYsIGRleFBhdGhMaXN0Q2xhenosIG1ha2VJbk1lbW9yeURleEVsZW1lbnRzTWV0aG9kSUQsIGJ5dGVCdWZmZXJBcnJheSwgTlVMTCk7Cg==</text>
+        <text encoding="base64">ICAgIGpjbGFzcyBkZXhQYXRoTGlzdENsYXp6ID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCAiZGFsdmlrL3N5c3RlbS9EZXhQYXRoTGlzdCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGpzaXplIGRleEVsZW1lbnRzU2l6ZSA9ICgqZW52KS0+R2V0QXJyYXlMZW5ndGgoZW52LCBkZXhFbGVtZW50cyk7Cg==</text>
+        <text encoding="base64">Ly8gICAganN0cmluZyBkZXhQYXRoTGlzdCA9ICgqZW52KS0+TmV3U3RyaW5nVVRGKGVudiwgImRhbHZpay9zeXN0ZW0vRGV4UGF0aExpc3QiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGpzaXplIGRleEVsZW1lbnRzU2l6ZSA9ICgqZW52KS0+R2V0QXJyYXlMZW5ndGgoZW52LCBkZXhFbGVtZW50cyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgamNsYXNzIGRleFBhdGhMaXN0Q2xhenogPSBGaW5kQ2xhc3MoZW52LCBwYXJlbnRDbGFzc0xvYWRlciwgbG9hZENsYXNzTWV0aG9kSUQsICJkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpzaXplIGRleEVsZW1lbnRzU2l6ZSA9ICgqZW52KS0+R2V0QXJyYXlMZW5ndGgoZW52LCBkZXhFbGVtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+U2V0T2JqZWN0QXJyYXlFbGVtZW50KGVudiwgbmV3X2RleEVsZW1lbnQsIDAsICkK</text>
+        <text encoding="base64">ICAgIEZpbmRDbGFzcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGptZXRob2RJRCBtYWtlSW5NZW1vcnlEZXhFbGVtZW50c01ldGhvZElEID0gKCplbnYpLT5HZXRTdGF0aWNNZXRob2RJRChlbnYsIGRleFBhdGhMaXN0Q2xhenosICJtYWtlSW5NZW1vcnlEZXhFbGVtZW50cyIsICIoW0xqYXZhL25pby9CeXRlQnVmZmVyO0xqYXZhL3V0aWwvTGlzdDspW0xkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0JEVsZW1lbnQ7Iik7CiAgICBqb2JqZWN0QXJyYXkgIGVsZW1lbnRzID0gKCplbnYpLT5DYWxsU3RhdGljT2JqZWN0TWV0aG9kKGVudiwgZGV4UGF0aExpc3RDbGF6eiwgbWFrZUluTWVtb3J5RGV4RWxlbWVudHNNZXRob2RJRCwgLCBOVUxMKTsK</text>
+        <text encoding="base64">ICAgIGpvYmplY3QgYmJ1ZiA9ICgqZW52KS0+TmV3RGlyZWN0Qnl0ZUJ1ZmZlcihlbnYsIGJ1ZiwgbGVuKTsKICAgIGpjbGFzcyBieXRlQnVmZmVyQ2xhenogPSAoKmVudiktPkZpbmRDbGFzcyhlbnYsICJqYXZhL25pby9CeXRlQnVmZmVyIik7CiAgICBqb2JqZWN0QXJyYXkgYnl0ZUJ1ZmZlckFycmF5ID0gKCplbnYpLT5OZXdPYmplY3RBcnJheShlbnYsIDEsIGJ5dGVCdWZmZXJDbGF6eiwgTlVMTCk7CiAgICAoKmVudiktPlNldE9iamVjdEFycmF5RWxlbWVudChlbnYsIGJ5dGVCdWZmZXJBcnJheSwgMSwgYmJ1Zik7CgogICAgamNsYXNzIGRleFBhdGhMaXN0Q2xhenogPSAoKmVudiktPkZpbmRDbGFzcyhlbnYsICJkYWx2aWsvc3lzdGVtL0RleFBhdGhMaXN0Iik7CiAgICBqbWV0aG9kSUQgbWFrZUluTWVtb3J5RGV4RWxlbWVudHNNZXRob2RJRCA9ICgqZW52KS0+R2V0U3RhdGljTWV0aG9kSUQoZW52LCBkZXhQYXRoTGlzdENsYXp6LCAibWFrZUluTWVtb3J5RGV4RWxlbWVudHMiLCAiKFtMamF2YS9uaW8vQnl0ZUJ1ZmZlcjtMamF2YS91dGlsL0xpc3Q7KVtMZGFsdmlrL3N5c3RlbS9EZXhQYXRoTGlzdCRFbGVtZW50OyIpOwogICAgam9iamVjdEFycmF5ICBlbGVtZW50cyA9ICgqZW52KS0+Q2FsbFN0YXRpY09iamVjdE1ldGhvZChlbnYsIGRleFBhdGhMaXN0Q2xhenosIG1ha2VJbk1lbW9yeURleEVsZW1lbnRzTWV0aG9kSUQsIGJ5dGVCdWZmZXJBcnJheSwgTlVMTCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGpzaXplIGRleEVsZW1lbnRzU2l6ZSA9ICgqZW52KS0+R2V0QXJyYXlMZW5ndGgoZW52LCBkZXhFbGVtZW50cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGpzaXplIGRleEVsZW1lbnRzU2l6ZSA9ICgqZW52KS0+R2V0QXJyYXlMZW5ndGgoZW52LCBkZXhFbGVtZW50cyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -351,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxGaW5kQ2xhc3NcPg==</last-search>
+      <last-search encoding="base64">XDxkZXhQYXRoTGlzdENsYXp6XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaW5kQ2xhc3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZXhQYXRoTGlzdENsYXp6XD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
