@@ -161,12 +161,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618976479559">
-        <mark key="'" line="312" column="4" />
-        <mark key="[" line="155" column="19" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="155" column="44" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618990449873">
+        <mark key="'" line="306" column="4" />
+        <mark key="[" line="92" column="40" />
+        <mark key="]" line="92" column="40" />
+        <mark key="." line="92" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1618974693593">
         <mark key="[" line="94" column="15" />
@@ -297,14 +296,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/*gClassLoader*/</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>loader</text>
+        <text>/*gClassLoader*/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXhfcGF0aFw+</text>
@@ -316,31 +315,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBjbHMpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGxvYWRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>JNIEXPORT jobject JNICALL Java_com_laurna_nice_wallpaper_BootstrapClass_getMyJniClassloader(
+        JNIEnv *env,
+        jobject this) {
+    return gDexLoader;
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgcGF0Y2hDbGFzc0xvYWRlcihlbnYsIGxvYWRlciwgYnVmLCBsZW4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBjbHMpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGxvYWRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgpqb2JqZWN0IE5ld0RleENsYXNzTG9hZGVyKEpOSUVudiAqZW52LCBqb2JqZWN0IGxvYWRlciwganN0cmluZyBkZXhGaWxlUGF0aCwKICAgICAgICAgICAgICAgICAgICAgICAgICBqc3RyaW5nIGRleG91dFBhdGgpIHsKICAgIGpjbGFzcyBkZXhMb2FkZXJDbGF6eiA9ICgqZW52KS0+RmluZENsYXNzKGVudiwgImRhbHZpay9zeXN0ZW0vRGV4Q2xhc3NMb2FkZXIiKTsKICAgIGptZXRob2RJRCBtaWQgPSAoKmVudiktPkdldE1ldGhvZElEKGVudiwgZGV4TG9hZGVyQ2xhenosICI8aW5pdD4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIihMamF2YS9sYW5nL1N0cmluZztMamF2YS9sYW5nL1N0cmluZztMamF2YS9sYW5nL1N0cmluZztMamF2YS9sYW5nL0NsYXNzTG9hZGVyOylWIik7CiAgICBqb2JqZWN0IGRleExvYWRlciA9ICgqZW52KS0+TmV3T2JqZWN0KGVudiwgZGV4TG9hZGVyQ2xhenosIG1pZCwgZGV4RmlsZVBhdGgsIGRleG91dFBhdGgsIE5VTEwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvYWRlcik7CiAgICBjaGVja0V4YyhlbnYpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGRleExvYWRlckNsYXp6KTsKICAgIHJldHVybiBkZXhMb2FkZXI7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmpvYmplY3QgTmV3SW5NZW1vcnlEZXhMb2FkZXIoSk5JRW52ICplbnYsIGpvYmplY3QgbG9hZGVyLCB2b2lkICpidWYsIGludCBzaXplKSB7CiAgICBqY2xhc3MgY2xzID0gKCplbnYpLT5GaW5kQ2xhc3MoZW52LCAiZGFsdmlrL3N5c3RlbS9Jbk1lbW9yeURleENsYXNzTG9hZGVyIik7CiAgICBjaGVja0V4YyhlbnYpOwogICAgaWYgKGNscyA9PSBOVUxMKSB7CiAgICAgICAgTE9HcHJpbnRmKCJJbk1lbW9yeURleENsYXNzTG9hZGVyIHdhcyBub3QgZm91bmQhIik7CiAgICAgICAgcmV0dXJuIE5VTEw7CiAgICB9CgogICAgTE9HcHJpbnRmKCJOZXdEaXJlY3RCeXRlQnVmZmVyIik7CiAgICBqb2JqZWN0IGJidWYgPSAoKmVudiktPk5ld0RpcmVjdEJ5dGVCdWZmZXIoZW52LCBidWYsIChqbG9uZykgc2l6ZSk7CiAgICBpZiAoYmJ1ZiA9PSBOVUxMKSB7CiAgICAgICAgTE9HcHJpbnRmKCJmYWlsZWQiKTsKICAgICAgICByZXR1cm4gTlVMTDsKICAgIH0KCiAgICBMT0dwcmludGYoImxvb2tpbmcgZm9yIDxpbml0PiIpOwogICAgam1ldGhvZElEIG1pZCA9ICgqZW52KS0+R2V0TWV0aG9kSUQoZW52LCBjbHMsICI8aW5pdD4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIihMamF2YS9uaW8vQnl0ZUJ1ZmZlcjtMamF2YS9sYW5nL0NsYXNzTG9hZGVyOylWIik7CiAgICBpZiAobWlkID09IE5VTEwpIHsKICAgICAgICBMT0dwcmludGYoImdldENsYXNzTG9hZGVyIHdhcyBub3QgZm91bmQhIik7CiAgICAgICAgcmV0dXJuIE5VTEw7CiAgICB9CgoKICAgIGpvYmplY3QgZGV4TG9hZGVyID0gKCplbnYpLT5OZXdPYmplY3QoZW52LCBjbHMsIG1pZCwgYmJ1ZiwgbG9hZGVyKTsKICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBjbHMpOwogICAgKCplbnYpLT5EZWxldGVMb2NhbFJlZihlbnYsIGJidWYpOwogICAgcmV0dXJuIGRleExvYWRlcjsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhdGljIGptZXRob2RJRCBnRmluZENsYXNzTWV0aG9kOwo=</text>
+        <text encoding="base64">ICAgcGF0Y2hDbGFzc0xvYWRlcihlbnYsIGxvYWRlciwgYnVmLCBsZW4pOwo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
