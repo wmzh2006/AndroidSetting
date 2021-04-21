@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdW1wTWFwTGlzdFw+</entry>
         <entry encoding="base64">XDxkZXhDb21wdXRlQ2hlY2tzdW1cPg==</entry>
         <entry encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</entry>
         <entry encoding="base64">XDxjbGFzc19kYXRhXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxTREtfSU5UXD4=</entry>
         <entry encoding="base64">XDxpbml0X2RleENsYXNzTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
+        <entry encoding="base64">XDxwYXJlbnRDbGFzc0xvYWRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,11 +111,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1618987938270">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/BootstrapClass.java" timestamp="1618912508093">
         <mark key="'" line="93" column="34" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
+      </file>
+      <file name="/fragment.c" timestamp="1618987942627">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/a.dummy" timestamp="1618912640757">
         <mark key="[" line="0" column="0" />
@@ -175,12 +181,11 @@
       <file name="/LLDB" timestamp="1618987439541">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618987606250">
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618988270251">
         <mark key="'" line="107" column="36" />
-        <mark key="[" line="156" column="31" />
-        <mark key="]" line="198" column="0" />
-        <mark key="^" line="159" column="63" />
-        <mark key="." line="198" column="0" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1618984101001">
         <mark key="[" line="0" column="0" />
@@ -304,10 +309,10 @@
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXR1cEpWTVw+</text>
+        <text encoding="base64">XDxwYXJlbnRDbGFzc0xvYWRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBqZGV4RmlsZVBhdGgpOwo=</text>
@@ -316,31 +321,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXRoTGlzdE9iaik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBieXRlQnVmZmVyQXJyYXkpOwo=</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBwYXJlbnREZXhFbGVtZW50cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBiYnVmKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PD8+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZCgpCg==</text>
+        <text encoding="base64">ICAgIGpzaXplIHBhcmVudERleEVsZW1lbnRzU2l6ZSA9ICgqZW52KS0+R2V0QXJyYXlMZW5ndGgoZW52LCBwYXJlbnREZXhFbGVtZW50cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICgqZW52KS0+U2V0T2JqZWN0QXJyYXlFbGVtZW50KGVudiwgYnl0ZUJ1ZmZlckFycmF5LCAwLCBiYnVmKTsK</text>
+        <text encoding="base64">ICAgIGpvYmplY3RBcnJheSBwYXJlbnREZXhFbGVtZW50cyA9IEdldEVsZW1lbnRzKGVudiwgcGF0aExpc3RPYmopOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpvYmplY3RBcnJheSBieXRlQnVmZmVyQXJyYXkgPSAoKmVudiktPk5ld09iamVjdEFycmF5KGVudiwgMSwgYnl0ZUJ1ZmZlckNsYXp6LCBOVUxMKTsK</text>
+        <text encoding="base64">ICAgIGpvYmplY3QgcGF0aExpc3RPYmogPSBHZXRQYXRoTGlzdChlbnYsIHBhcmVudENsYXNzTG9hZGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZSgpOwo=</text>
+        <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBlbGVtZW50c0NsYXp6KTsK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
