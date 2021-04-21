@@ -111,39 +111,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1618912640757">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/KeepAlive/library/build.gradle" timestamp="1618389367268">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="15" column="53" />
-        <mark key="^" line="15" column="53" />
-        <mark key="." line="15" column="52" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/dalvik/system/DexPathList.java" timestamp="1618912277609">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/dex/dex.c" timestamp="1618969154887" />
-      <file name="/LLDB" timestamp="1618969897764">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618969955811">
-        <mark key="'" line="204" column="8" />
-        <mark key="[" line="161" column="97" />
-        <mark key="]" line="161" column="98" />
-        <mark key="." line="161" column="98" />
-        <mark key="^" line="161" column="83" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.h" timestamp="1618925245319">
-        <mark key="[" line="32" column="81" />
-        <mark key="]" line="32" column="81" />
-        <mark key="^" line="32" column="81" />
-        <mark key="." line="32" column="80" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/DexPathLista.java" timestamp="1618912385487" />
       <file name="$USER_HOME$/Desktop/KeepAlive/local.properties" timestamp="1618390412964">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="12" />
@@ -155,6 +122,15 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1618912640757">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/KeepAlive/library/build.gradle" timestamp="1618389367268">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="15" column="53" />
+        <mark key="^" line="15" column="53" />
+        <mark key="." line="15" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/com/laurna/nice/wallpaper/activities/MyApplication.java" timestamp="1618969026138">
         <mark key="[" line="19" column="77" />
@@ -180,21 +156,42 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/java/dalvik/system/DexPathList.java" timestamp="1618912277609">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="7" />
+      </file>
       <file name="D:/AndroidStudio/KeepAlive/library/src/main/cpp/CMakeLists.txt" timestamp="1618234467781">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="24" />
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="24" />
       </file>
+      <file name="/LLDB" timestamp="1618970971655">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/build.gradle" timestamp="1618798368756">
         <mark key="[" line="41" column="9" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" timestamp="1618970502315">
+        <mark key="'" line="107" column="36" />
+        <mark key="[" line="162" column="4" />
+        <mark key="]" line="162" column="29" />
+        <mark key="." line="162" column="4" />
+        <mark key="^" line="162" column="85" />
       </file>
       <file name="/fragment.java" timestamp="1618912343576">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.h" timestamp="1618925245319">
+        <mark key="[" line="32" column="81" />
+        <mark key="]" line="32" column="81" />
+        <mark key="^" line="32" column="81" />
+        <mark key="." line="32" column="80" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" />
       <jump line="97" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" />
       <jump line="52" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/DexRestorer.c" />
       <jump line="26" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -288,30 +285,31 @@
       <jump line="137" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="163" column="76" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="50" column="17" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" />
+      <jump line="161" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
+      <jump line="156" column="37" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
+      <jump line="159" column="40" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
+      <jump line="204" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="17" column="34" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="23" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="107" column="36" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
-      <jump line="156" column="37" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
-      <jump line="161" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
-      <jump line="204" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dexLoader</text>
+        <text>jclass dexPathListClazz =</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>dexLoader</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaW5kQ2xhc3NcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>getMethodSignStr(methodItem)</text>
+        <text>jclass dexPathListClazz =</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEZpbmRDbGFzcygpCg==</text>
