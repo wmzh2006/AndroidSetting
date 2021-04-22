@@ -111,9 +111,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/AndroidManifest.xml" timestamp="1619010921787" />
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1618996348031" />
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1618991622717" />
+      <file name="/Dummy.txt" timestamp="1618988462242">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" timestamp="1618991141033">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1618991422198">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" timestamp="1619061014899" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618990293465">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="70" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CMakeLists.txt" timestamp="1619060541129">
+        <mark key="[" line="84" column="26" />
+        <mark key="]" line="84" column="24" />
+        <mark key="^" line="84" column="24" />
+        <mark key="." line="84" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1619057202889">
+        <mark key="'" line="305" column="4" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="/LLDB" timestamp="1618989806777">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,32 +163,6 @@
         <mark key="]" line="54" column="82" />
         <mark key="^" line="54" column="82" />
         <mark key="." line="54" column="81" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1618988462242">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" timestamp="1618991141033">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/DexRestorer.c" timestamp="1618988937582" />
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/CMakeLists.txt" timestamp="1618992539570" />
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/DexRestorer.h" timestamp="1618988994259" />
-      <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1618991422198">
-        <mark key="[" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618990293465">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="70" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1619057202889">
-        <mark key="'" line="305" column="4" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
     </filemarks>
     <jumps>
