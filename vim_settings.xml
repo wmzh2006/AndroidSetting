@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNldERleENoZWNrU3VtXD4=</entry>
         <entry encoding="base64">XDxjbGFzc19kYXRhXD4=</entry>
         <entry>Method</entry>
         <entry>Method:</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry encoding="base64">XDxwYXJlbnRDbGFzc0xvYWRlclw+</entry>
         <entry encoding="base64">XDxkZXhfcGF0aFw+</entry>
+        <entry encoding="base64">XDxkdW1wRGV4SGVhZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,9 +111,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1618988462242">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" timestamp="1618991141033">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -123,17 +120,22 @@
         <mark key="[" line="15" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" timestamp="1619061014899" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CppWrapper.cpp" timestamp="1619063114153">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1618990293465">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
         <mark key="^" line="70" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CMakeLists.txt" timestamp="1619060541129">
-        <mark key="[" line="84" column="26" />
-        <mark key="]" line="84" column="24" />
-        <mark key="^" line="84" column="24" />
-        <mark key="." line="84" column="23" />
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/CMakeLists.txt" timestamp="1619062425913">
+        <mark key="[" line="90" column="28" />
+        <mark key="]" line="84" column="33" />
+        <mark key="^" line="84" column="33" />
+        <mark key="." line="84" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1619057202889">
         <mark key="'" line="305" column="4" />
@@ -153,6 +155,16 @@
       <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/AndroidManifest.xml" timestamp="1619010940136">
         <mark key="[" line="108" column="18" />
       </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.h" timestamp="1619062701195">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" timestamp="1619063082777">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619008480969">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -166,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="640" column="18" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="683" column="18" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="685" column="16" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="631" column="11" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="633" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -266,12 +276,14 @@
       <jump line="251" column="14" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="253" column="53" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="255" column="21" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
+      <jump line="142" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="62" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0RleExvYWRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -280,25 +292,25 @@
         <text>/*gClassLoader*/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXhfcGF0aFw+</text>
+        <text encoding="base64">XDxkdW1wRGV4SGVhZGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBkZXhGaWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0RleExvYWRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uZ2dvYS5id2VtLnF4Y2ZvLlFxeVNkay5pbml0KGdldEFwcGxpY2F0aW9uQ29udGV4dCgpLCAiMTA1NTQxIik7Cg==</text>
+        <text encoding="base64">CmNvbnN0IGNoYXIgKndyaXRlRmlsZShjb25zdCBjaGFyICpkZXgsIGludCBzaXplLCBjb25zdCBjaGFyICpwYXRoKSB7CiAgICBvZnN0cmVhbSBvdXRmaWxlOwogICAgb3V0ZmlsZS5vcGVuKHBhdGgsIGlvczo6YmluYXJ5KTsKICAgIGlmICghb3V0ZmlsZS5pc19vcGVuKCkpIHsKICAgICAgICBMT0dwcmludGYoIiVzIHdhcyBub3Qgb3Blbi4iLCBwYXRoKTsKICAgICAgICByZXR1cm4gTlVMTDsKICAgIH0KICAgIG91dGZpbGUud3JpdGUoZGV4LCBzaXplKTsKICAgIG91dGZpbGUuZmx1c2goKTsKICAgIG91dGZpbGUuY2xvc2UoKTsKICAgIHJldHVybiBwYXRoOwp9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIGpvYmplY3QgZ0RleExvYWRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2hhciAqZ2V0TWFwSXRlbVR5cGVTdHIodWludDE2X3QgaSkgewogICAgc3dpdGNoIChpKSB7CiAgICAgICAgY2FzZSAweDAwMDA6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVIZWFkZXJJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwMToKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZVN0cmluZ0lkSXRlbSI7CiAgICAgICAgY2FzZSAweDAwMDI6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVUeXBlSWRJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwMzoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZVByb3RvSWRJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwNDoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZUZpZWxkSWRJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwNToKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZU1ldGhvZElkSXRlbSI7CiAgICAgICAgY2FzZSAweDAwMDY6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVDbGFzc0RlZkl0ZW0iOwogICAgICAgIGNhc2UgMHgxMDAwOgogICAgICAgICAgICByZXR1cm4gImtEZXhUeXBlTWFwTGlzdCI7CiAgICAgICAgY2FzZSAweDEwMDE6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVUeXBlTGlzdCI7CiAgICAgICAgY2FzZSAweDEwMDI6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVBbm5vdGF0aW9uU2V0UmVmTGlzdCI7CiAgICAgICAgY2FzZSAweDEwMDM6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVBbm5vdGF0aW9uU2V0SXRlbSI7CiAgICAgICAgY2FzZSAweDIwMDA6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVDbGFzc0RhdGFJdGVtIjsKICAgICAgICBjYXNlIDB4MjAwMToKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZUNvZGVJdGVtIjsKICAgICAgICBjYXNlIDB4MjAwMjoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZVN0cmluZ0RhdGFJdGVtIjsKICAgICAgICBjYXNlIDB4MjAwMzoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZURlYnVnSW5mb0l0ZW0iOwogICAgICAgIGNhc2UgMHgyMDA0OgogICAgICAgICAgICByZXR1cm4gImtEZXhUeXBlQW5ub3RhdGlvbkl0ZW0iOwogICAgICAgIGNhc2UgMHgyMDA1OgogICAgICAgICAgICByZXR1cm4gImtEZXhUeXBlRW5jb2RlZEFycmF5SXRlbSI7CiAgICAgICAgY2FzZSAweDIwMDY6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVBbm5vdGF0aW9uc0RpcmVjdG9yeUl0ZW0iOwogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIHJldHVybiAiTlVMTCI7CiAgICB9Cn0K</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
@@ -310,11 +322,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>JNIEXPORT jobject JNICALL Java_com_laurna_nice_wallpaper_BootstrapClass_getMyJniClassloader(
-        JNIEnv *env,
-        jobject this) {
-    return gDexLoader;
-}</text>
+        <text encoding="base64">CnN0ZDo6dmVjdG9yPHVuc2lnbmVkIGNoYXI+IERleEZpbGVQYXJzZXI6OmhleDJieXRlcyhjb25zdCBzdGQ6OnN0cmluZyAmaGV4KSB7CiAgICBzdGQ6OnZlY3Rvcjx1bnNpZ25lZCBjaGFyPiBieXRlczsKICAgIGZvciAoc2l6ZV90IGkgPSAwOyBpIDwgaGV4Lmxlbmd0aCgpOyBpICs9IDIpIHsKICAgICAgICBzdGQ6OnN0cmluZyBieXRlU3RyaW5nID0gaGV4LnN1YnN0cihpLCAyKTsKICAgICAgICB1bnNpZ25lZCBjaGFyIGJ5dGUgPSAoKHVuc2lnbmVkIGNoYXIpIHN0cnRvbChieXRlU3RyaW5nLmNfc3RyKCksIG51bGxwdHIsIDE2KSk7CiAgICAgICAgYnl0ZXMucHVzaF9iYWNrKGJ5dGUpOwogICAgfQogICAgcmV0dXJuIGJ5dGVzOwp9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,9 +337,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXhfcGF0aFw+</last-search>
+      <last-search encoding="base64">XDxkdW1wRGV4SGVhZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXhfcGF0aFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkdW1wRGV4SGVhZGVyXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
