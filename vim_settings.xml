@@ -115,8 +115,10 @@
       <file name="E:/Project/gpjsauto/build_nk_plus_AAR.bat" timestamp="1619093046584">
         <mark key="[" line="2" column="10" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1619316390209">
-        <mark key="[" line="315" column="60" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1619319053740">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
       </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/shot/Screenshot.java" timestamp="1619314700921" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/build.gradle" timestamp="1619086187616">
@@ -140,8 +142,8 @@
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1619315345327">
         <mark key="[" line="30" column="43" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/AndroidManifest.xml" timestamp="1619315486129">
-        <mark key="[" line="29" column="35" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/AndroidManifest.xml" timestamp="1619318464912">
+        <mark key="[" line="28" column="49" />
         <mark key="]" line="30" column="34" />
         <mark key="^" line="30" column="34" />
         <mark key="." line="30" column="33" />
@@ -156,12 +158,6 @@
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" timestamp="1619057202889">
-        <mark key="'" line="305" column="4" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/CaptureScreenService.java" timestamp="1619315393971" />
       <file name="$USER_HOME$/Desktop/Wallpaper4k/local.properties" timestamp="1619086716072">
@@ -290,7 +286,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ka1ZlcnNpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -305,34 +301,34 @@
         <text encoding="base64">ICAgICgqZW52KS0+RGVsZXRlTG9jYWxSZWYoZW52LCBkZXhGaWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ka1ZlcnNpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ka1ZlcnNpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBuZXdMaW5lID0gbmV3TGluZS4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmRrLmRpcj1FXDpcXHRvb2xzXFxhbmRyb2lkLW5kay1yMThiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihuYW1lLmNvbnRhaW5zKCIwIikpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWYgbmV3TGluZSA9IGxpbmUucmVwbGFjZUFsbChuYW1lLCBPVVRFUl9TRVJWSUNFKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IGNoYXIgKndyaXRlRmlsZShjb25zdCBjaGFyICpkZXgsIGludCBzaXplLCBjb25zdCBjaGFyICpwYXRoKSB7CiAgICBvZnN0cmVhbSBvdXRmaWxlOwogICAgb3V0ZmlsZS5vcGVuKHBhdGgsIGlvczo6YmluYXJ5KTsKICAgIGlmICghb3V0ZmlsZS5pc19vcGVuKCkpIHsKICAgICAgICBMT0dwcmludGYoIiVzIHdhcyBub3Qgb3Blbi4iLCBwYXRoKTsKICAgICAgICByZXR1cm4gTlVMTDsKICAgIH0KICAgIG91dGZpbGUud3JpdGUoZGV4LCBzaXplKTsKICAgIG91dGZpbGUuZmx1c2goKTsKICAgIG91dGZpbGUuY2xvc2UoKTsKICAgIHJldHVybiBwYXRoOwp9</text>
+        <text encoding="base64">ICAgIG5ka1ZlcnNpb24K</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ka1ZlcnNpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmRrLmRpcj1FXDpcXHRvb2xzXFxhbmRyb2lkLW5kay1yMThiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY2hhciAqZ2V0TWFwSXRlbVR5cGVTdHIodWludDE2X3QgaSkgewogICAgc3dpdGNoIChpKSB7CiAgICAgICAgY2FzZSAweDAwMDA6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVIZWFkZXJJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwMToKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZVN0cmluZ0lkSXRlbSI7CiAgICAgICAgY2FzZSAweDAwMDI6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVUeXBlSWRJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwMzoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZVByb3RvSWRJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwNDoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZUZpZWxkSWRJdGVtIjsKICAgICAgICBjYXNlIDB4MDAwNToKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZU1ldGhvZElkSXRlbSI7CiAgICAgICAgY2FzZSAweDAwMDY6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVDbGFzc0RlZkl0ZW0iOwogICAgICAgIGNhc2UgMHgxMDAwOgogICAgICAgICAgICByZXR1cm4gImtEZXhUeXBlTWFwTGlzdCI7CiAgICAgICAgY2FzZSAweDEwMDE6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVUeXBlTGlzdCI7CiAgICAgICAgY2FzZSAweDEwMDI6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVBbm5vdGF0aW9uU2V0UmVmTGlzdCI7CiAgICAgICAgY2FzZSAweDEwMDM6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVBbm5vdGF0aW9uU2V0SXRlbSI7CiAgICAgICAgY2FzZSAweDIwMDA6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVDbGFzc0RhdGFJdGVtIjsKICAgICAgICBjYXNlIDB4MjAwMToKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZUNvZGVJdGVtIjsKICAgICAgICBjYXNlIDB4MjAwMjoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZVN0cmluZ0RhdGFJdGVtIjsKICAgICAgICBjYXNlIDB4MjAwMzoKICAgICAgICAgICAgcmV0dXJuICJrRGV4VHlwZURlYnVnSW5mb0l0ZW0iOwogICAgICAgIGNhc2UgMHgyMDA0OgogICAgICAgICAgICByZXR1cm4gImtEZXhUeXBlQW5ub3RhdGlvbkl0ZW0iOwogICAgICAgIGNhc2UgMHgyMDA1OgogICAgICAgICAgICByZXR1cm4gImtEZXhUeXBlRW5jb2RlZEFycmF5SXRlbSI7CiAgICAgICAgY2FzZSAweDIwMDY6CiAgICAgICAgICAgIHJldHVybiAia0RleFR5cGVBbm5vdGF0aW9uc0RpcmVjdG9yeUl0ZW0iOwogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIHJldHVybiAiTlVMTCI7CiAgICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IGNoYXIgKndyaXRlRmlsZShjb25zdCBjaGFyICpkZXgsIGludCBzaXplLCBjb25zdCBjaGFyICpwYXRoKSB7CiAgICBvZnN0cmVhbSBvdXRmaWxlOwogICAgb3V0ZmlsZS5vcGVuKHBhdGgsIGlvczo6YmluYXJ5KTsKICAgIGlmICghb3V0ZmlsZS5pc19vcGVuKCkpIHsKICAgICAgICBMT0dwcmludGYoIiVzIHdhcyBub3Qgb3Blbi4iLCBwYXRoKTsKICAgICAgICByZXR1cm4gTlVMTDsKICAgIH0KICAgIG91dGZpbGUud3JpdGUoZGV4LCBzaXplKTsKICAgIG91dGZpbGUuZmx1c2goKTsKICAgIG91dGZpbGUuY2xvc2UoKTsKICAgIHJldHVybiBwYXRoOwp9</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
