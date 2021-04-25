@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>b;i</entry>
         <entry encoding="base64">XDxkYWx2aWtcPg==</entry>
         <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxEZXhQYXRoTGlzdFw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxSZW5hbWVOb3RpZmljYXRpb25TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxGaWxlVXRpbHNcPg==</entry>
         <entry>Dig</entry>
+        <entry encoding="base64">XDxtb2RpZnlDbGFzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -128,7 +128,6 @@
         <mark key="]" line="320" column="0" />
         <mark key="." line="320" column="0" />
       </file>
-      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/shot/Screenshot.java" timestamp="1619314700921" />
       <file name="E:/Project/gpjsauto/buildSrc/src/main/resources/com.gh.gamecenter.plugin.properties" timestamp="1619335689913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -159,11 +158,12 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="11" />
       </file>
-      <file name="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" timestamp="1619340966171">
-        <mark key="'" line="130" column="32" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" timestamp="1619344338656">
+        <mark key="'" line="134" column="26" />
+        <mark key="[" line="109" column="38" />
+        <mark key="]" line="109" column="38" />
+        <mark key="." line="109" column="38" />
+        <mark key="^" line="162" column="33" />
       </file>
       <file name="E:/Project/gpjsauto/buildSrc/src/main/resources/META-INF.gradle-plugins/com.gh.gamecenter.plugin.properties" timestamp="1619337861870" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/CaptureScreenService.java" timestamp="1619315393971" />
@@ -183,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="24" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
-      <jump line="98" column="8" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
-      <jump line="632" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="79" column="25" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
       <jump line="638" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="669" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -283,21 +280,24 @@
       <jump line="77" column="16" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
       <jump line="90" column="20" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
       <jump line="126" column="32" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
+      <jump line="152" column="12" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
+      <jump line="108" column="38" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
+      <jump line="134" column="26" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>filePath</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>filePath</text>
       </register>
       <register name="/" type="4">
-        <text>Dig</text>
+        <text encoding="base64">XDxtb2RpZnlDbGFzc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIjIiArIGZpbGVQYXRoKQo=</text>
@@ -342,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Dig</last-search>
+      <last-search encoding="base64">XDxtb2RpZnlDbGFzc1w+</last-search>
       <last-offset />
-      <last-pattern>Dig</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RpZnlDbGFzc1w+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
