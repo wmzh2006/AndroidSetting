@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXR1cEpWTVw+</entry>
         <entry encoding="base64">XDxwYXJlbnRDbGFzc0xvYWRlclw+</entry>
         <entry encoding="base64">XDxkZXhfcGF0aFw+</entry>
         <entry encoding="base64">XDxkdW1wRGV4SGVhZGVyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxtVGVsTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxpc09wZW5cPg==</entry>
         <entry encoding="base64">XDxvbkV2ZW50XD4=</entry>
+        <entry encoding="base64">XDxwaG9uZU51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,32 +111,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/medium/UninstallService.java" timestamp="1619427755313">
-        <mark key="[" line="25" column="46" />
-      </file>
       <file name="/a.dummy" timestamp="1619427989858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1619440183843" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1619436837664">
         <mark key="[" line="206" column="59" />
         <mark key="]" line="206" column="59" />
         <mark key="^" line="206" column="61" />
         <mark key="." line="206" column="59" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/GMSRecvService.java" timestamp="1619437422633">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" timestamp="1619438353297" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/GMSRecvService.java" timestamp="1619437623875">
         <mark key="'" line="77" column="34" />
-        <mark key="[" line="102" column="40" />
-        <mark key="]" line="103" column="88" />
-        <mark key="^" line="103" column="88" />
-        <mark key="." line="103" column="87" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" timestamp="1619437172138">
-        <mark key="'" line="202" column="16" />
-        <mark key="[" line="133" column="93" />
-        <mark key="]" line="133" column="93" />
-        <mark key="." line="133" column="93" />
-        <mark key="^" line="133" column="52" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" timestamp="1619440021960">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="81" column="43" />
+        <mark key="]" line="81" column="42" />
+        <mark key="." line="81" column="41" />
+        <mark key="^" line="81" column="42" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/protocol/InformationProtocol.java" timestamp="1619439033155" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/build.gradle" timestamp="1619428309934">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="46" />
@@ -150,6 +149,9 @@
         <mark key="^" line="214" column="4" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/AndroidManifest.xml" timestamp="1619429682077" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619440187015">
+        <mark key="[" line="23" column="71" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/b.java" timestamp="1619436370721">
         <mark key="'" line="129" column="23" />
         <mark key="[" line="38" column="0" />
@@ -161,10 +163,15 @@
         <mark key="]" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1619438379193">
+        <mark key="[" line="998" column="65" />
+        <mark key="]" line="998" column="66" />
+        <mark key="." line="998" column="66" />
+        <mark key="^" line="999" column="38" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1619435934832" />
     </filemarks>
     <jumps>
-      <jump line="281" column="54" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="282" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="0" column="1" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
       <jump line="47" column="0" filename="E:/Project/DynamicLoader/tsdk_t/proguard-dictionary_variables.txt" />
@@ -264,79 +271,55 @@
       <jump line="172" column="10" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" />
       <jump line="185" column="20" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" />
       <jump line="202" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" />
+      <jump line="32" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkV2ZW50XD4=</text>
+        <text encoding="base64">XDxwaG9uZU51bWJlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgV2ViVmlld1V0aWwub25FdmVudChjb250ZXh0LCAiY2FsbEdldFNjcmVlbkNhcHR1cmUiLCBsb2csICJwbjogIiArIEpTQXV0b0NvbmZpZy5waG9uZU51bWJlciwgIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiLm9uRXZlbnQoKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL7P1yry7r7vxyKF3YQogICAgICAgIEVudHJhbmNlLmdldEluc3RhbmNlKCkuaW5pdChjb250ZXh0LCBjaWQpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>@Override
-    public String toString() {
-        return &quot;Information{&quot; +
-                &quot;plmn='&quot; + plmn + '\'' +
-                &quot;, sdkv='&quot; + sdkv + '\'' +
-                &quot;, imsi='&quot; + imsi + '\'' +
-                &quot;, notify='&quot; + notify + '\'' +
-                &quot;, network='&quot; + network + '\'' +
-                &quot;, osv='&quot; + osv + '\'' +
-                &quot;, sapi='&quot; + sapi + '\'' +
-                &quot;, phone='&quot; + phone + '\'' +
-                &quot;, sms='&quot; + sms + '\'' +
-                &quot;, imei='&quot; + imei + '\'' +
-                &quot;, aid='&quot; + aid + '\'' +
-                &quot;, brand='&quot; + brand + '\'' +
-                &quot;, cid='&quot; + cid + '\'' +
-                &quot;, height=&quot; + height +
-                &quot;, width=&quot; + width +
-                &quot;, manufacture='&quot; + manufacture + '\'' +
-                &quot;, localLanguage='&quot; + localLanguage + '\'' +
-                &quot;, localCountry='&quot; + localCountry + '\'' +
-                &quot;, model='&quot; + model + '\'' +
-                &quot;, buildVersion='&quot; + buildVersion + '\'' +
-                &quot;, board='&quot; + board + '\'' +
-                '}';
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZigiKzg2MTg4MDY2OTc2MzIiLmVxdWFscyhwaG9uZU51bWJlcikpIHsKICAgICAgICAgICAgcGhvbmVOdW1iZXIgPSAiKzg2MTg4MDY2OTczMzIiOwogICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1pblNka1ZlcnNpb249IjEwIgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6dmVyc2lvbkNvZGU9IjMiCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICBpZigiKzg2MTg4MDY2OTc2MzIiLmVxdWFscyhwaG9uZU51bWJlcikpIHsKICAgICAgICAgICAgcGhvbmVOdW1iZXIgPSAiKzg2MTg4MDY2OTczMzIiOwogICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGlmKCIrODYxODgwNjY5NzYzMiIuZXF1YWxzKHBob25lTnVtYmVyKSkgewogICAgICAgICAgICBwaG9uZU51bWJlciA9ICIrODYxODgwNjY5NzMzMiI7CiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZihUZXh0VXRpbHMuaXNFbXB0eSgpKQo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -348,9 +331,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvbkV2ZW50XD4=</last-search>
+      <last-search encoding="base64">XDxwaG9uZU51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkV2ZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwaG9uZU51bWJlclw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
