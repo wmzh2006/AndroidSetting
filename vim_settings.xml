@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxEZXhQYXRoTGlzdFw+</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxnTG9hZENsYXNzTWV0aG9kXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>Dig</entry>
         <entry encoding="base64">XDxtb2RpZnlDbGFzc1w+</entry>
         <entry encoding="base64">XDxDQVBUUlVFX1NFUlZJQ0VfTkFNRVw+</entry>
+        <entry encoding="base64">XDxvbGRBXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -139,12 +139,12 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619402319558">
-        <mark key="'" line="190" column="4" />
-        <mark key="[" line="400" column="16" />
-        <mark key="]" line="400" column="16" />
-        <mark key="." line="400" column="16" />
-        <mark key="^" line="250" column="50" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619404648291">
+        <mark key="'" line="373" column="8" />
+        <mark key="[" line="401" column="28" />
+        <mark key="]" line="401" column="28" />
+        <mark key="." line="401" column="28" />
+        <mark key="^" line="400" column="21" />
       </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/c0.java" timestamp="1619314833437" />
       <file name="E:/Project/gpjsauto/build.gradle" timestamp="1619334881760" />
@@ -188,9 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="22" filename="E:/tools/android/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdint.h" />
-      <jump line="152" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="48" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="150" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="207" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="64" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -288,21 +285,24 @@
       <jump line="188" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="250" column="36" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="190" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="399" column="30" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="400" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="373" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGluZXMgKz0g</text>
+        <text>s</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGluZXMgKz0g</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDQVBUUlVFX1NFUlZJQ0VfTkFNRVw+</text>
+        <text encoding="base64">XDxvbGRBXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBtYXRjaGVyID0gbGluZSA9fiAvXlxzKmFuZHJvaWQ6bmFtZT0iKC4qU2VydmljZSlbXnNdIi4qLwo=</text>
@@ -347,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDQVBUUlVFX1NFUlZJQ0VfTkFNRVw+</last-search>
+      <last-search encoding="base64">XDxvbGRBXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDQVBUUlVFX1NFUlZJQ0VfTkFNRVw+</last-pattern>
+      <last-pattern encoding="base64">XDxvbGRBXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
