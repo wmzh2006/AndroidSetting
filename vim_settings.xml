@@ -138,8 +138,12 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619330726025">
-        <mark key="'" line="600" column="4" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619400092596">
+        <mark key="'" line="188" column="21" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="190" column="82" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/c0.java" timestamp="1619314833437" />
       <file name="E:/Project/gpjsauto/build.gradle" timestamp="1619334881760" />
@@ -183,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="25" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" />
       <jump line="638" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="669" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="69" column="22" filename="E:/tools/android/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/stdint.h" />
@@ -283,12 +286,13 @@
       <jump line="152" column="12" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
       <jump line="108" column="38" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
       <jump line="134" column="26" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
+      <jump line="188" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>filePath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -303,34 +307,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIjIiArIGZpbGVQYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdENsYXNzLnJlcAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGRpci5hYnNvbHV0ZVBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjdENsYXNzLnJlcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGRpci5hYnNvbHV0ZVBhdGgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLlByb2plY3QK</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlVXRpbHMuY29weUZpbGUoc3JjRmlsZSwgZGVzdCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuYXBpLlByb2plY3QK</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwuaW1wbGRlcC5vcmcuYXBhY2hlLml2eS51dGlsLkZpbGVVdGlsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaWxlVXRpbHMuY29weUZpbGUoc3JjRmlsZSwgZGVzdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwuRmlsZVV0aWxzCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwuaW1wbGRlcC5vcmcuYXBhY2hlLml2eS51dGlsLkZpbGVVdGlsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlVXRpbHMK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5ncmFkbGUuaW50ZXJuYWwuRmlsZVV0aWxzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICBpZCAnVGVzdFBsdWdpbnMnCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZy5hcGFjaGUuY29tbW9ucy5pby5GaWxlVXRpbHMK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
