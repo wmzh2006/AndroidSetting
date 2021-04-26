@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaW5kQ2xhc3NcPg==</entry>
-        <entry encoding="base64">XDxGaW5kQ2xhc3NCeURleExvYWRlclw+</entry>
         <entry encoding="base64">XDxnQ2xhc3NMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxTREtfSU5UXD4=</entry>
         <entry encoding="base64">XDxpbml0X2RleENsYXNzTG9hZGVyXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxtYXRjaGVyQ0FcPg==</entry>
         <entry encoding="base64">XDxDQVBUVVJFX1NFUlZJQ0VcPg==</entry>
         <entry encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</entry>
+        <entry>mediaProjection</entry>
+        <entry encoding="base64">XDxORVdfQ0FQVFVSRV9BQ1RJVklUWVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,7 +111,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1619419364496" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1619420185920" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1619418835976">
         <mark key="'" line="210" column="12" />
         <mark key="[" line="343" column="64" />
@@ -128,20 +128,26 @@
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/ano.java" timestamp="1619417113908" />
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/PermissionShow.java" timestamp="1619416524398" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1619418612900" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619418909461">
-        <mark key="'" line="254" column="36" />
-        <mark key="[" line="413" column="0" />
-        <mark key="]" line="413" column="0" />
-        <mark key="." line="413" column="0" />
-        <mark key="^" line="600" column="120" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619419698968">
+        <mark key="'" line="600" column="85" />
+        <mark key="[" line="600" column="85" />
+        <mark key="]" line="600" column="101" />
+        <mark key="." line="600" column="100" />
+        <mark key="^" line="600" column="101" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/MainActivities.java" timestamp="1619418133675">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619419369680">
-        <mark key="[" line="22" column="70" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1619420092017">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="41" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="50" column="24" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619420195977">
+        <mark key="[" line="22" column="75" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/SMSRecvService.java" timestamp="1619416440201" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1619418154948">
@@ -150,7 +156,8 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" timestamp="1619409657058">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" timestamp="1619419540528">
+        <mark key="'" line="48" column="28" />
         <mark key="[" line="325" column="44" />
         <mark key="]" line="325" column="42" />
         <mark key="^" line="325" column="42" />
@@ -176,11 +183,6 @@
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/Screenshot.java" timestamp="1619416276017" />
     </filemarks>
     <jumps>
-      <jump line="594" column="32" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="596" column="17" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="55" column="31" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="83" column="29" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="86" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="177" column="28" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="242" column="78" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="269" column="48" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
@@ -242,7 +244,6 @@
       <jump line="255" column="21" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="142" column="20" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="62" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/dex/DexFileParser.cpp" />
-      <jump line="600" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="77" column="16" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
       <jump line="90" column="20" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
       <jump line="126" column="32" filename="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" />
@@ -276,24 +277,30 @@
       <jump line="322" column="56" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
       <jump line="149" column="4" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
       <jump line="209" column="12" filename="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" />
+      <jump line="347" column="55" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
+      <jump line="352" column="65" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
+      <jump line="353" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
+      <jump line="355" column="68" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
+      <jump line="48" column="28" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" />
+      <jump line="600" column="85" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
+        <text encoding="base64">LWtlZXAgY2xhc3MgKiBleHRlbmRzIGFuZHJvaWQuYXBwLlNlcnZpY2UK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>SERVICE</text>
+        <text>NEW_CAPTURE_ACTIVITY</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</text>
+        <text encoding="base64">XDxORVdfQ0FQVFVSRV9BQ1RJVklUWVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWYgbmFtZSA9IG1hdGNoZXJDQS5ncm91cCgxKQogICAgICAgICAgICAgICAgICAgIGRlZiBuZXdMaW5lID0gbGluZS5yZXBsYWNlQWxsKG5hbWUsIENBUFRVUkVfU0VSVklDRSkKICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSBuZXdMaW5lCiAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gIlxuIgogICAgICAgICAgICAgICAgICAgIGlzUmVwbGFjZSA9IHRydWUKIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">LWtlZXAgY2xhc3MgKiBleHRlbmRzIGFuZHJvaWQuYXBwLlNlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
@@ -335,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</last-search>
+      <last-search encoding="base64">XDxORVdfQ0FQVFVSRV9BQ1RJVklUWVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxORVdfQ0FQVFVSRV9BQ1RJVklUWVw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
