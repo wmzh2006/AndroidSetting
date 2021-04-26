@@ -111,12 +111,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1619408393681">
-        <mark key="'" line="209" column="12" />
-        <mark key="[" line="157" column="35" />
-        <mark key="]" line="157" column="35" />
-        <mark key="." line="157" column="35" />
-        <mark key="^" line="157" column="42" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1619419364496" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1619418835976">
+        <mark key="'" line="210" column="12" />
+        <mark key="[" line="343" column="64" />
+        <mark key="]" line="343" column="64" />
+        <mark key="." line="343" column="64" />
+        <mark key="^" line="342" column="43" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/GMSRecvService.java" timestamp="1619416388418">
         <mark key="[" line="53" column="29" />
@@ -126,26 +127,21 @@
       </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/ano.java" timestamp="1619417113908" />
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/PermissionShow.java" timestamp="1619416524398" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619418409849">
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1619418612900" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619418909461">
         <mark key="'" line="254" column="36" />
-        <mark key="[" line="383" column="71" />
-        <mark key="]" line="383" column="90" />
-        <mark key="." line="383" column="89" />
-        <mark key="^" line="383" column="90" />
+        <mark key="[" line="413" column="0" />
+        <mark key="]" line="413" column="0" />
+        <mark key="." line="413" column="0" />
+        <mark key="^" line="600" column="120" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/MainActivities.java" timestamp="1619418133675">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1619405692427">
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="51" column="41" />
-        <mark key="." line="51" column="41" />
-        <mark key="^" line="50" column="24" />
-      </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619416473938">
-        <mark key="[" line="23" column="72" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619419369680">
+        <mark key="[" line="22" column="70" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/SMSRecvService.java" timestamp="1619416440201" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1619418154948">
@@ -164,7 +160,6 @@
         <mark key="[" line="9" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/AndroidManifest.xml" timestamp="1619418179137">
-        <mark key="[" line="35" column="18" />
         <mark key="]" line="40" column="71" />
         <mark key="." line="40" column="70" />
         <mark key="^" line="40" column="71" />
@@ -285,47 +280,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>SERVICE_CLASS_NAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>SERVICE_CLASS_NAME</text>
+        <text>SERVICE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBvbGRBID0gIXJlc3RvcmUgPyBPTERfQ0FQVFVSRV9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfQ0FQVFVSRV9TRVJWSUNFX0NMQVNTX05BTUUKICAgIGRlZiBuZXdBID0gcmVzdG9yZSA/IE9MRF9DQVBUVVJFX1NFUlZJQ0VfQ0xBU1NfTkFNRSA6IE5FV19DQVBUVVJFX1NFUlZJQ0VfQ0xBU1NfTkFNRQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWYgbmFtZSA9IG1hdGNoZXJDQS5ncm91cCgxKQogICAgICAgICAgICAgICAgICAgIGRlZiBuZXdMaW5lID0gbGluZS5yZXBsYWNlQWxsKG5hbWUsIENBUFRVUkVfU0VSVklDRSkKICAgICAgICAgICAgICAgICAgICBsaW5lcyArPSBuZXdMaW5lCiAgICAgICAgICAgICAgICAgICAgbGluZXMgKz0gIlxuIgogICAgICAgICAgICAgICAgICAgIGlzUmVwbGFjZSA9IHRydWUKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obGluZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCIjIyMjIyMjIyMjIyMjIyMjIyMjIyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
