@@ -126,12 +126,17 @@
       </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/ano.java" timestamp="1619417113908" />
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/PermissionShow.java" timestamp="1619416524398" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619408311944">
-        <mark key="'" line="250" column="36" />
-        <mark key="[" line="137" column="35" />
-        <mark key="]" line="137" column="35" />
-        <mark key="." line="137" column="35" />
-        <mark key="^" line="137" column="47" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1619418409849">
+        <mark key="'" line="254" column="36" />
+        <mark key="[" line="383" column="71" />
+        <mark key="]" line="383" column="90" />
+        <mark key="." line="383" column="89" />
+        <mark key="^" line="383" column="90" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/efqps/yivj/MainActivities.java" timestamp="1619418133675">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1619405692427">
         <mark key="[" line="51" column="41" />
@@ -143,6 +148,12 @@
         <mark key="[" line="23" column="72" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/SMSRecvService.java" timestamp="1619416440201" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/AndroidManifest.xml" timestamp="1619418154948">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="45" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" timestamp="1619409657058">
         <mark key="[" line="325" column="44" />
         <mark key="]" line="325" column="42" />
@@ -152,15 +163,11 @@
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/WebViewUtil.java" timestamp="1619416312785">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/AndroidManifest.xml" timestamp="1619408353462">
-        <mark key="." line="2" column="35" />
-      </file>
-      <file name="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" timestamp="1619344338656">
-        <mark key="'" line="134" column="26" />
-        <mark key="[" line="109" column="38" />
-        <mark key="]" line="109" column="38" />
-        <mark key="." line="109" column="38" />
-        <mark key="^" line="162" column="33" />
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/AndroidManifest.xml" timestamp="1619418179137">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="40" column="71" />
+        <mark key="." line="40" column="70" />
+        <mark key="^" line="40" column="71" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1619409708682">
         <mark key="[" line="999" column="37" />
@@ -168,7 +175,7 @@
         <mark key="." line="999" column="37" />
         <mark key="^" line="999" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1619416303317">
+      <file name="/fragment.java" timestamp="1619418008778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/shot/Screenshot.java" timestamp="1619416276017" />
@@ -279,51 +286,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;eventName=&quot;+eventName + &quot;,【&quot; + detail+ &quot;】,url= &quot; + url
-				+ &quot; ,extra=&quot; + extra</text>
+        <text>SERVICE_CLASS_NAME</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>JSDebugLog</text>
+        <text>SERVICE_CLASS_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;eventName=&quot;+eventName + &quot;,【&quot; + detail+ &quot;】,url= &quot; + url
-				+ &quot; ,extra=&quot; + extra</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBvbGRBID0gIXJlc3RvcmUgPyBPTERfQ0FQVFVSRV9TRVJWSUNFX0NMQVNTX05BTUUgOiBORVdfQ0FQVFVSRV9TRVJWSUNFX0NMQVNTX05BTUUKICAgIGRlZiBuZXdBID0gcmVzdG9yZSA/IE9MRF9DQVBUVVJFX1NFUlZJQ0VfQ0xBU1NfTkFNRSA6IE5FV19DQVBUVVJFX1NFUlZJQ0VfQ0xBU1NfTkFNRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoMCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBsaW5lcyArPSBsaW5lLnJlcGxhY2Uob2xkQSwgbmV3QSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdENsYXNzLnJlcAo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGRpci5hYnNvbHV0ZVBhdGgpCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9qZWN0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
