@@ -21,10 +21,10 @@
         <entry encoding="base64">XDx3cml0ZUZpbGVcPg==</entry>
         <entry encoding="base64">XDxjb25maWdTdGFydFw+</entry>
         <entry>-ignore</entry>
-        <entry encoding="base64">XDxzdGFydFRpbWVyXD4=</entry>
-        <entry encoding="base64">XDx0aW1lclw+</entry>
-        <entry encoding="base64">XDxzdG9wVGltZXJcPg==</entry>
         <entry encoding="base64">XDx0aW1lVGFza1w+</entry>
+        <entry encoding="base64">XDxzdG9wVGltZXJcPg==</entry>
+        <entry encoding="base64">XDx0aW1lclw+</entry>
+        <entry encoding="base64">XDxzdGFydFRpbWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -112,8 +112,11 @@
     <globalmarks />
     <filemarks>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/libs/tsdk_lib.jar!/com/certinstaller/lib/util/Bridge905.class" timestamp="1619578659957" />
-      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" timestamp="1619588229878">
-        <mark key="'" line="360" column="8" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" timestamp="1619595558208">
+        <mark key="'" line="340" column="12" />
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1619579186335" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1619592202062">
@@ -122,8 +125,15 @@
         <mark key="]" line="334" column="0" />
         <mark key="." line="334" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1619588160476" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1619593879782">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1619581498504" />
+      <file name="/Dummy.txt" timestamp="1619593806056">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/play/app/receiver/UserPersentReceiverImpl.java" timestamp="1619575894041">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -134,14 +144,17 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1619592090024">
-        <mark key="[" line="17" column="54" />
+      <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1619595122233">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="78" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/android/providers/certinstaller/CertinstallerReceiver.java" timestamp="1619576009553">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/edc4/rfv6/InitStart.java" timestamp="1619593855404" />
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/build.gradle" timestamp="1619591214016">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
@@ -161,17 +174,6 @@
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/cgallery/Servicecgallery.java" timestamp="1619578540666" />
     </filemarks>
     <jumps>
-      <jump line="400" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="450" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="734" column="14" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="735" column="14" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="736" column="21" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="377" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="382" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="389" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="390" column="12" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="391" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="392" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="446" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="189" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="373" column="59" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -233,13 +235,8 @@
       <jump line="369" column="17" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="346" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="378" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="41" column="18" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="144" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="145" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="125" column="20" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="143" column="17" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="228" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="340" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="360" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="55" column="18" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="102" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
@@ -261,72 +258,70 @@
       <jump line="105" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="386" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="57" column="14" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="345" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="373" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="377" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="333" column="16" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="374" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="125" column="20" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="143" column="17" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="228" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="361" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="371" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="372" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="376" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="41" column="18" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="147" column="78" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="366" column="17" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="340" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfTE9HLCBsb2dPbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb20uZWRjNC5yZnY2LkluaXRTdGFydC5pbml0KE1haW5BY3Rpdml0eS50aGlzLCAiMTA1NTcwIik7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>library</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lVGFza1w+</text>
+        <text encoding="base64">XDxzdGFydFRpbWVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmVhbHNlQ29uZmlnLmRlZmF1bHRfY2lkX2Zvcm1faW50ZW50ID0gaW50ZW50LmdldFN0cmluZ0V4dHJhKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiWTJsa1gydGxlUT09IikvKmNpZF9rZXkqLyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfTE9HLCBsb2dPbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb20uZWRjNC5yZnY2LkluaXRTdGFydC5pbml0KE1haW5BY3Rpdml0eS50aGlzLCAiMTA1NTcwIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfUEFUSCwgY29udGV4dC5nZXRGaWxlU3RyZWFtUGF0aChnZXRSZWFsRmlsZU5hbWUoY29udGV4dCwgU19BUEspKS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbS5lZGM0LnJmdjYuSW5pdFN0YXJ0LmluaXQodGhpcywgIjEwNTU3MCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGNvbS5lZGM0LnJmdjYuSW5pdFN0YXJ0LmluaXQodGhpcywgIjEwNTU3MCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text>//        /* 混淆不杀我，JD看不到我：start */
-//        {
-//            FileOutputStream fos123 = null;
-//            Object obj123456 = this/*this*/;
-//            try {
-//                if (fos123 != null || obj123456 == null) {
-//                    fos123 = new FileOutputStream(&quot;&quot;);
-//                    fos123.flush();
-//                }
-//            } catch (IOException e321) {
-//                e321.printStackTrace();
-//            } finally {
-//                try {
-//                    if (fos123 != null) fos123.close();
-//                } catch (IOException e123) {
-//                    e123.printStackTrace();
-//                }
-//            }
-//        }/* 混淆不杀我，JD看不到我：end */</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mb3VycWF6LnNpeHdzeC52Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGltZXIgPT0gbnVsbCkgewogICAgICAgICAgICB0aW1lciA9IG5ldyBUaW1lcigpOwogICAgICAgIH0KICAgICAgICBzdG9wVGltZXIoKTsKICAgICAgICB0aW1lVGFzayA9IG5ldyBMb2FkVGFzayh0aGlzKTsKICAgICAgICB0aW1lci5zY2hlZHVsZSh0aW1lVGFzaywgMCwgMzAgKiA2MCAqIDEwMDApOy8vbG9vcCAzMG1pbgo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGltZXIgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgIHRpbWVyLnB1cmdlKCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKLy8gICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWVyICE9IG51bGwpIHsK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -338,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aW1lVGFza1w+</last-search>
+      <last-search encoding="base64">XDxzdGFydFRpbWVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lVGFza1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydFRpbWVyXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
