@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDQVBUUlVFX1NFUlZJQ0VfTkFNRVw+</entry>
-        <entry encoding="base64">XDxtYXRjaGVyQ0FcPg==</entry>
-        <entry encoding="base64">XDxDQVBUVVJFX1NFUlZJQ0VcPg==</entry>
         <entry encoding="base64">XDxPVVRFUl9TRVJWSUNFXD4=</entry>
         <entry>mediaProjection</entry>
         <entry encoding="base64">XDxORVdfQ0FQVFVSRV9BQ1RJVklUWVw+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDx3cml0ZUZpbGVcPg==</entry>
         <entry encoding="base64">XDxjb25maWdTdGFydFw+</entry>
         <entry>-ignore</entry>
+        <entry encoding="base64">XDxzdGFydFRpbWVyXD4=</entry>
+        <entry encoding="base64">XDx0aW1lclw+</entry>
+        <entry encoding="base64">XDxzdG9wVGltZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -112,6 +112,9 @@
     <globalmarks />
     <filemarks>
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/libs/tsdk_lib.jar!/com/certinstaller/lib/util/Bridge905.class" timestamp="1619578659957" />
+      <file name="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" timestamp="1619588229878">
+        <mark key="'" line="360" column="8" />
+      </file>
       <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1619579186335" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1619579509539">
         <mark key="'" line="282" column="17" />
@@ -120,10 +123,8 @@
         <mark key="^" line="333" column="47" />
         <mark key="." line="333" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk_t/build.gradle" timestamp="1619588160476" />
       <file name="E:/Project/DynamicLoader/dl_middle/build.gradle" timestamp="1619581498504" />
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619486547337">
-        <mark key="[" line="23" column="75" />
-      </file>
       <file name="/Dummy.txt" timestamp="1619493408486">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,17 +165,6 @@
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/cgallery/Servicecgallery.java" timestamp="1619578540666" />
     </filemarks>
     <jumps>
-      <jump line="23" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
-      <jump line="107" column="36" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
-      <jump line="66" column="7" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="317" column="23" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="366" column="24" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="367" column="81" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="454" column="8" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="494" column="18" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="47" column="15" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="68" column="63" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
-      <jump line="569" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="571" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="497" column="5" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
       <jump line="503" column="4" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
@@ -264,6 +254,17 @@
       <jump line="307" column="16" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="282" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="32" column="27" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/proguard.cfg" />
+      <jump line="369" column="17" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="346" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="378" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="41" column="18" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="144" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="145" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="125" column="20" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="143" column="17" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="228" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="340" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
+      <jump line="360" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,7 +279,7 @@
         <text>library</text>
       </register>
       <register name="/" type="4">
-        <text>-ignore</text>
+        <text encoding="base64">XDxzdG9wVGltZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmVhbHNlQ29uZmlnLmRlZmF1bHRfY2lkX2Zvcm1faW50ZW50ID0gaW50ZW50LmdldFN0cmluZ0V4dHJhKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiWTJsa1gydGxlUT09IikvKmNpZF9rZXkqLyk7Cg==</text>
@@ -323,9 +324,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>-ignore</last-search>
+      <last-search encoding="base64">XDxzdG9wVGltZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>-ignore</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9wVGltZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
