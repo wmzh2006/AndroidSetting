@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxORVdfQ0FQVFVSRV9TRVJWSUNFX0NMQVNTX05BTUVcPg==</entry>
         <entry encoding="base64">XDxDQVBUUlVFX1NFUlZJQ0VfTkFNRVw+</entry>
         <entry encoding="base64">XDxtYXRjaGVyQ0FcPg==</entry>
         <entry encoding="base64">XDxDQVBUVVJFX1NFUlZJQ0VcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxNX0FQS1w+</entry>
         <entry encoding="base64">XDx3cml0ZUZpbGVcPg==</entry>
         <entry encoding="base64">XDxjb25maWdTdGFydFw+</entry>
+        <entry>-ignore</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,38 +111,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/DexCatch.h" timestamp="1619486072370">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/AESUtil.java" timestamp="1619442434949">
-        <mark key="'" line="398" column="15" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1619515380707">
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/libs/tsdk_lib.jar!/com/certinstaller/lib/util/Bridge905.class" timestamp="1619578659957" />
+      <file name="E:/Project/DynamicLoader/dl_middle/src/main/java/com/a/b/z/boost.java" timestamp="1619579186335" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1619579509539">
         <mark key="'" line="282" column="17" />
-        <mark key="[" line="289" column="37" />
-        <mark key="]" line="289" column="35" />
-        <mark key="." line="289" column="34" />
-        <mark key="^" line="289" column="35" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/DexFileParser.cpp" timestamp="1619486015690">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+        <mark key="[" line="333" column="0" />
+        <mark key="]" line="333" column="0" />
+        <mark key="^" line="333" column="47" />
+        <mark key="." line="333" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1619486547337">
         <mark key="[" line="23" column="75" />
       </file>
       <file name="/Dummy.txt" timestamp="1619493408486">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/GMSRecvService.java" timestamp="1619444004882">
-        <mark key="'" line="77" column="34" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/play/app/receiver/UserPersentReceiverImpl.java" timestamp="1619575894041">
         <mark key="[" line="16" column="0" />
@@ -158,26 +140,26 @@
         <mark key="[" line="17" column="54" />
       </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/play/app/util/WebViewFactory.java" timestamp="1619575408758" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" timestamp="1619445574457">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="182" column="4" />
-        <mark key="]" line="182" column="4" />
-        <mark key="." line="182" column="4" />
-        <mark key="^" line="182" column="7" />
-      </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/android/providers/certinstaller/CertinstallerReceiver.java" timestamp="1619576009553">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1619577891436">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/build.gradle" timestamp="1619580039495">
+        <mark key="[" line="11" column="0" />
       </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/proguard.cfg" timestamp="1619580122478">
+        <mark key="'" line="32" column="27" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/android/providers/certinstaller/CoreBase.java" timestamp="1619579483398">
+        <mark key="[" line="172" column="17" />
+        <mark key="]" line="171" column="68" />
+        <mark key="." line="171" column="67" />
+        <mark key="^" line="171" column="68" />
+      </file>
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/android/providers/cgallery/Servicecgallery.java" timestamp="1619578540666" />
     </filemarks>
     <jumps>
-      <jump line="17" column="34" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="23" column="30" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="107" column="36" filename="$USER_HOME$/Desktop/Wallpaper4k-417/Wallpaper4k/app/src/main/cpp/JniUntils.c" />
       <jump line="66" column="7" filename="$USER_HOME$/Desktop/Wallpaper4k/app/src/main/cpp/native-lib.c" />
@@ -277,54 +259,55 @@
       <jump line="346" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="307" column="16" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="282" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="32" column="27" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/proguard.cfg" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCUNlcnRpbnN0YWxsZXJSZWNlaXZlci5nZXRJbnN0YW5jZSgpLm9uUmVjZWl2ZShtQ29udGV4dCxpbnRlbnQsc2Vydl9jbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfTE9HLCBsb2dPbik7Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>dexOutPath</text>
+        <text>intent.getStringExtra</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdTdGFydFw+</text>
+        <text>-ignore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbSA9IGdldFJlYWxGaWxlTmFtZShjdHgsIE1fQVBLKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmVhbHNlQ29uZmlnLmRlZmF1bHRfY2lkX2Zvcm1faW50ZW50ID0gaW50ZW50LmdldFN0cmluZ0V4dHJhKFN0clByb2Nlc3NpbmcuRGVjcnlwdCgiWTJsa1gydGxlUT09IikvKmNpZF9rZXkqLyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCUNlcnRpbnN0YWxsZXJSZWNlaXZlci5nZXRJbnN0YW5jZSgpLm9uUmVjZWl2ZShtQ29udGV4dCxpbnRlbnQsc2Vydl9jbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfTE9HLCBsb2dPbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSAoSW50ZW50KSBpbnRlbnRNYXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJQ29yZVNlcnZpY2VJbXBsLm9uU3RhcnRDb21tYW5kTWV0aG9kKEVuZ2luZUFwcENvbnRleHQpOy8v16LP+tXivuS+zcTcubvKtc/WOsiltfS547jmuabE3Cyxo8H0Uk9PVLmmxNwK</text>
+        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfQ0lELCBjb25maWdEYXRhLmdldENpZCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAkJVXNlclBlcnNlbnRSZWNlaXZlckltcGwub25SZWNlaXZlKGNvbnRleHQsIGludGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFwLnB1dChDb25zdGFucy5LRVlfUEFUSCwgY29udGV4dC5nZXRGaWxlU3RyZWFtUGF0aChnZXRSZWFsRmlsZU5hbWUoY29udGV4dCwgU19BUEspKS5nZXRBYnNvbHV0ZVBhdGgoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wbGF5LmFwcC5yZWNlaXZlci5Vc2VyUGVyc2VudFJlY2VpdmVySW1wbDsK</text>
+        <text encoding="base64">ICAgICAgICBpbWFwLnB1dCgidmVyX2tleSIsIFJlbGVhc2UudmVyc2lvbisiIik7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wbGF5LmFwcC51dGlsLktleVV0aWw7Cg==</text>
+        <text encoding="base64">CQkJCUNlcnRpbnN0YWxsZXJSZWNlaXZlci5nZXRJbnN0YW5jZSgpLm9uUmVjZWl2ZShtQ29udGV4dCxpbnRlbnQsc2Vydl9jbHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBpbnRlbnQgPSAoSW50ZW50KSBpbnRlbnRNYXA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJQ29yZVNlcnZpY2VJbXBsLm9uU3RhcnRDb21tYW5kTWV0aG9kKEVuZ2luZUFwcENvbnRleHQpOy8v16LP+tXivuS+zcTcubvKtc/WOsiltfS547jmuabE3Cyxo8H0Uk9PVLmmxNwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIAkJVXNlclBlcnNlbnRSZWNlaXZlckltcGwub25SZWNlaXZlKGNvbnRleHQsIGludGVudCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -336,9 +319,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25maWdTdGFydFw+</last-search>
+      <last-search>-ignore</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdTdGFydFw+</last-pattern>
+      <last-pattern>-ignore</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
