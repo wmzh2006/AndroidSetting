@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290T3Zlck1zZ1w+</entry>
         <entry encoding="base64">XDxzZW5kUm9vdE92ZXJNc2dcPg==</entry>
         <entry encoding="base64">XDxoYXNCZWVuUm9vdFw+</entry>
         <entry encoding="base64">XDxTREtfSU5UXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDx0aW1lVGFza1w+</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -130,8 +130,8 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" timestamp="1619611081511">
-        <mark key="'" line="134" column="18" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" timestamp="1619688152195">
+        <mark key="'" line="6" column="23" />
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="31" />
         <mark key="^" line="93" column="23" />
@@ -169,11 +169,11 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/impl/core/Impl.java" timestamp="1619611846778">
         <mark key="'" line="1124" column="8" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/build.gradle" timestamp="1619665415195">
-        <mark key="[" line="111" column="75" />
-        <mark key="]" line="111" column="75" />
-        <mark key="^" line="102" column="21" />
-        <mark key="." line="111" column="75" />
+      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/build.gradle" timestamp="1619688204180">
+        <mark key="[" line="84" column="66" />
+        <mark key="]" line="84" column="66" />
+        <mark key="." line="84" column="65" />
+        <mark key="^" line="84" column="66" />
       </file>
       <file name="E:/Project/DynamicLoader/demo/build.gradle" timestamp="1619675919211">
         <mark key="[" line="9" column="23" />
@@ -188,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="16" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="98" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="99" column="23" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="105" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="386" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
@@ -288,12 +286,14 @@
       <jump line="412" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="413" column="77" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="415" column="69" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="21" column="31" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" />
+      <jump line="6" column="23" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;105866&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VtYmxlUmVsZWFzZS5tdXN0UnVuQWZ0ZXIgY29uZmlnVmVyQW5kQ2lkCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -302,40 +302,40 @@
         <text>&quot;105866&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lclw+</text>
+        <text encoding="base64">XDx2ZXJzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVuY3J5KCJFOlxcQW5kcm9pZFN0dWRpb1Byb2plY3RzXFxQcm9qZWN0XFxBRF9TT19TREtfSU1QTDFcXGFwcFxcYnVpbGRcXGludGVybWVkaWF0ZXNcXHRyYW5zZm9ybXNcXHI4XFxyZWxlYXNlXFwwXFxjbGFzc2VzLmRleCIsICJhYS4xIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb20uYmIuY2MudjEwLmlkay5TZGsuaW5pdGlhbGl6ZShjb250ZXh0LCAiNmQwZjNmYTMwMDc0MTFlYjk3OTk1MDZiNGIxMmM3NjAiKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VtYmxlUmVsZWFzZS5tdXN0UnVuQWZ0ZXIgY29uZmlnVmVyQW5kQ2lkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lVGFzayA9IG5ldyBiKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb20uYmIuY2MudjEwLmlkay5TZGsuaW5pdGlhbGl6ZShjb250ZXh0LCAiNmQwZjNmYTMwMDc0MTFlYjk3OTk1MDZiNGIxMmM3NjAiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lciA9IG5ldyBUaW1lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZUlucHV0U3RyZWFtLnJlYWQoZGF0YSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lVGFzayA9IG5ldyBiKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lciA9IG5ldyBUaW1lcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpbGUoZGV4UGF0aCkuZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZUlucHV0U3RyZWFtLnJlYWQoZGF0YSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -347,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aW1lclw+</last-search>
+      <last-search encoding="base64">XDx2ZXJzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lclw+</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJzaW9uXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
