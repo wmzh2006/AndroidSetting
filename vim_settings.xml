@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sendRootOverMsg</entry>
-        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
-        <entry encoding="base64">XDxpc1Jvb3RCdXN5XD4=</entry>
         <entry encoding="base64">XDxyb290T3Zlck1zZ1w+</entry>
         <entry encoding="base64">XDxzZW5kUm9vdE92ZXJNc2dcPg==</entry>
         <entry encoding="base64">XDxoYXNCZWVuUm9vdFw+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxjb3B5QW5kTG9hZFw+</entry>
         <entry encoding="base64">XDxsb2FkZXJTREtcPg==</entry>
         <entry encoding="base64">XDxsb2FkZGVyXD4=</entry>
+        <entry encoding="base64">XDxzdGFydFw+</entry>
+        <entry encoding="base64">XDx0aW1lVGFza1w+</entry>
+        <entry encoding="base64">XDx0aW1lclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,6 +111,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/SpUtils.java" timestamp="1619660000743">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/android/providers/certinstaller/ProviderService.java" timestamp="1619610458519">
         <mark key="'" line="119" column="17" />
         <mark key="[" line="291" column="129" />
@@ -118,43 +123,18 @@
         <mark key="^" line="291" column="90" />
         <mark key="." line="291" column="89" />
       </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/libs/tsdk_lib.jar!/com/certinstaller/lib/util/Constant905.class" timestamp="1619610411397" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1619675062861">
+        <mark key="'" line="415" column="69" />
+        <mark key="[" line="433" column="0" />
+        <mark key="]" line="433" column="0" />
+        <mark key="." line="433" column="0" />
+      </file>
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" timestamp="1619611081511">
         <mark key="'" line="134" column="18" />
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="31" />
         <mark key="^" line="93" column="23" />
         <mark key="." line="8" column="31" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/vioe/zizge/Start.java" timestamp="1619599860396" />
-      <file name="E:/Project/DynamicLoader/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" timestamp="1619600564219">
-        <mark key="[" line="159" column="34" />
-        <mark key="]" line="159" column="16" />
-        <mark key="." line="159" column="15" />
-        <mark key="^" line="159" column="16" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1619600870145">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="39" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/SpUtils.java" timestamp="1619660000743">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/libs/dd-lib4.jar!/com/ecfudl/dynamicload/extern/DLSystem.class" timestamp="1619609441279" />
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/SDK.java" timestamp="1619599811277" />
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/libs/dd-lib4.jar!/com/ecfudl2/agent/SenderConfig.class" timestamp="1619611399551" />
-      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1619612231548">
-        <mark key="'" line="1022" column="44" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1619666718481">
-        <mark key="'" line="175" column="20" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="39" />
-        <mark key="." line="274" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/settings.gradle" timestamp="1619598449326">
         <mark key="[" line="9" column="14" />
@@ -184,27 +164,26 @@
         <mark key="]" line="44" column="39" />
         <mark key="." line="44" column="39" />
       </file>
-      <file name="E:/Project/gpjsauto/testplugin/build.gradle" timestamp="1619601073130" />
+      <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1619612231548">
+        <mark key="'" line="1022" column="44" />
+      </file>
+      <file name="E:/Project/DynamicLoader/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" timestamp="1619600564219">
+        <mark key="[" line="159" column="34" />
+        <mark key="]" line="159" column="16" />
+        <mark key="." line="159" column="15" />
+        <mark key="^" line="159" column="16" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1619600870145">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="145" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="360" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="55" column="18" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="102" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="106" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="110" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="111" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="371" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="109" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="182" column="20" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="226" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="389" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="436" column="16" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="98" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="99" column="23" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="103" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="104" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="105" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="386" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="57" column="14" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
@@ -257,7 +236,6 @@
       <jump line="1022" column="44" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="193" column="19" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="282" column="77" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="58" column="23" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="122" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="229" column="43" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="329" column="35" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
@@ -287,12 +265,28 @@
       <jump line="264" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="68" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="175" column="20" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="221" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="367" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="60" column="14" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="96" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="101" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="102" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="103" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="434" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="58" column="18" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="91" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="92" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="97" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="104" column="76" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="412" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="413" column="77" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
+      <jump line="415" column="69" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZUlucHV0U3RyZWFtLnJlYWQoZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -301,22 +295,22 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkZGVyXD4=</text>
+        <text encoding="base64">XDx0aW1lclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVuY3J5KCJFOlxcQW5kcm9pZFN0dWRpb1Byb2plY3RzXFxQcm9qZWN0XFxBRF9TT19TREtfSU1QTDFcXGFwcFxcYnVpbGRcXGludGVybWVkaWF0ZXNcXHRyYW5zZm9ybXNcXHI4XFxyZWxlYXNlXFwwXFxjbGFzc2VzLmRleCIsICJhYS4xIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZUlucHV0U3RyZWFtLnJlYWQoZGF0YSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lVGFzayA9IG5ldyBiKCk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lciA9IG5ldyBUaW1lcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpbGUoZGV4UGF0aCkuZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZUlucHV0U3RyZWFtLnJlYWQoZGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -325,16 +319,16 @@
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihuZWVkRm9yY2VVcGRhdGUoY29udGV4dCkpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpbGUoZGV4UGF0aCkuZGVsZXRlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3B5KGNvbnRleHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -346,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2FkZGVyXD4=</last-search>
+      <last-search encoding="base64">XDx0aW1lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lclw+</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
