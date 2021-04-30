@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZVJlc3BvbmVcPg==</entry>
-        <entry encoding="base64">XDxmZXRjaENvZmlnXD4=</entry>
         <entry encoding="base64">XDxuZWVkRm9yY2VVcGRhdGVcPg==</entry>
         <entry encoding="base64">XDxjb3B5QW5kTG9hZFw+</entry>
         <entry encoding="base64">XDxsb2FkZGVyXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxMb2djYXRBY3Rpb25vbkV2ZW50XD4=</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDxUcmFja1V0aWxcPg==</entry>
+        <entry>ReleaseConfig</entry>
+        <entry encoding="base64">XDxjb25maWdWZXJBbmRDaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,12 +111,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1619762875002">
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1619763089253">
         <mark key="'" line="160" column="46" />
-        <mark key="[" line="154" column="5" />
-        <mark key="]" line="154" column="5" />
-        <mark key="." line="154" column="5" />
-        <mark key="^" line="154" column="10" />
+        <mark key="[" line="168" column="5" />
+        <mark key="]" line="168" column="5" />
+        <mark key="." line="168" column="5" />
+        <mark key="^" line="168" column="6" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/libs/WAP_V24_20210309.jar!/com/afk/qli/Plugin.class" timestamp="1619676461077" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" timestamp="1619675372628">
@@ -132,11 +132,12 @@
         <mark key="[" line="11" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2021042914/readme.txt" timestamp="1619679514145" />
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1619753697955">
-        <mark key="'" line="103" column="4" />
-        <mark key="[" line="111" column="4" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1619763627716">
+        <mark key="'" line="135" column="5" />
+        <mark key="[" line="103" column="43" />
+        <mark key="]" line="103" column="44" />
+        <mark key="." line="103" column="43" />
+        <mark key="^" line="103" column="44" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/SpUtils.java" timestamp="1619660000743">
         <mark key="[" line="39" column="0" />
@@ -150,11 +151,6 @@
         <mark key="^" line="7" column="39" />
       </file>
       <file name="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/app/proguard.cfg" timestamp="1619762226718" />
-      <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/android/providers/certinstaller/CertinstallerService.java" timestamp="1619610848900">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/demo/src/main/java/com/oa/twioce/nioke/demo/MainActivity.java" timestamp="1619753897918">
         <mark key="[" line="23" column="67" />
         <mark key="]" line="23" column="47" />
@@ -164,6 +160,7 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/com/impl/core/Impl.java" timestamp="1619611846778">
         <mark key="'" line="1124" column="8" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1619763521950" />
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" timestamp="1619761912972">
         <mark key="'" line="369" column="17" />
         <mark key="[" line="436" column="0" />
@@ -183,6 +180,7 @@
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/libs/eve_a_trace.jar!/com/myps/event/HttpDataUtil.class" timestamp="1619763981560" />
       <file name="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" timestamp="1619612231548">
         <mark key="'" line="1022" column="44" />
       </file>
@@ -191,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="412" column="17" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
-      <jump line="1091" column="17" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="1096" column="87" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="1106" column="8" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
       <jump line="1330" column="8" filename="E:/AndroidStudioProjects/Project/NO_AD_SO_SDK_IMPL/src/main/java/com/impl/core/Impl.java" />
@@ -291,21 +287,23 @@
       <jump line="369" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
       <jump line="158" column="44" filename="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" />
       <jump line="160" column="46" filename="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" />
+      <jump line="68" column="4" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="135" column="5" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3NtZW1iZXJzIA==</text>
+        <text>)</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3NtZW1iZXJzIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcmFja1V0aWxcPg==</text>
+        <text encoding="base64">XDxjb25maWdWZXJBbmRDaWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2NhdEFjdGlvbm9uRXZlbnQoY29udGV4dCwgImR6IiwgIiIsICJkcjogIiArIGNvZGUsICIiICsgZXJyb3JNc2cpOwo=</text>
@@ -350,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUcmFja1V0aWxcPg==</last-search>
+      <last-search encoding="base64">XDxjb25maWdWZXJBbmRDaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcmFja1V0aWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25maWdWZXJBbmRDaWRcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
