@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNCZWVuUm9vdFw+</entry>
-        <entry encoding="base64">XDxTREtfSU5UXD4=</entry>
         <entry encoding="base64">XDxjb25maWdEYXRhXD4=</entry>
         <entry encoding="base64">XDxvbGRTZGtWZXJcPg==</entry>
         <entry encoding="base64">XDxzYXZlQW5kTG9hZFw+</entry>
@@ -24,7 +22,9 @@
         <entry encoding="base64">XDx0aW1lVGFza1w+</entry>
         <entry encoding="base64">XDx0aW1lclw+</entry>
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxleHBvcnRBcGtcPg==</entry>
         <entry encoding="base64">XDxleHBvcnRQcm9ndWFyZEphclw+</entry>
+        <entry encoding="base64">XDxleHBvcnRKYXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -133,12 +133,15 @@
       <file name="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" timestamp="1619688152195">
         <mark key="^" line="93" column="23" />
       </file>
+      <file name="E:/Project/DynamicLoader/settings.gradle" timestamp="1619749490825">
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2021042914/readme.txt" timestamp="1619679514145" />
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1619693746815">
-        <mark key="[" line="107" column="63" />
-        <mark key="]" line="107" column="63" />
-        <mark key="." line="107" column="63" />
-        <mark key="^" line="107" column="59" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1619750375898">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/SpUtils.java" timestamp="1619660000743">
         <mark key="[" line="39" column="0" />
@@ -185,12 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="386" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="57" column="14" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="345" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="373" column="12" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
-      <jump line="377" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="333" column="16" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="374" column="8" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
       <jump line="125" column="20" filename="E:/Project/DynamicLoader/tsdk_t/src/main/java/com/soa/ive/poe/sdk.java" />
@@ -285,36 +282,42 @@
       <jump line="21" column="31" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" />
       <jump line="6" column="23" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/src/main/java/release/RealseConfig.java" />
       <jump line="101" column="5" filename="E:/AndroidStudioProjects/Project/AD_SO_SDK_IMPL1/app/build.gradle" />
+      <jump line="126" column="39" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="104" column="5" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="118" column="55" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="79" column="41" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="100" column="32" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
+      <jump line="101" column="4" filename="E:/Project/DynamicLoader/tsdk/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>JAR_VERSION</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>JAR_VERSION</text>
+        <text>ProGuard</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBvcnRQcm9ndWFyZEphclw+</text>
+        <text encoding="base64">XDxleHBvcnRKYXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>generator((('a'..'z')+('0'..'9')).join(), 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEpBUl9OQU1FID0gJ3NkaycK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRvTGFzdCB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -323,38 +326,16 @@
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text>task exportApk(type: Exec, dependsOn: 'exportJar', description: 'just for test bat  task') {
-    String dexPath = &quot;${android.sdkDirectory.absolutePath}/build-tools/${android.buildToolsVersion}/dx.bat&quot;
-    String inputFile = &quot;${JAR_DESK_DIR}/${JAR_PROGUARD_NAME}-${JAR_VERSION}.jar&quot;
-    String outputFile = &quot;${APK_DEST_DIR}/${APK_NAME}&quot;
-    def outDir = file(&quot;${APK_DEST_DIR}&quot;)
-    if (!outDir.exists()) {
-        outDir.mkdirs()
-    }
-    def command = [dexPath, '--dex', &quot;--output=${outputFile}&quot;, &quot;${inputFile}&quot;]
-    println command.toString() + &quot;###&quot;
-    commandLine command
-}</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>task exportJar(type: Jar) {
-    delete JAR_DESK_DIR
-//    from zipTree(file(project.projectDir.absolutePath + &quot;\\libs\\eve_trace.jar&quot; ))
-//    from zipTree(file(project.projectDir.absolutePath + &quot;\\libs\\eve_a_trace.jar&quot; ))
-    from zipTree(file(project.projectDir.absolutePath + &quot;\\libs\\20201217.jar&quot;))
-    from zipTree(file(project.projectDir.absolutePath + &quot;\\libs\\SSP-SDK-ZV-COMM-V3.0.46-WG-F-JK-202009081425.jar&quot;))
-    from zipTree(file(ORGINAL_JAR_PATH))
-    exclude('**/BuildConfig.class', '**/MainActivity.class')
-    baseName &quot;${JAR_NAME}-${JAR_VERSION}&quot;
-//    baseName &quot;${JAR_PROGUARD_NAME}-${JAR_VERSION}&quot;
-    destinationDir file(JAR_DESK_DIR)
-}</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5tdXN0UnVuQWZ0ZXIgZXhwb3J0SmFyCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -366,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleHBvcnRQcm9ndWFyZEphclw+</last-search>
+      <last-search encoding="base64">XDxleHBvcnRKYXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBvcnRQcm9ndWFyZEphclw+</last-pattern>
+      <last-pattern encoding="base64">XDxleHBvcnRKYXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
