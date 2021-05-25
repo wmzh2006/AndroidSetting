@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2djYXRBY3Rpb25vbkV2ZW50XD4=</entry>
-        <entry encoding="base64">XDxzdGFydFw+</entry>
-        <entry encoding="base64">XDxUcmFja1V0aWxcPg==</entry>
-        <entry>ReleaseConfig</entry>
         <entry encoding="base64">XDxjb25maWdWZXJBbmRDaWRcPg==</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxTREtfQVBLX0RJUlw+</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxjYWxsR2V0U2NyZWVuQ2FwdHVyZVw+</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25zU3RhY2tcPg==</entry>
         <entry encoding="base64">XDxvbkV2ZW50XD4=</entry>
+        <entry encoding="base64">XDxnZXRTdHJpbmdPYmplY3RNYXBcPg==</entry>
+        <entry encoding="base64">XDxmZXRjaENvZmlnXD4=</entry>
+        <entry encoding="base64">XDxDb25maWdEYXRhXD4=</entry>
+        <entry encoding="base64">XDxjb25maWdEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,57 +111,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1621911961843">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo2/build.gradle" timestamp="1621912283892">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo/src/main/java/com/anco/olz/oxe/StartService.java" timestamp="1621852449771" />
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1621911833783">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="128" column="37" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="130" column="74" />
-        <mark key="." line="133" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/demo2/src/main/AndroidManifest.xml" timestamp="1621912267764">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/Start.java" timestamp="1621911872380">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-        <mark key="." line="6" column="40" />
-      </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/AndroidManifest.xml" timestamp="1621841499036" />
-      <file name="E:/Project/DynamicLoader/demo/src/main/AndroidManifest.xml" timestamp="1621842525143">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="23" column="15" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/release/2021052511/readme.txt" timestamp="1621912978246">
-        <mark key="[" line="14" column="78" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" timestamp="1621912692116">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo/proguard-rules.pro" timestamp="1621841577028">
-        <mark key="[" line="27" column="31" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/release/2021052409/readme.txt" timestamp="1621912722133">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/demo2/proguard-rules.pro" timestamp="1621912316877">
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1621841778001">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1621912241179">
         <mark key="[" line="201" column="0" />
@@ -169,19 +126,63 @@
         <mark key="." line="201" column="0" />
         <mark key="^" line="200" column="3" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/Start.java" timestamp="1621912057198" />
-      <file name="/Dummy.txt" timestamp="1621841778001">
+      <file name="/a.dummy" timestamp="1621911961843">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/Start.java" timestamp="1621911872380">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo2/build.gradle" timestamp="1621912283892">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo/src/main/AndroidManifest.xml" timestamp="1621842525143">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1621942674415" />
+      <file name="E:/Project/DynamicLoader/tsdk/release/2021052511/readme.txt" timestamp="1621912978246">
+        <mark key="[" line="14" column="78" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/v.java" timestamp="1621942746920">
+        <mark key="'" line="132" column="17" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" timestamp="1621912692116">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/demo/build.gradle" timestamp="1621842005935">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1621911833783">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="128" column="37" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="130" column="74" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo/proguard-rules.pro" timestamp="1621841577028">
+        <mark key="[" line="27" column="31" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/settings.gradle" timestamp="1621845508274">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2021052409/readme.txt" timestamp="1621912722133">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/demo/src/main/java/om/anco/olz/oxe/StartService.java" timestamp="1621841861390">
         <mark key="[" line="18" column="33" />
@@ -189,12 +190,8 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="E:/Project/DynamicLoader/demo/libs/2021052409.jar!/com/xeec/rfhp/youik/Start.class" timestamp="1621841396827" />
     </filemarks>
     <jumps>
-      <jump line="267" column="16" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="214" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
-      <jump line="264" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="68" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="175" column="20" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
       <jump line="221" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/fourqaz/sixwsx/v.java" />
@@ -292,6 +289,9 @@
       <jump line="174" column="38" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/MsService.java" />
       <jump line="26" column="36" filename="D:/StudioProjects/NotificationResponse/app/src/main/java/pl/tajchert/notificationresponse/MainActivity.java" />
       <jump line="42" column="16" filename="D:/StudioProjects/NotificationResponse/app/src/main/java/pl/tajchert/notificationresponse/MainActivity.java" />
+      <jump line="133" column="37" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/v.java" />
+      <jump line="206" column="32" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/v.java" />
+      <jump line="132" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/v.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +306,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkV2ZW50XD4=</text>
+        <text encoding="base64">XDxjb25maWdEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Iy1rZWVwIGNsYXNzICBjb20uZm91cnFhei5zaXh3c3guU3RhcnR7Kjt9Cg==</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvbkV2ZW50XD4=</last-search>
+      <last-search encoding="base64">XDxmZXRjaENvZmlnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkV2ZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmZXRjaENvZmlnXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
