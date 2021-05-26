@@ -111,9 +111,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/DynamicLoader/demo2/src/main/AndroidManifest.xml" timestamp="1621912267764">
-        <mark key="[" line="3" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/demo2/proguard-rules.pro" timestamp="1621912316877">
         <mark key="[" line="21" column="0" />
       </file>
@@ -126,16 +123,32 @@
       <file name="/a.dummy" timestamp="1621911961843">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/demo2/build.gradle" timestamp="1621912283892">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+      </file>
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622020243262">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="23" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1621911833783">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="128" column="37" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="130" column="74" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/demo2/src/main/AndroidManifest.xml" timestamp="1621912267764">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/Start.java" timestamp="1621911872380">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="41" />
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="40" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo2/build.gradle" timestamp="1621912283892">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
       </file>
       <file name="E:/Project/DynamicLoader/demo/src/main/AndroidManifest.xml" timestamp="1621842525143">
         <mark key="[" line="24" column="38" />
@@ -162,19 +175,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622017781337">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="22" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1621911833783">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="128" column="37" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="130" column="74" />
-        <mark key="." line="133" column="0" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/settings.gradle" timestamp="1621845508274">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -184,12 +184,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="E:/Project/DynamicLoader/demo/src/main/java/om/anco/olz/oxe/StartService.java" timestamp="1621841861390">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="18" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -298,19 +292,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>国</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>国</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Iy1rZWVwIGNsYXNzICBjb20uZm91cnFhei5zaXh3c3guU3RhcnR7Kjt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgItbQufphIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text>include ':dex', ':dex2'</text>
