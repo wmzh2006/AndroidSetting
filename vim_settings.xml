@@ -120,21 +120,24 @@
         <mark key="." line="201" column="0" />
         <mark key="^" line="200" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1621911961843">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/demo2/build.gradle" timestamp="1621912283892">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/build.gradle" timestamp="1622172786276" />
       <file name="E:/Project/gpjsauto/ROOTSDK_Plugin_jsauto/src/com/web/WebviewCaptcha.java" timestamp="1622086763532" />
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622104413478">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1622167213008" />
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1622172570657">
+        <mark key="[" line="103" column="9" />
+        <mark key="]" line="103" column="9" />
+        <mark key="^" line="84" column="37" />
+        <mark key="." line="103" column="9" />
+      </file>
       <file name="E:/Project/DynamicLoader/demo2/src/main/AndroidManifest.xml" timestamp="1621912267764">
         <mark key="[" line="3" column="0" />
       </file>
@@ -160,6 +163,12 @@
       </file>
       <file name="/fragment.java" timestamp="1622167208498">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622172208716">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2021052409/readme.txt" timestamp="1621912722133">
         <mark key="[" line="1" column="0" />
@@ -273,13 +282,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;fhisd.mofh.fewue.b.i(Context)\&quot;</text>
+        <text encoding="base64">IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;fhisd.mofh.fewue.b.i(Context)\&quot;</text>
+        <text>NoSuchMethod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdEYXRhXD4=</text>
@@ -287,35 +296,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZE9wdGlvbihPcHRpb24uYnVpbGRlcigibSIpLnJlcXVpcmVkKCkuaGFzQXJnKHRydWUpLmxvbmdPcHQoIm1ldGhvZCIpLnR5cGUoU3RyaW5nLmNsYXNzKS5kZXNjKCJ0aGUgaW5pdGlhbCBtZXRob2QsIGZvciBleGFtcGxlIHRoYXQgbGlrZXMgXCJmaGlzZC5tb2ZoLmZld3VlLmIuaShDb250ZXh0KVwiIikuYnVpbGQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIGMpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgYiA9ICLW0Ln6IDIyIjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIGMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImEiKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgYiA9ICLW0Ln6IDIyIjsK</text>
       </register>
       <register name="4" type="2">
-        <text>include ':dex', ':dex2'</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImEiKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBwYWNrYWdlPSJjb20ub2EudHdpb2NlLm5pb2tlLmRlbW8i</text>
+      <register name="5" type="2">
+        <text>include ':dex', ':dex2'</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwYWNrYWdlPSJjb20ub2EudHdpb2NlLm5pb2tlLmRlbW8i</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IHlldCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IHlldCBpbXBsZW1lbnRlZCIpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
