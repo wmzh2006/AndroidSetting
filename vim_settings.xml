@@ -114,12 +114,6 @@
       <file name="E:/Project/DynamicLoader/demo2/proguard-rules.pro" timestamp="1621912316877">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1621912241179">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="42" />
-        <mark key="." line="201" column="0" />
-        <mark key="^" line="200" column="3" />
-      </file>
       <file name="E:/Project/DynamicLoader/demo2/build.gradle" timestamp="1621912283892">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="22" />
@@ -132,14 +126,14 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1622172570657">
+      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/java/com/dexfileparser/MainActivity.java" timestamp="1622188277008">
         <mark key="[" line="103" column="9" />
         <mark key="]" line="103" column="9" />
         <mark key="^" line="84" column="37" />
         <mark key="." line="103" column="9" />
       </file>
-      <file name="E:/Project/DynamicLoader/demo2/src/main/AndroidManifest.xml" timestamp="1621912267764">
-        <mark key="[" line="3" column="0" />
+      <file name="/Dummy.txt" timestamp="1622188984809">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1621942674415" />
       <file name="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" timestamp="1622011486443" />
@@ -155,11 +149,10 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622168744548">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="218" column="149" />
-        <mark key="." line="218" column="148" />
-        <mark key="^" line="218" column="149" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622189039692">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1622167208498">
         <mark key="[" line="0" column="0" />
@@ -281,14 +274,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBKU09OUGFyc2VyIGpzb25QYXJzZXIgPSBKc29uLgo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>NoSuchMethod</text>
+        <text>SONParser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdEYXRhXD4=</text>
@@ -296,35 +289,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvcHRpb25zLmFkZE9wdGlvbihPcHRpb24uYnVpbGRlcigibSIpLnJlcXVpcmVkKCkuaGFzQXJnKHRydWUpLmxvbmdPcHQoIm1ldGhvZCIpLnR5cGUoU3RyaW5nLmNsYXNzKS5kZXNjKCJ0aGUgaW5pdGlhbCBtZXRob2QsIGZvciBleGFtcGxlIHRoYXQgbGlrZXMgXCJmaGlzZC5tb2ZoLmZld3VlLmIuaShDb250ZXh0KVwiIikuYnVpbGQoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBKU09OUGFyc2VyIGpzb25QYXJzZXIgPSBKc29uLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIGMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBKU09OUGFyc2VyIGpzb25QYXJzZXIgPSBKc29uKEZpbGVzLnJlYWRBbGxCeXRlcyhQYXRocy5nZXQoa2V5RmlsZSkpKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgYiA9ICLW0Ln6IDIyIjsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIGMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text>include ':dex', ':dex2'</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgYiA9ICLW0Ln6IDIyIjsK</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwYWNrYWdlPSJjb20ub2EudHdpb2NlLm5pb2tlLmRlbW8i</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiVEFHIiwgImEiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>include ':dex', ':dex2'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwYWNrYWdlPSJjb20ub2EudHdpb2NlLm5pb2tlLmRlbW8i</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IHlldCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
