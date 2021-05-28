@@ -111,14 +111,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1622188984809">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/AndroidManifest.xml" timestamp="1622191421118">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/build.gradle" timestamp="1622172786276" />
-      <file name="E:/Project/gpjsauto/ROOTSDK_Plugin_jsauto/src/com/web/WebviewCaptcha.java" timestamp="1622086763532" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1622191630358" />
+      <file name="E:/Project/DynamicLoader/tsdk/release/2021052511/readme.txt" timestamp="1621912978246">
+        <mark key="[" line="14" column="78" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/v.java" timestamp="1621942825557">
+        <mark key="'" line="376" column="28" />
+      </file>
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622196014815">
+        <mark key="[" line="241" column="117" />
+        <mark key="]" line="241" column="116" />
+        <mark key="." line="241" column="115" />
+        <mark key="^" line="241" column="116" />
+      </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622104413478">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -130,30 +142,14 @@
         <mark key="^" line="84" column="37" />
         <mark key="." line="103" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1622188984809">
+      <file name="/fragment.java" timestamp="1622195678412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/jp/wamo/amo/tsdk/ReleaseConfig.java" timestamp="1621942674415" />
-      <file name="E:/Project/gpjsauto/buildSrc/src/main/groovy/com/gh/gamecenter/plugin/GhTransform.groovy" timestamp="1622011486443" />
-      <file name="E:/Project/DynamicLoader/tsdk/release/2021052511/readme.txt" timestamp="1621912978246">
-        <mark key="[" line="14" column="78" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/v.java" timestamp="1621942825557">
-        <mark key="'" line="376" column="28" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622195094323">
-        <mark key="[" line="258" column="188" />
-        <mark key="]" line="258" column="188" />
-        <mark key="." line="258" column="188" />
-        <mark key="^" line="258" column="189" />
-      </file>
-      <file name="/fragment.java" timestamp="1622191473539">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622190243777">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622195852139">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2021052409/readme.txt" timestamp="1621912722133">
         <mark key="[" line="1" column="0" />
@@ -266,20 +262,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJUZXN0ICIgKyAiNCIpOyAK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdEYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSlNPTkFycmF5IHNyY2FycmF5ID0ganNvbk9iamVjdC5nZXRKU09OQXJyYXkoInNyYyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsICJUZXN0ICIgKyAiNCIpOyAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lZGQK</text>
