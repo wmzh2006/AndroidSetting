@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVJc1Jvb3RTeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxnZXRJbml0RGF0YVw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxwcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxjb21tYW5kTGluZVw+</entry>
+        <entry>gbk</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,12 +111,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1622451932956">
-        <mark key="'" line="325" column="23" />
-        <mark key="[" line="325" column="23" />
-        <mark key="]" line="325" column="23" />
-        <mark key="." line="325" column="23" />
-        <mark key="^" line="325" column="24" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/LibraryLoader.java" timestamp="1622465672087">
+        <mark key="[" line="195" column="60" />
+        <mark key="]" line="195" column="60" />
+        <mark key="." line="195" column="60" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622462916214">
         <mark key="[" line="25" column="0" />
@@ -124,18 +122,16 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/crypto/MD5.java" timestamp="1622452986603" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" timestamp="1622449277833">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" timestamp="1622465905696">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1622451768536">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1622451316949">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1622465396903">
+        <mark key="[" line="42" column="87" />
+        <mark key="]" line="42" column="87" />
+        <mark key="." line="42" column="87" />
+        <mark key="^" line="75" column="103" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622462794199">
         <mark key="[" line="15" column="0" />
@@ -249,31 +245,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGlsaWdlbnQubmVhdC5VdGlsLm9idGFpblBlcm1pc3Npb247Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tYW5kTGluZVw+</text>
+        <text>gbk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZShUQUcsIGQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uZGlsaWdlbnQubmVhdC5VdGlsLm9idGFpblBlcm1pc3Npb247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zbXNoZWxwZXIuTW1zTWFuYWdlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBjaGFyIGYgPSAnZic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KGQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlbW92ZUNvbW1vbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KHMpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -282,16 +278,16 @@
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text>task replaceStrings(type: E)</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zbXNoZWxwZXIuTW1zTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBjaGFyIGYgPSAnZic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5saWIucm9vdC5CdWlsZENvbmZpZzsK</text>
+        <text encoding="base64">aW1wb3J0IFJlbW92ZUNvbW1vbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXRhcHAueHVvbmUuQnVpbGRDb25maWc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -303,9 +299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb21tYW5kTGluZVw+</last-search>
+      <last-search>gbk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tYW5kTGluZVw+</last-pattern>
+      <last-pattern>gbk</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
