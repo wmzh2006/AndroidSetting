@@ -137,11 +137,10 @@
       <file name="/fragment.java" timestamp="1622451316949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622453128176">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="61" />
-        <mark key="^" line="9" column="61" />
-        <mark key="." line="9" column="60" />
+      <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622454468062">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -249,8 +248,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
@@ -265,34 +264,34 @@
         <text>project.getRootDir().getAbsolutePath()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlbW92ZUNvbW1vbgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBjaGFyIGYgPSAnZic7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text>task replaceStrings(type: E)</text>
+        <text encoding="base64">aW1wb3J0IFJlbW92ZUNvbW1vbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zbXNoZWxwZXIuTW1zTWFuYWdlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5saWIucm9vdC5CdWlsZENvbmZpZzsK</text>
+        <text>task replaceStrings(type: E)</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXRhcHAueHVvbmUuQnVpbGRDb25maWc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zbXNoZWxwZXIuTW1zTWFuYWdlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zaG90LlNjcmVlbnNob3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5saWIucm9vdC5CdWlsZENvbmZpZzsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS50ZXRhcHAueHVvbmUuQnVpbGRDb25maWc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZXRhcHAueHVvbmUuQnVpbGRDb25maWc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zaG90LlNjcmVlbnNob3Q7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
