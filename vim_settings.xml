@@ -5,14 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdEYXRhXD4=</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZUhlYWRlckZpbGVcPg==</entry>
-        <entry encoding="base64">XDxyZXN0b3JlU3Ryc1w+</entry>
-        <entry encoding="base64">XDxjaGFuZ2VTdHJcPg==</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZVN0clw+</entry>
-        <entry encoding="base64">XDxwcm9qZWN0XD4=</entry>
-        <entry encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</entry>
-        <entry encoding="base64">XDxjb21tYW5kTGluZVw+</entry>
         <entry>gbk</entry>
         <entry>print(s)</entry>
         <entry>print</entry>
@@ -25,6 +17,14 @@
         <entry>str</entry>
         <entry>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE=</entry>
         <entry>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</entry>
+        <entry encoding="base64">XDxzdHJpbmdMaXN0XD4=</entry>
+        <entry encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwg</entry>
+        <entry encoding="base64">dlYmXV13cVZaSFRwQ290PUBjZ1pBeH56d0JtIyVvdm86TDFbRDkmIVJ0QU0+WW1jXzNaaVYzNnBRalNEPnRUZms8IA==</entry>
+        <entry encoding="base64">eE9fRD4xa24hdWY1fjo4XTA=</entry>
+        <entry>string</entry>
+        <entry>Print</entry>
+        <entry encoding="base64">elMzOTJScEY7dE53YDxlY3ZEenBKViNMRlNTMXJtN1djamlQ</entry>
+        <entry encoding="base64">ZFNnSV9fMiNLb0R2dFhNcnVVT0E9cFJoRFJPTzxWaj16ZzNaRkJuOzhSaE89d1RfdkhaYkBmOFs1VSNJaiZ6Z3diZWgmU2IzM1BkNm12Sz51SGlKcz47SHU+OnJPNztTRF88UX48emE0ZTZII1NLM3FddDNhZWh6I1RCdjdmPDZ+T340SHdgVEtXWDYzUWxlWiYhd0g0TmxINWdKXSYmek5hRjJ4aW5QcHY6eCVfcDBWblkjVFR4U2tpQ3ppRmtFVlB6RG0xNk8lbHYleHVHZjJLfkpbPnJ3ME1uWWJLZzNtUW1M</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -112,6 +112,9 @@
     <globalmarks />
     <filemarks>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1622540218916" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1622555180688">
+        <mark key="'" line="616" column="17" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSDebugLog.java" timestamp="1622537580246">
         <mark key="[" line="38" column="42" />
         <mark key="]" line="23" column="0" />
@@ -138,11 +141,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1622553641969">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="20" />
-        <mark key="." line="198" column="0" />
-        <mark key="^" line="196" column="36" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1622555969530">
+        <mark key="'" line="59" column="31" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622539511962">
         <mark key="[" line="29" column="77" />
@@ -168,12 +171,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622553237444">
-        <mark key="'" line="391" column="26" />
-        <mark key="[" line="263" column="31" />
-        <mark key="]" line="264" column="45" />
-        <mark key="." line="264" column="44" />
-        <mark key="^" line="264" column="45" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622555764312">
+        <mark key="'" line="381" column="26" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1622552670920">
         <mark key="[" line="0" column="0" />
@@ -189,10 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1103" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
-      <jump line="1126" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
-      <jump line="1139" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
-      <jump line="1331" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="1685" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="212" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="270" column="12" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
@@ -289,54 +287,58 @@
       <jump line="318" column="44" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="321" column="46" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="4437" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" />
+      <jump line="59" column="31" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="614" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
+      <jump line="615" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
+      <jump line="616" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
+        <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">Ynl0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</text>
+        <text encoding="base64">ZFNnSV9fMiNLb0R2dFhNcnVVT0E9cFJoRFJPTzxWaj16ZzNaRkJuOzhSaE89d1RfdkhaYkBmOFs1VSNJaiZ6Z3diZWgmU2IzM1BkNm12Sz51SGlKcz47SHU+OnJPNztTRF88UX48emE0ZTZII1NLM3FddDNhZWh6I1RCdjdmPDZ+T340SHdgVEtXWDYzUWxlWiYhd0g0TmxINWdKXSYmek5hRjJ4aW5QcHY6eCVfcDBWblkjVFR4U2tpQ3ppRmtFVlB6RG0xNk8lbHYleHVHZjJLfkpbPnJ3ME1uWWJLZzNtUW1M</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxTdHJpbmc+IHN0cmluZ0xpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRTZ0lfXzIjS29EdnRYTXJ1VU9BPXBSaERST088Vmo9emczWkZCbjs4UmhPPXdUX3ZIWmJAZjhbNVUjSWomemd3YmVoJlNiMzNQZDZtdks+dUhpSnM+O0h1PjpyTzc7U0RfPFF+PHphNGU2SCNTSzNxXXQzYWVoeiNUQnY3Zjw2fk9+NEh3YFRLV1g2M1FsZVomIXdINE5sSDVnSl0mJnpOYUYyeGluUHB2OnglX3AwVm5ZI1RUeFNraUN6aUZrRVZQekRtMTZPJWx2JXh1R2YyS35KWz5ydzBNblliS2czbVFtTCIpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpZihpbmRleCA9PSAxMzM3KSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGV4U3RyLmVxdWFscygiZFNnSV9fMiNLb0R2dFhNcnVVT0E9cFJoRFJPTzxWaj16ZzNaRkJuOzhSaE89d1RfdkhaYkBmOFs1VSNJaiZ6Z3diZWgmU2IzM1BkNm12Sz51SGlKcz47SHU+OnJPNztTRF88UX48emE0ZTZII1NLM3FddDNhZWh6I1RCdjdmPDZ+T340SHdgVEtXWDYzUWxlWiYhd0g0TmxINWdKXSYmek5hRjJ4aW5QcHY6eCVfcDBWblkjVFR4U2tpQ3ppRmtFVlB6RG0xNk8lbHYleHVHZjJLfkpbPnJ3ME1uWWJLZzNtUW1MIikpIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRTZ0lfXzIjS29EdnRYTXJ1VU9BPXBSaERST088Vmo9emczWkZCbjs4UmhPPXdUX3ZIWmJAZjhbNVUjSWomemd3YmVoJlNiMzNQZDZtdks+dUhpSnM+O0h1PjpyTzc7U0RfPFF+PHphNGU2SCNTSzNxXXQzYWVoeiNUQnY3Zjw2fk9+NEh3YFRLV1g2M1FsZVomIXdINE5sSDVnSl0mJnpOYUYyeGluUHB2OnglX3AwVm5ZI1RUeFNraUN6aUZrRVZQekRtMTZPJWx2JXh1R2YyS35KWz5ydzBNblliS2czbVFtTCIpOwogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5leGl0KDApOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGRleFN0ci5zdGFydHNXaXRoKGVuY3J5cHRlZCkgJiYgZW5jcnlwdGVkLmVxdWFscyhkZXhTdHIpKSB7CiAgICAgICAgICAgICAgICAgICAgaXNtYXRjaCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgSURzW2ldID0gajsKICAgICAgICAgICAgICAgICAgICB2YWxpZENvdW50Kys7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYoIWlzbWF0Y2gpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbigi1K3X1rf7OiIrcGxhaW5TdHJpbmdBcnJheVtpXSArICIsttTTprXEy+a7+tfWt/u0rqO6IiArIGVuY3J5cHRlZCArICIgXG66zWRleLXE19a3+7K7xeQiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm1hdGNoOiAiICsgdmFsaWRDb3VudCk7CiAgICAgICAgU3RyaW5nQnVpbGRlciBpZHMgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgIFN0cmluZ0J1aWxkZXIgcGxhaW5UZXh0ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IElEcy5sZW5ndGg7IGkrKykgewogICAgICAgICAgIGlmKElEc1tpXSAhPSAtMSkgewogICAgICAgICAgICAgICBpZHMuYXBwZW5kKElEc1tpXSkuYXBwZW5kKCIsIik7CiAgICAgICAgICAgICAgIHBsYWluVGV4dC5hcHBlbmQoIlwiIikuYXBwZW5kKHBsYWluU3RyaW5nQXJyYXlbaV0pLmFwcGVuZCgiXCIiKS5hcHBlbmQoIiwiKTsKICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGludCBsYXN0U3RySW5kZXggPSBpZHMubGFzdEluZGV4T2YoIiwiKTsKICAgICAgICBpbnQgbGFzdFN0ckluZGV4MiA9IHBsYWluVGV4dC5sYXN0SW5kZXhPZigiLCIpOwogICAgICAgIFN0cmluZyBpZHNWYXJpYmxlID0gInN0YXRpYyB1bnNpZ25lZCBpbnQgaWRzWyIgKyB2YWxpZENvdW50ICsgIl0gPSB7IiArIGlkcy5zdWJzdHJpbmcoMCwgbGFzdFN0ckluZGV4KSArICAifSI7CiAgICAgICAgU3RyaW5nIHBsYWluVmFyaWJsZSA9ICJzdGF0aWMgY2hhciAqcGxhaW5zIFsiICsgdmFsaWRDb3VudCArICJdID0geyIgKyBwbGFpblRleHQuc3Vic3RyaW5nKDAsIGxhc3RTdHJJbmRleDIpICsgICJ9IjsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dwcmludGYoInN0cmluZ0lkIGNoYW5nZVslc109JXNcbiIsIHN0ciwgcGxhaW4pOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgIGlmKHBsYWluU3RyaW5nQXJyYXlbaV0uZXF1YWxzKCJOREEwTURFc05EQTBNRFVzTkRBME1URXNOREEwTVRNc05EQTBNVFVzTkRBME1qQXNOREEwTWpjc05EQTBNekFzTkRBME5ETXNOREEwTkRZc05EQTBOakFzTkRBME9EUXNOREEwT0RZc05EQTBPRGdzTkRBMU5URXNOREExTmpZc05EQTFOamNzTkRBMU56VXdMRFF3TlRjMU1TdzBNRFUzTlRJc05EQTFOelV6TERRd05UYzFOQ3cwTURVM05UVXNOREExTnpVMkxEUXdOVGczTVN3ME1EVTROelFzTkRjd01ERT0iKSkgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaW5kZXg6ICIgKyBpKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGxhaW5TdHJpbmdBcnJheVtpXSk7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVuY3J5cHRlZFN0cmluZ0FycmF5W2ldKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0uZXhpdCgwKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLkJ1aWxkQ29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBvZmZzZXQgPSBzdHJpbmdJZExpc3QuZ2V0KGopOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLkJ1aWxkQ29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLkJ1aWxkQ29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>E:\Project\gpjsauto\rOOTSDK_Plugin_onlyjsauto\array.json</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXgrKzsK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -348,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</last-search>
+      <last-search encoding="base64">ZFNnSV9fMiNLb0R2dFhNcnVVT0E9cFJoRFJPTzxWaj16ZzNaRkJuOzhSaE89d1RfdkhaYkBmOFs1VSNJaiZ6Z3diZWgmU2IzM1BkNm12Sz51SGlKcz47SHU+OnJPNztTRF88UX48emE0ZTZII1NLM3FddDNhZWh6I1RCdjdmPDZ+T340SHdgVEtXWDYzUWxlWiYhd0g0TmxINWdKXSYmek5hRjJ4aW5QcHY6eCVfcDBWblkjVFR4U2tpQ3ppRmtFVlB6RG0xNk8lbHYleHVHZjJLfkpbPnJ3ME1uWWJLZzNtUW1M</last-search>
       <last-offset />
-      <last-pattern>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</last-pattern>
+      <last-pattern encoding="base64">ZFNnSV9fMiNLb0R2dFhNcnVVT0E9cFJoRFJPTzxWaj16ZzNaRkJuOzhSaE89d1RfdkhaYkBmOFs1VSNJaiZ6Z3diZWgmU2IzM1BkNm12Sz51SGlKcz47SHU+OnJPNztTRF88UX48emE0ZTZII1NLM3FddDNhZWh6I1RCdjdmPDZ+T340SHdgVEtXWDYzUWxlWiYhd0g0TmxINWdKXSYmek5hRjJ4aW5QcHY6eCVfcDBWblkjVFR4U2tpQ3ppRmtFVlB6RG0xNk8lbHYleHVHZjJLfkpbPnJ3ME1uWWJLZzNtUW1M</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
