@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZXRjaENvZmlnXD4=</entry>
-        <entry encoding="base64">XDxDb25maWdEYXRhXD4=</entry>
         <entry encoding="base64">XDxjb25maWdEYXRhXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUhlYWRlckZpbGVcPg==</entry>
         <entry encoding="base64">XDxyZXN0b3JlU3Ryc1w+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">ISZ+Ng==</entry>
         <entry encoding="base64">XDxyZXBsYWNlU3RyaW5nc1w+</entry>
         <entry>str</entry>
+        <entry>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE=</entry>
+        <entry>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -133,11 +133,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622534169004">
-        <mark key="]" line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="13" column="43" />
-      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/XConstants.java" timestamp="1622538219345">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -146,6 +141,7 @@
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622539511962">
         <mark key="[" line="29" column="77" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Util.java" timestamp="1622542362120" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" timestamp="1622541641064">
         <mark key="'" line="321" column="46" />
         <mark key="[" line="151" column="0" />
@@ -183,9 +179,11 @@
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1622542413426">
+        <mark key="'" line="4437" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="19" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="1103" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="1126" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="1139" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
@@ -285,6 +283,7 @@
       <jump line="317" column="31" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="318" column="44" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
       <jump line="321" column="46" filename="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/cpp/dex/DexFileParser.cpp" />
+      <jump line="4437" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,7 +298,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>str</text>
+        <text>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">NDQ0ICsgXCJhYWFcIgo=</text>
@@ -344,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>str</last-search>
+      <last-search>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</last-search>
       <last-offset />
-      <last-pattern>str</last-pattern>
+      <last-pattern>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
