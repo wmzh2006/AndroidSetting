@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVJc1Jvb3RTeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxnZXRJbml0RGF0YVw+</entry>
         <entry encoding="base64">XDxydW5uZXJcPg==</entry>
         <entry encoding="base64">XDxyb290T3Zlck1zZ1w+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxyZXBsYWNlUGFja2FnZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxjb21tYW5kTGluZVw+</entry>
         <entry>gbk</entry>
+        <entry>print(s)</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -111,12 +111,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1622531908642">
+        <mark key="[" line="1493" column="126" />
+        <mark key="]" line="1493" column="126" />
+        <mark key="." line="1493" column="126" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/proxy/RequestHeader.java" timestamp="1622531298650">
+        <mark key="[" line="107" column="47" />
+        <mark key="]" line="107" column="47" />
+        <mark key="." line="107" column="47" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1622466707926">
         <mark key="'" line="325" column="23" />
         <mark key="[" line="325" column="23" />
         <mark key="]" line="325" column="23" />
         <mark key="." line="325" column="23" />
         <mark key="^" line="325" column="24" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1622532050793">
+        <mark key="[" line="418" column="93" />
+        <mark key="]" line="418" column="93" />
+        <mark key="." line="418" column="93" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/util/HostUtil.java" timestamp="1622531154575">
+        <mark key="[" line="307" column="55" />
+        <mark key="]" line="307" column="55" />
+        <mark key="." line="307" column="55" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Entrance.java" timestamp="1622465905696">
         <mark key="[" line="20" column="0" />
@@ -134,30 +154,31 @@
         <mark key="]" line="38" column="60" />
         <mark key="." line="38" column="60" />
       </file>
-      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622462916214">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/lib/util/FileUtil.java" timestamp="1622531207855">
+        <mark key="[" line="33" column="86" />
+        <mark key="]" line="33" column="86" />
+        <mark key="." line="33" column="86" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/crypto/MD5.java" timestamp="1622452986603" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1622519616469">
-        <mark key="[" line="63" column="7" />
-        <mark key="]" line="63" column="7" />
-        <mark key="^" line="36" column="46" />
-        <mark key="." line="63" column="7" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1622532685218">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewTwoCaptcha.java" timestamp="1622531987815">
+        <mark key="[" line="204" column="44" />
+        <mark key="]" line="204" column="44" />
+        <mark key="." line="204" column="44" />
+        <mark key="^" line="204" column="31" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1622532617150">
+        <mark key="'" line="105" column="26" />
+        <mark key="[" line="163" column="8" />
+        <mark key="]" line="163" column="8" />
+        <mark key="^" line="163" column="8" />
+        <mark key="." line="163" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="310" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="220" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="269" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="215" column="17" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="73" column="16" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="414" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="435" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="60" column="18" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
-      <jump line="93" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
       <jump line="94" column="12" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
       <jump line="98" column="8" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
       <jump line="105" column="76" filename="E:/Project/DynamicLoader/tsdk/src/main/java/cn/aeo/dsa/uor/v.java" />
@@ -248,54 +269,64 @@
       <jump line="325" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="56" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
       <jump line="62" column="0" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="87" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="119" column="22" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="144" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="154" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="155" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="48" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="51" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="53" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="54" column="8" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
+      <jump line="105" column="26" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>会</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLkJ1aWxkQ29uZmlnOwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">I9L+sti3+7rFse0KI2h0dHBzOi8vd3d3LmZyZWVzaW9uLmNvbS9hcnRpY2xlLzk4OTU4MjMwMzUvCmFkZF9kZWZpbml0aW9ucygiLWZ2aXNpYmlsaXR5PWhpZGRlbiIpCiMjb2xsdm277M/9IGh0dHBzOi8vemh1YW5sYW4uemhpaHUuY29tL3AvMTYzNzg5Mzg1CnNldChPTExWTSAiLW1sbHZtIC1zb2JmIC1tbGx2bSAtZmxhIC1tbGx2bSAtc3ViIC1tbGx2bSAtYmNmIC1tbGx2bSAtc2VlZD1GMjZBNjZGOEY4RTAyRkU0ODRENzlCQUU5NDJENDU5RSIpClNFVChDTUFLRV9DX0ZMQUdTICIke0NNQUtFX0NfRkxBR1N9ICR7T0xMVk19IikKU0VUKENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9ICR7T0xMVk19IikK</text>
       </register>
       <register name="-" type="4">
-        <text>会</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>gbk</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">NDQ0ICsgXCJhYWFcIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YnVpbGRlci5hcHBlbmQoNDQ0KS5hcHBwZW5kKCJhYWEiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lZnFwcy55aXZqLkJ1aWxkQ29uZmlnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">My5TdHJpbmdCdWlsZGVyIGJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
+        <text encoding="base64">YnVpbGRlci5hcHBlbmQoNDQ0KS5hcHBwZW5kKCJhYWEiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Mi5TdHJpbmcuZm9ybWF0KCIlcyVkIiwgImFhYSIsIDQ0NDQpCg==</text>
+        <text encoding="base64">My5TdHJpbmdCdWlsZGVyIGJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MS5cImFhYWFiYmJiXCI7Cg==</text>
+        <text encoding="base64">Mi5TdHJpbmcuZm9ybWF0KCIlcyVkIiwgImFhYSIsIDQ0NDQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">x+u4xLPJOgo=</text>
+        <text encoding="base64">MS5cImFhYWFiYmJiXCI7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
+        <text encoding="base64">x+u4xLPJOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLy8iXCJhXCJiYmIgXCJjY1wiIgo=</text>
+        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgU3RyaW5nIHBvc3RkYXRlID0gIsTjusN7XCJpZFwiOjEsXCJqc29ucnBjXCI6XCIyLjBcIixcIm1ldGhvZFwiOlwiSGFuZHNoYWtlTmV3XCIsXCJwYXJhbXNcIjpbXCIiICsgY3VySW1zaSArICJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCJdfSI7Cg==</text>
+        <text encoding="base64">ICAgLy8iXCJhXCJiYmIgXCJjY1wiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aXNyZXN0b3IgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgU3RyaW5nIHBvc3RkYXRlID0gIsTjusN7XCJpZFwiOjEsXCJqc29ucnBjXCI6XCIyLjBcIixcIm1ldGhvZFwiOlwiSGFuZHNoYWtlTmV3XCIsXCJwYXJhbXNcIjpbXCIiICsgY3VySW1zaSArICJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCIsXCJcIixcIlwiLFwiXCJdfSI7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -307,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>gbk</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>gbk</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
