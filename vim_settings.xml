@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>gbk</entry>
         <entry>print(s)</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxyZVBhY2thZ2VOYW1lXD4=</entry>
@@ -25,6 +24,7 @@
         <entry>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE=</entry>
         <entry encoding="base64">ZFNnSV9fMiNLb0R2dFhNcnVVT0E9cFJoRFJPTzxWaj16ZzNaRkJuOzhSaE89d1RfdkhaYkBmOFs1VSNJaiZ6Z3diZWgmU2IzM1BkNm12Sz51SGlKcz47SHU+OnJPNztTRF88UX48emE0ZTZII1NLM3FddDNhZWh6I1RCdjdmPDZ+T340SHdgVEtXWDYzUWxlWiYhd0g0TmxINWdKXSYmek5hRjJ4aW5QcHY6eCVfcDBWblkjVFR4U2tpQ3ppRmtFVlB6RG0xNk8lbHYleHVHZjJLfkpbPnJ3ME1uWWJLZzNtUW1M</entry>
         <entry>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</entry>
+        <entry encoding="base64">XDxzdHJCeXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
@@ -129,7 +129,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.h" timestamp="1622599963207" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1622599569413" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/Utils.java" timestamp="1622601648046">
+        <mark key="[" line="382" column="42" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1622537668867">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -141,11 +143,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1622599755166">
-        <mark key="'" line="59" column="31" />
-        <mark key="[" line="666" column="57" />
-        <mark key="]" line="666" column="57" />
-        <mark key="." line="666" column="57" />
+      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1622601478991">
+        <mark key="'" line="669" column="32" />
+        <mark key="[" line="666" column="58" />
+        <mark key="]" line="666" column="59" />
+        <mark key="." line="666" column="59" />
+        <mark key="^" line="666" column="58" />
       </file>
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/hua/testwei/MainActivity.java" timestamp="1622539511962">
         <mark key="[" line="29" column="77" />
@@ -168,7 +171,7 @@
         <mark key="." line="232" column="29" />
         <mark key="^" line="232" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1622600649916">
+      <file name="/fragment.java" timestamp="1622601327273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/dex.h" timestamp="1622539891431">
@@ -182,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1685" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
-      <jump line="212" column="8" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="270" column="12" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="275" column="17" filename="E:/Project/DynamicLoader/demo/libs/pro_sdk-2021043014.jar!/cn/aeo/dsa/uor/a.class" />
       <jump line="281" column="53" filename="E:/Project/DynamicLoader/demo/libs/pro_sdk-2021043014.jar!/cn/aeo/dsa/uor/a.class" />
@@ -282,6 +283,8 @@
       <jump line="614" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
       <jump line="615" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
       <jump line="616" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" />
+      <jump line="666" column="15" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
+      <jump line="669" column="32" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,7 +299,7 @@
         <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</text>
+        <text encoding="base64">XDxzdHJCeXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxTdHJpbmc+IHN0cmluZ0xpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsK</text>
@@ -341,9 +344,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</last-search>
+      <last-search encoding="base64">XDxzdHJCeXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>NDA0MDEsNDA0MDUsNDA0MTEsNDA0MTMsNDA0MTUsNDA0MjAsNDA0MjcsNDA0MzAsNDA0NDMsNDA0NDYsNDA0NjAsNDA0ODQsNDA0ODYsNDA0ODgsNDA1NTEsNDA1NjYsNDA1NjcsNDA1NzUwLDQwNTc1MSw0MDU3NTIsNDA1NzUzLDQwNTc1NCw0MDU3NTUsNDA1NzU2LDQwNTg3MSw0MDU4NzQsNDcwMDE</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJCeXRlXD4=</last-pattern>
       <last-replace />
       <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
       <last-dir>1</last-dir>
