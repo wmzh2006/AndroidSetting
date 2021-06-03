@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">IiEmfjYi</entry>
-        <entry encoding="base64">ISZ+Ng==</entry>
-        <entry encoding="base64">XDxyZXBsYWNlU3RyaW5nc1w+</entry>
-        <entry>str</entry>
         <entry encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwg</entry>
         <entry encoding="base64">dlYmXV13cVZaSFRwQ290PUBjZ1pBeH56d0JtIyVvdm86TDFbRDkmIVJ0QU0+WW1jXzNaaVYzNnBRalNEPnRUZms8IA==</entry>
         <entry encoding="base64">eE9fRD4xa24hdWY1fjo4XTA=</entry>
@@ -25,11 +21,12 @@
         <entry>window.outerWidth</entry>
         <entry>outerWidth</entry>
         <entry>window.android.otp</entry>
+        <entry>\+</entry>
+        <entry>\\+</entry>
+        <entry>H</entry>
+        <entry>+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">MTM1LCAxNDMgbm9ybWFsIDxjdHI+Pg==</entry>
-        <entry>x</entry>
-        <entry>%s /MsService/WebViewUtil/gc</entry>
         <entry>%s/break//gc</entry>
         <entry encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</entry>
         <entry>%s /icon/ic_launcher/gc</entry>
@@ -45,6 +42,11 @@
         <entry>s/com\.r1zAgWk\.y57lzAy\.lightmusic//gc</entry>
         <entry>%s/com\.r1zAgWk\.y57lzAy\.lightmusic//g</entry>
         <entry>sort</entry>
+        <entry>16,47 s/\+/);/g</entry>
+        <entry>16,47 s/\\+/);/g</entry>
+        <entry>16,47s /\\+/);/g</entry>
+        <entry>16,47s /H/b/gc</entry>
+        <entry>16,47s /+/);/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,9 +115,6 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-2-vpn/Wallpaper4k-2/app/src/main/java/com/laurna/nice/wallpaper/activities/ActivitySplash.java" timestamp="1622623747637" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/proxy/SocketProxy.java" timestamp="1622616284300" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/dex/dex.h" timestamp="1622605869197">
-        <mark key="'" line="16" column="3470" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1622606242038">
         <mark key="'" line="398" column="12" />
         <mark key="[" line="672" column="34" />
@@ -126,6 +125,13 @@
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/diligent/neat/Util.java" timestamp="1622612199057" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1622620407069" />
       <file name="D:/AndroidStudio/DalvikBytecode/DexFileparser/src/main/AndroidManifest.xml" timestamp="1622605982159" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/proxy/ResponseHelper.java" timestamp="1622682706960">
+        <mark key="'" line="19" column="48" />
+        <mark key="[" line="15" column="14" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/Wallpaper4k-2-vpn/Wallpaper4k-2/app/src/main/java/org/leo/server/panama/vpn/application/impl/NormalShadowSocksApplication.java" timestamp="1622623737132" />
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622617795741">
         <mark key="'" line="376" column="26" />
@@ -134,8 +140,8 @@
         <mark key="." line="265" column="94" />
         <mark key="^" line="265" column="97" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1622619774210">
-        <mark key="[" line="15" column="10" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1622682945198">
+        <mark key="[" line="131" column="38" />
         <mark key="]" line="15" column="10" />
         <mark key="." line="15" column="10" />
       </file>
@@ -150,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="19" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
-      <jump line="619" column="39" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="438" column="29" filename="E:/Project/DynamicLoader/AD_SO_SDK_IMPL1/src/main/java/com/impl/core/Impl.java" />
       <jump line="333" column="24" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_jsauto/src/com/shot/Screenshot.java" />
       <jump line="335" column="41" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_jsauto/src/com/shot/Screenshot.java" />
@@ -250,70 +254,72 @@
       <jump line="397" column="25" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="398" column="12" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" />
       <jump line="0" column="135566" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" />
+      <jump line="12" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/proxy/ResponseHelper.java" />
+      <jump line="19" column="48" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/proxy/ResponseHelper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>window.android.otp</text>
+        <text>+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxTdHJpbmc+IHN0cmluZ0xpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIAogICAgICAgICAKICAgICAgICAgCiAgICAgICAgIA==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PGh0bWw+CjxoZWFkPgogICAgPHRpdGxlPlByb3htZSBFcnJvciBSZXBvcnQ8L3RpdGxlPgogICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KICAgIGJvZHkgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCxIZWx2ZXRpY2EsU2Fucy1zZXJpZjsKICAgICAgICBmb250LXNpemU6IDEycHg7CiAgICAgICAgY29sb3I6ICMzMzMzMzM7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsKICAgIH0KCiAgICBoMSB7CiAgICAgICAgZm9udC1zaXplOiAyNHB4OwogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgfQoKICAgIGgyIHsKICAgICAgICBmb250LXNpemU6IDE4cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgoKICAgIDxoMT5Qcm94eW1lIEVycm9yIFJlcG9ydDwvaDE+CiAgICA8aDI+UHJveHltZSBjYW5ub3QgcHJvY2VzcyB0aGUgcmVxdWVzdDwvaDI+CiAgICA8cD5Qcm94eW1lIGZhaWxlZCB0byByZXNvbHZlIHRoZSBuYW1lIG9mIHRoZSByZW1vdGUgaG9zdCBpbnRvIGFuIElQIGFkZHJlc3MuIENoZWNrIHRoYXQgdGhlIFVSTCBpcyBjb3JyZWN0LjwvcD4KCjxwPgo8aT5Qcm94eW1lLCA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vYXJsb29yL3Byb3h5bWUiPmh0dHBzOi8vZ2l0aHViLmNvbS9hcmxvb3IvcHJveHltZTwvYT48L2k+CjwvcD4KPC9ib2R5Pgo8L2h0bWw+</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFwcGVuZCg0NDQpLmFwcGVuZCgiSG5yXyIpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBMb2cuZShUQUcsIGEpOwogICAgICAgIExvZy5lKFRBRywgYik7CiAgICAgICAgTG9nLmUoVEFHLCBjKTsKICAgICAgICBMb2cuZShUQUcsIGQpOwogICAgICAgIExvZy5lKFRBRywgIiIrZik7CiAgICAgICAgU3RyaW5nQnVpbGRlciBidWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTs=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgVEFHID0gIjJaTiI7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIGEgPSAiY1UyWzwhIjsKICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgYiA9ICJfMnFUdnYiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBjID0gIjR+JSNbOCI7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIGQgPSAiXzJxVHZ2IiArICJFUnUiOwovLyAgICBzdGF0aWMgZmluYWwgY2hhcltdIGUgPSBuZXcgY2hhcltdeydhJywgJ2InLCAnYycsICcxJywgJzInfTsKICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgZiA9IFN0cmluZy5mb3JtYXQoIkBmckIiLCAiYjtEIyIsICJEQyFpIik7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIGcgPSAiMH5KYiIgKyA0NDQ0OwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBlID0gMjIyMjIgKyAiMH5KYiIgKyA0NDQ0OwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERUTl9DSUQgPSJKeUpVZX4iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTk9USUZJQ0FUSU9OX0FDVElPTiA9ICI+Qk42bWtaWSY3eTJ4NVM5MSM1OVg7Oz5RZUQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX05PID0gIn5WNWciOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1NEID0gInYhQWZ5IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9USU1FID0gIk43Q0xAQyI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBEWU5fQUNUSVZJVFlfTkFNRSA9ICJPQHI6eGVCPXM5Nj1bY3dKYm4jYGtUO0hPJiF0ZXhLIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBFUk1JU1NJT05fQUNUSVZJVFlfTkFNRSA9ICJkSjlfVltWdzJROV9XQE41PVRifmZNPWhlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERZTl9OT1RJRklDQVRJT05fTkFNRSA9ICJFQGdwUj1CSUNnPnpBcnRTTTtYb3EwQEpXVG80Ijs=</text>
+        <text encoding="base64">PGh0bWw+CjxoZWFkPgogICAgPHRpdGxlPlByb3htZSBFcnJvciBSZXBvcnQ8L3RpdGxlPgogICAgPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KICAgIGJvZHkgewogICAgICAgIGZvbnQtZmFtaWx5OiBBcmlhbCxIZWx2ZXRpY2EsU2Fucy1zZXJpZjsKICAgICAgICBmb250LXNpemU6IDEycHg7CiAgICAgICAgY29sb3I6ICMzMzMzMzM7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZmZmZjsKICAgIH0KCiAgICBoMSB7CiAgICAgICAgZm9udC1zaXplOiAyNHB4OwogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgfQoKICAgIGgyIHsKICAgICAgICBmb250LXNpemU6IDE4cHg7CiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5PgoKICAgIDxoMT5Qcm94eW1lIEVycm9yIFJlcG9ydDwvaDE+CiAgICA8aDI+UHJveHltZSBjYW5ub3QgcHJvY2VzcyB0aGUgcmVxdWVzdDwvaDI+CiAgICA8cD5Qcm94eW1lIGZhaWxlZCB0byByZXNvbHZlIHRoZSBuYW1lIG9mIHRoZSByZW1vdGUgaG9zdCBpbnRvIGFuIElQIGFkZHJlc3MuIENoZWNrIHRoYXQgdGhlIFVSTCBpcyBjb3JyZWN0LjwvcD4KCjxwPgo8aT5Qcm94eW1lLCA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vYXJsb29yL3Byb3h5bWUiPmh0dHBzOi8vZ2l0aHViLmNvbS9hcmxvb3IvcHJveHltZTwvYT48L2k+CjwvcD4KPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFwcGVuZCg0NDQpLmFwcGVuZCgiSG5yXyIpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGlmKGogPT0gMTMzNykgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZXhTdHIpOwogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">ICBMb2cuZShUQUcsIGEpOwogICAgICAgIExvZy5lKFRBRywgYik7CiAgICAgICAgTG9nLmUoVEFHLCBjKTsKICAgICAgICBMb2cuZShUQUcsIGQpOwogICAgICAgIExvZy5lKFRBRywgIiIrZik7CiAgICAgICAgU3RyaW5nQnVpbGRlciBidWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNob3J0IHNpemUgPSAoc2hvcnQpIChzcmNCeXRlW3N0YXJ0T2ZmXSAmIDB4ZmYpOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgVEFHID0gIjJaTiI7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIGEgPSAiY1UyWzwhIjsKICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgYiA9ICJfMnFUdnYiOwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBjID0gIjR+JSNbOCI7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIGQgPSAiXzJxVHZ2IiArICJFUnUiOwovLyAgICBzdGF0aWMgZmluYWwgY2hhcltdIGUgPSBuZXcgY2hhcltdeydhJywgJ2InLCAnYycsICcxJywgJzInfTsKICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgZiA9IFN0cmluZy5mb3JtYXQoIkBmckIiLCAiYjtEIyIsICJEQyFpIik7CiAgICBzdGF0aWMgZmluYWwgU3RyaW5nIGcgPSAiMH5KYiIgKyA0NDQ0OwogICAgc3RhdGljIGZpbmFsIFN0cmluZyBlID0gMjIyMjIgKyAiMH5KYiIgKyA0NDQ0OwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERUTl9DSUQgPSJKeUpVZX4iOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgTk9USUZJQ0FUSU9OX0FDVElPTiA9ICI+Qk42bWtaWSY3eTJ4NVM5MSM1OVg7Oz5RZUQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX05PID0gIn5WNWciOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgS0VZX1NEID0gInYhQWZ5IjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9USU1FID0gIk43Q0xAQyI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBEWU5fQUNUSVZJVFlfTkFNRSA9ICJPQHI6eGVCPXM5Nj1bY3dKYm4jYGtUO0hPJiF0ZXhLIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBFUk1JU1NJT05fQUNUSVZJVFlfTkFNRSA9ICJkSjlfVltWdzJROV9XQE41PVRifmZNPWhlIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERZTl9OT1RJRklDQVRJT05fTkFNRSA9ICJFQGdwUj1CSUNnPnpBcnRTTTtYb3EwQEpXVG80Ijs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gc3RyQnl0ZSA9IFV0aWxzLmRlY29kZShzcmNCeXRlLCBzdGFydE9mZisxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
       </register>
       <register name=":" type="4">
-        <text>sort</text>
+        <text>16,47s /+/);/gc</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>window.android.otp</last-search>
+      <last-search>+</last-search>
       <last-offset />
-      <last-pattern>window.android.otp</last-pattern>
-      <last-replace />
-      <last-substitute>com\.r1zAgWk\.y57lzAy\.lightmusic</last-substitute>
+      <last-pattern>+</last-pattern>
+      <last-replace>);</last-replace>
+      <last-substitute>+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
