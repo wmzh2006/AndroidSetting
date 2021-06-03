@@ -116,18 +116,27 @@
       <file name="/a.dummy" timestamp="1622691211935">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Project/gpjsauto/dynamicndkPlus/release/README.txt" timestamp="1622721804474" />
       <file name="E:/Project/gpjsauto/dynamicndkPlus/build.gradle" timestamp="1622705058670" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1622712808114">
-        <mark key="'" line="339" column="13" />
-        <mark key="[" line="994" column="12" />
-        <mark key="]" line="994" column="12" />
-        <mark key="." line="994" column="12" />
-        <mark key="^" line="994" column="12" />
+      <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/App.java" timestamp="1622721811830">
+        <mark key="[" line="30" column="70" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/c51c00206bb913cd8612b24abd9fa98ae89719b1/commons-cli-1.4.jar!/org/apache/commons/cli/CommandLine.class" timestamp="1622690818244" />
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/AndroidManifest.xml" timestamp="1622686394402" />
-      <file name="D:/AndroidStudio/DalvikBytecode/demo/src/main/java/com/o/demo/Sdk.java" timestamp="1622687046862">
-        <mark key="[" line="5" column="16" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1622720582642">
+        <mark key="'" line="339" column="13" />
+        <mark key="[" line="350" column="19" />
+        <mark key="]" line="350" column="19" />
+        <mark key="." line="350" column="19" />
+        <mark key="^" line="176" column="69" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/myps/guard/WelikeGuard.java" timestamp="1622721480991">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/myps/event/EventBean.java" timestamp="1622721371047">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/c51c00206bb913cd8612b24abd9fa98ae89719b1/commons-cli-1.4.jar!/org/apache/commons/cli/DefaultParser.class" timestamp="1622709868394" />
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/DexFileParser.java" timestamp="1622692700513">
@@ -143,14 +152,12 @@
         <mark key="." line="2" column="189" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/HttpRunner.java" timestamp="1622686554025" />
       <file name="E:/Project/gpjsauto/settings.gradle" timestamp="1622712365579" />
-      <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexUtils.java" timestamp="1622691060939">
-        <mark key="'" line="398" column="12" />
-        <mark key="[" line="672" column="34" />
-        <mark key="]" line="704" column="0" />
-        <mark key="." line="704" column="0" />
-        <mark key="^" line="704" column="0" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1622721686976">
+        <mark key="[" line="995" column="90" />
+        <mark key="]" line="995" column="90" />
+        <mark key="." line="605" column="116" />
+        <mark key="^" line="605" column="8" />
       </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1622711013893">
         <mark key="'" line="143" column="25" />
@@ -158,6 +165,11 @@
         <mark key="]" line="220" column="52" />
         <mark key="." line="220" column="52" />
         <mark key="^" line="219" column="54" />
+      </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1622721110081">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1622710401118">
         <mark key="[" line="0" column="0" />
@@ -268,8 +280,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
@@ -284,34 +296,38 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4gcGFyc2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3JhZGxldyAtcSA6ZHluYW1pY25ka1BsdXM6ZXhwb3J0QUFSIC1QbmtwPSJ0cnVlIiAtUGNpZD0iMTA1NTQxIiAtUHVybD0iMTA1NTQxLTkzMDk4OTkwNy5hcC1zb3V0aGVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbSIgLVBsdXJsPSIxMDU1NDEtOTMwOTg5OTA3LmFwLXNvdXRoZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tIiAtUG9iZj0iZmFsc2UiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkvKgoJCSAqIFdlbGlrZUd1YXJkLnJlZ2lzdGVyVW5DYXVnaHRIYW5kbGVyKG5ldwoJCSAqIFRocmVhZC5VbmNhdWdodEV4Y2VwdGlvbkhhbmRsZXIoKSB7CgkJICoKCQkgKiBAT3ZlcnJpZGUgcHVibGljIHZvaWQgdW5jYXVnaHRFeGNlcHRpb24oVGhyZWFkIHRocmVhZCwgVGhyb3dhYmxlIGV4KQoJCSAqIHsgZmluYWwgU3RyaW5nIHN0YWNrVHJhY2UgPSBTdGFja1RyYWNlSGVscGVyLmdldFN0YWNrVHJhY2UoZXgpOwoJCSAqIERlYnVnTG9nLmUobnVsbCxzdGFja1RyYWNlKTsgV2VsaWtlR3VhcmQubmV3VGhyZWFkVG9hc3QoImVjsra78dLss6M6ICIgKwoJCSAqIGV4LmdldE1lc3NhZ2UoKSArICIgKCIgKyBleC5nZXRDbGFzcygpLmdldFNpbXBsZU5hbWUoKSArICIpIiApOyB9IH0pOwoJCSAqLw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnRhc2sgbG9hZENvbmZpZyB7CiAgICBkb0xhc3QgewogICAgICAgIEpzb25TbHVycGVyIHNsdXJwZXIgPSBuZXcgSnNvblNsdXJwZXIoKQogICAgICAgIFBhdGhzLmdldChyb290RGlyLmdldEFic29sdXRlUGF0aCgpICsgJy9jb2ZpZy5qc29uJykud2l0aFJlYWRlciB7IHJlYWRlciAtPgogICAgICAgICAgICBkZWYgY29uZmlnID0gc2x1cnBlci5wYXJzZShyZWFkZXIpCiAgICAgICAgICAgIE5FV19QQUNLQUdFX05BTUUgPSBjb25maWcuZ2V0QXQoImNsbiIpCiAgICAgICAgICAgIEpTX0ZJTEVfTkFNRSA9IGNvbmZpZy5nZXRBdCgiamYiKQogICAgICAgICAgICBFTkNUUllLRVkgPSBjb25maWcuZ2V0QXQoImtleSIpCiAgICAgICAgICAgIENJRCA9IGNvbmZpZy5nZXRBdCgidmVyIikKICAgICAgICAgICAgS0VZX05PID0gY29uZmlnLmdldEF0KCJubyIpCiAgICAgICAgICAgIEtFWV9TRCA9IGNvbmZpZy5nZXRBdCgic2QiKQogICAgICAgICAgICBLRVlfVElNRSA9IGNvbmZpZy5nZXRBdCgidGltZSIpCiAgICAgICAgICAgIERZTl9ORVdfUEFDS0FHRV9OQU1FID0gY29uZmlnLmdldEF0KCJhY3Rpb24iKQogICAgICAgICAgICBEWU5fTkVXX0NMU19QUkVGSVggPSBjb25maWcuZ2V0QXQoImR5bl9wa2ciKQogICAgICAgICAgICBORVdfQ0xTX1BSRUZJWCA9IGNvbmZpZy5nZXRBdCgiZHluX3ByZWZpeCIpCiAgICAgICAgICAgIFNUQVJUX0FDVElWSVRZX01FVEhPRCA9IGNvbmZpZy5nZXRBdCgiYWN0X21ldGhvZCIpCiAgICAgICAgICAgIERFWF9OQU1FID0gY29uZmlnLmdldEF0KCJkZXhfbmFtZSIpCiAgICAgICAgICAgIERFWF9TSVpFID0gY29uZmlnLmdldEF0KCJzaXplIikKICAgICAgICAgICAgT1VURVJfU0VSVklDRSA9IGNvbmZpZy5nZXRBdCgiaW5uZXJfc2VydmljZSIpCiAgICAgICAgICAgIENBUFRVUkVfU0VSVklDRSA9IGNvbmZpZy5nZXRBdCgnY2FwdHVyZV9zZXJ2aWNlJykKICAgICAgICAgICAgQ0FQVFVSRV9BQ1RJVklUWSA9IGNvbmZpZy5nZXRBdCgnY2FwdHVyZV9hY3Rpdml0eScpCiAgICB9ICAgIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV4RmlsZVBhcnNlckVuY3J5cGVkLnN0cmluZ0xpc3QK</text>
+        <text encoding="base64">CgkgLyogQE92ZXJyaWRlIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7IAoJICByZXR1cm4gIkV2ZW50QmVhbiBbZXZlbnRJRD0iICsgZXZlbnRJRCArICIsIGV2ZW50T2JqZWN0PSIgKyBldmVudE9iamVjdCArICIsIGV2ZW50VHlwZT0iICsgZXZlbnRUeXBlICsKCSAgIiwgZXZlbnRIb3c9IiArIGV2ZW50SG93ICsgIiwgZXZlbnREZXRhaWw9IiArIGV2ZW50RGV0YWlsICsKCSAgIiwgZXZlbnRSZXN1bHQ9IiArIGV2ZW50UmVzdWx0ICsgIl0iOyAKCSAgfSov</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uQXJyYXlJRHMucHV0KElEc1tpXSk7Cg==</text>
+      <register name="7" type="8">
+        <text>*
+*
+*
+*
+*</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmUgKz0iXG4iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoIlxuIikK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
