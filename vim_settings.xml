@@ -163,11 +163,14 @@
         <mark key="^" line="38" column="24" />
         <mark key="." line="38" column="23" />
       </file>
+      <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" timestamp="1623304178481">
+        <mark key="'" line="30" column="22" />
+        <mark key="[" line="157" column="49" />
+        <mark key="]" line="157" column="49" />
+        <mark key="." line="157" column="49" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/util/WebViewUtil.java" timestamp="1623068484946" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1623231686334" />
-      <file name="D:/AndroidStudio/DalvikBytecode/array.json" timestamp="1623047537003">
-        <mark key="'" line="0" column="97931" />
-      </file>
       <file name="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" timestamp="1623047712527">
         <mark key="'" line="104" column="49" />
         <mark key="[" line="280" column="60" />
@@ -184,11 +187,6 @@
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/Common.h" timestamp="1623132227289" />
     </filemarks>
     <jumps>
-      <jump line="738" column="41" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="987" column="16" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="988" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="704" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="225" column="25" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="218" column="9" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="212" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="379" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -284,21 +282,26 @@
       <jump line="998" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="173" column="4" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="176" column="88" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
+      <jump line="121" column="125" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
+      <jump line="147" column="53" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
+      <jump line="152" column="47" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
+      <jump line="212" column="95" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
+      <jump line="30" column="22" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCVUlMRF9OREtfUExVU1w+</text>
+        <text encoding="base64">XDxtQ29ubmVjdFRpbWVvdXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKEJVSUxEX05ES19QTFVTKQo=</text>
@@ -343,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxCVUlMRF9OREtfUExVU1w+</last-search>
+      <last-search encoding="base64">XDxtQ29ubmVjdFRpbWVvdXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCVUlMRF9OREtfUExVU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxtQ29ubmVjdFRpbWVvdXRcPg==</last-pattern>
       <last-replace>);</last-replace>
       <last-substitute>+</last-substitute>
       <last-dir>1</last-dir>
