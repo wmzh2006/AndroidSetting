@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN0b3JlU3Ryc1w+</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZUhlYWRlckZpbGVcPg==</entry>
-        <entry encoding="base64">XDxyYW5kb21TdHJpbmdcPg==</entry>
         <entry encoding="base64">ITJGck8+S0pDTjZNJmpyQQ==</entry>
         <entry encoding="base64">XDxwbGFpblRleHRcPg==</entry>
         <entry encoding="base64">XDxpZHNcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxtZXJnZTJqYXZhXD4=</entry>
         <entry encoding="base64">XDxCVUlMRF9OREtfUExVU1w+</entry>
         <entry encoding="base64">XDxtQ29ubmVjdFRpbWVvdXRcPg==</entry>
+        <entry>cover</entry>
+        <entry>Coverter</entry>
+        <entry>Covertor</entry>
       </history-search>
       <history-cmd>
         <entry>%s/break//gc</entry>
@@ -129,8 +129,8 @@
       <file name="E:/Project/gpjsauto/demo/src/main/java/com/honor/claim/testwifi/App.java" timestamp="1623049694015">
         <mark key="[" line="30" column="70" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1623049335633">
-        <mark key="'" line="176" column="88" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1623746381583">
+        <mark key="'" line="585" column="51" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/proguard.cfg" timestamp="1623287450881" />
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_jsauto/src/com/proxy/SocketProxy.java" timestamp="1623304890479">
@@ -186,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="9" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="212" column="13" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="379" column="5" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="334" column="29" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -286,6 +285,7 @@
       <jump line="152" column="47" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
       <jump line="212" column="95" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
       <jump line="30" column="22" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
+      <jump line="585" column="51" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,7 +300,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ29ubmVjdFRpbWVvdXRcPg==</text>
+        <text>Covertor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKEJVSUxEX05ES19QTFVTKQo=</text>
@@ -345,9 +345,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtQ29ubmVjdFRpbWVvdXRcPg==</last-search>
+      <last-search>Covertor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ29ubmVjdFRpbWVvdXRcPg==</last-pattern>
+      <last-pattern>Covertor</last-pattern>
       <last-replace>);</last-replace>
       <last-substitute>+</last-substitute>
       <last-dir>1</last-dir>
