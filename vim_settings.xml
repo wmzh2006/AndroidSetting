@@ -113,13 +113,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1623895592356">
+        <mark key="[" line="204" column="38" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/CMakeLists.txt" timestamp="1623132184759">
         <mark key="[" line="82" column="50" />
         <mark key="]" line="76" column="9" />
         <mark key="^" line="76" column="9" />
         <mark key="." line="76" column="8" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/CMakeLists.txt" timestamp="1623132149948" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1623749719948">
         <mark key="[" line="244" column="91" />
         <mark key="]" line="244" column="92" />
@@ -140,13 +142,17 @@
         <mark key="^" line="30" column="53" />
       </file>
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/f/c0.java" timestamp="1623833022492" />
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1623895785541">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="81" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/native-lib.c" timestamp="1623132573126">
         <mark key="[" line="75" column="8" />
         <mark key="]" line="15" column="22" />
         <mark key="^" line="17" column="4" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/JniUntils.c" timestamp="1623119052372" />
       <file name="E:/Project/gpjsauto/demo/build.gradle" timestamp="1623749615225" />
       <file name="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" timestamp="1623304178481">
         <mark key="'" line="30" column="22" />
@@ -160,6 +166,7 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="56" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/iwfn/sainw/InitStart.java" timestamp="1623895585219" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/JSAutoOffer.java" timestamp="1623231686334" />
       <file name="E:/Project/gpjsauto/demo/src/test/java/com/honor/claim/testwifi/ExampleUnitTest.java" timestamp="1623751710908">
         <mark key="[" line="538" column="45" />
@@ -175,7 +182,7 @@
         <mark key="." line="80" column="21" />
         <mark key="^" line="80" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1623748910595">
+      <file name="/fragment.java" timestamp="1623895541116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1623751283600">
@@ -288,7 +295,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
@@ -300,7 +307,7 @@
         <text>\\d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY3AgPSBuZXcgU3RyaW5nKEJhc2U2NC5nZXREZWNvZGVyKCkuZGVjb2RlKCJLRDg4SVZ4Y1pDa29YRnhrZXpRc05uMHBLRDhoWEZ4a0tRPT0iKSk7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmKCkK</text>
