@@ -116,6 +116,12 @@
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1623895592356">
         <mark key="[" line="204" column="38" />
       </file>
+      <file name="E:/Project/DynamicLoader/tsdk/proguard-dictionary.txt" timestamp="1623902203003">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1623749719948">
         <mark key="[" line="244" column="91" />
         <mark key="]" line="244" column="92" />
@@ -173,7 +179,6 @@
         <mark key="^" line="538" column="54" />
         <mark key="." line="538" column="53" />
       </file>
-      <file name="E:/Project/gpjsauto/dynamicndkPlus/src/main/cpp/dex/Common.h" timestamp="1623132227289" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/ids.json" timestamp="1623748876568" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/Covertor.py" timestamp="1623751905323">
         <mark key="[" line="80" column="26" />
@@ -299,6 +304,15 @@
       <register name="+" type="2">
         <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
       </register>
+      <register name="l" type="4">
+        <keys>
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
@@ -310,6 +324,21 @@
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmKCkK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KHNyYyk7Cg==</text>
