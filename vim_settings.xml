@@ -113,11 +113,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1623910529900">
+      <file name="/Dummy.txt" timestamp="1623923291973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1623908933863">
         <mark key="[" line="204" column="38" />
+      </file>
+      <file name="$USER_HOME$/.AndroidStudio3.5/config/studio64.exe.vmoptions" timestamp="1623923391126">
+        <mark key="[" line="2" column="30" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1623915270019">
         <mark key="'" line="215" column="17" />
@@ -131,11 +134,11 @@
         <mark key="." line="12" column="55" />
         <mark key="^" line="12" column="56" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/iwfn/sainw/InitStart.java" timestamp="1623908931716">
-        <mark key="[" line="31" column="76" />
-        <mark key="]" line="31" column="72" />
-        <mark key="^" line="31" column="72" />
-        <mark key="." line="31" column="71" />
+      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/iwfn/sainw/InitStart.java" timestamp="1623922489123">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="34" column="69" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" timestamp="1623749604249">
         <mark key="'" line="589" column="51" />
@@ -279,7 +282,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
@@ -294,7 +297,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZVw+</text>
@@ -303,7 +306,7 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,31 +324,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMuZW5jb2RpbmcgPSAiVVRGLTgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidW5kbGUudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMuZW5jb2RpbmcgPSAiVVRGLTgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNyYyk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoY3ApOwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNyYyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJ1bldpdGgoSikK</text>
+        <text encoding="base64">ICAgICAgICBQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUoY3ApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJ1bldpdGgoSikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
