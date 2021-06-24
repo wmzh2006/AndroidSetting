@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaXplXD4=</entry>
         <entry encoding="base64">XDxfXzEwNjhcPg==</entry>
         <entry encoding="base64">XDxpZHNWYXJpYmxlXD4=</entry>
         <entry encoding="base64">XDxwbGFpblZhcmlibGVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>\\d</entry>
         <entry encoding="base64">XDxjb250ZW50VGl0bGVcPg==</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
+        <entry>antiClickjack</entry>
       </history-search>
       <history-cmd>
         <entry>%s/break//gc</entry>
@@ -122,6 +122,7 @@
       <file name="$USER_HOME$/.AndroidStudio3.5/config/studio64.exe.vmoptions" timestamp="1623923391126">
         <mark key="[" line="2" column="30" />
       </file>
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/web/WebviewInterceptRequest.java" timestamp="1624504369311" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1623915270019">
         <mark key="'" line="215" column="17" />
         <mark key="[" line="191" column="0" />
@@ -173,8 +174,8 @@
       <file name="/fragment.java" timestamp="1623895541116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1623751283600">
-        <mark key="'" line="0" column="9247" />
+      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1624504392405">
+        <mark key="'" line="0" column="1458" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/wv/auto/fuction/WebviewAutoProcess.java" timestamp="1624441213087" />
     </filemarks>
@@ -273,12 +274,12 @@
       <jump line="212" column="95" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
       <jump line="30" column="22" filename="E:/Project/roothelp/ROOTSDK_Plugin/ROOTSDK_Plugin_onlyjsauto/src/com/proxy/SocketProxy.java" />
       <jump line="585" column="51" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="0" column="9247" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" />
       <jump line="202" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="192" column="27" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="193" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="194" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="215" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
+      <jump line="0" column="1458" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,7 +303,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yZVw+</text>
+        <text>antiClickjack</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
@@ -362,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdG9yZVw+</last-search>
+      <last-search>antiClickjack</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yZVw+</last-pattern>
+      <last-pattern>antiClickjack</last-pattern>
       <last-replace>);</last-replace>
       <last-substitute>+</last-substitute>
       <last-dir>1</last-dir>
