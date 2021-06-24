@@ -153,6 +153,12 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="51" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1624527411424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/AppData/Local/Temp/pro_sdk-20210617187441934951829043229.jar!/META-INF/MANIFEST.MF" timestamp="1623924109700" />
       <file name="E:/Project/gpjsauto/demo/src/test/java/com/honor/claim/testwifi/ExampleUnitTest.java" timestamp="1623751710908">
         <mark key="[" line="538" column="45" />
@@ -285,7 +291,18 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">5LiNCg==</text>
+        <text>class Scratch {
+    public static void main(String[] args) {
+        MTA2MDUz
+    }
+}</text>
+      </register>
+      <register name="c" type="2">
+        <text>class Scratch {
+    public static void main(String[] args) {
+        MTA2MDUz
+    }
+}</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">c3RyaW5nX2lkWzIwNDBdOiB2ViZdXXdxVlpIVHBDb3Q9QGNnWkF4fnp3Qm0jJW92bzpMMVtEOSYhUnRBTT5ZbWNfM1ppVjM2cFFqU0Q+dFRmazwK</text>
@@ -309,7 +326,11 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5LiNCg==</text>
+        <text>class Scratch {
+    public static void main(String[] args) {
+        MTA2MDUz
+    }
+}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -330,28 +351,28 @@
         <text encoding="base64">5LiNCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5biCCg==</text>
+        <text encoding="base64">5LiNCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5rGXCg==</text>
+        <text encoding="base64">5biCCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5pyoCg==</text>
+        <text encoding="base64">5rGXCg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5biWCg==</text>
+        <text encoding="base64">5pyoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5byACg==</text>
+        <text encoding="base64">5biWCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5Y2DCuS4jQrluIIK5rGXCuacqArluJYK5byACg==</text>
+        <text encoding="base64">5byACg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5oiOCuiijQrlvZMK5L2GCuW4ggrpu4QK6ZWcCumXuwrmiJEK6Z6NCuWxsQrop4EK5oS/CuaYjgrkuowK5b+GCuWPrwrkuI0K6IOhCuWFhArnn6UK5omACuWFhArpnI0K5bqKCuiEmgrlo7AK5p2lCuacugrkvYYK5rCUCueItwrmmKgK6KOzCuWkqQrlvZMK5LiNCumTgQrmiJEK6Zi/CuiKsQrovawK5pydCui1tArmnJQK5LqMCuWtkArlpKkK5LicCuadpQrpqawK5aSpCueQhgrmiJEK55y8CuaJgArkuqYK5ZW+CumXrgrljZcK5YWJCuWVvgrohJoK5omACuaJgArpnq0K5pemCumqkQo=</text>
+        <text encoding="base64">5Y2DCuS4jQrluIIK5rGXCuacqArluJYK5byACg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
