@@ -120,12 +120,6 @@
         <mark key="^" line="201" column="38" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/iwfn/sainw/InitStart.txt" timestamp="1624948253439" />
-      <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" timestamp="1623915270019">
-        <mark key="'" line="215" column="17" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-      </file>
       <file name="E:/Project/DynamicLoader/tsdk/release/2021062914/readme.txt" timestamp="1624948762662">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="41" />
@@ -160,12 +154,18 @@
         <mark key="^" line="34" column="69" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" timestamp="1624951770998">
+        <mark key="'" line="24" column="34" />
+        <mark key="[" line="30" column="99" />
+        <mark key="]" line="30" column="98" />
+        <mark key="^" line="30" column="98" />
+        <mark key="." line="30" column="97" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1624516630390">
         <mark key="'" line="0" column="1458" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="684" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="710" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="720" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="890" column="25" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -265,12 +265,13 @@
       <jump line="194" column="24" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="215" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="0" column="1458" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" />
+      <jump line="16" column="34" filename="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>106047</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text>class Scratch {
@@ -292,7 +293,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>106047</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>antiClickjack</text>
@@ -301,7 +302,7 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZUZvcm1hdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -319,35 +320,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text>class Scratch {
-    public static void main(String[] args) {
-        MTA2MDUz
-    }
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2NC50b1N0cmluZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5LiNCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5LiNCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdjBfMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5biCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyB2MF8xOwo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5rGXCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF80MjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5pyoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfMjU6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5biWCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ290byBsYWJlbF80MjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5byACg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdjA7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -363,7 +360,7 @@
       <last-offset />
       <last-pattern>antiClickjack</last-pattern>
       <last-replace>);</last-replace>
-      <last-substitute>+</last-substitute>
+      <last-substitute>antiClickjack</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
