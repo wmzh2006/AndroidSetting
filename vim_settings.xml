@@ -154,12 +154,12 @@
         <mark key="^" line="34" column="69" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" timestamp="1624954676628">
-        <mark key="'" line="24" column="34" />
-        <mark key="[" line="30" column="99" />
-        <mark key="]" line="30" column="98" />
-        <mark key="^" line="30" column="98" />
-        <mark key="." line="30" column="97" />
+      <file name="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" timestamp="1625033883686">
+        <mark key="'" line="46" column="34" />
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1624516630390">
         <mark key="'" line="0" column="1458" />
@@ -270,8 +270,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String appname</text>
       </register>
       <register name="c" type="2">
         <text>class Scratch {
@@ -293,7 +293,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>String appname</text>
       </register>
       <register name="/" type="4">
         <text>antiClickjack</text>
@@ -301,8 +301,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">U3RyaW5nIGFwcG5hbWUpIHsKICAgICAgICBTdHJpbmcgZmlsZXRlcmFwcCA9IGdldFByb3AoImZha2UuYXBwcyIsIEJ1aWxkQ29uZmlnLkZMQVZPUik7CiAgICAgICAgaWYgKGZpbGV0ZXJhcHAubGVuZ3RoKCkgPiA3KSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIGFwcCA6IGZpbGV0ZXJhcHAuc3BsaXQoIiwiKSkgewogICAgICAgICAgICAgICAgTG9nLmUoIlRhZyIsIGFwcCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -320,31 +320,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2NC50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>if (app.startsWith(appname)) {
+                    
+                    return true;
+                }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdjBfMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyB2MF8xOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2NC50b1N0cmluZygpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF80MjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfMjU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdjBfMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ290byBsYWJlbF80MjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyB2MF8xOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdjA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF80MjoK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
