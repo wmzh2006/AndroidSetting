@@ -113,40 +113,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1625046432121">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/proguard-rules.pro" timestamp="1624948749194">
         <mark key="[" line="201" column="12" />
         <mark key="]" line="201" column="12" />
         <mark key="." line="201" column="12" />
         <mark key="^" line="201" column="38" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/iwfn/sainw/InitStart.txt" timestamp="1624948253439" />
-      <file name="E:/Project/DynamicLoader/tsdk/release/2021062914/readme.txt" timestamp="1624948762662">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1624947992651">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="9" />
-      </file>
-      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1623924189472">
-        <mark key="[" line="131" column="75" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1623928594627">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/AndroidManifest.xml" timestamp="1625046357171">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/.AndroidStudio3.5/config/studio64.exe.vmoptions" timestamp="1623923391126">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/xeec/rfhp/youik/Start.java" timestamp="1624948375989" />
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" timestamp="1624614759155">
         <mark key="[" line="180" column="0" />
         <mark key="]" line="180" column="0" />
         <mark key="." line="180" column="0" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/release/2021062914/readme.txt" timestamp="1624948762662">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
       </file>
       <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/iwfn/sainw/InitStart.java" timestamp="1623922489123">
         <mark key="[" line="37" column="0" />
@@ -160,6 +152,17 @@
         <mark key="]" line="22" column="24" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="25" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1624947992651">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1623924189472">
+        <mark key="[" line="131" column="75" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1624516630390">
         <mark key="'" line="0" column="1458" />
@@ -270,8 +273,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlzQ3VzdG9tUm9tKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBwbGF0Zm9ybUJ1aWxkVmVyc2lvbk5hbWU9Ijki</text>
       </register>
       <register name="c" type="2">
         <text>class Scratch {
@@ -301,8 +304,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlzQ3VzdG9tUm9tKCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwbGF0Zm9ybUJ1aWxkVmVyc2lvbk5hbWU9Ijki</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -319,35 +322,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">U3RyaW5nIGFwcG5hbWUpIHsKICAgICAgICBTdHJpbmcgZmlsZXRlcmFwcCA9IGdldFByb3AoImZha2UuYXBwcyIsIEJ1aWxkQ29uZmlnLkZMQVZPUik7CiAgICAgICAgaWYgKGZpbGV0ZXJhcHAubGVuZ3RoKCkgPiA3KSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIGFwcCA6IGZpbGV0ZXJhcHAuc3BsaXQoIiwiKSkgewogICAgICAgICAgICAgICAgTG9nLmUoIlRhZyIsIGFwcCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uTmFtZT0iOSI+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGlzQ3VzdG9tUm9tKCk7Cg==</text>
+      </register>
+      <register name="u" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">U3RyaW5nIGFwcG5hbWUpIHsKICAgICAgICBTdHJpbmcgZmlsZXRlcmFwcCA9IGdldFByb3AoImZha2UuYXBwcyIsIEJ1aWxkQ29uZmlnLkZMQVZPUik7CiAgICAgICAgaWYgKGZpbGV0ZXJhcHAubGVuZ3RoKCkgPiA3KSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIGFwcCA6IGZpbGV0ZXJhcHAuc3BsaXQoIiwiKSkgewogICAgICAgICAgICAgICAgTG9nLmUoIlRhZyIsIGFwcCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>if (app.startsWith(appname)) {
                     
                     return true;
                 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="u" type="4">
-        <text>)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2NC50b1N0cmluZygpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdjBfMTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyB2MF8xOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
