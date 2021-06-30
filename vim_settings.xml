@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfXzEwNjhcPg==</entry>
         <entry encoding="base64">XDxpZHNWYXJpYmxlXD4=</entry>
         <entry encoding="base64">XDxwbGFpblZhcmlibGVcPg==</entry>
         <entry encoding="base64">XDxwbGFpbnNcPg==</entry>
@@ -25,9 +24,9 @@
         <entry encoding="base64">XDxjb250ZW50VGl0bGVcPg==</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry>antiClickjack</entry>
+        <entry>new Class\[\]\{</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/break//gc</entry>
         <entry encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</entry>
         <entry>%s /icon/ic_launcher/gc</entry>
         <entry>%s /!!//gc</entry>
@@ -47,6 +46,7 @@
         <entry>16,47s /\\+/);/g</entry>
         <entry>16,47s /H/b/gc</entry>
         <entry>16,47s /+/);/gc</entry>
+        <entry>%s /new Class\[\]\{//gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,13 +122,20 @@
         <mark key="." line="201" column="12" />
         <mark key="^" line="201" column="38" />
       </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/modules/Baidu.java" timestamp="1625047840048">
+        <mark key="[" line="29" column="143" />
+        <mark key="]" line="29" column="143" />
+        <mark key="." line="29" column="143" />
+      </file>
       <file name="D:/AndroidStudioProjects/wa/app/src/main/AndroidManifest.xml" timestamp="1625046357171">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/.AndroidStudio3.5/config/studio64.exe.vmoptions" timestamp="1623923391126">
-        <mark key="[" line="2" column="30" />
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/modules/dy.java" timestamp="1625047898993">
+        <mark key="[" line="113" column="9" />
+        <mark key="]" line="113" column="9" />
+        <mark key="." line="113" column="9" />
       </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/shot/Screenshot.java" timestamp="1624614759155">
         <mark key="[" line="180" column="0" />
@@ -140,11 +147,11 @@
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
-      <file name="E:/Project/DynamicLoader/tsdk/src/main/java/com/iwfn/sainw/InitStart.java" timestamp="1623922489123">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="34" column="69" />
-        <mark key="." line="37" column="0" />
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Location.java" timestamp="1625047305101">
+        <mark key="[" line="77" column="81" />
+        <mark key="]" line="77" column="81" />
+        <mark key="." line="77" column="81" />
+        <mark key="^" line="210" column="41" />
       </file>
       <file name="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" timestamp="1625034563686">
         <mark key="'" line="46" column="34" />
@@ -159,13 +166,34 @@
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="9" />
       </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/HKDownload/bypsvodl.java" timestamp="1625047813880">
+        <mark key="[" line="112" column="9" />
+        <mark key="]" line="112" column="9" />
+        <mark key="." line="112" column="9" />
+      </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/HKDownload/bypshwdl.java" timestamp="1625047540137">
+        <mark key="[" line="327" column="16" />
+        <mark key="]" line="327" column="16" />
+        <mark key="." line="327" column="16" />
+      </file>
       <file name="E:/Project/DynamicLoader/tsdk/build.gradle" timestamp="1623924189472">
         <mark key="[" line="131" column="75" />
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/HKDownload/bypsopdl.java" timestamp="1625047774865">
+        <mark key="[" line="94" column="36" />
+        <mark key="]" line="94" column="36" />
+        <mark key="." line="94" column="36" />
+        <mark key="^" line="94" column="60" />
+      </file>
       <file name="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" timestamp="1624516630390">
         <mark key="'" line="0" column="1458" />
+      </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Cpuinfo.java" timestamp="1625047464855">
+        <mark key="[" line="166" column="13" />
+        <mark key="]" line="166" column="13" />
+        <mark key="." line="166" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -274,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwbGF0Zm9ybUJ1aWxkVmVyc2lvbk5hbWU9Ijki</text>
+        <text>}</text>
       </register>
       <register name="c" type="2">
         <text>class Scratch {
@@ -296,16 +324,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String appname</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>antiClickjack</text>
+        <text>new Class\[\]\{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwbGF0Zm9ybUJ1aWxkVmVyc2lvbk5hbWU9Ijki</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDE0IHI3ID0gcjA7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -323,34 +351,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDE0IHI3ID0gcjA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uTmFtZT0iOSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUgPSBlMjsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlzQ3VzdG9tUm9tKCk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlID0gZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U3RyaW5nIGFwcG5hbWUpIHsKICAgICAgICBTdHJpbmcgZmlsZXRlcmFwcCA9IGdldFByb3AoImZha2UuYXBwcyIsIEJ1aWxkQ29uZmlnLkZMQVZPUik7CiAgICAgICAgaWYgKGZpbGV0ZXJhcHAubGVuZ3RoKCkgPiA3KSB7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIGFwcCA6IGZpbGV0ZXJhcHAuc3BsaXQoIiwiKSkgewogICAgICAgICAgICAgICAgTG9nLmUoIlRhZyIsIGFwcCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtLnNldEFjY2Vzc2libGUodHJ1ZSk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>if (app.startsWith(appname)) {
-                    
-                    return true;
-                }</text>
+        <text encoding="base64">CiAgICBwbGF0Zm9ybUJ1aWxkVmVyc2lvbk5hbWU9Ijki</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtQnVpbGRWZXJzaW9uQ29kZT0iMjgiCg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -362,11 +387,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>antiClickjack</last-search>
+      <last-search>new Class\[\]\{</last-search>
       <last-offset />
-      <last-pattern>antiClickjack</last-pattern>
+      <last-pattern>new Class\[\]\{</last-pattern>
       <last-replace>);</last-replace>
-      <last-substitute>antiClickjack</last-substitute>
+      <last-substitute>new Class\[\]\{</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
