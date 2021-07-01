@@ -113,6 +113,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Tutorial.java" timestamp="1625103558106">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/RootUtil.java" timestamp="1625103588791">
+        <mark key="[" line="56" column="51" />
+        <mark key="]" line="56" column="53" />
+        <mark key="." line="56" column="52" />
+        <mark key="^" line="56" column="53" />
+      </file>
       <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/MainActivity.java" timestamp="1625058705312">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -123,15 +134,10 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/modules/Oppo.java" timestamp="1625057289287">
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="16" />
-        <mark key="." line="39" column="16" />
-      </file>
-      <file name="D:/AndroidStudioProjects/wa/app/build.gradle" timestamp="1625058423280">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/AndroidStudioProjects/wa/app/build.gradle" timestamp="1625103775399">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/RootCloak.java" timestamp="1625058024800">
         <mark key="^" line="737" column="30" />
@@ -148,6 +154,12 @@
         <mark key="[" line="46" column="16" />
         <mark key="]" line="46" column="16" />
         <mark key="." line="46" column="16" />
+      </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Mainhook.java" timestamp="1625103606150">
+        <mark key="[" line="44" column="58" />
+        <mark key="]" line="44" column="57" />
+        <mark key="^" line="44" column="57" />
+        <mark key="." line="44" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -255,8 +267,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>su</text>
       </register>
       <register name="c" type="2">
         <text>class Scratch {
@@ -278,7 +290,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>catch (Throwable th) {</text>
+        <text>su</text>
       </register>
       <register name="/" type="4">
         <text>new Class\[\]\{</text>
@@ -287,7 +299,7 @@
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVzKCdsaWJzL1NTUC1TREstWlYtQ09NTS1WMy4wLjQ2LVdHLUYtSkstMjAyMDA5MDgxNDI1LmphcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -305,31 +317,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuY2FsbGJhY2tzLlhDX0xvYWRQYWNrYWdlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdGg7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWHBvc2VkSGVscGVyczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWHBvc2VkQnJpZGdlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDE0IHI3ID0gcjA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWENfTWV0aG9kSG9vazsK</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDE0IHI3ID0gcjA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuSVhwb3NlZEhvb2tMb2FkUGFja2FnZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUgPSBlMjsK</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlID0gZTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgdGg7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
