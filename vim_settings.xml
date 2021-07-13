@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZHNWYXJpYmxlXD4=</entry>
         <entry encoding="base64">XDxwbGFpblZhcmlibGVcPg==</entry>
         <entry encoding="base64">XDxwbGFpbnNcPg==</entry>
         <entry encoding="base64">XDxwbGFpblNpemVcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry>antiClickjack</entry>
         <entry>new Class\[\]\{</entry>
+        <entry>proxy not set</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</entry>
@@ -113,7 +113,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1626165235719">
+      <file name="/Dummy.txt" timestamp="1626167403843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Utils/FileValidateUtil.java" timestamp="1625058272223">
@@ -168,6 +168,7 @@
         <mark key="." line="58" column="0" />
       </file>
       <file name="D:/StudioProjects/AndroidProxySetter/build.gradle" timestamp="1626166005668" />
+      <file name="D:/StudioProjects/AndroidProxySetter/app/src/main/java/tk/elevenk/proxysetter/ProxyChangeExecutor.java" timestamp="1626167448346" />
       <file name="D:/AndroidStudioProjects/wa/app/build.gradle" timestamp="1625103775399">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="36" column="0" />
@@ -305,7 +306,7 @@
         <text>.aar</text>
       </register>
       <register name="/" type="4">
-        <text>new Class\[\]\{</text>
+        <text>proxy not set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2hlbGwuU1UucnVuKCJjaG1vZCA3NzcgL2RhdGEvZGF0YS9jb20ud2hhdHNhcHAvZGF0YWJhc2VzIik7Cg==</text>
@@ -365,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>new Class\[\]\{</last-search>
+      <last-search>proxy not set</last-search>
       <last-offset />
-      <last-pattern>new Class\[\]\{</last-pattern>
+      <last-pattern>proxy not set</last-pattern>
       <last-replace>);</last-replace>
       <last-substitute>new Class\[\]\{</last-substitute>
       <last-dir>1</last-dir>
