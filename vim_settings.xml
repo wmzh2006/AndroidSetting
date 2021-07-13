@@ -121,10 +121,10 @@
         <mark key="]" line="56" column="17" />
         <mark key="." line="56" column="17" />
       </file>
-      <file name="D:/StudioProjects/AndroidProxySetter/app/build.gradle" timestamp="1626165596798">
-        <mark key="[" line="49" column="52" />
-        <mark key="]" line="49" column="52" />
-        <mark key="." line="49" column="52" />
+      <file name="D:/StudioProjects/AndroidProxySetter/app/build.gradle" timestamp="1626166086074">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="1" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/RootUtil.java" timestamp="1625103588791">
         <mark key="[" line="56" column="51" />
@@ -132,7 +132,7 @@
         <mark key="." line="56" column="52" />
         <mark key="^" line="56" column="53" />
       </file>
-      <file name="D:/StudioProjects/Whatsapp-API/build.gradle" timestamp="1626081564141">
+      <file name="D:/StudioProjects/Whatsapp-API/build.gradle" timestamp="1626166048753">
         <mark key="[" line="18" column="0" />
       </file>
       <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Tutorial.java" timestamp="1625103558106">
@@ -155,6 +155,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/StudioProjects/AndroidProxySetter/gradle/wrapper/gradle-wrapper.properties" timestamp="1626166058429" />
       <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Mainhook.java" timestamp="1625103606150">
         <mark key="[" line="44" column="58" />
         <mark key="]" line="44" column="57" />
@@ -166,6 +167,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="D:/StudioProjects/AndroidProxySetter/build.gradle" timestamp="1626166005668" />
       <file name="D:/AndroidStudioProjects/wa/app/build.gradle" timestamp="1625103775399">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="36" column="0" />
@@ -277,8 +279,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.aar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="c" type="2">
         <text>class Scratch {
@@ -309,7 +311,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU2hlbGwuU1UucnVuKCJjaG1vZCA3NzcgL2RhdGEvZGF0YS9jb20ud2hhdHNhcHAvZGF0YWJhc2VzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -327,31 +329,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGpjZW50ZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2hlbGwuU1UK</text>
+        <text encoding="base64">ICAgIGpjZW50ZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFrZU5ld1RocmVhZFdvcmsoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2hlbGwuU1UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFrZU5ld1RocmVhZFdvcmsoZmFsc2UpOwo=</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuY2FsbGJhY2tzLlhDX0xvYWRQYWNrYWdlOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWHBvc2VkSGVscGVyczsK</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuY2FsbGJhY2tzLlhDX0xvYWRQYWNrYWdlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWHBvc2VkQnJpZGdlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWHBvc2VkSGVscGVyczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWENfTWV0aG9kSG9vazsK</text>
+        <text encoding="base64">aW1wb3J0IGRlLnJvYnYuYW5kcm9pZC54cG9zZWQuWHBvc2VkQnJpZGdlOwo=</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
