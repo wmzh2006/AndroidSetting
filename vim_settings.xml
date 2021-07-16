@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbGFpblZhcmlibGVcPg==</entry>
-        <entry encoding="base64">XDxwbGFpbnNcPg==</entry>
         <entry encoding="base64">XDxwbGFpblNpemVcPg==</entry>
         <entry encoding="base64">PT4=</entry>
         <entry>ex=</entry>
@@ -25,6 +23,8 @@
         <entry>antiClickjack</entry>
         <entry>new Class\[\]\{</entry>
         <entry>proxy not set</entry>
+        <entry encoding="base64">XDxpc1JlZ2lzdGVyXD4=</entry>
+        <entry encoding="base64">XDxzYXZlS2V5UGFpclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMnPCwnPi8gPT0gdHJ1ZS9nYw==</entry>
@@ -135,11 +135,12 @@
       <file name="D:/StudioProjects/Whatsapp-API/build.gradle" timestamp="1626166048753">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Tutorial.java" timestamp="1626354819678">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="265" column="69" />
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Tutorial.java" timestamp="1626399356427">
+        <mark key="'" line="202" column="28" />
+        <mark key="[" line="202" column="64" />
+        <mark key="]" line="202" column="64" />
+        <mark key="." line="202" column="64" />
+        <mark key="^" line="193" column="42" />
       </file>
       <file name="D:/StudioProjects/Whatsapp-API/whatsappapilibrary/src/main/java/com/mega4tech/whatsappapilibrary/WhatsappApi.java" timestamp="1626146981695">
         <mark key="[" line="64" column="0" />
@@ -176,11 +177,13 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="3" column="24" />
       </file>
+      <file name="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/RootCloak.java" timestamp="1626399429605">
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="336" column="0" />
+        <mark key="." line="336" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="710" column="35" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="720" column="32" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
-      <jump line="890" column="25" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="896" column="23" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
       <jump line="216" column="24" filename="D:/AndroidStudio/DalvikBytecode/java_dex_parser/src/main/java/com/wjdiankong/parsedex/ParseDexMain.java" />
       <jump line="347" column="19" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/build.gradle" />
@@ -278,12 +281,15 @@
       <jump line="215" column="17" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/src/main/java/com/init/env/Main.java" />
       <jump line="0" column="1458" filename="E:/Project/gpjsauto/rOOTSDK_Plugin_onlyjsauto/array.json" />
       <jump line="16" column="34" filename="E:/Project/DynamicLoader/demo2/src/main/java/com/o/demo2/MainActivity.java" />
+      <jump line="238" column="11" filename="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Tutorial.java" />
+      <jump line="229" column="17" filename="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Tutorial.java" />
+      <jump line="200" column="28" filename="D:/AndroidStudioProjects/wa/app/src/main/java/com/hs/dposed/Hook/Tutorial.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuUSkK</text>
       </register>
       <register name="c" type="2">
         <text>class Scratch {
@@ -305,16 +311,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>proxy not set</text>
+        <text encoding="base64">XDxzYXZlS2V5UGFpclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBYcG9zZWRCcmlkZ2UubG9nKCJvdHlwZTogIiArIHR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFJlcXVpcmVzQXBpKGFwaSA9IEJ1aWxkLlZFUlNJT05fQ09ERVMuUSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -335,13 +341,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga3AgPSBvYmplY3Qub3B0U3RyaW5nKCJjbGllbnRfc3RhdGljX2tleXBhaXIiLCBrZXlwYWlyU3RyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IG9iamVjdCA9IG5ldyBKU09OT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga3AgPSBvYmplY3Qub3B0U3RyaW5nKCJjbGllbnRfc3RhdGljX2tleXBhaXIiLCBrZXlwYWlyU3RyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IG9iamVjdCA9IG5ldyBKU09OT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text>)</text>
@@ -350,13 +356,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5cGFpclN0ciA9IEJhc2U2NC5lbmNvZGVUb1N0cmluZyhrZXlwYWlyLCBCYXNlNjQuTk9fV1JBUCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5cGFpclN0ciA9IEJhc2U2NC5lbmNvZGVUb1N0cmluZyhrZXlwYWlyLCBCYXNlNjQuTk9fV1JBUCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS4oKTsK</text>
       </register>
       <register name="y" type="4">
         <text>the path of encode dex file</text>
@@ -368,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>proxy not set</last-search>
+      <last-search encoding="base64">XDxzYXZlS2V5UGFpclw+</last-search>
       <last-offset />
-      <last-pattern>proxy not set</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlS2V5UGFpclw+</last-pattern>
       <last-replace>);</last-replace>
       <last-substitute>new Class\[\]\{</last-substitute>
       <last-dir>1</last-dir>
